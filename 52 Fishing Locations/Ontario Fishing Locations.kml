@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Ontario Trout &amp; Steelhead Fishing Locations</name>
+    <description>Access points for trout and steelhead rivers within ~1.5h of 427 &amp; Finch, Etobicoke.</description>
+
+    <!-- Styles -->
+    <Style id="river-pin">
+      <IconStyle>
+        <color>ff0055ff</color>
+        <scale>1.1</scale>
+        <Icon><href>http://maps.google.com/mapfiles/kml/paddle/blu-circle.png</href></Icon>
+      </IconStyle>
+    </Style>
+
+    <!-- 1. Humber River -->
+    <Folder>
+      <name>Humber River (10–20 min)</name>
+      <description>Steelhead, brown trout, Chinook salmon. Late Feb – mid-May; Sept – Dec. FMZ 16.</description>
+      <Placemark>
+        <name>Étienne Brûlé Park</name>
+        <description>Popular lower Humber spot for fresh-run fish. Lower river open year-round.</description>
+        <styleUrl>#river-pin</styleUrl>
+        <Point><coordinates>-79.4716,43.6481,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Lambton Park</name>
+        <description>Further upstream, good holding water.</description>
+        <styleUrl>#river-pin</styleUrl>
+        <Point><coordinates>-79.4847,43.6628,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Scarlett Mills Park</name>
+        <description>Good stretches up and downstream.</description>
+        <styleUrl>#river-pin</styleUrl>
+        <Point><coordinates>-79.5028,43.6794,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Raymore Park</name>
+        <description>Lower park, solid access.</description>
+        <styleUrl>#river-pin</styleUrl>
+        <Point><coordinates>-79.5167,43.6903,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Boyd Conservation Area</name>
+        <description>East Humber branch access.</description>
+        <styleUrl>#river-pin</styleUrl>
+        <Point><coordinates>-79.5378,43.8456,0</coordinates></Point>
+      </Placemark>
+    </Folder>
+
+    <!-- 2. Don River -->
+    <Folder>
+      <name>Don River (20–25 min)</name>
+      <description>Steelhead, salmon. Spring and Fall runs. FMZ 16. Good beginner river.</description>
+      <Placemark>
+        <name>Don Valley Park Trail System</name>
+        <description>Extensive walking access along river. Lower Don (to Eglinton) open year-round.</description>
+        <styleUrl>#river-pin</styleUrl>
+        <Point><coordinates>-79.3553,43.6876,0</coordinates></Point>
+      </Placemark>
+    </Folder>
+
+    <!-- 3. Rouge River -->
+    <Folder>
+      <name>Rouge River (35–40 min)</name>
+      <description>Steelhead, salmon, rainbow trout, pike (up to 20 lbs). Mar–Apr, Sept–Oct. FMZ 16.</description>
+      <Placemark>
+        <name>Rouge National Urban Park</name>
+        <description>Trans-Canada Trail runs along river. Multiple entry points. Protected land, great scenery.</description>
+        <styleUrl>#river-pin</styleUrl>
+        <Point><coordinates>-79.1661,43.8062,0</coordinates></Point>
+      </Placemark>
+    </Folder>
+
+    <!-- 4. Credit River -->
+    <Folder>
+      <name>Credit River (30–40 min)</name>
+      <description>Steelhead, brown trout, salmon. Year-round lower river. C&amp;R only upstream of Old Baseline Rd. FMZ 16.</description>
+      <Placemark>
+        <name>JJ Plaus Park (River Mouth)</name>
+        <description>Pier fishing, access to Lake Ontario mouth. Lower river open all year.</description>
+        <styleUrl>#river-pin</styleUrl>
+        <Point><coordinates>-79.5833,43.5507,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>JC Saddington Park</name>
+        <description>Other side of river mouth. Good access to fresh-run fish.</description>
+        <styleUrl>#river-pin</styleUrl>
+        <Point><coordinates>-79.5858,43.5522,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Erindale Park (Dundas St)</name>
+        <description>Major lower river access — walk up or down. Open year-round (Hwy 403 to lake).</description>
+        <styleUrl>#river-pin</styleUrl>
+        <Point><coordinates>-79.6506,43.5569,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Inglewood (Upper River)</name>
+        <description>Best brown trout water — Inglewood to Alton stretch. Catch &amp; release only, artificial lures, single barbless hook.</description>
+        <styleUrl>#river-pin</styleUrl>
+        <Point><coordinates>-79.9453,43.8169,0</coordinates></Point>
+      </Placemark>
+    </Folder>
+
+    <!-- 5. Bronte Creek -->
+    <Folder>
+      <name>Bronte Creek (40–45 min)</name>
+      <description>Steelhead, brown trout, salmon. Spring &amp; Fall. Fish stack below Lowville waterfall. FMZ 16.</description>
+      <Placemark>
+        <name>Lowville Park (Below Waterfall)</name>
+        <description>Key holding area — natural barrier stacks all migratory fish here. Focus fishing below the falls.</description>
+        <styleUrl>#river-pin</styleUrl>
+        <Point><coordinates>-79.7717,43.3978,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Bronte Creek Provincial Park</name>
+        <description>Additional access below the waterfall. Day-use fee required.</description>
+        <styleUrl>#river-pin</styleUrl>
+        <Point><coordinates>-79.7569,43.4017,0</coordinates></Point>
+      </Placemark>
+    </Folder>
+
+    <!-- 6. 16 Mile Creek -->
+    <Folder>
+      <name>16 Mile Creek (45 min)</name>
+      <description>Steelhead, salmon. Spring &amp; Fall. Less pressured than Credit or Humber. FMZ 16.</description>
+      <Placemark>
+        <name>Sixteen Mile Creek — Oakville Lower</name>
+        <description>Lower river near Lake Ontario mouth. Open year-round (Lakeshore Rd to lake). Less crowded than larger rivers.</description>
+        <styleUrl>#river-pin</styleUrl>
+        <Point><coordinates>-79.6744,43.4408,0</coordinates></Point>
+      </Placemark>
+    </Folder>
+
+    <!-- 7. Duffins Creek -->
+    <Folder>
+      <name>Duffins Creek (45–50 min)</name>
+      <description>Steelhead, Chinook salmon, brook trout. Spring &amp; Fall. Dam creates stacking below. FMZ 17.</description>
+      <Placemark>
+        <name>Devonside Park</name>
+        <description>Good lower river access. Season: 4th Sat April – Aug 31, then Oct 15 – Dec 31.</description>
+        <styleUrl>#river-pin</styleUrl>
+        <Point><coordinates>-79.0514,43.8422,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Greenwood Conservation Area</name>
+        <description>Access near dam — steelhead and salmon stack below. Brook trout above dam in summer.</description>
+        <styleUrl>#river-pin</styleUrl>
+        <Point><coordinates>-79.0639,43.8808,0</coordinates></Point>
+      </Placemark>
+    </Folder>
+
+    <!-- 8. Wilmot Creek -->
+    <Folder>
+      <name>Wilmot Creek (55–65 min)</name>
+      <description>Steelhead, salmon. Spring &amp; Fall. Reportedly 15,000+ fish run. FMZ 17. All methods: spin, fly, Centerpin.</description>
+      <Placemark>
+        <name>Wilmot Creek — Newcastle</name>
+        <description>Lower river public access near Lake Ontario. Open year-round (south of CNR tracks). Great for all methods.</description>
+        <styleUrl>#river-pin</styleUrl>
+        <Point><coordinates>-78.5833,43.9111,0</coordinates></Point>
+      </Placemark>
+    </Folder>
+
+    <!-- 9. Grand River -->
+    <Folder>
+      <name>Grand River (1h 10–20 min)</name>
+      <description>Wild brown trout, rainbow, steelhead. Year-round. Canadian Heritage River. C&amp;R in Elora/Fergus. FMZ 16.</description>
+      <Placemark>
+        <name>Fergus / Centre Wellington</name>
+        <description>Good resident brown trout water. Catch &amp; release only, artificial lures, single barbless hook required.</description>
+        <styleUrl>#river-pin</styleUrl>
+        <Point><coordinates>-80.3756,43.7031,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Elora Gorge Conservation Area</name>
+        <description>Iconic fly fishing water. Catch &amp; release only, artificial lures only. Day-use fee. Stunning gorge scenery.</description>
+        <styleUrl>#river-pin</styleUrl>
+        <Point><coordinates>-80.4267,43.6900,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Belwood</name>
+        <description>Good access point on upper Grand. Standard season 4th Sat April onward.</description>
+        <styleUrl>#river-pin</styleUrl>
+        <Point><coordinates>-80.3333,43.7667,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Cambridge (Lower Grand)</name>
+        <description>Steelhead access in lower river. Extended fall season (4th Sat April – Dec 31). Limit: 1 trout combined Oct–Dec.</description>
+        <styleUrl>#river-pin</styleUrl>
+        <Point><coordinates>-80.3123,43.3601,0</coordinates></Point>
+      </Placemark>
+    </Folder>
+
+    <!-- 10. Ganaraska River -->
+    <Folder>
+      <name>Ganaraska River (1h 10–20 min)</name>
+      <description>Steelhead, Chinook salmon. Largest spring steelhead run in Ontario. Night fishing banned Aug 15–Dec 31. FMZ 17.</description>
+      <Placemark>
+        <name>Port Hope — Lower River</name>
+        <description>Multiple public access areas. Extended season 4th Sat April – Dec 31 (south of CNR). Sanctuary Oct 1–Oct 14 in some sections.</description>
+        <styleUrl>#river-pin</styleUrl>
+        <Point><coordinates>-78.2969,43.9511,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Ganaraska Forest — Upper Sections</name>
+        <description>Upper river access through the forest. Separate steelhead population above dam (fish ladder).</description>
+        <styleUrl>#river-pin</styleUrl>
+        <Point><coordinates>-78.4167,44.0833,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Corbett Dam / Fish Ladder</name>
+        <description>Fish ladder access for upper Ganaraska steelhead. Note: year-round sanctuary from Hwy 401 to Jocelyn St — no fishing that section.</description>
+        <styleUrl>#river-pin</styleUrl>
+        <Point><coordinates>-78.2969,43.9569,0</coordinates></Point>
+      </Placemark>
+    </Folder>
+
+    <!-- 11. Nottawasaga River -->
+    <Folder>
+      <name>Nottawasaga River (1h 10–20 min)</name>
+      <description>Wild steelhead, salmon. Best-fighting steelhead in Ontario. Mostly private land — limited public access. FMZ 16.</description>
+      <Placemark>
+        <name>Angus — Lower River</name>
+        <description>Some public sections. Open all year (Boyne confluence to Georgian Bay). C&amp;R only for rainbow trout between Boyne R. and Pine R. confluences.</description>
+        <styleUrl>#river-pin</styleUrl>
+        <Point><coordinates>-79.8817,44.3147,0</coordinates></Point>
+      </Placemark>
+    </Folder>
+
+    <!-- 12. Mad River -->
+    <Folder>
+      <name>Mad River (1h 20–30 min)</name>
+      <description>Steelhead, salmon, wild brown &amp; brook trout. Nottawasaga tributary. Spring/Fall migratory; Summer resident. FMZ 16.</description>
+      <Placemark>
+        <name>Mad River — Creemore Area</name>
+        <description>Smaller, more intimate water than the Notty. Wild resident trout in upper sections. FMZ 16 default season: 4th Sat April – Sept 30.</description>
+        <styleUrl>#river-pin</styleUrl>
+        <Point><coordinates>-80.0972,44.3256,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Mad River — Collingwood Area</name>
+        <description>Lower reaches closer to Nottawasaga confluence. Fall migratory fish possible. Check sanctuary rules near Notty confluence (Oct 1–Dec 31).</description>
+        <styleUrl>#river-pin</styleUrl>
+        <Point><coordinates>-80.2167,44.5003,0</coordinates></Point>
+      </Placemark>
+    </Folder>
+
+    <!-- 13. Speed River -->
+    <Folder>
+      <name>Speed River (1h – 1h 10 min)</name>
+      <description>Wild brown trout, rainbow trout. Guelph — Grand River tributary. Technical fly water. FMZ 16.</description>
+      <Placemark>
+        <name>Speed River — Guelph Parks</name>
+        <description>Multiple park and trail access points through Guelph. Best spring and early summer for browns. Season: 4th Sat April – Sept 30.</description>
+        <styleUrl>#river-pin</styleUrl>
+        <Point><coordinates>-80.2482,43.5448,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Hanlon Creek Confluence</name>
+        <description>Confluence area access. Urban sections surprisingly productive. Small technical water — well-suited to fly fishing.</description>
+        <styleUrl>#river-pin</styleUrl>
+        <Point><coordinates>-80.2683,43.5217,0</coordinates></Point>
+      </Placemark>
+    </Folder>
+
+    <!-- 14. Pine River -->
+    <Folder>
+      <name>Pine River (1h 20–30 min)</name>
+      <description>Wild brown trout, brook trout. Nottawasaga tributary. Fly fishing or light spinning. FMZ 16.</description>
+      <Placemark>
+        <name>Pine River — Horning's Mills</name>
+        <description>Upper reaches — excellent wild brook and brown trout. Small intimate stream. Season: 4th Sat April – Sept 30. Note: Notty sanctuary applies near confluence.</description>
+        <styleUrl>#river-pin</styleUrl>
+        <Point><coordinates>-80.1778,44.1467,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Pine River — Shelburne Area</name>
+        <description>Access from Shelburne area. Part of Nottawasaga headwaters network.</description>
+        <styleUrl>#river-pin</styleUrl>
+        <Point><coordinates>-80.2031,44.0789,0</coordinates></Point>
+      </Placemark>
+    </Folder>
+
+    <!-- 15. Noisy River -->
+    <Folder>
+      <name>Noisy River (1h 20–30 min)</name>
+      <description>Wild brown trout, brook trout. One of the best small streams in Ontario. Short-line nymphing or dry fly. FMZ 16.</description>
+      <Placemark>
+        <name>Noisy River — Dunedin</name>
+        <description>Outstanding wild trout — pristine cold water, tight brushy banks. Best May–July for rises. Season: 4th Sat April – Sept 30.</description>
+        <styleUrl>#river-pin</styleUrl>
+        <Point><coordinates>-80.1094,44.3028,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Noisy River — Creemore</name>
+        <description>Access near Creemore. Tributary of Mad River (Nottawasaga system). Much private land — scout access carefully.</description>
+        <styleUrl>#river-pin</styleUrl>
+        <Point><coordinates>-80.0972,44.3256,0</coordinates></Point>
+      </Placemark>
+    </Folder>
+
+  </Document>
+</kml>

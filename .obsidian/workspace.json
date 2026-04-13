@@ -1,0 +1,234 @@
+{
+  "main": {
+    "id": "7fcbe53c342e7be0",
+    "type": "split",
+    "children": [
+      {
+        "id": "82a888f42706256c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "054101a38e9c2b8e",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      },
+      {
+        "id": "bbc2013a84d3eaa4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "32c6843533f142da",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4ef5e90fa9363caf",
+    "type": "split",
+    "children": [
+      {
+        "id": "67b549346bb0519b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "60e5121208731728",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "cf9b484d790134f1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "a9c09f9ecdf39f6f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "871f22a46ca26d12",
+    "type": "split",
+    "children": [
+      {
+        "id": "fc29552a2ecefd69",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "872104ad90066f5c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "ba6bf5038a89d8f6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "2906a3a43b8351e1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "a6569dd46404a2ec",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "56ac27bf4bd4b194",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "054101a38e9c2b8e",
+  "lastOpenFiles": [
+    "Seasonal Fishing Plan.md",
+    "CLAUDE.md",
+    "52 Fishing Locations/Rivers/Southwest/Twenty Mile Creek.md",
+    "52 Fishing Locations/Rivers/Southwest/Niagara River.md",
+    "52 Fishing Locations/Rivers/Southwest/Nanticoke Creek.md",
+    "52 Fishing Locations/Rivers/Southwest/Lynn River.md",
+    "52 Fishing Locations/Rivers/Southwest/Kettle Creek.md",
+    "52 Fishing Locations/Rivers/Southwest/Catfish Creek.md",
+    "52 Fishing Locations/Rivers/Southwest/Big Otter Creek.md",
+    "52 Fishing Locations/Rivers/Southwest/Big Creek.md",
+    "52 Fishing Locations/Rivers/West/West Credit River.md",
+    "52 Fishing Locations/Rivers/West/Speed River.md",
+    "52 Fishing Locations/Rivers/West/Grand River.md",
+    "52 Fishing Locations/Rivers/West/Shaw's Creek.md",
+    "52 Fishing Locations/Rivers/West/Etobicoke Creek.md",
+    "52 Fishing Locations/Rivers/West/Eramosa River.md",
+    "52 Fishing Locations/Rivers/West/Credit River.md",
+    "52 Fishing Locations/Rivers/West/16 Mile Creek.md",
+    "52 Fishing Locations/Rivers/West/Bronte Creek.md",
+    "52 Fishing Locations/Rivers/North/Sydenham River.md",
+    "52 Fishing Locations/Rivers/North/Saugeen River.md",
+    "52 Fishing Locations/Rivers/North/Sauble River.md",
+    "52 Fishing Locations/Rivers/North/Pine River.md",
+    "52 Fishing Locations/Rivers/North/Nottawasaga River.md",
+    "52 Fishing Locations/Rivers/North/Noisy River.md",
+    "52 Fishing Locations/Rivers/North/Maitland River.md",
+    "52 Fishing Locations/Rivers/Southwest",
+    "52 Fishing Locations/Rivers/West",
+    "52 Fishing Locations/Rivers/North",
+    "52 Fishing Locations/Rivers/East",
+    "52 Fishing Locations/Rivers",
+    "52 Fishing Locations/go fishing here history",
+    "52 Fishing Locations/Ontario Fishing Locations.kml",
+    "52 Fishing Locations/fishing-conditions-tmp",
+    "52 Fishing Locations/fishing-conditions/run-weather-agent.sh",
+    "52 Fishing Locations/fishing-conditions/run-water-agent.sh"
+  ]
+}
