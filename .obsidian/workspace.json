@@ -194,6 +194,8 @@
   },
   "active": "054101a38e9c2b8e",
   "lastOpenFiles": [
+    "Skills/fishing-conditions.md",
+    "Skills",
     "Seasonal Fishing Plan.md",
     "CLAUDE.md",
     "52 Fishing Locations/Rivers/Southwest/Twenty Mile Creek.md",
@@ -219,7 +221,6 @@
     "52 Fishing Locations/Rivers/North/Pine River.md",
     "52 Fishing Locations/Rivers/North/Nottawasaga River.md",
     "52 Fishing Locations/Rivers/North/Noisy River.md",
-    "52 Fishing Locations/Rivers/North/Maitland River.md",
     "52 Fishing Locations/Rivers/Southwest",
     "52 Fishing Locations/Rivers/West",
     "52 Fishing Locations/Rivers/North",
@@ -228,7 +229,6 @@
     "52 Fishing Locations/go fishing here history",
     "52 Fishing Locations/Ontario Fishing Locations.kml",
     "52 Fishing Locations/fishing-conditions-tmp",
-    "52 Fishing Locations/fishing-conditions/run-weather-agent.sh",
-    "52 Fishing Locations/fishing-conditions/run-water-agent.sh"
+    "52 Fishing Locations/fishing-conditions/run-weather-agent.sh"
   ]
 }
