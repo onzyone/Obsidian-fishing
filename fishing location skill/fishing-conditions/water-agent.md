@@ -72,7 +72,7 @@ All station IDs verified active on 2026-04-12 via wateroffice.ec.gc.ca CSV API.
 
 ## Steps
 
-1. Read `Hobbies/20 Fishing/52 Fishing Locations/fishing-conditions/fishing-request.md`
+1. Read `Hobbies/20 Fishing/fishing location skill/fishing-conditions/fishing-request.md`
    to identify which rivers are relevant for the requested trip.
 
 2. Select the appropriate stations from the reference table above based on the rivers
@@ -95,7 +95,7 @@ All station IDs verified active on 2026-04-12 via wateroffice.ec.gc.ca CSV API.
    rising, falling, or stable in the last 24 hours."
 
 4. Write the output to
-   `Hobbies/20 Fishing/52 Fishing Locations/fishing-conditions-tmp/water-output.md`
+   `Hobbies/20 Fishing/fishing location skill/fishing-conditions-tmp/water-output.md`
    using this format (include only the stations you fetched):
 
 ```

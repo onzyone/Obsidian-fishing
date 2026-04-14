@@ -22,7 +22,7 @@ data, then recommends the best day and river for an upcoming fishing trip.
 
 ## Agent Team
 
-See: `[[../52 Fishing Locations/fishing-conditions/agent-team|Fishing Conditions Agent Team]]`
+See: `[[../fishing-conditions/agent-team|Fishing Conditions Agent Team]]`
 
 ## Command file
 

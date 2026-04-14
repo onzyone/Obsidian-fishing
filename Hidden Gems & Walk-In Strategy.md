@@ -5,44 +5,7 @@
 
 ---
 
----
-
-## Blown Out? Go Here Instead — Clear Water Fallbacks
-
-When main rivers (Credit, Humber, Don) are murky after heavy rain, these spring-fed and
-groundwater-fed alternatives clear **1–3 days faster**. They're smaller water, so trout
-(not steelhead) are the primary target — but they're actually fishing when the big rivers
-are unfishable.
-
-**Why smaller tribs clear faster:**
-- Smaller drainage basin = less total runoff volume
-- Spring-fed / limestone-fed = groundwater maintains baseflow and dilutes silt
-- Forested or less-developed catchments = less soil disturbance per mm of rain
-
-> [!tip] If Credit is blown out (murky/rising at Streetsville gauge)
-> | Go to | Species | Drive | Clears in | Map | Notes |
-> |---|---|---|---|---|---|
-> | **West Credit River** (Cataract/Belfountain) | Wild brown trout, brook trout | ~1h | **1–2 days** | [Map](https://maps.google.com/?q=Forks+of+the+Credit+Provincial+Park+Ontario) | Spring-fed limestone; C&R only; best small-stream trout near Toronto when Credit is down |
-> | **Shaw's Creek** (Alton) | Wild brown trout | ~55 min | **1–2 days** | [Map](https://maps.google.com/?q=Shaw%27s+Creek+Alton+Ontario) | Credit trib; C&R only; 5–10 ft wide; walk road allowances upstream |
-> | **Eramosa River** (Rockwood) | Brown trout, brook trout | ~1h 10 min | **1–2 days** | [Map](https://maps.google.com/?q=Rockwood+Conservation+Area+Ontario) | Groundwater/limestone spring-fed; landlocked; standard limits; Rockwood gorge is excellent |
-
-> [!tip] If Humber is blown out
-> | Go to | Species | Drive | Clears in | Map | Notes |
-> |---|---|---|---|---|---|
-> | **Cold Creek CA** (Nobleton) | Brook trout, brown trout | ~45 min | **1 day** | [Map](https://maps.google.com/?q=Cold+Creek+Conservation+Area+Nobleton+Ontario) | Smallest watershed = clears first; TRCA access; trail walk-in required |
-> | **Upper East Humber** (above Boyd CA) | Brook trout, brown trout | ~50 min | **1–2 days** | [Map](https://maps.google.com/?q=Boyd+Conservation+Area+Vaughan+Ontario) | Walk past Boyd CA upstream; groundwater-fed Oak Ridges Moraine headwaters |
-> | **Eramosa River** (Rockwood) | Brown trout, brook trout | ~1h 10 min | **1–2 days** | [Map](https://maps.google.com/?q=Rockwood+Conservation+Area+Ontario) | Best option if you want more water to fish (bigger stream than Cold Creek) |
-
-> [!warning] If both main rivers are blown out (major storm)
-> Go farther — these clear fastest due to limestone/escarpment geology:
->
-> | Go to | Species | Drive | Clears in | Map | Notes |
-> |---|---|---|---|---|---|
-> | **Beaver River** (Thornbury) | Steelhead, brown trout, brook trout | ~1h 40 min | **1–2 days** | [Map](https://maps.google.com/?q=Thornbury+Beaver+River+Ontario) | Niagara Escarpment limestone; clearest river in the region after rain; Biotactic live counter |
-> | **Noisy River** (Dunedin) | Brook trout, rainbow trout | ~1h 20 min | **1–2 days** | [Map](https://maps.google.com/?q=Noisy+River+Provincial+Park+Ontario) | Provincial park; trail walk-in; above Lavender Falls rarely crowded |
-> | **Duffins Creek upper** (above Whitevale dam) | Brook trout (12–14") | ~30–40 min east | **1 day** | [Map](https://maps.google.com/?q=Whitevale+Duffins+Creek+Ontario) | Above dam = no migratory pressure; resident brookies; West branch closest |
-
-### Walk-In Rule for Tributaries
+## Walk-In Rule for Tributaries
 
 When fishing small tribs on road allowances:
 1. Park at a rural road crossing — bridge/culvert = always public access

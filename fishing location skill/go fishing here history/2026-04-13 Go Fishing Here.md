@@ -1,5 +1,3 @@
-# Go Fishing Here
-
 ## 2026-04-13 — West + Southwest (Apr 17–19)
 
 ## Fishing Conditions — Apr 17–19, 2026 (West + Southwest)

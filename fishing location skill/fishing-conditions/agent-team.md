@@ -102,7 +102,7 @@ Layout:
 ```
 
 ```bash
-FC_DIR="/Users/onzyone/Library/Mobile Documents/iCloud~md~obsidian/Documents/fishing/52 Fishing Locations/fishing-conditions"
+FC_DIR="/Users/onzyone/Library/Mobile Documents/iCloud~md~obsidian/Documents/fishing/fishing location skill/fishing-conditions"
 WEATHER=$(cmux new-split right | awk '{print $2}')
 WATER=$(cmux new-split down --surface "$WEATHER" | awk '{print $2}')
 FISH=$(cmux new-split down --surface "$WATER" | awk '{print $2}')
@@ -128,7 +128,7 @@ When both agents are done, prompt Claude in the main session:
 
 ```
 Run the Conditions Lead for the fishing conditions team.
-Prompt file: Hobbies/20 Fishing/52 Fishing Locations/fishing-conditions/conditions-lead.md
+Prompt file: Hobbies/20 Fishing/fishing location skill/fishing-conditions/conditions-lead.md
 Both agents are done — read their outputs and give the recommendation.
 ```
 
@@ -147,7 +147,7 @@ cmux close-surface --surface $WATER
 ## File Structure
 
 ```
-52 Fishing Locations/
+fishing location skill/
   fishing-conditions/
     agent-team.md             -- This file
     fishing-request.md        -- Fill in before each run

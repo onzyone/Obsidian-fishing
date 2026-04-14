@@ -2,8 +2,8 @@
 set -euo pipefail
 
 VAULT="/Users/onzyone/Library/Mobile Documents/iCloud~md~obsidian/Documents/fishing"
-FC_DIR="$VAULT/52 Fishing Locations/fishing-conditions"
-TMP_DIR="$VAULT/52 Fishing Locations/fishing-conditions-tmp"
+FC_DIR="$VAULT/fishing location skill/fishing-conditions"
+TMP_DIR="$VAULT/fishing location skill/fishing-conditions-tmp"
 OLLAMA_URL="http://localhost:11434/v1/chat/completions"
 MODEL="gemma4:latest"
 PROMPT_FILE="$TMP_DIR/weather-prompt.txt"

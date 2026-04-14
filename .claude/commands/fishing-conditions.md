@@ -1,6 +1,6 @@
 Check live weather and river conditions, then recommend the best day and river for a fishing trip near Toronto.
 
-@/Users/onzyone/Library/Mobile Documents/iCloud~md~obsidian/Documents/fishing/52 Fishing Locations/fishing-location-standards.md
+@/Users/onzyone/Library/Mobile Documents/iCloud~md~obsidian/Documents/fishing/fishing location skill/fishing-location-standards.md
 
 ## Arguments
 
@@ -12,12 +12,12 @@ Check live weather and river conditions, then recommend the best day and river f
 
 1. Parse `$ARGUMENTS` for dates and/or area (West · East · North · Southwest · All).
    Update `fishing-request.md`:
-   File: `/Users/onzyone/Library/Mobile Documents/iCloud~md~obsidian/Documents/fishing/52 Fishing Locations/fishing-conditions/fishing-request.md`
+   File: `/Users/onzyone/Library/Mobile Documents/iCloud~md~obsidian/Documents/fishing/fishing location skill/fishing-conditions/fishing-request.md`
 
    - If dates were provided, set the **Dates** field. Otherwise ask the user which dates to compare.
    - If an area was provided, set the **Area** field. Otherwise ask the user which area:
      - **West** — Credit River, Bronte Creek, 16 Mile Creek, Etobicoke Creek, Grand River (~1h)
-     - **East** — Don River, Rouge River, Duffins Creek, Oshawa Creek, Wilmot Creek, Ganaraska River
+     - **East** — Don River, Rouge River, Duffins Creek, Oshawa Creek, Wilmot Creek, Bowmanville Creek, Ganaraska River
      - **North** — Humber River, Nottawasaga River, Beaver River, Saugeen River, Mad River
      - **Southwest** — Twenty Mile Creek, Niagara River, Big Creek, Lynn River, Big Otter Creek
      - **All** — all year-round lower sections within ~1h
@@ -41,7 +41,7 @@ Check live weather and river conditions, then recommend the best day and river f
 
 3. Run Phase 1 — launch all 3 agents in parallel splits via cmux:
    ```bash
-   FC_DIR="/Users/onzyone/Library/Mobile Documents/iCloud~md~obsidian/Documents/fishing/52 Fishing Locations/fishing-conditions"
+   FC_DIR="/Users/onzyone/Library/Mobile Documents/iCloud~md~obsidian/Documents/fishing/fishing location skill/fishing-conditions"
    WEATHER=$(cmux new-split right | awk '{print $2}')
    WATER=$(cmux new-split down --surface "$WEATHER" | awk '{print $2}')
    FISH=$(cmux new-split down --surface "$WATER" | awk '{print $2}')
@@ -61,15 +61,15 @@ Check live weather and river conditions, then recommend the best day and river f
    and **FISH AGENT DONE** to appear, then say **done** and I'll give your recommendation."
 
 5. When the user says "done", read:
-   - `/Users/onzyone/Library/Mobile Documents/iCloud~md~obsidian/Documents/fishing/52 Fishing Locations/fishing-conditions-tmp/weather-output.md`
-   - `/Users/onzyone/Library/Mobile Documents/iCloud~md~obsidian/Documents/fishing/52 Fishing Locations/fishing-conditions-tmp/water-output.md`
-   - `/Users/onzyone/Library/Mobile Documents/iCloud~md~obsidian/Documents/fishing/52 Fishing Locations/fishing-conditions-tmp/fish-output.md`
+   - `/Users/onzyone/Library/Mobile Documents/iCloud~md~obsidian/Documents/fishing/fishing location skill/fishing-conditions-tmp/weather-output.md`
+   - `/Users/onzyone/Library/Mobile Documents/iCloud~md~obsidian/Documents/fishing/fishing location skill/fishing-conditions-tmp/water-output.md`
+   - `/Users/onzyone/Library/Mobile Documents/iCloud~md~obsidian/Documents/fishing/fishing location skill/fishing-conditions-tmp/fish-output.md`
 
    Then follow the instructions in:
-   `/Users/onzyone/Library/Mobile Documents/iCloud~md~obsidian/Documents/fishing/52 Fishing Locations/fishing-conditions/conditions-lead.md`
+   `/Users/onzyone/Library/Mobile Documents/iCloud~md~obsidian/Documents/fishing/fishing location skill/fishing-conditions/conditions-lead.md`
 
    The Lead will archive the previous run to `go fishing here history/` and write
-   the new recommendation to `52 Fishing Locations/Go Fishing Here.md` automatically.
+   the new recommendation to `Go Fishing Here.md` automatically.
 
 6. After delivering the recommendation, close the splits:
    ```bash

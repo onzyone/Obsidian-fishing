@@ -2,8 +2,8 @@
 set -euo pipefail
 
 VAULT="/Users/onzyone/Library/Mobile Documents/iCloud~md~obsidian/Documents/fishing"
-FC_DIR="$VAULT/52 Fishing Locations/fishing-conditions"
-TMP_DIR="$VAULT/52 Fishing Locations/fishing-conditions-tmp"
+FC_DIR="$VAULT/fishing location skill/fishing-conditions"
+TMP_DIR="$VAULT/fishing location skill/fishing-conditions-tmp"
 OLLAMA_URL="http://localhost:11434/v1/chat/completions"
 MODEL="qwen3:14b"
 PROMPT_FILE="$TMP_DIR/fish-prompt.txt"
@@ -110,7 +110,7 @@ Format this into EXACTLY this markdown structure (no extra commentary):
 
 [2-3 sentences on which rivers have the strongest runs right now]
 
-> Small creek caution: Wilmot Creek, Oshawa Creek, Don River, Bowmanville Creek, Etobicoke Creek, Lynn River, and Twenty Mile Creek - treat third-party run estimates as anecdotal only. Confirmed counters: Ganaraska (Riverwatcher), Credit (CRAA), Beaver/Thornbury (Biotactic).
+> Run data caution: Third-party run estimates for any river without a live counter are anecdotal only — do not use them to rank a river above one with better confirmed conditions. Confirmed counters: Ganaraska (Riverwatcher), Credit (CRAA), Beaver/Thornbury (Biotactic). All other rivers: rank on level, clarity, and stocking data.
 
 If any data source returned no useful data, note it as: Data unavailable - [reason]
 EOF

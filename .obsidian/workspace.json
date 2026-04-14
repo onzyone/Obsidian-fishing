@@ -11,26 +11,14 @@
             "id": "054101a38e9c2b8e",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          }
-        ]
-      },
-      {
-        "id": "bbc2013a84d3eaa4",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "32c6843533f142da",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Hidden Gems & Walk-In Strategy.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Hidden Gems & Walk-In Strategy"
             }
           }
         ]
@@ -90,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 339.5
   },
   "right": {
     "id": "871f22a46ca26d12",
@@ -106,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Hidden Gems & Walk-In Strategy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Hidden Gems & Walk-In Strategy"
             }
           },
           {
@@ -124,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Hidden Gems & Walk-In Strategy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Hidden Gems & Walk-In Strategy"
             }
           },
           {
@@ -166,12 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Hidden Gems & Walk-In Strategy.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Hidden Gems & Walk-In Strategy"
             }
           }
         ]
@@ -192,43 +183,43 @@
       "bases:Create new base": false
     }
   },
-  "active": "054101a38e9c2b8e",
+  "active": "60e5121208731728",
   "lastOpenFiles": [
-    "Skills/fishing-conditions.md",
-    "Skills",
+    "fishing location skill/go fishing here history/2026-04-13c Go Fishing Here.md",
+    "fishing location skill/fishing-conditions-tmp/fish-output.md",
+    "fishing location skill/fishing-conditions-tmp/fish-prompt.txt",
+    "fishing location skill/fishing-conditions-tmp/water-output.md",
+    "fishing location skill/fishing-conditions-tmp/water-prompt.txt",
+    "fishing location skill/fishing-conditions-tmp/weather-output.md",
+    "fishing location skill/fishing-conditions-tmp/weather-prompt.txt",
     "Seasonal Fishing Plan.md",
-    "CLAUDE.md",
-    "52 Fishing Locations/Rivers/Southwest/Twenty Mile Creek.md",
-    "52 Fishing Locations/Rivers/Southwest/Niagara River.md",
-    "52 Fishing Locations/Rivers/Southwest/Nanticoke Creek.md",
-    "52 Fishing Locations/Rivers/Southwest/Lynn River.md",
-    "52 Fishing Locations/Rivers/Southwest/Kettle Creek.md",
-    "52 Fishing Locations/Rivers/Southwest/Catfish Creek.md",
-    "52 Fishing Locations/Rivers/Southwest/Big Otter Creek.md",
-    "52 Fishing Locations/Rivers/Southwest/Big Creek.md",
-    "52 Fishing Locations/Rivers/West/West Credit River.md",
-    "52 Fishing Locations/Rivers/West/Speed River.md",
-    "52 Fishing Locations/Rivers/West/Grand River.md",
-    "52 Fishing Locations/Rivers/West/Shaw's Creek.md",
-    "52 Fishing Locations/Rivers/West/Etobicoke Creek.md",
-    "52 Fishing Locations/Rivers/West/Eramosa River.md",
-    "52 Fishing Locations/Rivers/West/Credit River.md",
-    "52 Fishing Locations/Rivers/West/16 Mile Creek.md",
-    "52 Fishing Locations/Rivers/West/Bronte Creek.md",
-    "52 Fishing Locations/Rivers/North/Sydenham River.md",
-    "52 Fishing Locations/Rivers/North/Saugeen River.md",
-    "52 Fishing Locations/Rivers/North/Sauble River.md",
-    "52 Fishing Locations/Rivers/North/Pine River.md",
-    "52 Fishing Locations/Rivers/North/Nottawasaga River.md",
-    "52 Fishing Locations/Rivers/North/Noisy River.md",
-    "52 Fishing Locations/Rivers/Southwest",
-    "52 Fishing Locations/Rivers/West",
-    "52 Fishing Locations/Rivers/North",
-    "52 Fishing Locations/Rivers/East",
-    "52 Fishing Locations/Rivers",
-    "52 Fishing Locations/go fishing here history",
-    "52 Fishing Locations/Ontario Fishing Locations.kml",
-    "52 Fishing Locations/fishing-conditions-tmp",
-    "52 Fishing Locations/fishing-conditions/run-weather-agent.sh"
+    "fishing location skill/fishing-location-standards.md",
+    "fishing location skill/Find these locations.md",
+    "fishing location skill/Add these rivers.md",
+    "Skills/fishing-conditions.md",
+    "Go Fishing Here.md",
+    "fishing location skill/Rivers/West/West Credit River.md",
+    "fishing location skill/Rivers/West/Speed River.md",
+    "fishing location skill/Rivers/West/Grand River.md",
+    "fishing location skill/Rivers/West/Shaw's Creek.md",
+    "fishing location skill/Rivers/West/Etobicoke Creek.md",
+    "fishing location skill/Rivers/West/Eramosa River.md",
+    "fishing location skill/Rivers/West/Credit River.md",
+    "fishing location skill/Rivers/West/Bronte Creek.md",
+    "fishing location skill/Rivers/West/16 Mile Creek.md",
+    "fishing location skill/Rivers/Southwest/Twenty Mile Creek.md",
+    "fishing location skill/Rivers/Southwest/Niagara River.md",
+    "fishing location skill/Rivers/Southwest/Nanticoke Creek.md",
+    "fishing location skill/Rivers/Southwest/Lynn River.md",
+    "fishing location skill/Rivers/North/Maitland River.md",
+    "fishing location skill/Rivers/Southwest/Kettle Creek.md",
+    "fishing location skill/Rivers/Southwest/Big Otter Creek.md",
+    "fishing location skill/fishing-conditions/run-water-agent.sh",
+    "fishing location skill/fishing-conditions/run-weather-agent.sh",
+    "fishing location skill/fishing-conditions/run-fish-agent.sh",
+    "fishing location skill/Rivers/West",
+    "fishing location skill/Rivers/Southwest",
+    "fishing location skill/Rivers/North",
+    "fishing location skill/Rivers/East"
   ]
 }

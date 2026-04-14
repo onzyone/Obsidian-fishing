@@ -6,7 +6,7 @@ a structured summary to a tmp file.
 
 ## Steps
 
-1. Read `Hobbies/20 Fishing/52 Fishing Locations/fishing-conditions/fishing-request.md`
+1. Read `Hobbies/20 Fishing/fishing location skill/fishing-conditions/fishing-request.md`
    to note the target area and dates.
 
 2. Fetch Ontario fish stocking data from Ontario Open Data:
@@ -45,7 +45,7 @@ a structured summary to a tmp file.
    Note: No public counters exist for Humber, Don, Rouge, Duffins, Nottawasaga, or other rivers — omit those rows from the Ganaraska Fish Count section.
 
 5. Write the output to:
-   `Hobbies/20 Fishing/52 Fishing Locations/fishing-conditions-tmp/fish-output.md`
+   `Hobbies/20 Fishing/fishing location skill/fishing-conditions-tmp/fish-output.md`
 
    Use this exact format:
 
@@ -100,9 +100,9 @@ timing data? Any rivers worth prioritizing or avoiding this season?]
    > Confirmed counters: Ganaraska (Riverwatcher), Credit (CRAA), Beaver/Thornbury (Biotactic).
    > All other rivers — no verified count data available.
 
-   Known small creeks where third-party run estimates should NOT be used to rank them above
-   genuine fishable rivers: Wilmot Creek, Oshawa Creek, Don River, Bowmanville Creek,
-   Etobicoke Creek, Lynn River, Twenty Mile Creek.
+   Third-party run estimates should NOT be used to rank any river higher than one with
+   better confirmed conditions. This applies to all rivers without a verified live counter —
+   not just small creeks. Flag unverified estimates with the caution block above.
 
 7. If a data source is unavailable or returns no useful data, note it in the output
    rather than leaving sections blank. Use "Data unavailable — [reason]" as needed.

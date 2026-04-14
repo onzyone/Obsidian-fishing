@@ -1,0 +1,23 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(cmux new-split:*)",
+      "Bash(echo \"EXIT:$?\")",
+      "Bash(cmux close-surface:*)",
+      "Bash(bash \"/Users/onzyone/Library/Mobile Documents/iCloud~md~obsidian/Documents/fishing/52 Fishing Locations/fishing-conditions/run-weather-agent.sh\")",
+      "Bash(bash:*)",
+      "Bash(mv \"52 Fishing Locations\" \"fishing location skill\")",
+      "Bash(mv \"fishing location skill/Go Fishing Here.md\" \"Go Fishing Here.md\")",
+      "Bash(mv \"Skills\" \"fishing location skill/Skills\")",
+      "Bash(sed -i '' 's|Hobbies/20 Fishing/52 Fishing Locations/Go Fishing Here\\\\.md|Hobbies/20 Fishing/Go Fishing Here.md|g' 'fishing location skill/fishing-conditions/conditions-lead.md')",
+      "Bash(sed -i '' 's|52 Fishing Locations/Go Fishing Here\\\\.md|Go Fishing Here.md|g' 'fishing location skill/fishing-conditions/conditions-lead.md')",
+      "Bash(sed -i '' 's|Hobbies/20 Fishing/52 Fishing Locations/go fishing here history|Hobbies/20 Fishing/fishing location skill/go fishing here history|g' 'fishing location skill/fishing-conditions/conditions-lead.md')",
+      "Bash(sed -i '' 's|Hobbies/20 Fishing/52 Fishing Locations|Hobbies/20 Fishing/fishing location skill|g' 'fishing location skill/fishing-conditions/conditions-lead.md')",
+      "Bash(sed -i '' 's|52 Fishing Locations/Go Fishing Here\\\\.md|Go Fishing Here.md|g' .claude/commands/fishing-conditions.md)",
+      "Bash(sed -i '' 's|52 Fishing Locations/go fishing here history|fishing location skill/go fishing here history|g' .claude/commands/fishing-conditions.md)",
+      "Bash(sed -i '' 's|52 Fishing Locations|fishing location skill|g' .claude/commands/fishing-conditions.md)",
+      "Bash(sed -i '' 's|52 Fishing Locations|fishing location skill|g' CLAUDE.md)",
+      "Bash(sed -i '' 's|\\\\.\\\\./52 Fishing Locations/fishing-conditions/agent-team|../fishing-conditions/agent-team|g' 'fishing location skill/Skills/fishing-conditions.md')"
+    ]
+  }
+}

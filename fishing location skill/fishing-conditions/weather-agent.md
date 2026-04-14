@@ -5,7 +5,7 @@ You are the Weather Agent for a fishing conditions analysis. Your only job is to
 
 ## Steps
 
-1. Read `Hobbies/20 Fishing/52 Fishing Locations/fishing-conditions/fishing-request.md`
+1. Read `Hobbies/20 Fishing/fishing location skill/fishing-conditions/fishing-request.md`
    to see which dates the user wants to compare.
 
 2. Fetch the 14-day forecast from this URL using WebFetch:
@@ -15,7 +15,7 @@ You are the Weather Agent for a fishing conditions analysis. Your only job is to
    weather code. Weather code key: 0=clear, 1-3=mostly clear, 45/48=fog, 51-55=drizzle,
    61-67=rain, 71-77=snow, 80-82=showers, 95=thunderstorm."
 
-3. Write the output to `Hobbies/20 Fishing/52 Fishing Locations/fishing-conditions-tmp/weather-output.md`
+3. Write the output to `Hobbies/20 Fishing/fishing location skill/fishing-conditions-tmp/weather-output.md`
    in this exact format:
 
 ```

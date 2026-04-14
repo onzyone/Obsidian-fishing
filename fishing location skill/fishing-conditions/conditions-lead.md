@@ -6,13 +6,13 @@ their outputs and the fishing locations index, then deliver a clear fishing reco
 ## Steps
 
 1. Read all four inputs:
-   - `Hobbies/20 Fishing/52 Fishing Locations/fishing-conditions/fishing-request.md`
-   - `Hobbies/20 Fishing/52 Fishing Locations/fishing-conditions-tmp/weather-output.md`
-   - `Hobbies/20 Fishing/52 Fishing Locations/fishing-conditions-tmp/water-output.md`
-   - `Hobbies/20 Fishing/52 Fishing Locations/fishing-conditions-tmp/fish-output.md`
+   - `Hobbies/20 Fishing/fishing location skill/fishing-conditions/fishing-request.md`
+   - `Hobbies/20 Fishing/fishing location skill/fishing-conditions-tmp/weather-output.md`
+   - `Hobbies/20 Fishing/fishing location skill/fishing-conditions-tmp/water-output.md`
+   - `Hobbies/20 Fishing/fishing location skill/fishing-conditions-tmp/fish-output.md`
 
 2. Read the fishing locations index and the **Area** field from `fishing-request.md`:
-   - `Hobbies/20 Fishing/52 Fishing Locations/Ontario Trout & Steelhead Locations.md`
+   - `Hobbies/20 Fishing/fishing location skill/Ontario Trout & Steelhead Locations.md`
    - Key rule: most FMZ 16/17 rivers open on the 4th Saturday of April.
    - Use the **Area** to select which rivers to evaluate. Only rank rivers in the requested area.
      If Area = "All", use all year-round lower sections within ~1h drive.
@@ -36,6 +36,7 @@ their outputs and the fishing locations index, then deliver a clear fishing reco
    | Duffins Creek | Lower (outside sanctuary Sept 1–Oct 14) | 45–50 min | Greenwood CA / Pickering | [Map](https://maps.google.com/?q=Greenwood+Conservation+Area+Pickering) | No gauge — estimate from Humber |
    | Oshawa Creek | Lower open sections | 40–50 min | Lakeview Park, Oshawa | [Map](https://maps.google.com/?q=Lakeview+Park+Oshawa) | No gauge — estimate from Humber |
    | Wilmot Creek | South of CNR | 55–65 min | Wilmot Creek mouth, Newcastle | [Map](https://maps.google.com/?q=Wilmot+Creek+Newcastle+Ontario) | No gauge — estimate from Humber |
+   | Bowmanville Creek | Lower (south of Goodyear Dam / fish ladder) | 55–65 min | Baseline Rd West parking lot, Clarington | [Map](https://maps.google.com/?q=Bowmanville+Creek+Baseline+Road+West+Clarington+Ontario) | WSC 02HD006 |
    | Ganaraska River | Lower (outside sanctuaries) | 1h 15 min | Port Hope harbour / Hope Mill Rd | [Map](https://maps.google.com/?q=Ganaraska+River+Port+Hope) | No gauge — estimate from Humber |
 
    ### North
@@ -93,13 +94,22 @@ their outputs and the fishing locations index, then deliver a clear fishing reco
    - **Fish**: use stocking numbers and run timing to favour rivers with stronger runs
    - **Score**: rate each date Good / Fair / Poor
 
-   **Watershed size rule:** Do NOT rank small creeks above genuine fishable rivers based
-   solely on third-party run estimates. The following are small creeks with limited
-   fishable water — rank them below proper rivers unless conditions strongly favour them:
-   Wilmot Creek (few hundred metres of fishable lower section), Oshawa Creek, Don River,
-   Bowmanville Creek, Etobicoke Creek, Lynn River, Twenty Mile Creek.
-   Only use verified stocking data (Ontario Open Data) or confirmed live counter data
-   (Ganaraska Riverwatcher, Credit CRAA, Beaver Biotactic) to assess run strength.
+   **Run data quality rule:** Rank ALL rivers and creeks on actual conditions (level,
+   clarity, weather, season, drive time). Do NOT auto-downrank any creek based on
+   watershed size alone — conditions decide the rank.
+
+   The one exception is **run strength estimates from unverified third-party sources**:
+   do not use those to rank a river *higher* than one with better confirmed conditions.
+   Verified run data sources: Ontario Open Data (stocking), Ganaraska Riverwatcher,
+   Credit CRAA, Beaver/Thornbury Biotactic. All other rivers — note "no verified counter"
+   but still rank on level, clarity, and stocking data.
+
+   **Notable small creeks — note fishable water limits in the rank table, but rank on conditions:**
+   - Wilmot Creek: few hundred metres of fishable lower section below the CNR — note this
+   - Don River lower: urban, short accessible section — note this
+   - Oshawa Creek / Etobicoke Creek: small urban creeks — note access limits
+   - Bowmanville Creek: user fishes regularly with good results; low pressure; fish ladder;
+     WSC gauge (02HD006) — full contender, rank normally
 
 5. **Clarity fallback rule:** If any gauged river shows Murky or Very murky clarity in
    water-output.md, include a "Clear Water Fallbacks" section at the end of the recommendation
@@ -171,18 +181,51 @@ Include drive time and Google Maps link for each.
 
 ### Clear Water Fallbacks
 
-**Only include this section if one or more gauged rivers show Murky or Very murky clarity.**
+**Only include this section if one or more rivers in the requested area show Murky or Very murky clarity.**
 
-When the main rivers are blown out, these spring-fed and groundwater-fed alternatives
-clear 1–3 days faster. Primary target: **resident brown trout and brook trout** (not
-steelhead — these are small inland streams). Willing to walk 30–60 min from the road.
+When main rivers are blown out, these spring-fed and groundwater-fed alternatives clear
+1–3 days faster. Primary target: **resident brown trout and brook trout** (not steelhead —
+these are small inland streams). Willing to walk 30–60 min from the road.
 
-> [!tip] If Credit is murky
+Only include callouts relevant to the rivers that are actually murky in this run.
+
+---
+
+**West area fallbacks**
+
+> [!tip] If Credit / Bronte / 16 Mile / Etobicoke are murky
 > | Stream | Drive | Clears in | Species | Access |
 > |--------|-------|-----------|---------|--------|
 > | West Credit River (Cataract/Belfountain) | ~1h | 1–2 days | Wild brown trout, brook trout | Forks of the Credit PP or roadside at Cataract — C&R only — [Map](https://maps.google.com/?q=Forks+of+the+Credit+Provincial+Park+Ontario) |
 > | Shaw's Creek (Alton) | ~55 min | 1–2 days | Wild brown trout | Road allowance at Alton/Mountainview Rd — C&R only — [Map](https://maps.google.com/?q=Shaw%27s+Creek+Alton+Ontario) |
 > | Eramosa River (Rockwood) | ~1h 10 min | 1–2 days | Brown trout, brook trout | Rockwood CA (paid) or road allowance — standard limits — [Map](https://maps.google.com/?q=Rockwood+Conservation+Area+Ontario) |
+
+> [!tip] If Grand River is murky
+> | Stream | Drive | Clears in | Species | Access |
+> |--------|-------|-----------|---------|--------|
+> | Eramosa River (Rockwood) | ~1h 10 min | 1–2 days | Brown trout, brook trout | Rockwood CA (paid) or road allowance — [Map](https://maps.google.com/?q=Rockwood+Conservation+Area+Ontario) |
+> | Speed River (Elora Gorge) | ~1h 10 min | 2–3 days | Brown trout, rainbow trout | Elora CA — standard limits — [Map](https://maps.google.com/?q=Elora+Gorge+Conservation+Area+Ontario) |
+
+---
+
+**East area fallbacks**
+
+> [!tip] If Don / Rouge / Oshawa Creek are murky
+> | Stream | Drive | Clears in | Species | Access |
+> |--------|-------|-----------|---------|--------|
+> | Duffins Creek upper (above Greenwood CA) | ~30–40 min east | 1 day | Brook trout (12–14") | Walk upstream from Greenwood CA; above dam = resident brookies, no migratory pressure — [Map](https://maps.google.com/?q=Greenwood+Conservation+Area+Ajax+Ontario) |
+> | Orono Creek (Clarke Twp) | ~55–65 min | 1 day | Brook trout | Road allowance at bridge crossings; MNR Atlas confirmed; virtually unfished — [Map](https://www.google.com/maps/search/?api=1&query=43.9500,-78.6167) |
+
+> [!tip] If Duffins / Bowmanville / Wilmot Creek are murky
+> | Stream | Drive | Clears in | Species | Access |
+> |--------|-------|-----------|---------|--------|
+> | Upper Ganaraska (Ganaraska Forest) | ~1h 15 min | 2–3 days | Brook trout, brown trout | Sylvan Glen CA base; hundreds of km of trails — [Map](https://maps.google.com/?q=Ganaraska+Forest+Ontario) |
+> | Orono Creek (Clarke Twp) | ~55–65 min | 1 day | Brook trout | Road allowance at bridge crossings — [Map](https://www.google.com/maps/search/?api=1&query=43.9500,-78.6167) |
+> | Stalker Creek (Clarke Twp) | ~55–65 min | 1 day | Brook trout | MNR Atlas confirmed; road allowance access — [Map](https://www.google.com/maps/search/?api=1&query=43.9333,-78.6167) |
+
+---
+
+**North area fallbacks**
 
 > [!tip] If Humber is murky
 > | Stream | Drive | Clears in | Species | Access |
@@ -190,24 +233,48 @@ steelhead — these are small inland streams). Willing to walk 30–60 min from 
 > | Cold Creek CA (Nobleton) | ~45 min | 1 day | Brook trout, brown trout | Trail walk-in; TRCA — [Map](https://maps.google.com/?q=Cold+Creek+Conservation+Area+Nobleton+Ontario) |
 > | Upper East Humber (above Boyd CA) | ~50 min | 1–2 days | Brook trout, brown trout | Walk upstream past Boyd CA — [Map](https://maps.google.com/?q=Boyd+Conservation+Area+Vaughan+Ontario) |
 
-> [!warning] If both are blown out
-> **Beaver River** (Thornbury, ~1h 40–50 min) — Niagara Escarpment limestone clears first; steelhead + brown trout; early run confirmed on Biotactic counter — [Map](https://maps.google.com/?q=Thornbury+Beaver+River+Ontario)
-> **Noisy River** (Dunedin, ~1h 20 min) — trail walk-in; brook trout above Lavender Falls; rarely crowded — [Map](https://maps.google.com/?q=Noisy+River+Provincial+Park+Ontario)
+> [!tip] If Nottawasaga is murky
+> | Stream | Drive | Clears in | Species | Access |
+> |--------|-------|-----------|---------|--------|
+> | Boyne Valley PP (Shelburne) | ~1h 10 min | 1–2 days | Brook trout | Upper Boyne headwaters; trail walk-in, dense bush; small tight water — [Map](https://maps.google.com/?q=Boyne+Valley+Provincial+Park+Shelburne+Ontario) |
+> | Hockley Valley Nature Reserve (Mono) | ~1h | 1–2 days | Brook trout | Nottawasaga headwaters; trail walk-in — [Map](https://maps.google.com/?q=Hockley+Valley+Provincial+Nature+Reserve+Ontario) |
+
+---
+
+**Southwest area fallbacks**
+
+> [!tip] If Twenty Mile Creek / Lynn River / Big Creek are murky
+> | Stream | Drive | Clears in | Species | Access |
+> |--------|-------|-----------|---------|--------|
+> | Eramosa River (Rockwood) | ~1h 10 min from Toronto | 1–2 days | Brown trout, brook trout | Rockwood CA — limestone drainage clears ahead of clay-basin creeks — [Map](https://maps.google.com/?q=Rockwood+Conservation+Area+Ontario) |
+> | West Credit River (Cataract) | ~1h from Toronto | 1–2 days | Wild brown trout, brook trout | Forks of the Credit PP — C&R only — [Map](https://maps.google.com/?q=Forks+of+the+Credit+Provincial+Park+Ontario) |
+
+---
+
+**Worst case — everything blown out**
+
+> [!warning] If all rivers in the area are blown out
+> These limestone/escarpment-fed rivers clear 1–2 days ahead of clay-basin rivers regardless of area:
+>
+> | Stream | Drive | Clears in | Species | Access |
+> |--------|-------|-----------|---------|--------|
+> | Beaver River (Thornbury) | ~1h 40–50 min | 1–2 days | Steelhead, brown trout | Niagara Escarpment limestone; Biotactic live counter; fish ladder at Thornbury — [Map](https://maps.google.com/?q=Thornbury+Beaver+River+Ontario) |
+> | Noisy River (Dunedin) | ~1h 20 min | 1–2 days | Brook trout, rainbow trout | Provincial park; trail walk-in above Lavender Falls; rarely crowded — [Map](https://maps.google.com/?q=Noisy+River+Provincial+Park+Ontario) |
 
 ---
 
 6. Write the full recommendation to:
-   `Hobbies/20 Fishing/52 Fishing Locations/Go Fishing Here.md`
+   `Hobbies/20 Fishing/Go Fishing Here.md`
 
    **Archive then overwrite.** Steps:
 
-   a. If `52 Fishing Locations/Go Fishing Here.md` already exists:
+   a. If `Go Fishing Here.md` already exists:
       - Read it and extract the run date from the `## YYYY-MM-DD` heading at the top.
       - Save the entire current file (without the `# Go Fishing Here` heading) as
-        `Hobbies/20 Fishing/52 Fishing Locations/go fishing here history/YYYY-MM-DD Go Fishing Here.md`
+        `Hobbies/20 Fishing/fishing location skill/go fishing here history/YYYY-MM-DD Go Fishing Here.md`
         (using the date extracted above).
 
-   b. Write a clean new file at `52 Fishing Locations/Go Fishing Here.md` in this format:
+   b. Write a clean new file at `Go Fishing Here.md` in this format:
       ```
       # Go Fishing Here
 
