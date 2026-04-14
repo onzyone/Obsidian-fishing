@@ -1,6 +1,6 @@
 Stage all changes, commit with today's date, and push to remote for the specified vault.
 
-Usage: /vault-sync [onzyone|yaos-camping|yaos-hledger|stocks|fishing|claude-stocks|all]
+Usage: /vault-sync [onzyone|yaos-camping|yaos-hledger|stocks|fishing|claude-stocks|claude-config|all]
 
 > NOTE: This file exists in five vaults. If you update it, update all copies:
 > - onzyone: ~/.claude/commands/vault-sync.md (via onzyone vault)
@@ -18,7 +18,8 @@ Steps:
    - `stocks` → `~/Library/Mobile Documents/iCloud~md~obsidian/Documents/stocks`
    - `fishing` → `~/Library/Mobile Documents/iCloud~md~obsidian/Documents/fishing`
    - `claude-stocks` → `~/projects/onzyone/claude/stocks`
-   - `all` → sync all six in order: onzyone, yaos-camping, yaos-hledger, stocks, fishing, claude-stocks
+   - `claude-config` → `~/.claude`
+   - `all` → sync all seven in order: onzyone, yaos-camping, yaos-hledger, stocks, fishing, claude-stocks, claude-config
 3. If syncing `onzyone` (or `all`), run `/brew-list` first to refresh the installed packages list
 4. For each vault being synced, run:
 ```bash
