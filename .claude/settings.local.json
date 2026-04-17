@@ -31,7 +31,8 @@
       "WebFetch(domain:www.ontariotrails.on.ca)",
       "WebFetch(domain:www.ontario.ca)",
       "WebFetch(domain:www.ontariofishingforums.com)",
-      "WebFetch(domain:fishncanada.com)"
+      "WebFetch(domain:fishncanada.com)",
+      "Bash(cmux list-pane-surfaces *)"
     ]
   }
 }

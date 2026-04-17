@@ -179,15 +179,19 @@ Best numbers of the year. Key trigger: river temperature hitting ~60°F after su
 | River | Keep Fish? | Where You Can Keep | Notes |
 |---|---|---|---|
 | Humber River | ✅ | Lower river (below Hwy 407) | Standard limits; above 407 is closed sanctuary |
+| Mimico Creek | ✅ | Lake Ontario (mouth / Humber Bay) | Creek is **FMZ 16 default** (4th Sat Apr–Sept 30) — no legal fall run on creek; fish the mouth |
 | East Humber River | ✅ | All open sections | Standard limits; Apr 25 – Sept 30 (FMZ 16); brook trout upper sections |
 | Don River | ✅ | All open sections | Standard limits |
 | Rouge River | ✅ | All open sections | Standard limits |
 | Credit River | ⚠️ | **Lower only** (below Old Baseline Rd) | **Above Old Baseline Rd = C&R only**, artificial, barbless |
+| Mary Fix Creek | ✅ | Below Hwy 403 (Credit trib year-round) | Credit River tributary exception — **open all year** below Hwy 403; small urban creek |
+| Cooksville Creek | ✅ | Lake Ontario (mouth / Lakefront Promenade) | Creek is **FMZ 16 default** (4th Sat Apr–Sept 30) — no legal fall run on creek; fish the mouth |
 | West Credit River | ❌ | C&R only (entire river) | **Full C&R** — artificial lures, single barbless hook; wild brown & brook trout only |
 | Shaw's Creek | ❌ | C&R only (entire creek) | **Full C&R** — Credit watershed C&R zone; artificial lures, single barbless hook |
 | Eramosa River | ✅ | All open sections | Standard limits; FMZ 16; no steelhead/salmon (landlocked Grand watershed) |
 | Bronte Creek | ✅ | Below CPR track | CPR–407 section is sanctuary Oct–Apr |
 | 16 Mile Creek | ✅ | Below Hwy 2 (year-round); above Apr–Dec | Standard limits |
+| Fourteen Mile Creek | ⚠️ | Lake Ontario (mouth / Coronation Park) | Creek = FMZ 16 default season AND **Town of Oakville bylaw Oct 15–May 15 only**; narrow legal windows |
 | Duffins Creek | ✅ | Outside sanctuary window | **Closed Sept 1–Oct 14** lower river; otherwise standard limits |
 | Oshawa Creek | ✅ | All open sections | Standard limits |
 | Wilmot Creek | ✅ | All open sections | Standard limits |
@@ -199,6 +203,7 @@ Best numbers of the year. Key trigger: river temperature hitting ~60°F after su
 | Ganaraska River | ✅ | Outside sanctuaries | Standard limits; Hwy 401–Jocelyn St closed year-round; no night fishing |
 | Innisfil Creek | ✅ | All open sections | Standard limits; verify near Nottawasaga confluence Oct–Dec |
 | Nottawasaga River | ⚠️ | Below Boyne R. (lower + Georgian Bay section) | **Boyne–Pine section: rainbow trout C&R only** |
+| Sheldon Creek | ✅ | All open sections | Nottawasaga trib; coldwater brook trout upper reaches; Apr 25 – Sept 30 (FMZ 16) |
 | Mad River | ✅ | All open sections | Standard limits; verify near Nottawasaga confluence Oct–Dec |
 | Pine River | ✅ | All open sections | Standard limits; verify near Nottawasaga confluence |
 | Noisy River | ✅ | All open sections | Standard limits |
@@ -213,6 +218,7 @@ Best numbers of the year. Key trigger: river temperature hitting ~60°F after su
 | Soper Creek | ✅ | All open sections | Standard limits; verify ladder sanctuary |
 | Graham Creek | ✅ | All open sections | Small creek; standard limits |
 | Niagara River | ⚠️ | Verify slot/size rules | Complex border fishery; C&R recommended for trophy fish |
+| Indian Creek | ⚠️ | Verify with NPCA | Small Niagara Peninsula creek; FMZ 16 default season; limited public info — verify before trip |
 | Saugeen River | ✅ | All open sections | Standard limits |
 | Maitland River | ✅ | All open sections | Standard limits |
 | Beaver River | ✅ | All open sections | Standard limits |
@@ -234,6 +240,7 @@ Best numbers of the year. Key trigger: river temperature hitting ~60°F after su
 | [[Rivers/North/East Humber River\|East Humber River]] | 30–45 min | Brook trout (upper, resident), brown trout (resident), steelhead/salmon (seasonal) | Spring (Apr–May), Fall | ✅ | Apr 25 – Sept 30 (FMZ 16) | Oak Ridges Moraine spring-fed; clears faster than main Humber; brook trout upper sections; Boyd CA + Bindertwine Park access; low pressure |
 | [[Rivers/North/Innisfil Creek\|Innisfil Creek]] | 50–60 min | Brown trout, brook trout, steelhead (lower near Nottawasaga mouth) | Spring (Apr–Jun), Fall (Oct–Nov) | ✅ | Apr 25 – Sept 30 (FMZ 16); verify Nottawasaga sanctuary rules near confluence | **Fish ladder unconfirmed** — needs verification; low pressure; contact NVCA for access |
 | [[Rivers/North/Nottawasaga River\|Nottawasaga River]] | 1h 10–20 min | Wild steelhead, salmon | Oct – Dec, Apr – May | ⚠️ lower only | **Boyne confluence to Georgian Bay**: year-round · **Above Boyne**: Apr 25 – Sept 30 · Sanctuary Oct 1 – Dec 31 (Boyne–Pine section) (FMZ 16) | **C&R only for rainbow trout between Boyne R. and Pine R.** confluences |
+| [[Rivers/North/Sheldon Creek\|Sheldon Creek]] | 1h 15–25 min | Brook trout (upper — coldwater), brown trout, steelhead/salmon migrants (near Nottawasaga confluence) | Spring (Apr–Jun), Fall (migrants) | ✅ | Apr 25 – Sept 30 (FMZ 16); verify Nottawasaga confluence sanctuary rules Oct 1 – Dec 31 | Niagara Escarpment spring source; one of the coldest/cleanest streams in Nottawasaga watershed; much of creek on private land — road-crossing access |
 | [[Rivers/North/Mad River\|Mad River]] | 1h 20–30 min | Steelhead, brown trout, brook trout | Spring, Fall | ✅ | Apr 25 – Sept 30 (FMZ 16) | Standard limits; check Nottawasaga confluence sanctuary Oct–Dec |
 | [[Rivers/North/Pine River\|Pine River]] | 1h 20–30 min | Wild brown trout, brook trout | Spring, Summer | ✅ | Apr 25 – Sept 30 (FMZ 16) | Standard limits; verify near Nottawasaga confluence |
 | [[Rivers/North/Noisy River\|Noisy River]] | 1h 20–30 min | Wild brown trout, brook trout | Spring, Summer | ✅ | Apr 25 – Sept 30 (FMZ 16) | Standard limits |
@@ -249,8 +256,12 @@ Best numbers of the year. Key trigger: river temperature hitting ~60°F after su
 
 | River / Creek | Drive (est.) | Target Species | Best Season | Can Keep? | MNR Open Season (FMZ) | Special Rules |
 | -------------------------------------------------------- | -------------- | ------------------------------ | ------------------ | ------------- | --------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
+| [[Rivers/West/Mimico Creek\|Mimico Creek]] | 15–20 min | Chinook salmon (fall at mouth), brown trout, rainbow, smallmouth bass, pike, carp (mouth) | Fall (mouth) · warmwater summer | ✅ mouth (lake) | Creek: 4th Sat Apr – Sept 30 (FMZ 16 default — **not a named Lake Ontario trib exception**) | Primary fishery is the **mouth at Humber Bay Park**, not the creek; urban, stormwater-driven |
 | [[Rivers/West/Etobicoke Creek\|Etobicoke Creek]] | 20–30 min | Steelhead, Chinook salmon, brown trout | Spring (Mar–May), Fall (Oct–Nov) | ✅ | Year-round lower; Apr 25 – Dec 31 upper (FMZ 16) | Small urban creek; best access at Marie Curtis Park mouth; poor water clarity after rain |
+| [[Rivers/West/Cooksville Creek\|Cooksville Creek]] | 20–25 min | Chinook salmon (fall at mouth), brown trout, rainbow | Fall (mouth) | ✅ mouth (lake) | Creek: 4th Sat Apr – Sept 30 (FMZ 16 default — not a named trib exception) | Fish the **mouth at R.K. McMillan Park / Lakefront Promenade**; urban creek, blows out fast |
+| [[Rivers/West/Mary Fix Creek\|Mary Fix Creek]] | 25–30 min | Chinook salmon (fall), creek chub, carp | Fall | ✅ | **Year-round below Hwy 403** (Credit River tributary exception — FMZ 16) | Small Credit River trib; empties into Credit at CN bridge in Port Credit; minor fall salmon push |
 | [[Rivers/West/Credit River\|Credit River]] | 30–40 min | Steelhead, brown trout, salmon | Year-round (lower) | ⚠️ lower only | **Hwy 403 to lake**: year-round · **Upper** (above Old Baseline Rd): Apr 25 – Sept 30 (FMZ 16) | **C&R only above Old Baseline Rd**; artificial lures; single barbless hook |
+| [[Rivers/West/Fourteen Mile Creek\|Fourteen Mile Creek]] | 30–35 min | Chinook salmon (fall at mouth), white sucker | Fall (mouth) | ⚠️ mouth only | Creek: 4th Sat Apr – Sept 30 (FMZ 16 default); **Town of Oakville bylaw Oct 15–May 15 only** — narrow legal windows | ESA valley; small; alternative when Bronte/16 Mile are crowded or blown |
 | [[Rivers/West/West Credit River\|West Credit River]] | 45–50 min | Wild brown trout, wild brook trout | Spring–Summer (Apr–Jun peak) | ❌ C&R only | Apr 25 – Sept 30 (FMZ 16) — **closed Oct 1 – Apr 24** | **Full C&R, artificial lures only, single barbless hook**; tributary of Credit joining near Cataract/Belfountain; flows through Erin |
 | [[Rivers/West/Bronte Creek\|Bronte Creek]] | 40–45 min | Steelhead, brown trout, salmon | Spring, Fall | ✅ below CPR | **Lower** (Lakeshore to lake): year-round · **Mid**: Apr 25 – Dec 31 · CPR to Hwy 407: sanctuary Oct 1 – Dec 31 (FMZ 16) | Standard limits below CPR track |
 | [[Rivers/West/16 Mile Creek\|16 Mile Creek]] | 45 min | Steelhead, salmon | Spring, Fall | ✅ | **Lower** (Lakeshore to lake): year-round · **Above**: Apr 25 – Dec 31 (FMZ 16) | Sanctuary Hwy 2–407 Oct 1 – Apr |
@@ -298,6 +309,7 @@ Best numbers of the year. Key trigger: river temperature hitting ~60°F after su
 |---|---|---|---|---|---|---|
 | [[Rivers/Southwest/Niagara River\|Niagara River]] | ~1h 35–45 min | **Trophy steelhead**, brown trout, Chinook salmon, lake trout | Spring (Mar–May), Fall (Oct–Dec) | ⚠️ verify | FMZ 16; year-round lower gorge; complex slot rules — verify annually | Ontario/NY border fishery; trophy 10–15 lb steelhead; Niagara Glen gorge access; steep terrain |
 | [[Rivers/Southwest/Twenty Mile Creek\|Twenty Mile Creek]] (Jordan / Jordan Harbour) | ~55–65 min | **Steelhead**, Chinook salmon, brown trout, northern pike, rock bass | Spring (Mar–May), Fall (Oct–Nov) | ✅ | **Open all year** (QEW to Lake Ontario section): no close time for rainbow trout, brown trout; S-5, C-2. Above QEW: standard season. | Lake Ontario tributary (not Lake Erie). Flows into Jordan Harbour. FMZ 16. CA: NPCA. Good steelhead run, lower pressure than Credit or Humber. Access at Jordan Harbour CA, parking off Lakeshore Rd. |
+| [[Rivers/Southwest/Indian Creek\|Indian Creek]] (Niagara Peninsula) | ~1h 35–45 min | Chinook salmon (fall), white sucker, creek chub; rainbow possible | Fall | ⚠️ verify | FMZ 16 default (4th Sat Apr – Sept 30); **not a named Lake Ontario trib exception** — verify exact section with NPCA | **Location / watershed needs verification** with NPCA; limited public info; minor secondary option vs. Twenty Mile or Niagara River |
 
 ---
 
