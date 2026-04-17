@@ -29,10 +29,14 @@
 
 ## Access Points
 
-| Location | Maps |
-|---|---|
-| Road allowances near Shelburne (upper Boyne) — brown trout and brook trout water | [Google Maps](https://www.google.com/maps/search/?api=1&query=Boyne+River+Shelburne+Ontario) |
-| Near Alliston at the Nottawasaga confluence — staging steelhead in fall | [Google Maps](https://www.google.com/maps/search/?api=1&query=Boyne+River+Alliston+Ontario+Nottawasaga) |
+> Private land is a significant challenge. ⚠️ Dense bush and poison ivy along much of the river — prepare accordingly.
+
+| Location | Notes | Maps |
+|---|---|---|
+| Alliston — in-town access | Fish right in town for steelhead, brown trout, and salmon during open season; good public access along river through town | [Google Maps](https://www.google.com/maps/search/?api=1&query=Boyne+River+Alliston+Ontario) |
+| Earl Rowe Provincial Park | Good access to middle/lower Boyne sections | [Google Maps](https://www.google.com/maps/search/?api=1&query=Earl+Rowe+Provincial+Park+Alliston+Ontario) |
+| Boyne Valley Provincial Park (upper river) | Upper Boyne brook and brown trout water; hike required — dense bush, rocky terrain, poison ivy present | [Google Maps](https://www.google.com/maps/search/?api=1&query=Boyne+Valley+Provincial+Park+Ontario) |
+| Road allowances near Shelburne (upper) | Upper brook trout and brown trout water | [Google Maps](https://www.google.com/maps/search/?api=1&query=Boyne+River+Shelburne+Ontario) |
 
 > Contact Nottawasaga Valley Conservation Authority (NVCA) for current public access maps.
 

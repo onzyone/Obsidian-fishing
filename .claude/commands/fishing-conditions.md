@@ -41,18 +41,18 @@ Check live weather and river conditions, then recommend the best day and river f
 
 3. Run Phase 1 — launch all 3 agents in parallel splits via cmux:
    ```bash
-   FC_DIR="/Users/onzyone/Library/Mobile Documents/iCloud~md~obsidian/Documents/fishing/fishing location skill/fishing-conditions"
+   SKILL_DIR="$HOME/projects/onzyone/claude/fishing"
    WEATHER=$(cmux new-split right | awk '{print $2}')
    WATER=$(cmux new-split down --surface "$WEATHER" | awk '{print $2}')
    FISH=$(cmux new-split down --surface "$WATER" | awk '{print $2}')
    cmux rename-tab --surface "$WEATHER" "Weather Agent"
    cmux rename-tab --surface "$WATER" "Water Agent"
    cmux rename-tab --surface "$FISH" "Fish Agent"
-   cmux send --surface "$WEATHER" "bash '$FC_DIR/run-weather-agent.sh'"
+   cmux send --surface "$WEATHER" "bash '$SKILL_DIR/run-weather-agent.sh'"
    cmux send-key --surface "$WEATHER" Enter
-   cmux send --surface "$WATER" "bash '$FC_DIR/run-water-agent.sh'"
+   cmux send --surface "$WATER" "bash '$SKILL_DIR/run-water-agent.sh'"
    cmux send-key --surface "$WATER" Enter
-   cmux send --surface "$FISH" "bash '$FC_DIR/run-fish-agent.sh'"
+   cmux send --surface "$FISH" "bash '$SKILL_DIR/run-fish-agent.sh'"
    cmux send-key --surface "$FISH" Enter
    echo "WEATHER=$WEATHER WATER=$WATER FISH=$FISH"
    ```
@@ -66,7 +66,7 @@ Check live weather and river conditions, then recommend the best day and river f
    - `/Users/onzyone/Library/Mobile Documents/iCloud~md~obsidian/Documents/fishing/fishing location skill/fishing-conditions-tmp/fish-output.md`
 
    Then follow the instructions in:
-   `/Users/onzyone/Library/Mobile Documents/iCloud~md~obsidian/Documents/fishing/fishing location skill/fishing-conditions/conditions-lead.md`
+   `$HOME/projects/onzyone/claude/fishing/conditions-lead.md`
 
    The Lead will archive the previous run to `go fishing here history/` and write
    the new recommendation to `Go Fishing Here.md` automatically.

@@ -24,10 +24,11 @@
 
 ## Access Points
 
-| Location | Maps |
-|---|---|
-| Creemore area — general access | [Google Maps](https://www.google.com/maps/search/?api=1&query=Mad+River+Creemore+Ontario) |
-| Avening / Duntroon area | [Google Maps](https://www.google.com/maps/search/?api=1&query=Mad+River+Avening+Ontario) |
+| Location | Notes | Maps |
+|---|---|---|
+| Creemore — park near Airport Road | Wide, easy-to-fish section; good for fly rod; rocky with scattered pools and pockets | [Google Maps](https://www.google.com/maps/search/?api=1&query=Mad+River+Airport+Road+Creemore+Ontario) |
+| Avening Conservation Area | In Avening village; best May–June access point; resident trout + spring steelhead | [Google Maps](https://www.google.com/maps/search/?api=1&query=Avening+Conservation+Area+Mad+River+Ontario) |
+| Duntroon area road allowances | Rural road crossings; research current points before visiting | [Google Maps](https://www.google.com/maps/search/?api=1&query=Mad+River+Duntroon+Ontario) |
 
 ## MNR Brook Trout Data
 

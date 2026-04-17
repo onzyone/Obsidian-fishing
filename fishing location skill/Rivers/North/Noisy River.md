@@ -23,10 +23,11 @@
 
 ## Access Points
 
-| Location | Maps |
-|---|---|
-| Dunedin area | [Google Maps](https://www.google.com/maps/search/?api=1&query=Noisy+River+Dunedin+Ontario) |
-| Creemore area | [Google Maps](https://www.google.com/maps/search/?api=1&query=Noisy+River+Creemore+Ontario) |
+| Location | Notes | Maps |
+|---|---|---|
+| Dunedin Community Park — 8983 County Rd 9 | Small lot, picnic area right on river; easiest access to the Noisy River | [Google Maps](https://www.google.com/maps/search/?api=1&query=8983+County+Road+9+Dunedin+Ontario) |
+| Noisy River Provincial Nature Reserve | Off Simcoe County Rd 9; hike required to reach creek — low pressure, good brook trout water | [Google Maps](https://www.google.com/maps/search/?api=1&query=Noisy+River+Provincial+Nature+Reserve+Ontario) |
+| Creemore area (near Mad River confluence) | Road access near town; Noisy merges with Mad just upstream of Creemore | [Google Maps](https://www.google.com/maps/search/?api=1&query=Noisy+River+Creemore+Ontario) |
 
 ## MNR Brook Trout Data
 

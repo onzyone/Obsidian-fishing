@@ -24,10 +24,15 @@
 
 ## Access Points
 
-| Location | Maps |
-|---|---|
-| Multiple parks and trail access through Guelph along the river | [Google Maps](https://www.google.com/maps/search/?api=1&query=Speed+River+Guelph+Ontario) |
-| Hanlon Creek confluence area | [Google Maps](https://www.google.com/maps/search/?api=1&query=Hanlon+Creek+Guelph+Ontario) |
+> Below Guelph dam: **warmwater only** (bass, pike, carp, panfish) — no migratory or resident trout. Above Guelph Lake CA: brook trout, smallmouth bass, white sucker. Steelhead were extirpated below dam decades ago; restoration efforts ongoing as of 2026 but no confirmed re-establishment.
+
+| Location | Notes | Maps |
+|---|---|---|
+| Riverside Park (Speedvale Ave → Woodlawn Ave) | Trail on both sides of river through this stretch — most accessible urban section; brown trout hold in deep bends through town | [Google Maps](https://www.google.com/maps/search/?api=1&query=Riverside+Park+Speed+River+Guelph+Ontario) |
+| Guelph Lake Conservation Area | GRCA; upper Speed access above lake; brook trout and smallmouth; paid day-use lot | [Google Maps](https://www.google.com/maps/search/?api=1&query=Guelph+Lake+Conservation+Area+Ontario) |
+| Bridge crossings through Guelph (Stone Rd, Eastview Rd) | Road-allowance access; slow water through urban sections — fish deep bends | [Google Maps](https://www.google.com/maps/search/?api=1&query=Speed+River+Stone+Road+Guelph+Ontario) |
+| Hanlon Creek confluence | Below confluence; warmwater species | [Google Maps](https://www.google.com/maps/search/?api=1&query=Hanlon+Creek+Guelph+Ontario) |
+| Speedside (upper river, north toward Erin) | Roadside pull-offs; brook trout water in upper Speed above Guelph Lake | [Google Maps](https://www.google.com/maps/search/?api=1&query=Speedside+Ontario+Speed+River) |
 
 ## MNR Brook Trout Data
 

@@ -28,10 +28,12 @@
 
 | Location | Notes | Maps |
 |---|---|---|
-| Baseline Road West — south parking lot | Main access point, lower creek | [Google Maps](https://www.google.com/maps/search/?api=1&query=Bowmanville+Creek+Baseline+Road+West+Clarington+Ontario) |
-| Roenigk Drive — north parking lot | Alternative lower access | [Google Maps](https://www.google.com/maps/search/?api=1&query=Roenigk+Drive+Bowmanville+Ontario) |
+| Baseline Road West — south parking lot | **Main access.** North side of Baseline Rd, 140m east of Spry Ave. Connects to trail both directions. | [Google Maps](https://www.google.com/maps/search/?api=1&query=Bowmanville+Creek+Baseline+Road+West+Clarington+Ontario) |
+| Accessible fishing trail (Spry Ave → Goodyear Dam) | **Prime fishing zone.** Wheelchair-accessible gravel path along creek between Spry Ave and south of Goodyear Dam — fish congregate here. Reach from Baseline Rd lot. | [Google Maps](https://www.google.com/maps/search/?api=1&query=Spry+Avenue+Bowmanville+Ontario) |
+| Nelson Parkette — Nelson Street | Trail entrance from residential area; mid-section access | [Google Maps](https://www.google.com/maps/search/?api=1&query=Nelson+Street+Bowmanville+Ontario) |
+| Roenigk Drive — north parking lot | Paved parking, paved trail; closest lot to fish ladder — **do not fish at or near the ladder (sanctuary)** | [Google Maps](https://www.google.com/maps/search/?api=1&query=Roenigk+Drive+Bowmanville+Ontario) |
 | Jackman Road — upper access | Bowmanville Valley Conservation Area; upper creek brook trout & resident fish | [Google Maps](https://www.google.com/maps/search/?api=1&query=Jackman+Road+Bowmanville+Valley+Conservation+Area+Ontario) |
-| Fish Ladder | ~1 km north of Baseline Rd on Bowmanville Valley Trail — worth watching during fall run | [Google Maps](https://www.google.com/maps/search/?api=1&query=Bowmanville+Creek+Fish+Ladder+Ontario) |
+| Fish Ladder (Goodyear Dam) | **No fishing** — sanctuary zone around fish ladder. Worth watching during fall run only. ~1 km north of Baseline Rd lot. | [Google Maps](https://www.google.com/maps/search/?api=1&query=Bowmanville+Creek+Fish+Ladder+Ontario) |
 
 ## MNR Brook Trout Data
 

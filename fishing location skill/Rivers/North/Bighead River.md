@@ -27,10 +27,14 @@
 
 ## Access Points
 
-| Location | Maps |
-|---|---|
-| Meaford harbour and river mouth area — primary steelhead access | [Google Maps](https://www.google.com/maps/search/?api=1&query=Meaford+Harbour+Bighead+River+Ontario) |
-| Road allowances along Bighead River Rd (Grey Rd 12 area) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Bighead+River+Grey+Road+12+Ontario) |
+> Much of the river runs through private land — public access limited to locations below.
+
+| Location | Notes | Maps |
+|---|---|---|
+| Meaford harbour / river mouth | Primary steelhead access; rocky fast water near mouth; fish move through quickly into pools | [Google Maps](https://www.google.com/maps/search/?api=1&query=Meaford+Harbour+Bighead+River+Ontario) |
+| Bighead River Conservation Area | Upstream from Meaford; additional public access; fantastic pocket water fishing | [Google Maps](https://www.google.com/maps/search/?api=1&query=Bighead+River+Conservation+Area+Meaford+Ontario) |
+| Trout Hollow Trail (Grey Sauble CA) | 10.8 km trail through woodlands, meadows, and river valley — walk-in access to multiple stretches | [Google Maps](https://www.google.com/maps/search/?api=1&query=Trout+Hollow+Trail+Bighead+River+Ontario) |
+| Road allowances (Bighead River Rd / Grey Rd 12 area) | Bridge crossings with road-allowance access; surrounding land mostly private | [Google Maps](https://www.google.com/maps/search/?api=1&query=Bighead+River+Grey+Road+12+Ontario) |
 
 ## Links
 

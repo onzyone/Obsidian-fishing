@@ -25,10 +25,12 @@
 
 ## Access Points
 
-| Location | Maps |
-|---|---|
-| Local road allowances — primary access method; research current points before visiting | [Google Maps](https://www.google.com/maps/search/?api=1&query=Graham+Creek+Northumberland+County+Ontario) |
-| Local conservation area access — verify with Ganaraska Region CA or Central Lake Ontario CA | [Google Maps](https://www.google.com/maps/search/?api=1&query=Graham+Creek+Ontario) |
+> Upper sections predominantly private farmland — landowner permission required. Lower creek (near Newcastle mouth) is the only confirmed public access.
+
+| Location | Notes | Maps |
+|---|---|---|
+| Creek mouth — Newcastle | Most fished section; slow water near lake with structure (wood); steelhead and salmon push in from lake; road-allowance access at mouth | [Google Maps](https://www.google.com/maps/search/?api=1&query=Graham+Creek+Newcastle+Ontario+lake) |
+| Road allowances at bridge crossings | Primary upstream access; research specific crossings before visiting; Clarington Fishing Map PDF shows named road crossings | [Google Maps](https://www.google.com/maps/search/?api=1&query=Graham+Creek+Northumberland+County+Ontario) |
 
 ## Links
 

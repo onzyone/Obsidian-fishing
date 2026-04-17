@@ -29,10 +29,13 @@
 
 ## Access Points
 
-| Location | Maps |
-|---|---|
-| Marie Curtis Park (river mouth) — best public access; parking at park; straddles Etobicoke/Mississauga boundary | [Google Maps](https://www.google.com/maps/search/?api=1&query=Marie+Curtis+Park+Etobicoke+Ontario) |
-| Rexdale area (upstream) — some road allowance access; research current access points | [Google Maps](https://www.google.com/maps/search/?api=1&query=Etobicoke+Creek+Rexdale+Ontario) |
+> Creek flows Caledon → Brampton → Mississauga → Lake Ontario. Upper Brampton/Caledon sections better character for trout than the urbanized lower reaches.
+
+| Location | Notes | Maps |
+|---|---|---|
+| Marie Curtis Park (river mouth) | Best public access; parking at park; straddles Etobicoke/Mississauga boundary; fresh-run fish enter here | [Google Maps](https://www.google.com/maps/search/?api=1&query=Marie+Curtis+Park+Etobicoke+Ontario) |
+| Rexdale area (upstream) | Some road allowance access through urban sections | [Google Maps](https://www.google.com/maps/search/?api=1&query=Etobicoke+Creek+Rexdale+Ontario) |
+| Brampton / upper sections | Upper creek has better water character (resembles upper Credit); more productive for resident trout; research road allowance crossings on Brampton/Caledon roads | [Google Maps](https://www.google.com/maps/search/?api=1&query=Etobicoke+Creek+Brampton+Ontario) |
 
 ## Links
 

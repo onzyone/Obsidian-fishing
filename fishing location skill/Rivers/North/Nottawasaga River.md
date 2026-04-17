@@ -31,13 +31,15 @@
 
 ## Access Points
 
-| Location                                                                                                                                                       | Maps                                                                                                |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
-| Wasaga Beach (river mouth into Georgian Bay) — **best public walk-up access**; parking available near the beach/river mouth; ~1h from Etobicoke via Hwy 400/26 | [Google Maps](https://www.google.com/maps/search/?api=1&query=Wasaga+Beach+Nottawasaga+River+mouth) |
-| Angus area (lower river) — some public sections                                                                                                                | [Google Maps](https://www.google.com/maps/search/?api=1&query=Angus+Ontario+Nottawasaga+River)      |
-| Various township road allowances — research needed                                                                                                             | [Google Maps](https://www.google.com/maps/search/?api=1&query=Nottawasaga+River+Ontario)            |
+> Most of the river downstream of Alliston is private property. Public access is limited to the locations below. Contact NVCA for current maps.
 
-> Contact Nottawasaga Valley Conservation Authority for current public access maps.
+| Location | Notes | Maps |
+|---|---|---|
+| Wasaga Beach (river mouth) | **Best public walk-up access.** Parking near beach/river mouth; wide flat water; fish hold here year-round in open-water sections in winter | [Google Maps](https://www.google.com/maps/search/?api=1&query=Wasaga+Beach+Nottawasaga+River+mouth) |
+| Edenvale Conservation Area | NVCA-managed; picnic area; good mid-river access to the Nottawasaga | [Google Maps](https://www.google.com/maps/search/?api=1&query=Edenvale+Conservation+Area+Ontario+Nottawasaga) |
+| Angus — Alma Street field | Field access across from Alma St; can drive to within ~100m of river; some public sections near town | [Google Maps](https://www.google.com/maps/search/?api=1&query=Alma+Street+Angus+Ontario+Nottawasaga+River) |
+| McKinnon Road (Minesing Wetlands) | ⚠️ **NVCA permit required** — permit needed to fish this section of the Minesing Wetlands; contact NVCA before visiting | [Google Maps](https://www.google.com/maps/search/?api=1&query=McKinnon+Road+Minesing+Nottawasaga+River) |
+| Township road allowances | Research current crossing points before visiting | [Google Maps](https://www.google.com/maps/search/?api=1&query=Nottawasaga+River+Ontario) |
 
 ## Links
 

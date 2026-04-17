@@ -28,9 +28,13 @@
 
 ## Access Points
 
-| Location | Maps |
-|---|---|
-| Newcastle — lower river public access near Lake Ontario | [Google Maps](https://www.google.com/maps/search/?api=1&query=Wilmot+Creek+Newcastle+Ontario) |
+> Public access runs from Lake Ontario north to approximately Hwy 115. Above Hwy 115 is mostly private — do not access.
+
+| Location | Notes | Maps |
+|---|---|---|
+| Samuel Wilmot Nature Area | Cobbledick Rd south of Hwy 2, Newcastle; two parking lots (east + west — west lot has had seasonal closures, use east lot as alternate); 2.1 km trails, viewing platform, steel footbridge over creek; primary access to lower creek | [Google Maps](https://www.google.com/maps/search/?api=1&query=Samuel+Wilmot+Nature+Area+Newcastle+Ontario) |
+| Highway 2 Bridge | Mid-section access between mouth and upper reaches; road-allowance parking | [Google Maps](https://www.google.com/maps/search/?api=1&query=Wilmot+Creek+Highway+2+Newcastle+Ontario) |
+| Thurn Park Conservation Area | Upper end of public water; dedicated parking lot; fishing both sides of stream; rugged path along ~400m of creek | [Google Maps](https://www.google.com/maps/search/?api=1&query=Thurn+Park+Conservation+Area+Newcastle+Ontario) |
 
 ## MNR Brook Trout Data
 
@@ -42,7 +46,6 @@
 
 - Sources: FSDD, HABPROG, CMN, Durham Region (1992)
 - **Map pin:** [View on Google Maps](https://www.google.com/maps/search/?api=1&query=43.9000,-78.6000)
-- **Closest parking:** Thurn Park Conservation Area — has a dedicated parking lot, fishing both sides of stream — [Google Maps](https://www.google.com/maps/search/?api=1&query=Thurn+Park+Conservation+Area+Newcastle+Ontario); also Samuel Wilmot Nature Area (Clarington) at river mouth — [Google Maps](https://www.google.com/maps/search/?api=1&query=Samuel+Wilmot+Nature+Area+Newcastle+Ontario)
 
 ## Links
 

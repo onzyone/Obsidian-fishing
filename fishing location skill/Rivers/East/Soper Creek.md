@@ -29,10 +29,11 @@
 
 ## Access Points
 
-| Location | Maps |
-|---|---|
-| Soper Creek Conservation Area / Bowmanville Waterfront (near mouth) — primary public access | [Google Maps](https://www.google.com/maps/search/?api=1&query=Soper+Creek+Bowmanville+Waterfront+Ontario) |
-| Road allowance access upstream — research current points before visiting | [Google Maps](https://www.google.com/maps/search/?api=1&query=Soper+Creek+Bowmanville+Ontario) |
+| Location | Notes | Maps |
+|---|---|---|
+| Soper Creek Conservation Area / Bowmanville Waterfront | Near mouth — primary public access; fresh-run fish | [Google Maps](https://www.google.com/maps/search/?api=1&query=Soper+Creek+Bowmanville+Waterfront+Ontario) |
+| Soper Creek Trail Park (Simpson Ave) | Off Simpson Ave, Bowmanville; paved parking, washrooms; connects to Soper Creek Trail (21+ km of trails along creek) — primary corridor for reaching mid-creek on foot | [Google Maps](https://www.google.com/maps/search/?api=1&query=Soper+Creek+Trail+Park+Simpson+Avenue+Bowmanville+Ontario) |
+| Road allowances upstream | Research current crossing points before visiting | [Google Maps](https://www.google.com/maps/search/?api=1&query=Soper+Creek+Bowmanville+Ontario) |
 
 ## Links
 

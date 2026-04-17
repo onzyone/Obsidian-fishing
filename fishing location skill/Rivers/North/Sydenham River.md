@@ -30,11 +30,14 @@
 
 ## Access Points
 
-| Location | Maps |
-|---|---|
-| Harrison Park (Owen Sound) — municipal park with river access; parking available | [Google Maps](https://www.google.com/maps/search/?api=1&query=Harrison+Park+Owen+Sound+Ontario) |
-| River mouth at Owen Sound harbour | [Google Maps](https://www.google.com/maps/search/?api=1&query=Owen+Sound+Harbour+Sydenham+River+Ontario) |
-| Road allowances along Grey Rd 1 and Concession roads upstream | [Google Maps](https://www.google.com/maps/search/?api=1&query=Sydenham+River+Grey+Road+1+Ontario) |
+> Steelhead blocked by Inglis Falls — all migratory fish staging in lower half of river only (below falls). Above dam opens June 1 (special regulation — verify annually).
+
+| Location | Notes | Maps |
+|---|---|---|
+| River mouth — Owen Sound harbour | Fresh-run fish first staging area | [Google Maps](https://www.google.com/maps/search/?api=1&query=Owen+Sound+Harbour+Sydenham+River+Ontario) |
+| Harrison Park | Municipal park; **free parking**; trail access leads into park from river; between fish ladder and harbour | [Google Maps](https://www.google.com/maps/search/?api=1&query=Harrison+Park+Owen+Sound+Ontario) |
+| Mill Dam & Fish Ladder | **Free parking** at Visitor Info Centre, Mill Dam & Fish Ladder, and Grey-Sauble CA office; 1967-built fish ladder (first in Ontario); fish stack below dam before ladder — key holding area; lower river year-round open | [Google Maps](https://www.google.com/maps/search/?api=1&query=Sydenham+River+Mill+Dam+Owen+Sound+Ontario) |
+| Grey Rd 1 and Concession road allowances | Upstream access; above dam opens June 1 | [Google Maps](https://www.google.com/maps/search/?api=1&query=Sydenham+River+Grey+Road+1+Ontario) |
 
 ## Links
 

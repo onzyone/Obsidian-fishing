@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hidden Gems & Walk-In Strategy.md",
+                "file": "fishing location skill/Add these rivers.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hidden Gems & Walk-In Strategy"
+              "title": "Add these rivers"
             }
           }
         ]
@@ -185,6 +185,10 @@
   },
   "active": "60e5121208731728",
   "lastOpenFiles": [
+    "Useful Urls.md",
+    "Untitled.md",
+    "Blow out.md",
+    "Hidden Gems & Walk-In Strategy.md",
     "fishing location skill/go fishing here history/2026-04-13c Go Fishing Here.md",
     "fishing location skill/fishing-conditions-tmp/fish-output.md",
     "fishing location skill/fishing-conditions-tmp/fish-prompt.txt",
@@ -210,10 +214,6 @@
     "fishing location skill/Rivers/Southwest/Twenty Mile Creek.md",
     "fishing location skill/Rivers/Southwest/Niagara River.md",
     "fishing location skill/Rivers/Southwest/Nanticoke Creek.md",
-    "fishing location skill/Rivers/Southwest/Lynn River.md",
-    "fishing location skill/Rivers/North/Maitland River.md",
-    "fishing location skill/Rivers/Southwest/Kettle Creek.md",
-    "fishing location skill/Rivers/Southwest/Big Otter Creek.md",
     "fishing location skill/fishing-conditions/run-water-agent.sh",
     "fishing location skill/fishing-conditions/run-weather-agent.sh",
     "fishing location skill/fishing-conditions/run-fish-agent.sh",

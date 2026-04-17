@@ -1,0 +1,212 @@
+{
+  "main": {
+    "id": "c5aeef69f6301d90",
+    "type": "split",
+    "children": [
+      {
+        "id": "2ebb9e5e10a88e89",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "62d2ce387877064f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Go Fishing Here.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Go Fishing Here"
+            }
+          },
+          {
+            "id": "9e9a8812156d22c2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hidden Gems & Walk-In Strategy.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Hidden Gems & Walk-In Strategy"
+            }
+          },
+          {
+            "id": "dcb8456babf847cb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Blow out.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Blow out"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1dad71491f40cdd5",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "40d17baab1dd4cbe",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "700093fcfa9cf527",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "c261520613f756e7",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "7a10c7f21d6416f1",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-archive",
+          "title": "All properties"
+        }
+      },
+      {
+        "id": "16c49b60decc6a9c",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "49f33407149ae490",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "48ad8c56630ef783",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "772520aa53a62b2e",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "166b3c017c9f54d0",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "dcb8456babf847cb",
+  "lastOpenFiles": [
+    "CLAUDE.md",
+    "Hidden Gems & Walk-In Strategy.md",
+    "Seasonal Fishing Plan.md",
+    "Useful Urls.md",
+    "Go Fishing Here.md",
+    "Blow out.md",
+    "fishing location skill/fishing-conditions-tmp/water-prompt.txt",
+    "fishing location skill/fishing-conditions-tmp/weather-output.md",
+    "fishing location skill/fishing-conditions-tmp/fish-prompt.txt",
+    "fishing location skill/fishing-conditions-tmp/water-output.md",
+    "fishing location skill/fishing-conditions-tmp/weather-prompt.txt",
+    "fishing location skill/fishing-conditions-tmp/fish-output.md"
+  ]
+}

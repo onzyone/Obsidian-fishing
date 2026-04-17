@@ -1,0 +1,16 @@
+{
+  "hooks": {
+    "SessionStart": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "async": true,
+            "statusMessage": "Opening dev splits...",
+            "command": "bash -c '\nif [ -z \"$CMUX_WORKSPACE_ID\" ]; then\n  echo \"{\\\"systemMessage\\\": \\\"\u26a0\ufe0f cmux not detected (CMUX_WORKSPACE_ID not set). Startup splits skipped.\\\"}\"\n  exit 0\nfi\n\n# Skip if other surfaces already exist (tools already running)\nOTHER_SURFACES=$(cmux list-pane-surfaces 2>/dev/null | grep -v \"^$CMUX_SURFACE_ID$\" | wc -l | tr -d \" \")\nif [ \"$OTHER_SURFACES\" -gt 0 ]; then\n  pgrep -x ollama >/dev/null || ollama serve &>/tmp/ollama.log &\n  exit 0\nfi\n\n# Right column stack: lazygit / btop / ollama\nSURFACE=$(cmux new-split right | awk \"{print \\$2}\")\ncmux send --surface \"$SURFACE\" \"lazygit\"\ncmux send-key --surface \"$SURFACE\" Enter\n\nSURFACE2=$(cmux new-split down --surface \"$SURFACE\" | awk \"{print \\$2}\")\ncmux send --surface \"$SURFACE2\" \"btop\"\ncmux send-key --surface \"$SURFACE2\" Enter\n\nSURFACE3=$(cmux new-split down --surface \"$SURFACE2\" | awk \"{print \\$2}\")\ncmux send --surface \"$SURFACE3\" \"watch -n2 ollama ps\"\ncmux send-key --surface \"$SURFACE3\" Enter\n\npgrep -x ollama >/dev/null || ollama serve &>/tmp/ollama.log &\n'"
+          }
+        ]
+      }
+    ]
+  }
+}

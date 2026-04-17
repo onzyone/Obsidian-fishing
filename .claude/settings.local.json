@@ -17,7 +17,21 @@
       "Bash(sed -i '' 's|52 Fishing Locations/go fishing here history|fishing location skill/go fishing here history|g' .claude/commands/fishing-conditions.md)",
       "Bash(sed -i '' 's|52 Fishing Locations|fishing location skill|g' .claude/commands/fishing-conditions.md)",
       "Bash(sed -i '' 's|52 Fishing Locations|fishing location skill|g' CLAUDE.md)",
-      "Bash(sed -i '' 's|\\\\.\\\\./52 Fishing Locations/fishing-conditions/agent-team|../fishing-conditions/agent-team|g' 'fishing location skill/Skills/fishing-conditions.md')"
+      "Bash(sed -i '' 's|\\\\.\\\\./52 Fishing Locations/fishing-conditions/agent-team|../fishing-conditions/agent-team|g' 'fishing location skill/Skills/fishing-conditions.md')",
+      "Bash(python3:*)",
+      "Bash(rm -rf \"/Users/onzyone/.claude/projects/-Users-onzyone--paperclip-instances-default-projects-2eebec8d-a24d-427a-b178-854dfece7214-281d6f68-95f2-4de2-a23b-7c16b2c22d53--default\")",
+      "Bash(rm -rf \"/Users/onzyone/.claude/projects/-Users-onzyone--paperclip-instances-default-workspaces-5928ee72-07db-4b86-8e12-6768ec138648\")",
+      "Bash(rm -rf \"/Users/onzyone/.claude/projects/-Users-onzyone--paperclip-instances-default-workspaces-79d7d68d-a3f7-41ef-9f97-625963b8d99e\")",
+      "Bash(echo \"EXIT: $?\")",
+      "WebSearch",
+      "WebFetch(domain:www.clarington.net)",
+      "WebFetch(domain:valleys2000.ca)",
+      "WebFetch(domain:hikingthegta.com)",
+      "WebFetch(domain:www.tripadvisor.ca)",
+      "WebFetch(domain:www.ontariotrails.on.ca)",
+      "WebFetch(domain:www.ontario.ca)",
+      "WebFetch(domain:www.ontariofishingforums.com)",
+      "WebFetch(domain:fishncanada.com)"
     ]
   }
 }

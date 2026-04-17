@@ -29,11 +29,15 @@
 
 ## Access Points
 
-| Location | Maps |
-|---|---|
-| Goderich waterfront / harbour area (mouth) — near lighthouse/pier; primary steelhead access | [Google Maps](https://www.google.com/maps/search/?api=1&query=Goderich+Harbour+Maitland+River+Ontario) |
-| Maitland Valley Conservation Area access points along the river | [Google Maps](https://www.google.com/maps/search/?api=1&query=Maitland+Valley+Conservation+Area+Ontario) |
-| Road allowances on Huron County roads upstream | [Google Maps](https://www.google.com/maps/search/?api=1&query=Maitland+River+Huron+County+Ontario) |
+> Steelhead range from Goderich mouth upstream to Wingham dam (no fish ladder — natural ceiling for migratory fish).
+
+| Location | Notes | Maps |
+|---|---|---|
+| Goderich waterfront / harbour (mouth) | Near lighthouse/pier; primary steelhead access; primary entry point for fish coming from Lake Huron | [Google Maps](https://www.google.com/maps/search/?api=1&query=Goderich+Harbour+Maitland+River+Ontario) |
+| Benmiller area | River meanders here; guided fly fishing operations based here (Fly Fitters); good mid-river holding water; access via Benmiller Line and River Line | [Google Maps](https://www.google.com/maps/search/?api=1&query=Benmiller+Ontario+Maitland+River) |
+| Maitland Valley Conservation Area | Multiple access points along the river | [Google Maps](https://www.google.com/maps/search/?api=1&query=Maitland+Valley+Conservation+Area+Ontario) |
+| Wingham dam | Furthest upstream steelhead penetration — no fish ladder; fish stage below dam in fall | [Google Maps](https://www.google.com/maps/search/?api=1&query=Wingham+Ontario+Maitland+River+dam) |
+| Huron County road allowances | Multiple bridge crossings upstream; research current points before visiting | [Google Maps](https://www.google.com/maps/search/?api=1&query=Maitland+River+Huron+County+Ontario) |
 
 ## Links
 

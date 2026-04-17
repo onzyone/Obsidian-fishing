@@ -28,10 +28,11 @@
 
 ## Access Points
 
-| Location | Maps |
-|---|---|
-| Sauble Beach (mouth area) — public beach parking; most accessible steelhead access | [Google Maps](https://www.google.com/maps/search/?api=1&query=Sauble+Beach+Sauble+River+Ontario) |
-| Road allowances upstream along Sauble River Rd and Bruce County roads | [Google Maps](https://www.google.com/maps/search/?api=1&query=Sauble+River+Bruce+County+Ontario) |
+| Location | Notes | Maps |
+|---|---|---|
+| Sauble Beach (mouth area) | Public beach parking; most accessible steelhead access; popular tourist area — can be busy in spring | [Google Maps](https://www.google.com/maps/search/?api=1&query=Sauble+Beach+Sauble+River+Ontario) |
+| Sauble Falls Provincial Park | Just downriver from falls — excellent wade fishing; fish from both banks; easily accessible within short walk; key steelhead/salmon holding area below falls barrier | [Google Maps](https://www.google.com/maps/search/?api=1&query=Sauble+Falls+Provincial+Park+Ontario) |
+| Road allowances (Sauble River Rd / Bruce County roads) | Multiple crossings upstream; research current points before visiting | [Google Maps](https://www.google.com/maps/search/?api=1&query=Sauble+River+Bruce+County+Ontario) |
 
 ## Links
 
