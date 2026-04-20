@@ -32,7 +32,12 @@
       "WebFetch(domain:www.ontario.ca)",
       "WebFetch(domain:www.ontariofishingforums.com)",
       "WebFetch(domain:fishncanada.com)",
-      "Bash(cmux list-pane-surfaces *)"
+      "Bash(cmux list-pane-surfaces *)",
+      "Bash(cmux list-surfaces *)",
+      "Bash(cmux tree *)",
+      "Bash(cmux rename-tab *)",
+      "Bash(cmux send *)",
+      "Bash(cmux send-key *)"
     ]
   }
 }

@@ -42,9 +42,9 @@ Check live weather and river conditions, then recommend the best day and river f
 3. Run Phase 1 — launch all 3 agents in parallel splits via cmux:
    ```bash
    SKILL_DIR="$HOME/projects/onzyone/claude/fishing"
-   WEATHER=$(cmux new-split right | awk '{print $2}')
-   WATER=$(cmux new-split down --surface "$WEATHER" | awk '{print $2}')
-   FISH=$(cmux new-split down --surface "$WATER" | awk '{print $2}')
+   WEATHER=$(cmux new-split right | cut -d' ' -f2)
+   WATER=$(cmux new-split down --surface "$WEATHER" | cut -d' ' -f2)
+   FISH=$(cmux new-split down --surface "$WATER" | cut -d' ' -f2)
    cmux rename-tab --surface "$WEATHER" "Weather Agent"
    cmux rename-tab --surface "$WATER" "Water Agent"
    cmux rename-tab --surface "$FISH" "Fish Agent"

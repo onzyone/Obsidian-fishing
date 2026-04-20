@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "fishing location skill/Add these rivers.md",
+                "file": "Go Fishing Here.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Add these rivers"
+              "title": "Go Fishing Here"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 339.5
+    "width": 200
   },
   "right": {
     "id": "871f22a46ca26d12",
@@ -183,12 +183,14 @@
       "bases:Create new base": false
     }
   },
-  "active": "60e5121208731728",
+  "active": "054101a38e9c2b8e",
   "lastOpenFiles": [
+    "Hidden Gems & Walk-In Strategy.md",
+    "Seasonal Fishing Plan.md",
     "Useful Urls.md",
+    "fishing location skill/Add these rivers.md",
     "Untitled.md",
     "Blow out.md",
-    "Hidden Gems & Walk-In Strategy.md",
     "fishing location skill/go fishing here history/2026-04-13c Go Fishing Here.md",
     "fishing location skill/fishing-conditions-tmp/fish-output.md",
     "fishing location skill/fishing-conditions-tmp/fish-prompt.txt",
@@ -196,10 +198,8 @@
     "fishing location skill/fishing-conditions-tmp/water-prompt.txt",
     "fishing location skill/fishing-conditions-tmp/weather-output.md",
     "fishing location skill/fishing-conditions-tmp/weather-prompt.txt",
-    "Seasonal Fishing Plan.md",
     "fishing location skill/fishing-location-standards.md",
     "fishing location skill/Find these locations.md",
-    "fishing location skill/Add these rivers.md",
     "Skills/fishing-conditions.md",
     "Go Fishing Here.md",
     "fishing location skill/Rivers/West/West Credit River.md",
