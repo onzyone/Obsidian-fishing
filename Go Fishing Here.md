@@ -1,8 +1,8 @@
 # Go Fishing Here
 
-## 2026-04-20 — All (Apr 24–26 long weekend)
+## 2026-04-22 — All (Sat Apr 25 & Sun Apr 26, 2026)
 
-## Fishing Conditions — Apr 24–26, 2026 (All)
+## Fishing Conditions — Sat Apr 25 & Sun Apr 26, 2026 (All areas)
 
 ### Weather Forecast
 
@@ -12,99 +12,158 @@
 
 ### Weather & River Summary
 
-Stable week leading into the weekend. No rain since Apr 18–19 re-hit; Apr 20–23 all dry. By Friday Apr 24 rivers have had 5 full days to drop and clear — Credit (02HB029) and Humber (02HC003) both confirmed falling and fishable on the morning of Apr 20, and will be even better by Friday. A light 3.1mm drizzle lands on Saturday Apr 25 — enough to add colour on small creeks but not enough to blow anything out. Sunday Apr 26 is dry and warm (13.4°C) — the classic "dropping + slightly coloured" window that triggers steelhead/brown trout movement. Other rivers without gauges should be estimated from the Credit/Humber baseline (both improving).
+Textbook blowout-then-recovery weekend. **Saturday = 19.50mm rain, cold (7°C) — rivers blow out mid-day.** Pre-storm water this week was excellent (Credit 02HB029 and Humber 02HC003 both confirmed falling + clearing Tue Apr 21), but Saturday's storm flips everything. **Sunday is the fishable day** — mostly clear, 15°C, zero precip — but conditions depend hard on which river you pick.
 
-**Opening Day:** Saturday Apr 25 is the 4th Saturday of April — FMZ 16/17 default season opens. This matters more than usual this weekend: **Bowmanville, Duffins, Oshawa, Ganaraska (Jocelyn→CNR), and all upper sections are CLOSED on Friday Apr 24** and only open Sat Apr 25 onward. Only true year-round lower sections are legal on Friday.
+Saturday is also the **4th Saturday of April = FMZ 16/17 opener**. Every previously-closed stretch legally opens. But storm + cold + crowds + blown water = textbook SKIP day. Do not reward opener hype with a wasted day in the rain.
+
+Sunday is 1 day past peak rain. Clarity recovery windows:
+- Small creeks (Don, Etobicoke, Oshawa, Bowmanville, Wilmot): 1–2 days — settling by midday
+- Medium rivers (Credit, Humber, Duffins, Rouge, 16 Mile, Bronte): 2–4 days — still murky
+- Large tribs (Ganaraska, Grand, Saugeen, Nottawasaga): 3–6 days — blown
+- Niagara (lake/glacial-fed): unaffected
+- Beaver (limestone): 1–2 days — recovering
+
+Net: **Sunday is a small-creek-mouth day or a Niagara day.** Medium/large tribs should be skipped.
 
 ### Date Comparison
 
 Date derivations (anchor Apr 6 = Monday):
-- Apr 24 = Friday (+18)
-- Apr 25 = Saturday (+19)
+- Apr 22 = Wednesday (+16) = today
+- Apr 25 = Saturday (+19, 19 mod 7 = 5, Mon + 5 = Sat) — **FMZ 16/17 opener**
 - Apr 26 = Sunday (+20)
 
 | Date | Temp | Rain | Rivers | Clarity | Season | Verdict |
 |------|------|------|--------|---------|--------|---------|
-| Fri Apr 24 | 12.6°C / 6.7°C | 0.00mm | Dropping, stable — 5 dry days | Clear (inferred) | **Year-round lowers only** — Bowmanville/Duffins/Oshawa CLOSED | **FAIR — fewer legal options** |
-| Sat Apr 25 | 9.7°C / 5.8°C | 3.10mm drizzle | Slight bump from drizzle; still fishable | Slightly coloured (small creeks) / Clear (larger) | ✅ Opening Day — everything opens, crowds at upper water | **FAIR — cold, wet, crowds** |
-| Sun Apr 26 | 13.4°C / 5.5°C | 0.00mm | Dropping after Sat drizzle — prime window | Slightly coloured → clearing | ✅ All sections open, crowds thinner | **GO — best day** |
+| Sat Apr 25 | 7.2 / 5.1 | **19.50mm** | Blowing out during storm | Murky (projected) | ✅ Opener — everything opens | **SKIP — storm + opener crowds, cold, blown water** |
+| Sun Apr 26 | **15.2** / 4.0 | 0.00mm | Peaking → dropping, small creeks settling, medium rivers still murky | Small creeks: colour → clearing · Medium: murky · Niagara: clear | ✅ | **GO — pick small-creek mouths or Niagara** |
 
 ### Fish Run Status
 
-Steelhead run is **winding down** (4–5 weeks past peak). No confirmed strong counter data: Ganaraska (Riverwatcher) no recent passage; Credit (CRAA) camera operational but no counts; Beaver/Thornbury (Biotactic) only 1 fish Apr 15. Stocking data unavailable this run. Rank on conditions, not run strength. Resident brown trout are the realistic target — plus any late steelhead holdovers in lower sections.
+Verified counters as of Apr 21 show **zero passage** (Ganaraska Riverwatcher, Beaver/Thornbury BRAVO Node 10). Credit CRAA camera operational — no counts. Bowmanville BRAVO Node 22 on STANDBY. 2026 stocking numbers unavailable. Fish-output flags Grand River in flood conditions with 2.13°C water — minimal activity there regardless of clarity.
 
-> Run data caution: verified counters (Ganaraska, Credit CRAA, Beaver/Thornbury) all show minimal activity. Rank on level/clarity/season.
+> Run-data caveat: no river bumped on anecdotal runs. Saturday's storm + opener day may actually push staging lake-run browns and late steelhead *into* creek mouths on Sunday — colored plume at the mouth is a feature, not a bug.
 
-### River Comparison — All areas, small-creek preference (Best Day: Sun Apr 26)
+| River | # Stocked | Run Status | Notes |
+|-------|-----------|------------|-------|
+| Credit | No data | Camera only, no counts | CRAA cam operational |
+| Humber | No data | No counter | — |
+| Ganaraska | No data | No passage Apr 21 | Riverwatcher operational |
+| Beaver (Thornbury) | No data | 0 fish Apr 21 (run started Mar 25) | BRAVO Node 10 live |
+| Bowmanville | No data | Counter on STANDBY | BRAVO Node 22 seasonal |
+| Grand (Kitchener) | No data | Flood conditions, 2.13°C | Too cold for activity |
+| All others | No data | No verified counter | Rank on level + clarity |
 
-User preference: **smaller creeks ranked higher**. Larger rivers (Credit, Humber, Nottawasaga) deprioritized. Spot pins link to specific productive access points on each creek.
+### River Comparison — All (Best Day: Sunday Apr 26)
 
-| Rank | River | Drive | Fri legal? | Level | Why | Spot pins (good places to try) |
-|------|-------|-------|-----------|-------|-----|-------------------------------|
-| **1** | **Bowmanville Creek lower** | 55–65 min | ❌ Sat/Sun only | Dropping (inferred — WSC 02HD006) | Your proven water; fish ladder concentrates fish; low pressure weekends; small watershed shrugs off Sat drizzle; WSC gauge = reliable read | [Baseline Rd W lot](https://www.google.com/maps/search/?api=1&query=Bowmanville+Creek+Baseline+Road+West+Clarington+Ontario) · [Spry Ave accessible trail (prime zone, Spry→Goodyear Dam)](https://www.google.com/maps/search/?api=1&query=Spry+Avenue+Bowmanville+Ontario) · [Nelson Parkette](https://www.google.com/maps/search/?api=1&query=Nelson+Street+Bowmanville+Ontario) |
-| **2** | **Soper Creek lower** (Bowmanville waterfront) | 60–70 min | ✅ (lower year-round) | Dropping (inferred) | Next valley east of Bowmanville — same drive, fraction of the pressure. Small creek clears fast; steelhead + browns at mouth | [Soper Creek CA / Bowmanville Waterfront (mouth)](https://www.google.com/maps/search/?api=1&query=Soper+Creek+Bowmanville+Waterfront+Ontario) · [Soper Creek Trail Park (Simpson Ave)](https://www.google.com/maps/search/?api=1&query=Soper+Creek+Trail+Park+Simpson+Avenue+Bowmanville+Ontario) |
-| **3** | **Wilmot Creek lower** (below CNR) | 55–65 min | ✅ (south of CNR year-round) | Dropping | Very short fishable section (few hundred metres) but small = fast recovery; staging steelhead/salmon near mouth | [Samuel Wilmot Nature Area (steel footbridge, mouth)](https://www.google.com/maps/search/?api=1&query=Samuel+Wilmot+Nature+Area+Newcastle+Ontario) · [Thurn Park CA (upper 400m)](https://www.google.com/maps/search/?api=1&query=Thurn+Park+Conservation+Area+Newcastle+Ontario) |
-| **4** | **Oshawa Creek lower** | 40–50 min | ❌ Sat/Sun only | Dropping (inferred) | Small urban creek; strong annual runs; opens Apr 25 | [Lakeview Park (mouth)](https://www.google.com/maps/search/?api=1&query=Lakeview+Park+Oshawa+Ontario+creek) · [Healing Lodge Park (lower town)](https://www.google.com/maps/search/?api=1&query=Healing+Lodge+Park+Oshawa+Ontario) |
-| **5** | **Duffins Creek lower** (Greenwood) | 45–50 min | ❌ Sat/Sun only | Dropping (inferred) | Small-medium; dam on West Duffins stacks fish; opens Apr 25 | [Greenwood CA (below dam — fish stack)](https://maps.google.com/?q=Greenwood+Conservation+Area+Pickering) · [Rotary Park Ajax (mouth)](https://www.google.com/maps/search/?api=1&query=Rotary+Park+Ajax+Ontario) |
-| **6** | **Don River lower** | 20–25 min | ✅ (below Eglinton year-round) | Dropping | Smallest watershed = fastest recovery; closest option; short accessible urban section | [Corktown Common (mouth — staging fish)](https://www.google.com/maps/search/?api=1&query=Corktown+Common+Toronto+Ontario) · [E.T. Seton Park (Pottery Rd)](https://maps.google.com/?q=E.T.+Seton+Park+Toronto) |
-| **7** | **Etobicoke Creek lower** | 20–30 min | ✅ (Lakeshore→Lake year-round) | Dropping | Small urban creek; close; lake-run browns staging near mouth | [Marie Curtis Park (mouth)](https://maps.google.com/?q=Marie+Curtis+Park+Toronto) |
-| **8** | **16 Mile Creek lower** | 45 min | ✅ (Lakeshore→Lake year-round) | Dropping (inferred from Credit) | Small lakeshore creek; staging steelhead/salmon at mouth; low pressure | [Bronte Rd at Lakeshore (mouth)](https://maps.google.com/?q=16+Mile+Creek+mouth+Oakville) |
-| **9** | **Twenty Mile Creek lower** (Jordan Harbour) | 55–65 min | ✅ (QEW→Lake year-round) | Dropping (inferred) | Small Niagara-area creek; confirmed steelhead; **significantly lower pressure than Credit/Humber** | [Jordan Harbour CA (mouth)](https://maps.google.com/?q=Jordan+Harbour+Conservation+Area+Ontario) |
-| **10** | **Rouge River lower** | 35–40 min | ✅ (below Hwy 407 year-round) | Dropping (inferred) | Small-medium; scenic urban-park water; pike in lower pools | [Rouge Beach Park (mouth)](https://maps.google.com/?q=Rouge+Beach+Park+Toronto) · [Rouge National Urban Park trailheads](https://www.google.com/maps/search/?api=1&query=Rouge+National+Urban+Park+Ontario) |
-| 11 | **Bronte Creek lower** | 40–45 min | ✅ year-round **but boat/kayak only** (no shore fishing Lakeshore→Rebecca) | Dropping | ⚠️ **Halton Police enforce no-shore-fishing** ($300 fine) — only fish from boat/kayak. Skip if wading only. | [Bronte Harbour](https://maps.google.com/?q=Bronte+Harbour+Oakville) |
-| 12 | Credit River lower | 30–40 min | ✅ (Hwy 403→Lake year-round) | Falling, fishable (WSC 02HB029) | Deprioritized per user preference (larger river) — but gauge-confirmed if small creeks are crowded | [Erindale Park (best all-around)](https://www.google.com/maps/search/?api=1&query=Erindale+Park+Mississauga+Ontario) · [Streetsville Memorial Park (below dam, steelhead stack)](https://www.google.com/maps/search/?api=1&query=Streetsville+Memorial+Park+Mississauga) · [JJ Plaus Park (mouth)](https://www.google.com/maps/search/?api=1&query=JJ+Plaus+Park+Mississauga+Ontario) |
-| 13 | Humber River lower | 10–20 min | ✅ (below Eglinton year-round) | Falling, fishable (WSC 02HC003) | Deprioritized (larger) — but closest option if time-constrained | [Lambton Woods](https://maps.google.com/?q=Lambton+Woods+Toronto) · [Old Mill area](https://www.google.com/maps/search/?api=1&query=Old+Mill+Toronto+Humber+River) |
-| 14 | Nottawasaga River lower | 1h 10–20 min | ✅ (Georgian Bay→Boyne year-round) | Dropping (inferred) | Deprioritized (large river + far); Georgian Bay trib; best-fighting steelhead reputation | [Wasaga Beach mouth](https://maps.google.com/?q=Nottawasaga+River+Wasaga+Beach) |
-| — | Ganaraska River lower | 1h 15 min | ✅ CNR→Lake year-round only | Dropping (inferred) | Larger river + just over 1h; no recent counter passage | [Port Hope harbour](https://maps.google.com/?q=Ganaraska+River+Port+Hope) |
+User preference: **small creeks ranked above Credit / Humber / Ganaraska / Nottawasaga**. Bowmanville is a personal favourite and a full contender. Sunday is 1-day post-storm — small-creek mouths actually benefit from the colored plume; medium/large tribs are blown and should be skipped.
 
-> **Not fishable this weekend (trout/salmon season closed until Sat Apr 25 on urban creeks):** Mimico, Cooksville, Fourteen Mile — primarily fall-run creeks. Lake mouths always open for warmwater species.
-
-> **Too far (>1h), not ranked:** Cobourg Creek (~75–85 min), Graham Creek (~80–90 min), Shelter Valley Creek (~80–90 min) — Northumberland tribs, worth a dedicated-day trip.
+| Rank | River | Area | Drive | Level | Clarity | Why | Spot pins |
+|------|-------|------|-------|-------|---------|-----|-----------|
+| **1** | **Bowmanville Creek lower** | East | 55–65 min | Rising → cresting Sun AM, dropping PM | Colored, clearing by afternoon | User's favourite, low pressure, small watershed clears 1–2 days; fish ladder stacks staging fish; colored plume at mouth pulls lake-run browns | [Baseline Rd West lot (below Goodyear Dam)](https://maps.google.com/?q=Bowmanville+Creek+Baseline+Road+West+Clarington+Ontario) |
+| **2** | **Etobicoke Creek mouth** | West | 20–30 min | Rising Sun AM, dropping PM | Stained, clearing | Smallest watershed = fastest recovery; closest option; lake-run browns at Marie Curtis mouth love the colored plume | [Marie Curtis Park (mouth)](https://maps.google.com/?q=Marie+Curtis+Park+Toronto) |
+| **3** | **Niagara River (lower gorge)** | Southwest | 1h 35–45 min | Lake-fed, unaffected | Clear | Only big-river option that does NOT blow out; steelhead/lake trout in the gorge year-round; fallback if small creeks too blown | [Niagara Glen](https://maps.google.com/?q=Niagara+Glen+Nature+Reserve+Ontario) · [Queenston boat launch](https://www.google.com/maps/search/?api=1&query=Queenston+boat+launch+Ontario) |
+| **4** | **Oshawa Creek lower** | East | 40–50 min | Rising AM, dropping PM | Stained, clearing | Small urban creek, 1–2 day clearance; mouth fishable with colored water; low pressure | [Lakeview Park (mouth)](https://maps.google.com/?q=Lakeview+Park+Oshawa) |
+| **5** | **Wilmot Creek lower** | East | 55–65 min | Rising AM, dropping PM | Stained, clearing | Small creek, short fishable section below CNR only; mouth works with colored water; low pressure | [Wilmot Creek mouth Newcastle](https://maps.google.com/?q=Wilmot+Creek+Newcastle+Ontario) |
+| 6 | Don River lower | East | 20–25 min | Rising AM, dropping PM | Stained (urban runoff will be fastest to taint but also fastest to clear) | Urban, short accessible lower section; backup if West/East mouths look unfishable | [E.T. Seton Park / Pottery Road](https://maps.google.com/?q=E.T.+Seton+Park+Toronto) |
+| 7 | Beaver River (Thornbury) | North | 1h 40–50 min | Rising AM, dropping PM | Stained → clearing (limestone escarpment) | Limestone drainage clears 1–2 days ahead of clay-basin rivers; fish ladder; Biotactic counter shows 0 passage Apr 21 so no confirmed run, but structure is prime | [Thornbury fish ladder](https://maps.google.com/?q=Thornbury+Beaver+River+Ontario) |
+| — | Credit / Humber / Rouge / Duffins / 16 Mile / Bronte | W+E+N | — | Rising, cresting Sun | **Murky (2–4 day recovery)** | **SKIP** — medium watersheds still blown Sunday |
+| — | Ganaraska / Grand / Saugeen / Nottawasaga | E+SW+N | — | Blown out | **Very murky (3–6 day recovery)** | **SKIP** — large watersheds won't recover until mid-week |
 
 ### Best Day: Sunday April 26
 
-**Top pick: Bowmanville Creek lower** — [Spry Ave accessible trail pin](https://www.google.com/maps/search/?api=1&query=Spry+Avenue+Bowmanville+Ontario)
-- Why: Your proven water. Small watershed shrugs off Saturday's drizzle; fish ladder still concentrating any remaining run fish; low pressure even on a long-weekend Sunday. Opens Apr 25, so Sunday is the first rested day after Opening Day pressure.
-- Key spots: Walk the Spry Ave → Goodyear Dam accessible trail (wheelchair-accessible gravel path, **prime fishing zone** — fish congregate here; do NOT fish at/near the ladder itself, sanctuary zone).
-- Access: Baseline Rd West parking lot, Clarington — free — [Baseline Rd W lot](https://www.google.com/maps/search/?api=1&query=Bowmanville+Creek+Baseline+Road+West+Clarington+Ontario)
-- Gauge check: WSC 02HD006 Sunday morning — go if dropping, pivot if rising.
-- Drive: ~55–65 min from 427 & Finch
+**Top pick: Bowmanville Creek lower (Baseline Rd West lot, below Goodyear Dam)** — [Map](https://maps.google.com/?q=Bowmanville+Creek+Baseline+Road+West+Clarington+Ontario)
+- Why: Your regular-producer creek. Small watershed clears 1–2 days — colored AM, settling PM. Fish ladder stacks staging lake-run browns, and the colored plume at the mouth pulls fresh fish off the lake. Opener means the whole system is legally fishable, not just the year-round lower.
+- Access: Free parking at Baseline Rd West lot, walk down to creek below Goodyear Dam / fish ladder. Mouth accessible via downstream walk or drive to lake.
+- Drive: ~55–65 min from 427 & Finch.
+- Timing: **Start after 10:00 AM** — let the creek peak and start dropping. Afternoon will fish better than morning.
 
-**Backup 1: Soper Creek lower** — [Bowmanville Waterfront / Soper CA pin](https://www.google.com/maps/search/?api=1&query=Soper+Creek+Bowmanville+Waterfront+Ontario)
-- Why: Same drive as Bowmanville, next valley east, fraction of the pressure. If Bowmanville pools are busy on Opening Weekend, slide over. Mouth at Bowmanville waterfront + 21+ km of creekside trail for walking upstream.
-- Alt access: [Soper Creek Trail Park (Simpson Ave, paved parking + washrooms)](https://www.google.com/maps/search/?api=1&query=Soper+Creek+Trail+Park+Simpson+Avenue+Bowmanville+Ontario)
-- Drive: ~60–70 min
+**Backup: Etobicoke Creek (Marie Curtis Park mouth)** — [Map](https://maps.google.com/?q=Marie+Curtis+Park+Toronto)
+- Why: Closest small creek, smallest watershed on the GTA = fastest to clear. Lake-run browns at the mouth love the colored plume. Under 30 min drive so low commitment if conditions look off.
+- Drive: ~20–30 min.
 
-**Backup 2: Wilmot Creek lower** — [Samuel Wilmot Nature Area pin](https://www.google.com/maps/search/?api=1&query=Samuel+Wilmot+Nature+Area+Newcastle+Ontario)
-- Why: Small, short, fishable lower section (south of CNR) is year-round open. Steel footbridge at Samuel Wilmot NA for sighting fish. Very compact — 15 min to check the whole fishable stretch.
-- Drive: ~55–65 min
-
-### Friday April 24 — if you want a weekday trip
-
-Friday has fewer legal options (Bowmanville/Duffins/Oshawa closed until Apr 25). Smallest legal creeks, ranked:
-
-**Top Friday pick: Wilmot Creek lower (Samuel Wilmot NA)** — smallest legal creek in the East roster; you get a preview of the weekend's opening-day water without the crowd. [Pin](https://www.google.com/maps/search/?api=1&query=Samuel+Wilmot+Nature+Area+Newcastle+Ontario)
-
-**Friday backup: Etobicoke Creek lower (Marie Curtis Park)** — 20–30 min from home, small urban, lake-run browns near mouth. Quick after-work scouting. [Pin](https://maps.google.com/?q=Marie+Curtis+Park+Toronto)
-
-**Friday 3rd: Don River lower (Corktown Common)** — closest option, smallest watershed, 20–25 min. [Pin](https://www.google.com/maps/search/?api=1&query=Corktown+Common+Toronto+Ontario)
-
-**Skip Saturday** — 3.1mm drizzle all day, 9.7°C (cold for wading), Opening Day crowds spilling onto upper sections. Save it.
+**Clean-water safety net: Niagara River lower gorge (Niagara Glen)** — [Map](https://maps.google.com/?q=Niagara+Glen+Nature+Reserve+Ontario)
+- Why: Lake/glacial-fed, completely unaffected by Saturday's storm. If you wake up Sunday and see both small creeks cresting or too filthy, drive here instead — water will be clear regardless.
+- Drive: ~1h 35–45 min.
 
 ### What to Expect
 
-**Species:** Late-season steelhead holdovers (fish that entered early April and are still dropping back), resident brown trout (primary target — most active in 12–14°C water), lake-run browns staging near creek mouths. Run is winding down — don't expect stacked fish. Prospect-fish deep plunge pools, tailouts, and seams.
+**Species:** Staging lake-run brown trout and late steelhead holdovers in creek mouths; fresh fish likely pushed to the mouths by Saturday's plume. Niagara gorge: steelhead, lake trout, early smallmouth.
 
-**Tactics for slightly-coloured Sunday water:** Float-fishing with roe, worm, or a jig under a float covers water fastest. Fly: egg patterns (hot pink, chartreuse, peach), large streamers (olive/black buggers, sculpins), nymphs (stonefly, hare's ear) under an indicator. Stained water = brighter attractor colours.
+**Tactics for Sunday (post-storm colored water at creek mouths):**
+- Float: larger roe bags (bright — chartreuse, pink, orange), worms, 1/8–1/4 oz jigs in bright/dark colours (black, chartreuse, white). Heavier leaders OK (8–10 lb fluoro) — fish can't be leader-shy in stained water.
+- Fly: bigger bright egg patterns (clown eggs, steelhead orange), rubber-legged stones, conehead buggers (black, olive, white). Sink tip or weighted leader — water will be pushy.
+- Spin: 1/4 oz spoons (bright), larger spinners (#4–5 Blue Fox / Vibrax), lipless cranks for lake-run browns at mouths.
 
-**Timing:** Mid-morning (09:00–13:00) is the sweet spot as overnight drop maxes out and water warms a degree or two. Expect 6–10°C water — fish hold deep and move slow.
+**Niagara gorge:** heavy gear — 10+ lb test, 3/4–1 oz steelhead jigs under long float, or spoons. Lake trout deep: jigs bounced on bottom.
 
-**Gear note:** Still too cold to wet-wade — full waders. Polarized sunglasses help on slightly coloured water.
+**Timing:** Sunday — start **after 10:00 AM**. Creek peak is likely 06:00–10:00. Water will drop all afternoon. Overnight low 4°C — water cold at first light, fish inactive until sun warms things a degree or two.
 
-**Sanity check before leaving Sunday morning:**
-- Bowmanville gauge: [WSC 02HD006](https://wateroffice.ec.gc.ca/report/real_time_e.html?stn=02HD006) — primary check for your top pick
-- Credit gauge: [WSC 02HB029](https://wateroffice.ec.gc.ca/report/real_time_e.html?stn=02HB029) — regional benchmark
-- Humber gauge: [WSC 02HC003](https://wateroffice.ec.gc.ca/report/real_time_e.html?stn=02HC003) — regional benchmark
-- CRAA Credit River cam: [craa.on.ca/live-camera-river-watcher](https://www.craa.on.ca/live-camera-river-watcher/)
+**Gear:** Full waders (4–7°C water). Studded boots — post-storm rocks will be slick. Polarized glasses less critical in stained water but needed at Niagara.
 
-If any gauge shows a sharp spike overnight Sat→Sun, pivot to the smallest-watershed option (Don or Wilmot) — they clear fastest.
+**Sanity checks Sunday morning:**
+- Credit gauge: [WSC 02HB029](https://wateroffice.ec.gc.ca/report/real_time_e.html?stn=02HB029) — regional benchmark. If spike is already coming back down, East/West small creeks will be too.
+- Humber: [WSC 02HC003](https://wateroffice.ec.gc.ca/report/real_time_e.html?stn=02HC003)
+- Bowmanville: [WSC 02HD006](https://wateroffice.ec.gc.ca/report/real_time_e.html?stn=02HD006) — primary check for top pick
+- Etobicoke: [WSC 02HC030](https://wateroffice.ec.gc.ca/report/real_time_e.html?stn=02HC030) — primary check for backup
+- Niagara: [WSC 02HA003](https://wateroffice.ec.gc.ca/report/real_time_e.html?stn=02HA003) — lake-fed, will be stable regardless
+
+If Bowmanville gauge is still climbing at 09:00, start at Niagara and fish small creeks late afternoon instead. If small creeks already dropping by 08:00, Bowmanville is go immediately.
+
+### Clear Water Fallbacks
+
+Medium/large tribs across every area will be murky-to-blown Sunday. If the top-pick small creeks look too dirty on morning gauge check, these spring-fed alternatives clear 1–3 days faster.
+
+**East area fallbacks**
+
+> [!tip] If Don / Rouge / Oshawa Creek are murky
+> | Stream | Drive | Clears in | Species | Access |
+> |--------|-------|-----------|---------|--------|
+> | Duffins Creek upper (above Greenwood CA) | ~30–40 min east | 1 day | Brook trout (12–14") | Walk upstream from Greenwood CA; above dam = resident brookies, no migratory pressure — [Map](https://maps.google.com/?q=Greenwood+Conservation+Area+Ajax+Ontario) |
+> | Orono Creek (Clarke Twp) | ~55–65 min | 1 day | Brook trout | Road allowance at bridge crossings; MNR Atlas confirmed; virtually unfished — [Map](https://www.google.com/maps/search/?api=1&query=43.9500,-78.6167) |
+
+> [!tip] If Duffins / Bowmanville / Wilmot Creek are murky
+> | Stream | Drive | Clears in | Species | Access |
+> |--------|-------|-----------|---------|--------|
+> | Upper Ganaraska (Ganaraska Forest) | ~1h 15 min | 2–3 days | Brook trout, brown trout | Sylvan Glen CA base; hundreds of km of trails — [Map](https://maps.google.com/?q=Ganaraska+Forest+Ontario) |
+> | Orono Creek (Clarke Twp) | ~55–65 min | 1 day | Brook trout | Road allowance at bridge crossings — [Map](https://www.google.com/maps/search/?api=1&query=43.9500,-78.6167) |
+> | Stalker Creek (Clarke Twp) | ~55–65 min | 1 day | Brook trout | MNR Atlas confirmed; road allowance access — [Map](https://www.google.com/maps/search/?api=1&query=43.9333,-78.6167) |
+
+**West area fallbacks**
+
+> [!tip] If Credit / Bronte / 16 Mile / Etobicoke are murky
+> | Stream | Drive | Clears in | Species | Access |
+> |--------|-------|-----------|---------|--------|
+> | West Credit River (Cataract/Belfountain) | ~1h | 1–2 days | Wild brown trout, brook trout | Forks of the Credit PP or roadside at Cataract — C&R only — [Map](https://maps.google.com/?q=Forks+of+the+Credit+Provincial+Park+Ontario) |
+> | Shaw's Creek (Alton) | ~55 min | 1–2 days | Wild brown trout | Road allowance at Alton/Mountainview Rd — C&R only — [Map](https://maps.google.com/?q=Shaw%27s+Creek+Alton+Ontario) |
+> | Eramosa River (Rockwood) | ~1h 10 min | 1–2 days | Brown trout, brook trout | Rockwood CA (paid) or road allowance — standard limits — [Map](https://maps.google.com/?q=Rockwood+Conservation+Area+Ontario) |
+
+**North area fallbacks**
+
+> [!tip] If Humber is murky
+> | Stream | Drive | Clears in | Species | Access |
+> |--------|-------|-----------|---------|--------|
+> | Cold Creek CA (Nobleton) | ~45 min | 1 day | Brook trout, brown trout | Trail walk-in; TRCA — [Map](https://maps.google.com/?q=Cold+Creek+Conservation+Area+Nobleton+Ontario) |
+> | Upper East Humber (above Boyd CA) | ~50 min | 1–2 days | Brook trout, brown trout | Walk upstream past Boyd CA — [Map](https://maps.google.com/?q=Boyd+Conservation+Area+Vaughan+Ontario) |
+
+> [!tip] If Nottawasaga is murky
+> | Stream | Drive | Clears in | Species | Access |
+> |--------|-------|-----------|---------|--------|
+> | Boyne Valley PP (Shelburne) | ~1h 10 min | 1–2 days | Brook trout | Upper Boyne headwaters; trail walk-in, dense bush — [Map](https://maps.google.com/?q=Boyne+Valley+Provincial+Park+Shelburne+Ontario) |
+> | Hockley Valley Nature Reserve (Mono) | ~1h | 1–2 days | Brook trout | Nottawasaga headwaters; trail walk-in — [Map](https://maps.google.com/?q=Hockley+Valley+Provincial+Nature+Reserve+Ontario) |
+
+**Southwest area fallbacks**
+
+> [!tip] If Twenty Mile Creek / Lynn River / Big Creek are murky
+> | Stream | Drive | Clears in | Species | Access |
+> |--------|-------|-----------|---------|--------|
+> | Eramosa River (Rockwood) | ~1h 10 min | 1–2 days | Brown trout, brook trout | Rockwood CA — limestone drainage clears ahead of clay-basin creeks — [Map](https://maps.google.com/?q=Rockwood+Conservation+Area+Ontario) |
+> | West Credit River (Cataract) | ~1h | 1–2 days | Wild brown trout, brook trout | Forks of the Credit PP — C&R only — [Map](https://maps.google.com/?q=Forks+of+the+Credit+Provincial+Park+Ontario) |
+
+**Worst case — everything blown**
+
+> [!warning] If all small creeks still look too dirty Sunday morning
+> | Stream | Drive | Clears in | Species | Access |
+> |--------|-------|-----------|---------|--------|
+> | **Niagara River (lower gorge)** | ~1h 35–45 min | Unaffected (lake-fed) | Steelhead, lake trout | Niagara Glen or Queenston — always clear regardless of tributary storms — [Map](https://maps.google.com/?q=Niagara+Glen+Nature+Reserve+Ontario) |
+> | Beaver River (Thornbury) | ~1h 40–50 min | 1–2 days | Steelhead, brown trout | Niagara Escarpment limestone; Biotactic counter; fish ladder at Thornbury — [Map](https://maps.google.com/?q=Thornbury+Beaver+River+Ontario) |
+> | Noisy River (Dunedin) | ~1h 20 min | 1–2 days | Brook trout, rainbow trout | Provincial park; trail walk-in above Lavender Falls — [Map](https://maps.google.com/?q=Noisy+River+Provincial+Park+Ontario) |

@@ -37,7 +37,14 @@
       "Bash(cmux tree *)",
       "Bash(cmux rename-tab *)",
       "Bash(cmux send *)",
-      "Bash(cmux send-key *)"
+      "Bash(cmux send-key *)",
+      "WebFetch(domain:www.biotactic.com)",
+      "WebFetch(domain:ganaraskafishway.tripod.com)",
+      "WebFetch(domain:grca.on.ca)",
+      "WebFetch(domain:www.riverwatcher.is)",
+      "WebFetch(domain:wateroffice.ec.gc.ca)",
+      "Bash(curl -s \"https://api.weather.gc.ca/collections/hydrometric-stations/items?limit=500&PROV_TERR_STATE_LOC=ON&f=json\")",
+      "Bash(curl -s \"https://api.weather.gc.ca/collections/hydrometric-stations/items?limit=2000&PROV_TERR_STATE_LOC=ON&f=json\")"
     ]
   }
 }
