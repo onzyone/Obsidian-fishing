@@ -31,9 +31,12 @@
 
 > ⚠️ Specific public access points not yet confirmed. Much of the land along Innisfil Creek is private. Contact NVCA before visiting.
 
-| Location | Maps |
-|---|---|
-| Cookstown general area — creek runs through town | [Google Maps](https://www.google.com/maps/search/?api=1&query=Innisfil+Creek+Cookstown+ON+L0L+1L0) |
+| Location | Notes | Maps |
+|---|---|---|
+| **Hwy 89 bridge — Cookstown** (mid — primary in-town) | Hwy 89 crossing in Cookstown village; on-street parking; walk up- or downstream | [Google Maps](https://www.google.com/maps/search/?api=1&query=Highway+89+Innisfil+Creek+Cookstown+Ontario) |
+| **20 Sideroad bridge — Innisfil Twp** (lower-mid) | Road-allowance bridge crossing west of Cookstown; quieter section | [Google Maps](https://www.google.com/maps/search/?api=1&query=20+Sideroad+Innisfil+Creek+Cookstown+Ontario) |
+| **Hwy 89 / Notty confluence — Alliston area** (lower — steelhead staging, gauge proxy 02ED029) | Lower Innisfil Creek near Nottawasaga confluence south of Alliston; spring/fall steelhead staging from Notty | [Google Maps](https://www.google.com/maps/search/?api=1&query=Innisfil+Creek+Nottawasaga+confluence+Alliston+Ontario) |
+| **6th Line Innisfil bridge** (upper — small resident-trout water) | Road-allowance bridge upstream of Cookstown; small wild brown trout water | [Google Maps](https://www.google.com/maps/search/?api=1&query=6th+Line+Innisfil+Township+Ontario) |
 
 ## Conservation Authority
 

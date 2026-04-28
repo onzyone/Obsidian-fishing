@@ -45,9 +45,11 @@ The East Humber originates on the **Oak Ridges Moraine** — a massive glacial r
 
 | Location | Parking | Walk | Water / Notes | Maps |
 |---|---|---|---|---|
-| Boyd Conservation Area (Vaughan) | TRCA paid day-use lot | 5–15 min to river | Primary access to lower East Humber; trail network follows river; steelhead/salmon in spring; brown trout year-round (when open) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Boyd+Conservation+Area+Vaughan+Ontario) |
-| Bindertwine Park (King City area) | Free roadside / small lot | 5 min | Further upstream than Boyd CA; fewer people; good brook and brown trout water; trail runs alongside river | [Google Maps](https://www.google.com/maps/search/?api=1&query=Bindertwine+Park+King+City+Ontario) |
-| Road allowances above Bindertwine | Roadside pulloff | Walk upstream from crossing | Rural road crossings north of King City give walk-in access to upper East Humber brook trout water — the further you walk, the less pressure | [Google Maps](https://www.google.com/maps/search/?api=1&query=East+Humber+River+King+Ontario) |
+| **Boyd Conservation Area (Vaughan)** (lower — primary access) | TRCA paid day-use lot | 5–15 min to river | Primary access to lower East Humber; trail network follows river; steelhead/salmon in spring; brown trout year-round (when open) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Boyd+Conservation+Area+Vaughan+Ontario) |
+| **Pine Grove gauge area** (lower-mid, gauged 02HC009 "East Humber River Near Pine Grove") | Roadside / Pine Grove area | Walk-in from road allowance | Gauged section; mid-river access | [Google Maps](https://www.google.com/maps/search/?api=1&query=Pine+Grove+East+Humber+River+Vaughan+Ontario) |
+| **Bindertwine Park (King City)** (mid — brook trout water) | Free roadside / small lot | 5 min | Further upstream than Boyd CA; fewer people; good brook and brown trout water; trail runs alongside river | [Google Maps](https://www.google.com/maps/search/?api=1&query=Bindertwine+Park+King+City+Ontario) |
+| **MNR brook trout pin** (upper Vaughan Twp — 43.7833, -79.5833) | Roadside | Walk-in | MNR 2003 atlas confirmed brook trout watershed 2HC-04 | [Google Maps](https://www.google.com/maps/search/?api=1&query=43.7833,-79.5833) |
+| **Road allowances above Bindertwine** (upper — wilderness feel) | Roadside pulloff | Walk upstream from crossing | Rural road crossings north of King City give walk-in access to upper East Humber brook trout water — the further you walk, the less pressure | [Google Maps](https://www.google.com/maps/search/?api=1&query=East+Humber+River+King+Ontario) |
 
 ## MNR Brook Trout Atlas Data
 

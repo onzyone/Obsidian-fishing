@@ -35,9 +35,12 @@
 
 | Location | Maps |
 |---|---|
-| Niagara Glen Nature Reserve (Niagara Parks) — staircase access to gorge; **parking $8/hr** (Niagara Parks Pay-and-Display lot; trails are free); best gorge access | [Google Maps](https://www.google.com/maps/search/?api=1&query=Niagara+Glen+Nature+Reserve+Ontario) |
-| Queenston village area (lower river) — accessible lower Niagara steelhead zone | [Google Maps](https://www.google.com/maps/search/?api=1&query=Queenston+Ontario+Niagara+River) |
-| Chippawa area (upper river above Falls — different fishery) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Chippawa+Ontario+Niagara+River) |
+| **Niagara Glen Nature Reserve** (gorge — primary trophy steelhead access) — staircase access to gorge; **parking $8/hr** (Niagara Parks Pay-and-Display lot; trails are free); best gorge access | [Google Maps](https://www.google.com/maps/search/?api=1&query=Niagara+Glen+Nature+Reserve+Ontario) |
+| **Whirlpool / Whirlpool Aero Car area** (gorge — large trout in deep water) | Niagara Whirlpool below the Falls; deep water with trophy fish; access via Niagara Parkway | [Google Maps](https://www.google.com/maps/search/?api=1&query=Niagara+Whirlpool+Ontario) |
+| **Queenston village area** (lower river — accessible steelhead zone) — accessible lower Niagara steelhead zone | [Google Maps](https://www.google.com/maps/search/?api=1&query=Queenston+Ontario+Niagara+River) |
+| **Niagara-on-the-Lake / mouth at Lake Ontario** (lower — gauged 02HA003 "Niagara at Queenston") | Mouth at Lake Ontario; staging fish; harbour parking | [Google Maps](https://www.google.com/maps/search/?api=1&query=Niagara-on-the-Lake+Ontario) |
+| **Chippawa area** (upper — above Falls, different fishery) | Above Falls; warmer-water fishery; verify regs separately | [Google Maps](https://www.google.com/maps/search/?api=1&query=Chippawa+Ontario+Niagara+River) |
+| **Fort Erie / Lake Erie outflow** (upper — Lake Erie staging) | Where Niagara River exits Lake Erie; smallmouth + walleye + steelhead | [Google Maps](https://www.google.com/maps/search/?api=1&query=Fort+Erie+Niagara+River+Ontario) |
 
 ## Links
 

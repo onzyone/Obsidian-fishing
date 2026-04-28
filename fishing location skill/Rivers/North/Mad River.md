@@ -26,9 +26,12 @@
 
 | Location | Notes | Maps |
 |---|---|---|
-| Creemore — park near Airport Road | Wide, easy-to-fish section; good for fly rod; rocky with scattered pools and pockets | [Google Maps](https://www.google.com/maps/search/?api=1&query=Mad+River+Airport+Road+Creemore+Ontario) |
-| Avening Conservation Area | In Avening village; best May–June access point; resident trout + spring steelhead | [Google Maps](https://www.google.com/maps/search/?api=1&query=Avening+Conservation+Area+Mad+River+Ontario) |
-| Duntroon area road allowances | Rural road crossings; research current points before visiting | [Google Maps](https://www.google.com/maps/search/?api=1&query=Mad+River+Duntroon+Ontario) |
+| **Creemore — Airport Rd park** (mid — primary access) | Wide, easy-to-fish section; good for fly rod; rocky with scattered pools and pockets | [Google Maps](https://www.google.com/maps/search/?api=1&query=Mad+River+Airport+Road+Creemore+Ontario) |
+| **Avening Conservation Area** (mid — gauged 02ED015 "Mad River at Avening") | In Avening village; best May–June access point; resident trout + spring steelhead | [Google Maps](https://www.google.com/maps/search/?api=1&query=Avening+Conservation+Area+Mad+River+Ontario) |
+| **County Rd 9 bridge — Glencairn (Notty confluence)** (lower) | Lowest section; steelhead migrate up from Nottawasaga in spring; bridge crossing in Glencairn village; road-allowance parking | [Google Maps](https://www.google.com/maps/search/?api=1&query=County+Road+9+Mad+River+Glencairn+Ontario) |
+| **County Rd 124 bridge — Singhampton/Duntroon** (mid-upper) | Hwy 24/124 crossing south of Singhampton; rural road-allowance access | [Google Maps](https://www.google.com/maps/search/?api=1&query=Highway+124+Mad+River+Singhampton+Ontario) |
+| **Sideroad 12-13 / Old Sunnidale Rd bridge** (mid) | Road-allowance bridge between Avening and Glencairn — quieter water, less pressure | [Google Maps](https://www.google.com/maps/search/?api=1&query=Old+Sunnidale+Road+Mad+River+Ontario) |
+| **Vespra Twp / Springwater area** (upper — wild brookies) | MNR 2003 atlas brook trout pin (44.4000, -79.9000); Springwater area near Barrie; resident brookies | [Google Maps](https://www.google.com/maps/search/?api=1&query=44.4000,-79.9000) |
 
 ## MNR Brook Trout Data
 

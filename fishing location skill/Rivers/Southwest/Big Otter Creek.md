@@ -29,11 +29,14 @@ Limit: S-5, C-2 standard; S-1, C-0 Oct–Dec on non-extended sections.
 
 ## Access Points
 
-| Location | Notes |
-|---|---|
-| **Port Burwell — lower river near lake** | Most accessible section. Road access via Port Burwell village. LPRCA watershed land nearby. |
-| **Road bridge crossings** | Fish from road allowance; surrounding land is private farmland. |
-| **Big Otter Marina / Campground** | Port Burwell area — potential parking/launch point near lake mouth. |
+| Location | Notes | Maps |
+|---|---|---|
+| **Port Burwell Provincial Park** (mouth — primary lower) | Provincial park at the mouth; paid day-use; beach + creek access near outlet | [Google Maps](https://www.google.com/maps/search/?api=1&query=Port+Burwell+Provincial+Park+Ontario) |
+| **Big Otter Marina / Campground** (mouth, paid) | Port Burwell area — potential parking/launch point near lake mouth | [Google Maps](https://www.google.com/maps/search/?api=1&query=Big+Otter+Marina+Port+Burwell+Ontario) |
+| **Tillsonburg — Black's Dam (Lake Lisgar)** (upper) | Black's Dam below Lake Lisgar; below-dam pool holds staged fish; year-round closed Jan–4th Sat April | [Google Maps](https://www.google.com/maps/search/?api=1&query=Black%27s+Dam+Tillsonburg+Big+Otter+Creek+Ontario) |
+| **Tillsonburg — Oxford St / Hwy 19 bridge** (upper) | Hwy 19 crossing in Tillsonburg downtown; on-street parking; town section | [Google Maps](https://www.google.com/maps/search/?api=1&query=Oxford+Street+Big+Otter+Creek+Tillsonburg+Ontario) |
+| **Hwy 19 / Vienna bridge** (lower-mid — Bayham Twp) | Hwy 19 crossing in Vienna village; road-allowance access; classic mid-creek bridge | [Google Maps](https://www.google.com/maps/search/?api=1&query=Vienna+Highway+19+Big+Otter+Creek+Ontario) |
+| **Calton Line / Plank Rd crossings** (lower-mid) | Bayham Twp side roads; road-allowance bridges; surrounding land private farmland | [Google Maps](https://www.google.com/maps/search/?api=1&query=Calton+Line+Big+Otter+Creek+Bayham+Ontario) |
 
 ---
 

@@ -30,6 +30,8 @@
 | Location | Notes | Maps |
 |---|---|---|
 | Rotary Park (river mouth) | Lake Driveway West, west of Harwood Ave, Ajax; free boat launch; parking **$20/day non-residents on weekends/holidays**; washrooms; access to creek and Lake Ontario | [Google Maps](https://www.google.com/maps/search/?api=1&query=Rotary+Park+Ajax+Ontario) |
+| **Bayly Street bridge (Ajax)** | Lower-creek bridge crossing between Rotary Park (mouth) and the 401; classic bridge access matching photos of the watershed; road-allowance parking nearby | [Google Maps](https://www.google.com/maps/search/?api=1&query=Bayly+Street+Duffins+Creek+Ajax+Ontario) |
+| **Kingston Road / Hwy 2 bridge (Pickering)** | Mid/upper crossing in north Pickering; bridge access; pulloff parking on shoulder | [Google Maps](https://www.google.com/maps/search/?api=1&query=Kingston+Road+Duffins+Creek+Pickering+Ontario) |
 | Lynde Shores Conservation Area | Ajax waterfront; connects via trail and long metal bridge over Duffins Creek — walk-in lower creek access | [Google Maps](https://www.google.com/maps/search/?api=1&query=Lynde+Shores+Conservation+Area+Ajax+Ontario) |
 | East fork Trans-Canada Trail | Lower east fork — long walking access | [Google Maps](https://www.google.com/maps/search/?api=1&query=Duffins+Creek+Trail+Ajax+Ontario) |
 

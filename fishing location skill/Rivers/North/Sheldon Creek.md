@@ -33,10 +33,12 @@
 
 | Location | Parking | Walk | Water / Notes | Maps |
 |---|---|---|---|---|
-| Loretto area — road crossings (Airport Rd / 15 Sideroad Adjala) | Gravel shoulder | 0–5 min | Crown road allowance access at bridges in Loretto / Adjala-Tosorontio; upper creek, coldwater brook trout habitat | [Map](https://www.google.com/maps/search/?api=1&query=Loretto+Ontario+Sheldon+Creek) |
-| 5th Concession Adjala — bridge crossings | Shoulder | 0 min | Typical bridge pullouts on side concessions; small creek, narrow | [Map](https://www.google.com/maps/search/?api=1&query=5th+Concession+Adjala-Tosorontio+Ontario) |
-| Tottenham area — downstream reaches | Roadside | 0–5 min | Lower Sheldon where it approaches Nottawasaga; warmer water; mixed coldwater/warmwater | [Map](https://www.google.com/maps/search/?api=1&query=Tottenham+Ontario+Sheldon+Creek) |
-| Sheldon Creek / Nottawasaga confluence | Roadside along Nottawasaga crossings | 5–15 min | Accessible via Nottawasaga crossings near confluence; spawning migrants stage here in spring | [Map](https://www.google.com/maps/search/?api=1&query=Sheldon+Creek+Nottawasaga+confluence) |
+| **Airport Rd / Loretto bridge** (upper — primary cold-water access) | Gravel shoulder | 0–5 min | Airport Rd crossing at Loretto; Crown road-allowance access; upper creek, coldwater brook trout habitat | [Map](https://www.google.com/maps/search/?api=1&query=Airport+Road+Loretto+Ontario+Sheldon+Creek) |
+| **15 Sideroad Adjala bridge** (upper-mid) | Shoulder | 0 min | 15 Sideroad crossing in Adjala-Tosorontio; small creek, narrow casting | [Map](https://www.google.com/maps/search/?api=1&query=15+Sideroad+Adjala+Sheldon+Creek+Ontario) |
+| **5th Concession Adjala bridge** | Shoulder | 0 min | Side-concession bridge pullout; small wild brook trout water | [Map](https://www.google.com/maps/search/?api=1&query=5th+Concession+Adjala-Tosorontio+Ontario) |
+| **Hwy 9 / Mansfield Rd crossing** (mid) | Shoulder | 0 min | Mid-creek bridge crossing on Hwy 9 near Mansfield; transition to warmer water | [Map](https://www.google.com/maps/search/?api=1&query=Highway+9+Sheldon+Creek+Mansfield+Ontario) |
+| **Tottenham — downstream reaches** (lower) | Roadside | 0–5 min | Lower Sheldon approaching Nottawasaga; mixed coldwater/warmwater | [Map](https://www.google.com/maps/search/?api=1&query=Tottenham+Ontario+Sheldon+Creek) |
+| **Sheldon Creek / Nottawasaga confluence near Beeton** (lower — spring staging) | Roadside | 5–15 min | Spring spawning migrants stage at confluence; access via Nottawasaga road crossings near Beeton | [Map](https://www.google.com/maps/search/?api=1&query=Beeton+Ontario+Sheldon+Creek+Nottawasaga) |
 
 > Contact **NVCA (nvca.on.ca)** for an up-to-date public access map — the stewardship team can point you to public-accessible stretches and ongoing restoration work.
 

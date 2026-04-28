@@ -29,6 +29,7 @@
 | Location | Notes | Maps |
 |---|---|---|
 | Baseline Road West — south parking lot | **Main access.** North side of Baseline Rd, 140m east of Spry Ave. Connects to trail both directions. | [Google Maps](https://www.google.com/maps/search/?api=1&query=Bowmanville+Creek+Baseline+Road+West+Clarington+Ontario) |
+| King Street / Hwy 2 bridge (downtown Bowmanville) | Downtown bridge crossing between Baseline lot (south) and Roenigk lot (north); popular spot, dimensionally classic creek bridge; on-street parking nearby | [Google Maps](https://www.google.com/maps/search/?api=1&query=Bowmanville+Creek+King+Street+Bowmanville+Ontario) |
 | Accessible fishing trail (Spry Ave → Goodyear Dam) | **Prime fishing zone.** Wheelchair-accessible gravel path along creek between Spry Ave and south of Goodyear Dam — fish congregate here. Reach from Baseline Rd lot. | [Google Maps](https://www.google.com/maps/search/?api=1&query=Spry+Avenue+Bowmanville+Ontario) |
 | Nelson Parkette — Nelson Street | Trail entrance from residential area; mid-section access | [Google Maps](https://www.google.com/maps/search/?api=1&query=Nelson+Street+Bowmanville+Ontario) |
 | Roenigk Drive — north parking lot | Paved parking, paved trail; closest lot to fish ladder — **do not fish at or near the ladder (sanctuary)** | [Google Maps](https://www.google.com/maps/search/?api=1&query=Roenigk+Drive+Bowmanville+Ontario) |

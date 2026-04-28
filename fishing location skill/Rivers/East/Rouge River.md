@@ -25,8 +25,13 @@
 
 | Location | Maps |
 |---|---|
-| Trans-Canada Trail system — runs along river | [Google Maps](https://www.google.com/maps/search/?api=1&query=Rouge+National+Urban+Park+Toronto+Ontario) |
-| Multiple entry points through Rouge National Urban Park | [Google Maps](https://www.google.com/maps/search/?api=1&query=Rouge+National+Urban+Park+Ontario) |
+| **Rouge Beach Park** (mouth — primary lower access) | Year-round lower section; staging fish; free parking at Lawrence Ave E | [Google Maps](https://www.google.com/maps/search/?api=1&query=Rouge+Beach+Park+Toronto) |
+| **Glen Rouge Campground (Twyn Rivers Dr)** (mid — Little Rouge confluence) | Trail-in access; Little Rouge meets main Rouge here; campground parking | [Google Maps](https://www.google.com/maps/search/?api=1&query=Glen+Rouge+Campground+Toronto) |
+| **Twyn Rivers Dr bridge** (mid — confluence pool) | Bridge crossing at Little Rouge confluence — classic holding pool below; pulloff parking | [Google Maps](https://www.google.com/maps/search/?api=1&query=Twyn+Rivers+Drive+Rouge+River+Toronto+Ontario) |
+| **Sewells Rd bridge** (mid-upper, below 407) | Road-allowance access at Sewells Rd crossing; check year-round vs Apr 25 boundary | [Google Maps](https://www.google.com/maps/search/?api=1&query=Sewells+Road+Rouge+River+Toronto) |
+| **Finch Ave E bridge** (mid — Rouge Valley) | Finch Ave crossing; Rouge Valley parking; trail connections | [Google Maps](https://www.google.com/maps/search/?api=1&query=Finch+Avenue+East+Rouge+River+Toronto+Ontario) |
+| **Bob Hunter Memorial Park** (upper — Rouge NUP) | Rouge National Urban Park trailhead; walk-in to upper river; free parking | [Google Maps](https://www.google.com/maps/search/?api=1&query=Bob+Hunter+Memorial+Park+Rouge+National+Urban+Park) |
+| **Whitevale Dam area** (upper — brook trout, above dam) | Resident brook trout above Whitevale dam; smaller water; village parking | [Google Maps](https://www.google.com/maps/search/?api=1&query=Whitevale+Pickering+Ontario+Rouge) |
 
 ## MNR Brook Trout Data
 

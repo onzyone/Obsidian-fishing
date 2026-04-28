@@ -35,11 +35,13 @@
 
 | Location | Notes | Maps |
 |---|---|---|
-| Wasaga Beach (river mouth) | **Best public walk-up access.** Parking near beach/river mouth; wide flat water; fish hold here year-round in open-water sections in winter | [Google Maps](https://www.google.com/maps/search/?api=1&query=Wasaga+Beach+Nottawasaga+River+mouth) |
-| Edenvale Conservation Area | NVCA-managed; picnic area; good mid-river access to the Nottawasaga | [Google Maps](https://www.google.com/maps/search/?api=1&query=Edenvale+Conservation+Area+Ontario+Nottawasaga) |
-| Angus — Alma Street field | Field access across from Alma St; can drive to within ~100m of river; some public sections near town | [Google Maps](https://www.google.com/maps/search/?api=1&query=Alma+Street+Angus+Ontario+Nottawasaga+River) |
-| McKinnon Road (Minesing Wetlands) | ⚠️ **NVCA permit required** — permit needed to fish this section of the Minesing Wetlands; contact NVCA before visiting | [Google Maps](https://www.google.com/maps/search/?api=1&query=McKinnon+Road+Minesing+Nottawasaga+River) |
-| Township road allowances | Research current crossing points before visiting | [Google Maps](https://www.google.com/maps/search/?api=1&query=Nottawasaga+River+Ontario) |
+| **Wasaga Beach Provincial Park (river mouth)** (lower — primary year-round) | **Best public walk-up access.** Parking near beach/river mouth; wide flat water; fish hold here year-round in open-water sections in winter | [Google Maps](https://www.google.com/maps/search/?api=1&query=Wasaga+Beach+Provincial+Park+Ontario) |
+| **Schooner Town park / 45th St** (lower — Wasaga town) | In-town parking close to lower river; walk-in access to lower flats | [Google Maps](https://www.google.com/maps/search/?api=1&query=45th+Street+Wasaga+Beach+Ontario) |
+| **Edenvale Conservation Area** (mid — NVCA) | NVCA-managed; picnic area; good mid-river access; free CA parking | [Google Maps](https://www.google.com/maps/search/?api=1&query=Edenvale+Conservation+Area+Ontario+Nottawasaga) |
+| **Angus — Alma Street field** (mid — public) | Field access across from Alma St; can drive to within ~100m of river; public sections near town | [Google Maps](https://www.google.com/maps/search/?api=1&query=Alma+Street+Angus+Ontario+Nottawasaga+River) |
+| **Hwy 89 / Cookstown bridge — south of Alliston** (mid — town) | Hwy 89 crossing south of Alliston; road-allowance pulloff | [Google Maps](https://www.google.com/maps/search/?api=1&query=Highway+89+Alliston+Nottawasaga+River+Ontario) |
+| **McKinnon Road (Minesing Wetlands)** (mid — permit) | ⚠️ **NVCA permit required** — permit needed to fish this section of the Minesing Wetlands; contact NVCA before visiting | [Google Maps](https://www.google.com/maps/search/?api=1&query=McKinnon+Road+Minesing+Nottawasaga+River) |
+| **County Rd 10 / Glencairn area** (upper-mid — near Mad confluence) | Bridge crossing on County Rd 10 in Glencairn village; near Mad River confluence | [Google Maps](https://www.google.com/maps/search/?api=1&query=Glencairn+County+Road+10+Nottawasaga+River+Ontario) |
 
 ## Links
 

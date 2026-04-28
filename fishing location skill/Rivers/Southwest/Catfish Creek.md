@@ -33,10 +33,12 @@ Note: Bradleys Creek, a tributary of Catfish Creek, has a documented fish sanctu
 
 ## Access Points
 
-| Location | Notes |
-|---|---|
-| **Springwater Conservation Area** | Stocked trout pond. Easy parking, family-friendly. **Paid day-use: $10/vehicle** (2025); season pass $100/year. Pay via Passport Parking app or on-site pay box. Contact CCCA: 519-773-9037 for stocking dates. |
-| **Port Bruce — lower river near lake** | Most likely steelhead access. Road/road-allowance access near village. |
+| Location | Notes | Maps |
+|---|---|---|
+| **Springwater Conservation Area** (stocked pond, May only) | Stocked trout pond. Easy parking, family-friendly. **Paid day-use: $10/vehicle** (2025); season pass $100/year. Pay via Passport Parking app or on-site pay box. Contact CCCA: 519-773-9037 for stocking dates | [Google Maps](https://www.google.com/maps/search/?api=1&query=Springwater+Conservation+Area+Aylmer+Ontario) |
+| **Port Bruce — lower river / mouth** | Most likely steelhead access. Road/road-allowance access near village | [Google Maps](https://www.google.com/maps/search/?api=1&query=Port+Bruce+Catfish+Creek+mouth+Ontario) |
+| **Aylmer — gauge / town section** (mid, gauged) | CCCA-managed; gauge 02GC030 at Aylmer; verify access | [Google Maps](https://www.google.com/maps/search/?api=1&query=Catfish+Creek+Aylmer+Ontario) |
+| **Bradleys Creek tributary** (sanctuary — verify boundaries) | Fish sanctuary exists — confirm before fishing; do not enter sanctuary sections | [Google Maps](https://www.google.com/maps/search/?api=1&query=Bradleys+Creek+Elgin+County+Ontario) |
 
 ---
 

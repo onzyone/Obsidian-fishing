@@ -25,9 +25,14 @@
 
 | Location | Notes | Maps |
 |---|---|---|
-| Cedar Valley Conservation Area | Good access, upper creek — resident trout | [Google Maps](https://www.google.com/maps/search/?api=1&query=Cedar+Valley+Conservation+Area+Oshawa+Ontario) |
-| Healing Lodge Park | Lower town access — steelhead and salmon in season | [Google Maps](https://www.google.com/maps/search/?api=1&query=Healing+Lodge+Park+Oshawa+Ontario) |
-| Lakeview Park (river mouth) | Lower Oshawa Creek near Lake Ontario — fresh-run fish | [Google Maps](https://www.google.com/maps/search/?api=1&query=Lakeview+Park+Oshawa+Ontario+creek) |
+| **Lakeview Park** (mouth — primary lower access) | Lower Oshawa Creek near Lake Ontario — fresh-run fish; parking + washrooms | [Google Maps](https://www.google.com/maps/search/?api=1&query=Lakeview+Park+Oshawa+Ontario+creek) |
+| **Healing Lodge Park** (lower town) | Lower town access — steelhead and salmon in season | [Google Maps](https://www.google.com/maps/search/?api=1&query=Healing+Lodge+Park+Oshawa+Ontario) |
+| **King St W / Hwy 2 bridge (downtown Oshawa)** (mid — town section) | Hwy 2 crossing in downtown Oshawa; on-street parking; gauge 02HD008 nearby | [Google Maps](https://www.google.com/maps/search/?api=1&query=King+Street+West+Oshawa+Creek+Ontario) |
+| **Stone St crossing** (mid — town section) | Bridge crossing through town; multiple downtown crossings | [Google Maps](https://www.google.com/maps/search/?api=1&query=Stone+Street+Oshawa+Creek+Ontario) |
+| **Bond St E bridge** (mid — town) | Bond St crossing north of King St; downtown bridge access | [Google Maps](https://www.google.com/maps/search/?api=1&query=Bond+Street+East+Oshawa+Creek+Ontario) |
+| **Cedar Valley Conservation Area** (upper — resident trout) | CLOCA-managed; good access, upper creek — resident brown and brook trout; free parking | [Google Maps](https://www.google.com/maps/search/?api=1&query=Cedar+Valley+Conservation+Area+Oshawa+Ontario) |
+| **Goodman (East Oshawa) Creek tributary** (upper, brook trout — 43.9333, -78.9000) | Resident brook trout per MNR 2003 atlas | [Google Maps](https://www.google.com/maps/search/?api=1&query=43.9333,-78.9000) |
+| **Farewell Creek tributary** (lower-mid, brook trout) | Resident brook trout in cooler tributary | [Google Maps](https://www.google.com/maps/search/?api=1&query=Farewell+Creek+Oshawa+Ontario) |
 
 ## MNR Brook Trout Data
 

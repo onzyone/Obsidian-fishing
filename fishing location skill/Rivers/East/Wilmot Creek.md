@@ -32,9 +32,12 @@
 
 | Location | Notes | Maps |
 |---|---|---|
-| Samuel Wilmot Nature Area | Cobbledick Rd south of Hwy 2, Newcastle; two parking lots (east + west — west lot has had seasonal closures, use east lot as alternate); 2.1 km trails, viewing platform, steel footbridge over creek; primary access to lower creek | [Google Maps](https://www.google.com/maps/search/?api=1&query=Samuel+Wilmot+Nature+Area+Newcastle+Ontario) |
-| Highway 2 Bridge | Mid-section access between mouth and upper reaches; road-allowance parking | [Google Maps](https://www.google.com/maps/search/?api=1&query=Wilmot+Creek+Highway+2+Newcastle+Ontario) |
-| Thurn Park Conservation Area | Upper end of public water; dedicated parking lot; fishing both sides of stream; rugged path along ~400m of creek | [Google Maps](https://www.google.com/maps/search/?api=1&query=Thurn+Park+Conservation+Area+Newcastle+Ontario) |
+| **Samuel Wilmot Nature Area** (mouth — primary lower access) | Cobbledick Rd south of Hwy 2, Newcastle; two parking lots (east + west — west lot has had seasonal closures, use east lot as alternate); 2.1 km trails, viewing platform, steel footbridge over creek; primary access to lower creek | [Google Maps](https://www.google.com/maps/search/?api=1&query=Samuel+Wilmot+Nature+Area+Newcastle+Ontario) |
+| **Mouth at Lake Ontario** (south of CNR — year-round section) | Year-round open below CNR tracks; few hundred metres of fishable water; gauge 02HD009 near Newcastle | [Google Maps](https://www.google.com/maps/search/?api=1&query=Wilmot+Creek+mouth+Newcastle+Ontario) |
+| **Highway 2 Bridge** (mid) | Mid-section access between mouth and upper reaches; road-allowance parking | [Google Maps](https://www.google.com/maps/search/?api=1&query=Wilmot+Creek+Highway+2+Newcastle+Ontario) |
+| **Thurn Park Conservation Area** (upper — end of public water) | Upper end of public water; dedicated parking lot; fishing both sides of stream; rugged path along ~400m of creek | [Google Maps](https://www.google.com/maps/search/?api=1&query=Thurn+Park+Conservation+Area+Newcastle+Ontario) |
+| **Leskard area** (upper, gauged 02HD021) | Upstream gauge "Wilmot Creek Near Leskard"; smaller upper water; access via road allowances | [Google Maps](https://www.google.com/maps/search/?api=1&query=Leskard+Wilmot+Creek+Ontario) |
+| **MNR brook trout pin** (Clarke Twp — 43.9000, -78.6000) | Resident brook trout per MNR 2003 atlas; small headwater feeder | [Google Maps](https://www.google.com/maps/search/?api=1&query=43.9000,-78.6000) |
 
 ## MNR Brook Trout Data
 

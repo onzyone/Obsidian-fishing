@@ -43,8 +43,11 @@ Shaw's Creek is a **spring-fed limestone tributary** that clears significantly f
 
 | Location | Parking | Walk | Water / Notes | Maps |
 |---|---|---|---|---|
-| Alton Village area (Hwy 10 / Mountainview Rd) | Roadside pulloff | 5–20 min upstream | Brook runs through farmland north of Alton; road allowance crossing at Mountainview Rd gives walk-in access upstream and down | [Google Maps](https://www.google.com/maps/search/?api=1&query=Shaw%27s+Creek+Alton+Ontario) |
-| Airport Road crossings (south of Orangeville) | Roadside pulloff | Walk upstream or downstream from crossing | Multiple rural road crossings along Shaw's Creek south of Orangeville — each is a legal access point | [Google Maps](https://www.google.com/maps/search/?api=1&query=Shaw%27s+Creek+Caledon+Ontario) |
+| **Alton Village — Mountainview Rd bridge** (primary) | Roadside pulloff | 5–20 min upstream | Mountainview Rd crossing in Alton; road allowance walk-in access upstream and down through farmland north of Alton | [Google Maps](https://www.google.com/maps/search/?api=1&query=Mountainview+Road+Alton+Ontario+Shaw%27s+Creek) |
+| **Airport Rd bridge — south of Orangeville** (mid) | Roadside pulloff | Walk up- or downstream | Airport Rd crossing south of Orangeville; rural bridge with shoulder parking | [Google Maps](https://www.google.com/maps/search/?api=1&query=Airport+Road+Caledon+Shaw%27s+Creek+Ontario) |
+| **Hwy 10 / Charleston Sideroad area** (mid-upper) | Roadside pulloff | Walk-in via road allowance | Hwy 10 / Charleston Sideroad crossings; smaller upstream pools and runs | [Google Maps](https://www.google.com/maps/search/?api=1&query=Highway+10+Charleston+Sideroad+Caledon+Ontario) |
+| **Forks of the Credit confluence** (lower — Credit River main stem) | Roadside / Forks of the Credit PP | 10–30 min walk | Lower Shaw's Creek joins the Credit River near Forks of the Credit Provincial Park; same C&R rules apply on the Credit special-reg zone | [Google Maps](https://www.google.com/maps/search/?api=1&query=Forks+of+the+Credit+Provincial+Park+Ontario) |
+| **Mountainview Rd / Charleston Sideroad area** (mid-upper) | Roadside pulloff | Walk-in via road allowance | Smaller upstream pools and runs; tight casting; fewer anglers | [Google Maps](https://www.google.com/maps/search/?api=1&query=Mountainview+Road+Charleston+Sideroad+Caledon+Ontario) |
 
 > Most land adjacent to Shaw's Creek is **private farmland** — access limited to road allowances at bridge/culvert crossings. Walk the road allowance (20m either side of road centerline) and ask permission if approaching private property.
 

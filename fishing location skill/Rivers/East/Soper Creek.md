@@ -31,9 +31,13 @@
 
 | Location | Notes | Maps |
 |---|---|---|
-| Soper Creek Conservation Area / Bowmanville Waterfront | Near mouth — primary public access; fresh-run fish | [Google Maps](https://www.google.com/maps/search/?api=1&query=Soper+Creek+Bowmanville+Waterfront+Ontario) |
-| Soper Creek Trail Park (Simpson Ave) | Off Simpson Ave, Bowmanville; paved parking, washrooms; connects to Soper Creek Trail (21+ km of trails along creek) — primary corridor for reaching mid-creek on foot | [Google Maps](https://www.google.com/maps/search/?api=1&query=Soper+Creek+Trail+Park+Simpson+Avenue+Bowmanville+Ontario) |
-| Road allowances upstream | Research current crossing points before visiting | [Google Maps](https://www.google.com/maps/search/?api=1&query=Soper+Creek+Bowmanville+Ontario) |
+| **Bowmanville Waterfront / Soper Creek Conservation Area** (mouth — primary lower access) | Near mouth — fresh-run fish; gauge proxy 02HD006 (Bowmanville — discontinued 02HD007) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Soper+Creek+Bowmanville+Waterfront+Ontario) |
+| **Fish ladder (sanctuary boundary — verify annually)** | Sanctuary boundaries near the fish ladder change — verify before fishing | [Google Maps](https://www.google.com/maps/search/?api=1&query=Soper+Creek+fish+ladder+Bowmanville+Ontario) |
+| **Soper Creek Trail Park (Simpson Ave)** (mid) | Off Simpson Ave, Bowmanville; paved parking, washrooms; connects to Soper Creek Trail (21+ km of trails along creek) — primary corridor for reaching mid-creek on foot | [Google Maps](https://www.google.com/maps/search/?api=1&query=Soper+Creek+Trail+Park+Simpson+Avenue+Bowmanville+Ontario) |
+| **King St / Hwy 2 bridge (Bowmanville)** (lower-mid) | Hwy 2 crossing in downtown Bowmanville; on-street parking; below town | [Google Maps](https://www.google.com/maps/search/?api=1&query=King+Street+Soper+Creek+Bowmanville+Ontario) |
+| **Liberty St N bridge** (mid) | Liberty St crossing north of downtown; road-allowance access; trail connection | [Google Maps](https://www.google.com/maps/search/?api=1&query=Liberty+Street+North+Soper+Creek+Bowmanville+Ontario) |
+| **Concession Rd 3 bridge** (upper-mid) | Concession 3 crossing north of Bowmanville; rural bridge with shoulder parking | [Google Maps](https://www.google.com/maps/search/?api=1&query=Concession+Road+3+Soper+Creek+Clarington+Ontario) |
+| **Tyrone — Concession Rd 7 area** (upper) | Upper Soper near Tyrone; resident brook trout water | [Google Maps](https://www.google.com/maps/search/?api=1&query=Tyrone+Ontario+Soper+Creek) |
 
 ## Links
 

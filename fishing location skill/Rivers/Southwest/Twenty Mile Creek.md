@@ -27,11 +27,12 @@ Lake Ontario tributary (not Lake Erie) flowing into Jordan Harbour near Jordan, 
 
 ## Access Points
 
-| Location | Notes |
-|---|---|
-| **Jordan Harbour Conservation Area** | Main access point. Parking off Lakeshore Rd (Regional Rd 87). Walk to creek mouth and lower section. |
-| **Lakeshore Rd (Regional Rd 87) crossing** | Road-allowance access near harbour. |
-| **QEW bridge crossing** | Road allowance; lower river access. |
+| Location | Notes | Maps |
+|---|---|---|
+| **Jordan Harbour Conservation Area** (mouth) | Main access point. Parking off Lakeshore Rd (Regional Rd 87). Walk to creek mouth and lower section | [Google Maps](https://www.google.com/maps/search/?api=1&query=Jordan+Harbour+Conservation+Area+Ontario) |
+| **Lakeshore Rd / Regional Rd 87 crossing** (lower) | Road-allowance access near harbour | [Google Maps](https://www.google.com/maps/search/?api=1&query=Lakeshore+Road+Twenty+Mile+Creek+Jordan+Ontario) |
+| **QEW bridge crossing** (lower-mid) | Road allowance; lower river access | [Google Maps](https://www.google.com/maps/search/?api=1&query=QEW+Twenty+Mile+Creek+Jordan+Ontario) |
+| **Ball's Falls Conservation Area** (upper — gauged section) | NPCA park; waterfalls, trails, gauge 02HA006; upper resident-trout water (above the falls is barrier to migrating fish) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Ball%27s+Falls+Conservation+Area+Jordan+Ontario) |
 
 ---
 

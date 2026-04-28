@@ -25,9 +25,12 @@
 
 | Location | Notes | Maps |
 |---|---|---|
-| Dunedin Community Park — 8983 County Rd 9 | Small lot, picnic area right on river; easiest access to the Noisy River | [Google Maps](https://www.google.com/maps/search/?api=1&query=8983+County+Road+9+Dunedin+Ontario) |
-| Noisy River Provincial Nature Reserve | Off Simcoe County Rd 9; hike required to reach creek — low pressure, good brook trout water | [Google Maps](https://www.google.com/maps/search/?api=1&query=Noisy+River+Provincial+Nature+Reserve+Ontario) |
-| Creemore area (near Mad River confluence) | Road access near town; Noisy merges with Mad just upstream of Creemore | [Google Maps](https://www.google.com/maps/search/?api=1&query=Noisy+River+Creemore+Ontario) |
+| **Dunedin Community Park — 8983 County Rd 9** (mid — primary access) | Small lot, picnic area right on river; easiest access to the Noisy River | [Google Maps](https://www.google.com/maps/search/?api=1&query=8983+County+Road+9+Dunedin+Ontario) |
+| **Above Lavender Falls** (upper — brook trout) | Brook trout water above falls barrier; rainbow trout downstream of falls | [Google Maps](https://www.google.com/maps/search/?api=1&query=Lavender+Falls+Noisy+River+Ontario) |
+| **Below Lavender Falls** (mid — rainbow trout) | Rainbow trout fishery below falls; barrier marks brook/rainbow boundary | [Google Maps](https://www.google.com/maps/search/?api=1&query=Lavender+Falls+Noisy+River+Ontario) |
+| **Noisy River Provincial Nature Reserve** (upper — walk-in) | Off Simcoe County Rd 9; hike required to reach creek — low pressure, good brook trout water | [Google Maps](https://www.google.com/maps/search/?api=1&query=Noisy+River+Provincial+Nature+Reserve+Ontario) |
+| **MNR brook trout pin** (Nottawasaga Twp — 44.3167, -80.1500) | MNR 2003 atlas confirmed | [Google Maps](https://www.google.com/maps/search/?api=1&query=44.3167,-80.1500) |
+| **Creemore area (near Mad River confluence)** (lower — confluence) | Road access near town; Noisy merges with Mad just upstream of Creemore | [Google Maps](https://www.google.com/maps/search/?api=1&query=Noisy+River+Creemore+Ontario) |
 
 ## MNR Brook Trout Data
 

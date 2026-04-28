@@ -28,11 +28,12 @@
 
 | Location | Notes | Maps |
 |---|---|---|
-| Riverside Park (Speedvale Ave → Woodlawn Ave) | Trail on both sides of river through this stretch — most accessible urban section; brown trout hold in deep bends through town | [Google Maps](https://www.google.com/maps/search/?api=1&query=Riverside+Park+Speed+River+Guelph+Ontario) |
-| Guelph Lake Conservation Area | GRCA; upper Speed access above lake; brook trout and smallmouth; paid day-use lot | [Google Maps](https://www.google.com/maps/search/?api=1&query=Guelph+Lake+Conservation+Area+Ontario) |
-| Bridge crossings through Guelph (Stone Rd, Eastview Rd) | Road-allowance access; slow water through urban sections — fish deep bends | [Google Maps](https://www.google.com/maps/search/?api=1&query=Speed+River+Stone+Road+Guelph+Ontario) |
-| Hanlon Creek confluence | Below confluence; warmwater species | [Google Maps](https://www.google.com/maps/search/?api=1&query=Hanlon+Creek+Guelph+Ontario) |
-| Speedside (upper river, north toward Erin) | Roadside pull-offs; brook trout water in upper Speed above Guelph Lake | [Google Maps](https://www.google.com/maps/search/?api=1&query=Speedside+Ontario+Speed+River) |
+| **Riverside Park (Speedvale Ave)** (mid-upper — primary urban) | Trail on both sides of river; most accessible urban section; brown trout hold in deep bends; free parking | [Google Maps](https://www.google.com/maps/search/?api=1&query=Riverside+Park+Guelph+Ontario) |
+| **Royal City Park** (mid — downtown Guelph) | Downtown park with Speed River access; free parking; walking trails | [Google Maps](https://www.google.com/maps/search/?api=1&query=Royal+City+Park+Guelph+Ontario) |
+| **Guelph Lake Conservation Area** (upper — brook trout above lake) | GRCA; upper Speed access above lake; brook trout and smallmouth; paid day-use lot | [Google Maps](https://www.google.com/maps/search/?api=1&query=Guelph+Lake+Conservation+Area+Ontario) |
+| **Stone Rd bridge** (mid — south Guelph) | Stone Rd crossing in south Guelph; on-street parking; deep-bend brown trout water | [Google Maps](https://www.google.com/maps/search/?api=1&query=Stone+Road+Speed+River+Guelph+Ontario) |
+| **Eastview Rd bridge** (mid — east Guelph) | Eastview Rd crossing; road-allowance access | [Google Maps](https://www.google.com/maps/search/?api=1&query=Eastview+Road+Speed+River+Guelph+Ontario) |
+| **Speedside village bridge** (upper, north toward Erin) | Bridge in Speedside village; brook trout water in upper Speed above Guelph Lake | [Google Maps](https://www.google.com/maps/search/?api=1&query=Speedside+village+Speed+River+Ontario) |
 
 ## MNR Brook Trout Data
 

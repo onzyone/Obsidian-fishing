@@ -33,11 +33,12 @@
 
 | Location | Notes | Maps |
 |---|---|---|
-| Goderich waterfront / harbour (mouth) | Near lighthouse/pier; primary steelhead access; primary entry point for fish coming from Lake Huron | [Google Maps](https://www.google.com/maps/search/?api=1&query=Goderich+Harbour+Maitland+River+Ontario) |
-| Benmiller area | River meanders here; guided fly fishing operations based here (Fly Fitters); good mid-river holding water; access via Benmiller Line and River Line | [Google Maps](https://www.google.com/maps/search/?api=1&query=Benmiller+Ontario+Maitland+River) |
-| Maitland Valley Conservation Area | Multiple access points along the river | [Google Maps](https://www.google.com/maps/search/?api=1&query=Maitland+Valley+Conservation+Area+Ontario) |
-| Wingham dam | Furthest upstream steelhead penetration — no fish ladder; fish stage below dam in fall | [Google Maps](https://www.google.com/maps/search/?api=1&query=Wingham+Ontario+Maitland+River+dam) |
-| Huron County road allowances | Multiple bridge crossings upstream; research current points before visiting | [Google Maps](https://www.google.com/maps/search/?api=1&query=Maitland+River+Huron+County+Ontario) |
+| **Goderich harbour / mouth** (lower — primary) | Near lighthouse/pier; primary steelhead access from Lake Huron; free harbour parking | [Google Maps](https://www.google.com/maps/search/?api=1&query=Goderich+Harbour+Maitland+River+Ontario) |
+| **Falls Reserve Conservation Area (Benmiller)** (lower-mid — primary upstream) | MVCA-managed; campground + day-use; falls section below Benmiller; classic riffle/pool water; paid day-use | [Google Maps](https://www.google.com/maps/search/?api=1&query=Falls+Reserve+Conservation+Area+Benmiller+Ontario) |
+| **Benmiller Line bridge** (mid) | Bridge crossing in Benmiller village; guided fly operations based here (Fly Fitters); road-allowance access | [Google Maps](https://www.google.com/maps/search/?api=1&query=Benmiller+Line+Maitland+River+Ontario) |
+| **Auburn — Hwy 8 bridge** (mid) | Hwy 8 crossing in Auburn village; pull-off parking; mid-river holding water | [Google Maps](https://www.google.com/maps/search/?api=1&query=Auburn+Highway+8+Maitland+River+Ontario) |
+| **Wingham dam** (upper barrier — fall staging) | Furthest upstream steelhead penetration — no fish ladder; fish stage below dam in fall; town parking | [Google Maps](https://www.google.com/maps/search/?api=1&query=Wingham+Ontario+Maitland+River+dam) |
+| **Belgrave area road allowances** (upper) | Rural road crossings between Wingham and Auburn; resident brown trout water | [Google Maps](https://www.google.com/maps/search/?api=1&query=Belgrave+Ontario+Maitland+River) |
 
 ## Links
 

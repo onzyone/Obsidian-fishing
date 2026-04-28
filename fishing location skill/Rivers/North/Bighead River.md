@@ -31,10 +31,12 @@
 
 | Location | Notes | Maps |
 |---|---|---|
-| Meaford harbour / river mouth | Primary steelhead access; rocky fast water near mouth; fish move through quickly into pools | [Google Maps](https://www.google.com/maps/search/?api=1&query=Meaford+Harbour+Bighead+River+Ontario) |
-| Bighead River Conservation Area | Upstream from Meaford; additional public access; fantastic pocket water fishing | [Google Maps](https://www.google.com/maps/search/?api=1&query=Bighead+River+Conservation+Area+Meaford+Ontario) |
-| Trout Hollow Trail (Grey Sauble CA) | 10.8 km trail through woodlands, meadows, and river valley — walk-in access to multiple stretches | [Google Maps](https://www.google.com/maps/search/?api=1&query=Trout+Hollow+Trail+Bighead+River+Ontario) |
-| Road allowances (Bighead River Rd / Grey Rd 12 area) | Bridge crossings with road-allowance access; surrounding land mostly private | [Google Maps](https://www.google.com/maps/search/?api=1&query=Bighead+River+Grey+Road+12+Ontario) |
+| **Meaford harbour / river mouth** (lower — primary) | Primary steelhead access; rocky fast water near mouth; fish move through quickly into pools; free harbour parking | [Google Maps](https://www.google.com/maps/search/?api=1&query=Meaford+Harbour+Bighead+River+Ontario) |
+| **Memorial Park (Meaford)** (lower in-town) | Town park along Bighead just upstream of mouth; free parking; trail access | [Google Maps](https://www.google.com/maps/search/?api=1&query=Memorial+Park+Meaford+Ontario) |
+| **Bighead River Conservation Area** (mid — primary upstream) | Upstream from Meaford; additional public access; fantastic pocket water fishing | [Google Maps](https://www.google.com/maps/search/?api=1&query=Bighead+River+Conservation+Area+Meaford+Ontario) |
+| **Trout Hollow Trail (Grey Sauble CA)** (mid — walk-in) | 10.8 km trail through woodlands, meadows, and river valley — walk-in access to multiple stretches; trailhead parking off Sideroad 21 | [Google Maps](https://www.google.com/maps/search/?api=1&query=Trout+Hollow+Trail+Meaford+Ontario) |
+| **Grey Rd 12 bridge — Bognor area** (mid-upper) | Bridge crossing west of Bognor; road-allowance access; surrounding land mostly private | [Google Maps](https://www.google.com/maps/search/?api=1&query=Grey+Road+12+Bighead+River+Bognor+Ontario) |
+| **Walters Falls** (upper trib — Walters Creek) | Waterfall barrier on Walters Creek (Bighead trib system); historic mill village; resident trout above falls | [Google Maps](https://www.google.com/maps/search/?api=1&query=Walters+Falls+Ontario) |
 
 ## Links
 

@@ -44,7 +44,28 @@
       "WebFetch(domain:www.riverwatcher.is)",
       "WebFetch(domain:wateroffice.ec.gc.ca)",
       "Bash(curl -s \"https://api.weather.gc.ca/collections/hydrometric-stations/items?limit=500&PROV_TERR_STATE_LOC=ON&f=json\")",
-      "Bash(curl -s \"https://api.weather.gc.ca/collections/hydrometric-stations/items?limit=2000&PROV_TERR_STATE_LOC=ON&f=json\")"
+      "Bash(curl -s \"https://api.weather.gc.ca/collections/hydrometric-stations/items?limit=2000&PROV_TERR_STATE_LOC=ON&f=json\")",
+      "Bash(curl -s http://localhost:11434/api/tags)",
+      "Read(//Users/onzyone/.ollama/models/manifests/**)",
+      "Bash(ollama list *)",
+      "Bash(ps eww *)",
+      "Bash(kill 7813)",
+      "Bash(export OLLAMA_MODELS=\"/Volumes/external media \\(4tb wd_black\\)/llms/ollama-models\" nohup ollama serve 2)",
+      "Bash(lsof -iTCP:11434 -sTCP:LISTEN -n -P)",
+      "Bash(exiftool -GPSLatitude -GPSLongitude -GPSPosition -DateTimeOriginal -CreateDate \"/Users/onzyone/Library/Mobile Documents/iCloud~md~obsidian/Documents/fishing/Pasted image 20260427072739.png\")",
+      "Bash(sips -g all \"/Users/onzyone/Library/Mobile Documents/iCloud~md~obsidian/Documents/fishing/Pasted image 20260427072739.png\")",
+      "WebFetch(domain:aperfectdrift.com)",
+      "WebFetch(domain:hooklineandsinker.ca)",
+      "WebFetch(domain:www.instagram.com)",
+      "WebFetch(domain:www.youtube.com)",
+      "WebFetch(domain:mapcarta.com)",
+      "WebFetch(domain:www.openstreetmap.org)",
+      "WebFetch(domain:nominatim.openstreetmap.org)",
+      "WebFetch(domain:overpass-api.de)",
+      "Bash(awk '/^## Access Points/,/^## /' \"/Users/onzyone/Library/Mobile Documents/iCloud~md~obsidian/Documents/fishing/fishing location skill/Rivers/East/Don River.md\")",
+      "Bash(awk '/^## Access Points$/,/^##[^#]/' \"/Users/onzyone/Library/Mobile Documents/iCloud~md~obsidian/Documents/fishing/fishing location skill/Rivers/East/Don River.md\")",
+      "Bash(cp \"/Users/onzyone/Library/Mobile Documents/iCloud~md~obsidian/Documents/fishing/Go Fishing Here.md\" \"/tmp/gfh_old.md\")",
+      "Read(//tmp/**)"
     ]
   }
 }

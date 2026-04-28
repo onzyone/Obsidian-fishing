@@ -28,9 +28,13 @@
 
 | Location | Notes | Maps |
 |---|---|---|
-| Peace Park (town of Cobourg) | Lower river — targets aggressive fresh-run steelhead and salmon | [Google Maps](https://www.google.com/maps/search/?api=1&query=Peace+Park+Cobourg+Ontario+creek) |
-| Sinclair Park | Between Peace Park and Conservation Area — mid-lower access | [Google Maps](https://www.google.com/maps/search/?api=1&query=Sinclair+Park+Cobourg+Ontario) |
-| Cobourg Conservation Area | Covers both forks; best access for upper sections | [Google Maps](https://www.google.com/maps/search/?api=1&query=Cobourg+Conservation+Area+Ontario) |
+| **Cobourg Harbour / mouth** (lower — fresh-run staging) | Year-round open below CNR; free harbour parking; fresh-run fish stage in harbour and lower creek | [Google Maps](https://www.google.com/maps/search/?api=1&query=Cobourg+Harbour+Ontario) |
+| **Peace Park** (town of Cobourg, lower) | Lower river — targets aggressive fresh-run steelhead and salmon; on-street parking | [Google Maps](https://www.google.com/maps/search/?api=1&query=Peace+Park+Cobourg+Ontario+creek) |
+| **Sinclair Park** (mid-lower) | Between Peace Park and Conservation Area — mid-lower access | [Google Maps](https://www.google.com/maps/search/?api=1&query=Sinclair+Park+Cobourg+Ontario) |
+| **D'Arcy St bridge** (mid — town section) | D'Arcy St crossing through Cobourg town; on-street parking; below sanctuary boundary | [Google Maps](https://www.google.com/maps/search/?api=1&query=D%27Arcy+Street+Cobourg+Creek+Ontario) |
+| **King St / lamprey barrier** (sanctuary boundary — DO NOT fish above) | Sanctuary closed year-round above lamprey barrier to King St — verify location before fishing | [Google Maps](https://www.google.com/maps/search/?api=1&query=King+Street+Cobourg+Creek+Ontario) |
+| **Cobourg Conservation Area** (upper, both forks) | Covers both forks; best access for upper sections; gauge 02HD019 at Cobourg | [Google Maps](https://www.google.com/maps/search/?api=1&query=Cobourg+Conservation+Area+Ontario) |
+| **East Branch — Hamilton Twp** (upper-east, brook trout — 44.0167, -78.1333) | Resident brook trout per MNR 2003 atlas; small headwater | [Google Maps](https://www.google.com/maps/search/?api=1&query=44.0167,-78.1333) |
 
 ## MNR Brook Trout Data
 

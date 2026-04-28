@@ -33,10 +33,12 @@
 
 | Location | Notes | Maps |
 |---|---|---|
-| Alliston — in-town access | Fish right in town for steelhead, brown trout, and salmon during open season; good public access along river through town | [Google Maps](https://www.google.com/maps/search/?api=1&query=Boyne+River+Alliston+Ontario) |
-| Earl Rowe Provincial Park | Good access to middle/lower Boyne sections | [Google Maps](https://www.google.com/maps/search/?api=1&query=Earl+Rowe+Provincial+Park+Alliston+Ontario) |
-| Boyne Valley Provincial Park (upper river) | Upper Boyne brook and brown trout water; hike required — dense bush, rocky terrain, poison ivy present | [Google Maps](https://www.google.com/maps/search/?api=1&query=Boyne+Valley+Provincial+Park+Ontario) |
-| Road allowances near Shelburne (upper) | Upper brook trout and brown trout water | [Google Maps](https://www.google.com/maps/search/?api=1&query=Boyne+River+Shelburne+Ontario) |
+| **Riverdale Park (Alliston)** (lower — primary in-town) | Town park along Boyne River; free parking; trail access; good steelhead/brown trout water in fall | [Google Maps](https://www.google.com/maps/search/?api=1&query=Riverdale+Park+Alliston+Ontario) |
+| **Centre St bridge — Alliston** (lower in-town) | Downtown bridge crossing the Boyne; on-street parking; walk up- or downstream | [Google Maps](https://www.google.com/maps/search/?api=1&query=Centre+Street+Boyne+River+Alliston+Ontario) |
+| **Earl Rowe Provincial Park** (mid — primary) | Day-use vehicle permit; good access to middle/lower Boyne; multiple trail entry points to river | [Google Maps](https://www.google.com/maps/search/?api=1&query=Earl+Rowe+Provincial+Park+Alliston+Ontario) |
+| **Hwy 89 / Boyne River bridge — west of Alliston** (mid) | Highway crossing west of Alliston; road-allowance pulloff | [Google Maps](https://www.google.com/maps/search/?api=1&query=Highway+89+Boyne+River+bridge+Ontario) |
+| **Boyne Valley Provincial Park** (upper river) | Upper Boyne brook and brown trout water; hike required — dense bush, rocky terrain, poison ivy present | [Google Maps](https://www.google.com/maps/search/?api=1&query=Boyne+Valley+Provincial+Park+Ontario) |
+| **County Rd 124 bridge — Primrose / Shelburne** (upper) | Headwater bridge crossing east of Shelburne; small wild brookies + browns in cold spring-fed water | [Google Maps](https://www.google.com/maps/search/?api=1&query=County+Road+124+Boyne+River+Primrose+Ontario) |
 
 > Contact Nottawasaga Valley Conservation Authority (NVCA) for current public access maps.
 

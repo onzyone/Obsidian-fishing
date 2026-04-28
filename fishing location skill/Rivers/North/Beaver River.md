@@ -31,9 +31,14 @@
 
 | Location | Maps |
 |---|---|
-| Thornbury waterfront / harbour area (mouth) — best spring and fall steelhead access; public parking | [Google Maps](https://www.google.com/maps/search/?api=1&query=Thornbury+Harbour+Beaver+River+Ontario) |
-| Below Thornbury fish ladder — key staging area for steelhead | [Google Maps](https://www.google.com/maps/search/?api=1&query=Thornbury+Fish+Ladder+Beaver+River+Ontario) |
-| Road allowances along Old Thornbury Rd and Grey Rd 13 | [Google Maps](https://www.google.com/maps/search/?api=1&query=Beaver+River+Grey+Road+13+Ontario) |
+| **Thornbury waterfront / harbour** (mouth — primary lower access) — best spring and fall steelhead access; public parking | [Google Maps](https://www.google.com/maps/search/?api=1&query=Thornbury+Harbour+Beaver+River+Ontario) |
+| **Below Thornbury fish ladder** (lower — key staging) — large numbers of fish stack below ladder; classic choke point | [Google Maps](https://www.google.com/maps/search/?api=1&query=Thornbury+Fish+Ladder+Beaver+River+Ontario) |
+| **Above Thornbury fish ladder** (lower-mid — fish that have ascended) — for fish that have already passed the ladder | [Google Maps](https://www.google.com/maps/search/?api=1&query=Beaver+River+above+Thornbury+fish+ladder+Ontario) |
+| **Clarksburg — Marsh St bridge** (lower-mid, gauged 02FB009) | In-village bridge in Clarksburg just upstream of Thornbury; walk up- or downstream; on-street parking | [Google Maps](https://www.google.com/maps/search/?api=1&query=Marsh+Street+Beaver+River+Clarksburg+Ontario) |
+| **Heathcote — Grey Rd 13 bridge** (mid) | Village bridge crossing south of Clarksburg; classic boulder/gravel run; pulloff parking on shoulder | [Google Maps](https://www.google.com/maps/search/?api=1&query=Heathcote+Grey+Road+13+Beaver+River+Ontario) |
+| **Kimberley village bridge** (mid-upper) | Grey Rd 7 / 7th Line crossing in Kimberley; quieter mid-upper water; resident browns + spring steelhead push | [Google Maps](https://www.google.com/maps/search/?api=1&query=Kimberley+Beaver+River+Ontario) |
+| **Vandeleur — upper gauge** (upper, gauged 02FB013) | Smaller upper water; resident trout above Eugenia Falls barrier; road-allowance bridges | [Google Maps](https://www.google.com/maps/search/?api=1&query=Vandeleur+Grey+County+Ontario) |
+| **Eugenia Falls Conservation Area** (upper — barrier) | Falls/dam barrier above Eugenia Lake; resident trout fishery; scenic; free CA parking | [Google Maps](https://www.google.com/maps/search/?api=1&query=Eugenia+Falls+Conservation+Area+Ontario) |
 
 ## Fish Counter
 

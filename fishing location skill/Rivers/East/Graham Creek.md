@@ -17,7 +17,9 @@
 
 ## Notes
 
-- Small creek in the eastern Lake Ontario watershed (Northumberland County area)
+- Small creek in the eastern Lake Ontario watershed (mouth in Newcastle, Clarington / Durham Region; upper reaches extend into Northumberland border)
+- Watershed area 78 km²; largest tributary Mulligan Creek (also Crooked Creek, Lytle Creek)
+- OSM-logged course: mouth 43.9003, -78.5833 → mid 43.9254, -78.5722 (north of 401) → upper 43.9322, -78.5681
 - Low fishing pressure; lightly documented compared to larger eastern tribs
 - Gets steelhead in spring; some brown trout present
 - Limited public access information available — research road allowances and local conservation area access before the trip
@@ -25,12 +27,14 @@
 
 ## Access Points
 
-> Upper sections predominantly private farmland — landowner permission required. Lower creek (near Newcastle mouth) is the only confirmed public access.
+> Upper sections predominantly private farmland — landowner permission required. Lower creek (Port of Newcastle subdivision + creek mouth) is the only confirmed public access.
 
 | Location | Notes | Maps |
 |---|---|---|
-| Creek mouth — Newcastle | Most fished section; slow water near lake with structure (wood); steelhead and salmon push in from lake; road-allowance access at mouth | [Google Maps](https://www.google.com/maps/search/?api=1&query=Graham+Creek+Newcastle+Ontario+lake) |
-| Road allowances at bridge crossings | Primary upstream access; research specific crossings before visiting; Clarington Fishing Map PDF shows named road crossings | [Google Maps](https://www.google.com/maps/search/?api=1&query=Graham+Creek+Northumberland+County+Ontario) |
+| Drop structure / weir — Port of Newcastle subdivision (43.9038, -78.5829) | ~390 m upstream of lake outlet; engineered drop in residential subdivision (Port of Newcastle Drive area) — likely a constructed weir / culvert step (could also be beaver dam). Drop-back steelhead and resident trout hold below the drop. Verify property lines / road allowance before fishing — subdivision is residential | [Google Maps](https://www.google.com/maps/search/?api=1&query=43.903793,-78.582933) |
+| Creek mouth — Newcastle (Bond Head / Graham Creek Jetties) | Slow water near lake with structure (wood, jetties); steelhead and salmon push in from lake; Clarington has active jetty restoration study; road-allowance access at mouth | [Google Maps](https://www.google.com/maps/search/?api=1&query=43.9003,-78.5833) |
+| Farrow Ave / tributary confluence — Newcastle (43.9199, -78.5726) | Lower-mid section ~2.2 km north of mouth; OSM-confirmed Graham Creek + unnamed tributary confluence within 150 m. Confluence = food drift, holding water for migrating fish. Farrow Ave is residential — verify road-allowance crossing or hike up from public access; do not enter private yards | [Google Maps](https://www.google.com/maps/search/?api=1&query=43.919923,-78.572613) |
+| Road allowances at bridge crossings (upper) | Primary upstream access; research specific crossings before visiting; Clarington Fishing Map PDF shows named road crossings; OSM mid node 43.9254, -78.5722 + upper node 43.9322, -78.5681 | [Google Maps](https://www.google.com/maps/search/?api=1&query=Graham+Creek+Clarington+Ontario) |
 
 ## Links
 

@@ -25,8 +25,10 @@
 
 | Location | Notes | Maps |
 |---|---|---|
-| Shelter Valley Park & Campgrounds | **Private campground** — day-use fishing fee not published; call ahead: **905-349-2037** or sheltervalleypark@gmail.com. Camping $55–$80/night if staying over. Must exit by 11pm. | [Google Maps](https://www.google.com/maps/search/?api=1&query=Shelter+Valley+Park+Grafton+Ontario) |
-| Grafton area public road allowances | Limited — research current access before making the trip | [Google Maps](https://www.google.com/maps/search/?api=1&query=Shelter+Valley+Creek+Grafton+Ontario) |
+| **Shelter Valley Park & Campgrounds** (primary access — paid) | **Private campground** — day-use fishing fee not published; call ahead: **905-349-2037** or sheltervalleypark@gmail.com. Camping $55–$80/night if staying over. Must exit by 11pm | [Google Maps](https://www.google.com/maps/search/?api=1&query=Shelter+Valley+Park+Grafton+Ontario) |
+| **Mouth at Lake Ontario / Grafton waterfront** (lower) | Verify road-allowance access; lake-staging fish | [Google Maps](https://www.google.com/maps/search/?api=1&query=Shelter+Valley+Creek+mouth+Grafton+Ontario) |
+| **Hwy 401 / County Rd 23 crossings** (mid) | Road-allowance bridge access; gauge 02HD010 near Grafton | [Google Maps](https://www.google.com/maps/search/?api=1&query=Highway+401+Shelter+Valley+Creek+Grafton+Ontario) |
+| **Grafton area public road allowances** (research before trip) | Limited — research current access before making the trip | [Google Maps](https://www.google.com/maps/search/?api=1&query=Shelter+Valley+Creek+Grafton+Ontario) |
 
 ## MNR Brook Trout Data
 

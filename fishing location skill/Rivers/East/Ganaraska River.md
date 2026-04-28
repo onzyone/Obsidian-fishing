@@ -33,7 +33,8 @@
 | Location | Status (2026) | Notes | Maps |
 |---|---|---|---|
 | Ganaraska Millennium Conservation Area | ✅ Open | East side of river; watch property lines | [Google Maps](https://www.google.com/maps/search/?api=1&query=Ganaraska+Millennium+Conservation+Area+Port+Hope) |
-| Sylvan Glen Conservation Area | ✅ Open | GRCA managed | [Google Maps](https://www.google.com/maps/search/?api=1&query=Sylvan+Glen+Conservation+Area+Ontario) |
+| Sylvan Glen Conservation Area | ✅ Open | GRCA managed; most accessible "upper" stretch above Port Hope; mixed forest, classic spring steelhead water with public parking | [Google Maps](https://www.google.com/maps/search/?api=1&query=Sylvan+Glen+Conservation+Area+Ontario) |
+| Garden Hill (mid stretch) | ✅ Open | Near village of Garden Hill — quieter, more forested middle stretch between Sylvan Glen and Forest Centre; road-allowance access | [Google Maps](https://www.google.com/maps/search/?api=1&query=Garden+Hill+Ontario+Ganaraska+River) |
 | Thurne Parks Conservation Area | ✅ Open | GRCA managed | [Google Maps](https://www.google.com/maps/search/?api=1&query=Thurne+Parks+Conservation+Area+Ontario) |
 | Port Hope Conservation Area | ❌ Closed 2026 | Closed — Hwy 401 expansion work | — |
 | Ganaraska Forest — upper sections | ✅ Open | Upper river access | [Google Maps](https://www.google.com/maps/search/?api=1&query=Ganaraska+Forest+Centre+Ontario) |

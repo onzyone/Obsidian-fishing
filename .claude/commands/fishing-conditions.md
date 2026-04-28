@@ -7,11 +7,15 @@ Check live weather and river conditions, then recommend the best day and river f
 `$ARGUMENTS` can be:
 - Empty — ask user which dates and area to compare
 - Dates and/or area — e.g. `this Saturday West` or `Monday Thursday East`
+- `new` — anywhere in args. Triggers "New Spots Explore" mode: the Lead adds a
+  bonus chart showing 3–4 unfished/under-fished locations per area, clustered
+  within ~30min drive of each other. Combine with dates/area, e.g.
+  `Saturday East new` or `new May 1 2 3 All`.
 
 ## Steps
 
-1. Parse `$ARGUMENTS` for dates and/or area (West · East · North · Southwest · All).
-   Update `fishing-request.md`:
+1. Parse `$ARGUMENTS` for dates, area (West · East · North · Southwest · All), and
+   the optional `new` token. Update `fishing-request.md`:
    File: `/Users/onzyone/Library/Mobile Documents/iCloud~md~obsidian/Documents/fishing/fishing location skill/fishing-conditions/fishing-request.md`
 
    - If dates were provided, set the **Dates** field. Otherwise ask the user which dates to compare.
@@ -21,8 +25,10 @@ Check live weather and river conditions, then recommend the best day and river f
      - **North** — Humber River, Nottawasaga River, Beaver River, Saugeen River, Mad River
      - **Southwest** — Twenty Mile Creek, Niagara River, Big Creek, Lynn River, Big Otter Creek
      - **All** — all year-round lower sections within ~1h
+   - If `new` was in the args, set **Mode:** `new`. Otherwise leave it blank.
 
-   Ask both questions together in one message if neither was provided.
+   Ask both questions together in one message if dates/area weren't provided. Do
+   not ask about `new` — it is opt-in only when the user types it.
 
 2. **Check Ollama is running** before launching any agents:
    ```bash
