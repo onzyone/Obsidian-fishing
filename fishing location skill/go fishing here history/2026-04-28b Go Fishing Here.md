@@ -1,40 +1,27 @@
-# Go Fishing Here
-
 ## 2026-04-28 — East (Fri May 1, Sat May 2, Sun May 3, 2026)
 
 ## Fishing Conditions — Fri May 1, Sat May 2, Sun May 3, 2026
 
+### Fish Run Status
+
+Spring steelhead **drop-back phase** is underway across all East tribs. No verified East counter shows recent passage: Ganaraska Riverwatcher logged 0 fish Apr 1–28; Bowmanville BRAVO Node 22 is STANDBY with no passage recorded. Expect drop-back steelhead heading lake-bound (most active at mouths and below dams/ladders), resident rainbow/brown trout, and suckers stacking. FMZ 17 inland trout opened Apr 25.
+
+| River | # Stocked | Run Status | Notes |
+|-------|-----------|-----------|-------|
+| Bowmanville Creek | n/a 2026 | BRAVO Node 22 STANDBY (no passage Apr 1–28) | Drop-backs + residents; Goodyear Dam fish ladder = staging choke point |
+| Ganaraska | n/a 2026 | Riverwatcher: 0 fish Apr 1–28 | Drop-backs heading lake-bound; spring run mostly through |
+| Wilmot Creek | n/a 2026 | No verified counter | Small short lower; some staging at mouth |
+| Duffins Creek | n/a 2026 | No verified counter | Drop-backs stack below West Duffins dam (Greenwood CA) |
+| Oshawa Creek | n/a 2026 | No verified counter | Lower urban; drop-backs at mouth |
+| Rouge River | n/a 2026 | No verified counter | Lower urban; mouth staging |
+| Don River | n/a 2026 | No verified counter | Urban; very limited fishable water |
+
 ### Weather Forecast
 
-[![wttr.in forecast](https://wttr.in/Etobicoke.png?m)](https://wttr.in/Etobicoke)
+> ℹ️ wttr.in PNG omitted — its 3-day window (Apr 28–30) does not cover the requested
+> trip dates (May 1–3). Date Comparison table below is authoritative (Open-Meteo 14-day).
 
-*[Open live forecast](https://wttr.in/Etobicoke) · [3-day PNG](https://wttr.in/Etobicoke.png?m)*
-
-### Weather & River Summary
-
-A real flood event hit the West-leaning East tribs Apr 25–26: **Rouge 02HC022 peaked 10.9m**, **Duffins 02HC049 peaked 6.50m**, **Wilmot 02HD009 peaked 4.24m**, **Don 02HC024 spiked to 45.5m (likely sensor artifact — actual range probably ~12m)**. By Apr 27 all four were well into their drop. The further-east creeks **never spiked** at all: **Bowmanville 02HD006 (1.68m, stable, range 1.61–1.80)**, **Oshawa 02HD008 (1.47m, stable)**, **Cobourg Brook 02HD019 (1.86m, stable)**, **Shelter Valley 02HD010 (1.00m, falling)**, **Ganaraska 02HD012 (4.46m, stable, range 4.48–4.54)** — these were on the dry side of the storm. Forecast ahead: Wed Apr 29 (2.10mm), Thu Apr 30 (0.20mm), Fri May 1 (1.20mm) — all sub-blowout pulses. Sat May 2 and Sun May 3 fully dry and mostly clear. By Sat (6+ days post-peak), Don/Rouge/Duffins/Wilmot will be cleared back to fishable; Bowmanville/Ganaraska/Oshawa/Cobourg/Shelter Valley already are. Next real rain is Wed May 6 (5.7mm) — recommended window comfortably ahead of it. Cold overnight lows (1–2°C Sat, 1.7°C Sun) — ice on guides at first light.
-
-**East gauge snapshot (last reading 2026-04-27, datum-relative metres):**
-
-| Station | River | Recent | Min (6d) | Max (6d) | Trend | Condition |
-|---------|-------|--------|----------|----------|-------|-----------|
-| 02HC024 | Don (Todmorden) | 11.4m | 3.11m | 45.5m ⚠️ | Falling | Fishable (sensor max suspect; trend genuine) |
-| 02HC022 | Rouge (Markham) | 3.57m | 1.63m | 10.9m | Falling | Fishable — well into drop from Apr 25 peak |
-| 02HC049 | Duffins (Ajax) | 3.66m | 2.88m | 6.50m | Falling | Fishable — drop from Apr 26 peak |
-| 02HD008 | Oshawa Creek | 1.47m | 1.47m | 1.51m | Stable | Fishable — barely moved |
-| 02HD009 | Wilmot (Newcastle) | 1.31m | 0.948m | 4.24m | Falling | Fishable — back near baseline |
-| 02HD006 | **Bowmanville** | 1.68m | 1.61m | 1.80m | Stable | **Fishable — never spiked** |
-| 02HD019 | Cobourg Brook | 1.86m | 1.82m | 1.97m | Stable | Fishable — never spiked |
-| 02HD010 | Shelter Valley | 1.00m | 0.993m | 1.32m | Falling | Fishable — minor pulse only |
-| 02HD012 | **Ganaraska** (Above Dale) | 4.46m | 4.48m | 4.54m | Stable | **Fishable — barely moved** |
-
-### Date Comparison
-
-| Date | Temp | Rain | Rivers | Clarity | Season | Sunrise | Sunset | Moon | Verdict |
-|------|------|------|--------|---------|--------|---------|--------|------|---------|
-| Fri May 1 | 10/2°C | 1.2mm drizzle | Falling — Apr 29 rain pulse working through | Clear (eastern creeks); lightly stained (Don/Rouge/Duffins/Wilmot post-Apr 25 flood) | ✅ FMZ 17 lower open since Apr 25 | 06:11 | 20:24 | 🌕 Full (99%) | **GO (Fair — drizzle)** |
-| Sat May 2 | 9/1°C | 0mm Mostly Clear | Falling/clear — pulses fully dropped | Clear across all East gauges | ✅ open | 06:09 | 20:25 | 🌕 Full (100%) | **GO (Best)** |
-| Sun May 3 | 6.6/1.7°C | 0mm Mostly Clear | Stable — all East gauges holding | Clear | ✅ open | 06:08 | 20:26 | 🌕 Full (99%) | **GO (Fair — cold)** |
+*[Open live forecast](https://wttr.in/Etobicoke) — note: shows next 3 days only*
 
 ### Best Arrival Time
 
@@ -53,20 +40,6 @@ A real flood event hit the West-leaning East tribs Apr 25–26: **Rouge 02HC022 
 > - Evening backup: 18:54–20:24
 > - Moon: 🌕 Full (99%) — light drizzle through the day; light stain to water can actually help bite. Evening window may be more comfortable if drizzle is steady.
 
-### Fish Run Status
-
-Spring steelhead **drop-back phase** is underway across all East tribs. No verified East counter shows recent passage: Ganaraska Riverwatcher logged 0 fish Apr 1–28; Bowmanville BRAVO Node 22 is STANDBY with no passage recorded. Expect drop-back steelhead heading lake-bound (most active at mouths and below dams/ladders), resident rainbow/brown trout, and suckers stacking. FMZ 17 inland trout opened Apr 25.
-
-| River | # Stocked | Run Status | Notes |
-|-------|-----------|-----------|-------|
-| Bowmanville Creek | n/a 2026 | BRAVO Node 22 STANDBY (no passage Apr 1–28) | Drop-backs + residents; Goodyear Dam fish ladder = staging choke point |
-| Ganaraska | n/a 2026 | Riverwatcher: 0 fish Apr 1–28 | Drop-backs heading lake-bound; spring run mostly through |
-| Wilmot Creek | n/a 2026 | No verified counter | Small short lower; some staging at mouth |
-| Duffins Creek | n/a 2026 | No verified counter | Drop-backs stack below West Duffins dam (Greenwood CA) |
-| Oshawa Creek | n/a 2026 | No verified counter | Lower urban; drop-backs at mouth |
-| Rouge River | n/a 2026 | No verified counter | Lower urban; mouth staging |
-| Don River | n/a 2026 | No verified counter | Urban; very limited fishable water |
-
 ### River Comparison — East (Best Day: Sat May 2)
 
 All East rivers fishable Saturday — picks favour user's known producers, fish-ladder choke points, and proximity to dam structures where drop-back steelhead stack.
@@ -80,6 +53,32 @@ All East rivers fishable Saturday — picks favour user's known producers, fish-
 | 5 | **Wilmot Creek** | 55–65 min | **1.31m, falling** (peaked 4.24m Apr 25, range 0.95–4.24, 02HD009) | Clearing | Got hit hard but back near baseline (1.31m vs 0.95m min); short lower section — lake-staging drop-backs at mouth; quick stop on the Bowmanville drive | [Samuel Wilmot Nature Area (mouth, primary)](https://www.google.com/maps/search/?api=1&query=Samuel+Wilmot+Nature+Area+Newcastle+Ontario) · [Mouth at Lake Ontario](https://www.google.com/maps/search/?api=1&query=Wilmot+Creek+mouth+Newcastle+Ontario) · [Hwy 2 bridge (mid)](https://www.google.com/maps/search/?api=1&query=Wilmot+Creek+Highway+2+Newcastle+Ontario) |
 | 6 | Rouge River | 35–40 min | **3.57m, falling** (peaked 10.9m Apr 25, range 1.63–10.9, 02HC022) | Clearing — still slightly coloured | Big flood spike now well dropped; closest open East option but urban silt holds longer than rural creeks | [Rouge Beach Park (mouth)](https://maps.google.com/?q=Rouge+Beach+Park+Toronto) · [Twyn Rivers Dr (mid)](https://www.google.com/maps/search/?api=1&query=Twyn+Rivers+Drive+Rouge+Park+Toronto) · [Glen Rouge Campground](https://www.google.com/maps/search/?api=1&query=Glen+Rouge+Campground+Toronto) |
 | 7 | Don River | 20–25 min | **11.4m, falling** (max 45.5m ⚠️ sensor suspect, 02HC024) | Slightly coloured (urban) | Backup only — gauge max looks like sensor artifact; very limited fishable water; closest drive | [E.T. Seton Park](https://maps.google.com/?q=E.T.+Seton+Park+Toronto) · [Pottery Rd](https://www.google.com/maps/search/?api=1&query=Pottery+Road+Don+River+Toronto) |
+
+### Date Comparison
+
+| Date | Temp | Rain | Rivers | Clarity | Season | Sunrise | Sunset | Moon | Verdict |
+|------|------|------|--------|---------|--------|---------|--------|------|---------|
+| Fri May 1 | 10/2°C | 1.2mm drizzle | Falling — Apr 29 rain pulse working through | Clear (eastern creeks); lightly stained (Don/Rouge/Duffins/Wilmot post-Apr 25 flood) | ✅ FMZ 17 lower open since Apr 25 | 06:11 | 20:24 | 🌕 Full (99%) | **GO (Fair — drizzle)** |
+| Sat May 2 | 9/1°C | 0mm Mostly Clear | Falling/clear — pulses fully dropped | Clear across all East gauges | ✅ open | 06:09 | 20:25 | 🌕 Full (100%) | **GO (Best)** |
+| Sun May 3 | 6.6/1.7°C | 0mm Mostly Clear | Stable — all East gauges holding | Clear | ✅ open | 06:08 | 20:26 | 🌕 Full (99%) | **GO (Fair — cold)** |
+
+### Weather & River Summary
+
+A real flood event hit the West-leaning East tribs Apr 25–26: **Rouge 02HC022 peaked 10.9m**, **Duffins 02HC049 peaked 6.50m**, **Wilmot 02HD009 peaked 4.24m**, **Don 02HC024 spiked to 45.5m (likely sensor artifact — actual range probably ~12m)**. By Apr 27 all four were well into their drop. The further-east creeks **never spiked** at all: **Bowmanville 02HD006 (1.68m, stable, range 1.61–1.80)**, **Oshawa 02HD008 (1.47m, stable)**, **Cobourg Brook 02HD019 (1.86m, stable)**, **Shelter Valley 02HD010 (1.00m, falling)**, **Ganaraska 02HD012 (4.46m, stable, range 4.48–4.54)** — these were on the dry side of the storm. Forecast ahead: Wed Apr 29 (2.10mm), Thu Apr 30 (0.20mm), Fri May 1 (1.20mm) — all sub-blowout pulses. Sat May 2 and Sun May 3 fully dry and mostly clear. By Sat (6+ days post-peak), Don/Rouge/Duffins/Wilmot will be cleared back to fishable; Bowmanville/Ganaraska/Oshawa/Cobourg/Shelter Valley already are. Next real rain is Wed May 6 (5.7mm) — recommended window comfortably ahead of it. Cold overnight lows (1–2°C Sat, 1.7°C Sun) — ice on guides at first light.
+
+**East gauge snapshot (last reading 2026-04-27, datum-relative metres):**
+
+| Station | River | Recent | Min (6d) | Max (6d) | Trend | Condition |
+|---------|-------|--------|----------|----------|-------|-----------|
+| 02HC024 | Don (Todmorden) | 11.4m | 3.11m | 45.5m ⚠️ | Falling | Fishable (sensor max suspect; trend genuine) |
+| 02HC022 | Rouge (Markham) | 3.57m | 1.63m | 10.9m | Falling | Fishable — well into drop from Apr 25 peak |
+| 02HC049 | Duffins (Ajax) | 3.66m | 2.88m | 6.50m | Falling | Fishable — drop from Apr 26 peak |
+| 02HD008 | Oshawa Creek | 1.47m | 1.47m | 1.51m | Stable | Fishable — barely moved |
+| 02HD009 | Wilmot (Newcastle) | 1.31m | 0.948m | 4.24m | Falling | Fishable — back near baseline |
+| 02HD006 | **Bowmanville** | 1.68m | 1.61m | 1.80m | Stable | **Fishable — never spiked** |
+| 02HD019 | Cobourg Brook | 1.86m | 1.82m | 1.97m | Stable | Fishable — never spiked |
+| 02HD010 | Shelter Valley | 1.00m | 0.993m | 1.32m | Falling | Fishable — minor pulse only |
+| 02HD012 | **Ganaraska** (Above Dale) | 4.46m | 4.48m | 4.54m | Stable | **Fishable — barely moved** |
 
 ### Best Day: Saturday May 2, 2026
 

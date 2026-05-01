@@ -45,31 +45,56 @@ Check live weather and river conditions, then recommend the best day and river f
    ```
    If Ollama fails to start, tell the user and stop.
 
-3. Run Phase 1 — launch all 3 agents in parallel splits via cmux:
+3. **Per-zone loop for Area=All.** If the request's Area is `All`, do not run a single
+   combined cycle — instead loop the entire run-and-synthesize flow once per zone
+   (East → West → North → Southwest). For each iteration:
+   a. Set `fishing-request.md` `**Area:**` field to the current zone (Title-Case single word).
+   b. Run the 4 agents in parallel splits as described below; wait for all 4 `AGENT DONE` lines.
+   c. Have the Lead synthesise that zone's output files (`Go Fishing Here/<Zone>/<Zone>.md`
+      and, when Mode=new, `Go Fishing Here/<Zone>/new.md`).
+   d. Move to the next zone.
+
+   After all 4 zones complete, also write `Go Fishing Here/Overall.md` — a summary
+   comparing the 4 zones (best day per zone, top river per zone, conditions snapshot)
+   so the user can pick which zone to actually drive to. See the "Overall summary"
+   section in `conditions-lead.md` for the format.
+
+   For single-zone requests (`East` / `West` / `North` / `Southwest`), skip the loop
+   and just run the cycle once for that zone.
+
+3a. Run a single agent cycle (used both for single-zone runs and inside the per-zone
+   loop) — launch all 4 agents in parallel splits via cmux:
    ```bash
    SKILL_DIR="$HOME/projects/onzyone/claude/fishing"
    WEATHER=$(cmux new-split right | cut -d' ' -f2)
    WATER=$(cmux new-split down --surface "$WEATHER" | cut -d' ' -f2)
    FISH=$(cmux new-split down --surface "$WATER" | cut -d' ' -f2)
+   NEW=$(cmux new-split down --surface "$FISH" | cut -d' ' -f2)
    cmux rename-tab --surface "$WEATHER" "Weather Agent"
    cmux rename-tab --surface "$WATER" "Water Agent"
    cmux rename-tab --surface "$FISH" "Fish Agent"
+   cmux rename-tab --surface "$NEW" "New Locations Agent"
    cmux send --surface "$WEATHER" "bash '$SKILL_DIR/run-weather-agent.sh'"
    cmux send-key --surface "$WEATHER" Enter
    cmux send --surface "$WATER" "bash '$SKILL_DIR/run-water-agent.sh'"
    cmux send-key --surface "$WATER" Enter
    cmux send --surface "$FISH" "bash '$SKILL_DIR/run-fish-agent.sh'"
    cmux send-key --surface "$FISH" Enter
-   echo "WEATHER=$WEATHER WATER=$WATER FISH=$FISH"
+   cmux send --surface "$NEW" "bash '$SKILL_DIR/run-new-locations-agent.sh'"
+   cmux send-key --surface "$NEW" Enter
+   echo "WEATHER=$WEATHER WATER=$WATER FISH=$FISH NEW=$NEW"
    ```
+   The New Locations agent only does real work when **Mode: new** is set in
+   `fishing-request.md` — otherwise it writes a stub output file and exits fast.
 
-4. Tell the user: "All 3 agents are running. Wait for **WEATHER AGENT DONE**, **WATER AGENT DONE**,
-   and **FISH AGENT DONE** to appear, then say **done** and I'll give your recommendation."
+4. Tell the user: "All 4 agents are running. Wait for **WEATHER AGENT DONE**, **WATER AGENT DONE**,
+   **FISH AGENT DONE**, and **NEW LOCATIONS AGENT DONE** to appear, then say **done** and I'll give your recommendation."
 
 5. When the user says "done", read:
    - `/Users/onzyone/Library/Mobile Documents/iCloud~md~obsidian/Documents/fishing/fishing location skill/fishing-conditions-tmp/weather-output.md`
    - `/Users/onzyone/Library/Mobile Documents/iCloud~md~obsidian/Documents/fishing/fishing location skill/fishing-conditions-tmp/water-output.md`
    - `/Users/onzyone/Library/Mobile Documents/iCloud~md~obsidian/Documents/fishing/fishing location skill/fishing-conditions-tmp/fish-output.md`
+   - `/Users/onzyone/Library/Mobile Documents/iCloud~md~obsidian/Documents/fishing/fishing location skill/fishing-conditions-tmp/new-locations-output.md`
 
    Then follow the instructions in:
    `$HOME/projects/onzyone/claude/fishing/conditions-lead.md`
@@ -82,6 +107,7 @@ Check live weather and river conditions, then recommend the best day and river f
    cmux close-surface --surface $WEATHER
    cmux close-surface --surface $WATER
    cmux close-surface --surface $FISH
+   cmux close-surface --surface $NEW
    ```
 
 ## Fallback (no cmux)

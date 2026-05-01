@@ -65,7 +65,12 @@
       "Bash(awk '/^## Access Points/,/^## /' \"/Users/onzyone/Library/Mobile Documents/iCloud~md~obsidian/Documents/fishing/fishing location skill/Rivers/East/Don River.md\")",
       "Bash(awk '/^## Access Points$/,/^##[^#]/' \"/Users/onzyone/Library/Mobile Documents/iCloud~md~obsidian/Documents/fishing/fishing location skill/Rivers/East/Don River.md\")",
       "Bash(cp \"/Users/onzyone/Library/Mobile Documents/iCloud~md~obsidian/Documents/fishing/Go Fishing Here.md\" \"/tmp/gfh_old.md\")",
-      "Read(//tmp/**)"
+      "Read(//tmp/**)",
+      "Bash(chmod +x \"/Users/onzyone/projects/onzyone/claude/fishing/run-new-locations-agent.sh\")",
+      "Bash(chmod +x *)",
+      "Bash(ollama pull *)",
+      "Bash(sed -i '' 's/MODEL=\"qwen3.6:35b\"/MODEL=\"qwen3:4b\"/' ./__TRACKED_VAR__)",
+      "Bash(grep -rn \"qwen3.6:35b\" /Users/onzyone/projects/onzyone/claude/fishing/*.sh)"
     ]
   }
 }

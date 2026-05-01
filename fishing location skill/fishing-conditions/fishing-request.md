@@ -26,4 +26,4 @@ unfished/under-fished locations per area, clustered within ~30min drive of each 
 **Max drive time from 427 & Finch:** 1 hour
 **Target species:** Steelhead / brown trout / whatever is running
 **Keep fish or C&R only:** Either
-**Notes:** Compare Fri/Sat/Sun May 1-3 across East area. Pick best day and river.
+**Notes:** Compare today (Fri May 1) + Sat May 2 + Sun May 3 across East area, new-spots mode. Pick best day and river.
