@@ -28,13 +28,13 @@
 
 | Location | Notes | Maps |
 |---|---|---|
-| **Cobourg Harbour / mouth** (lower — fresh-run staging) | Year-round open below CNR; free harbour parking; fresh-run fish stage in harbour and lower creek | [Google Maps](https://www.google.com/maps/search/?api=1&query=Cobourg+Harbour+Ontario) |
-| **Peace Park** (town of Cobourg, lower) | Lower river — targets aggressive fresh-run steelhead and salmon; on-street parking | [Google Maps](https://www.google.com/maps/search/?api=1&query=Peace+Park+Cobourg+Ontario+creek) |
-| **Sinclair Park** (mid-lower) | Between Peace Park and Conservation Area — mid-lower access | [Google Maps](https://www.google.com/maps/search/?api=1&query=Sinclair+Park+Cobourg+Ontario) |
-| **D'Arcy St bridge** (mid — town section) | D'Arcy St crossing through Cobourg town; on-street parking; below sanctuary boundary | [Google Maps](https://www.google.com/maps/search/?api=1&query=D%27Arcy+Street+Cobourg+Creek+Ontario) |
-| **King St / lamprey barrier** (sanctuary boundary — DO NOT fish above) | Sanctuary closed year-round above lamprey barrier to King St — verify location before fishing | [Google Maps](https://www.google.com/maps/search/?api=1&query=King+Street+Cobourg+Creek+Ontario) |
-| **Cobourg Conservation Area** (upper, both forks) | Covers both forks; best access for upper sections; gauge 02HD019 at Cobourg | [Google Maps](https://www.google.com/maps/search/?api=1&query=Cobourg+Conservation+Area+Ontario) |
-| **East Branch — Hamilton Twp** (upper-east, brook trout — 44.0167, -78.1333) | Resident brook trout per MNR 2003 atlas; small headwater | [Google Maps](https://www.google.com/maps/search/?api=1&query=44.0167,-78.1333) |
+| **Cobourg Harbour / mouth** (lower — fresh-run staging) | Year-round open below CNR; free harbour parking; fresh-run fish stage in harbour and lower creek | [Google Maps](https://maps.google.com/?q=Cobourg+Harbour+Ontario) |
+| **Peace Park (Cobourg)** (lower) | Lower river — targets aggressive fresh-run steelhead and salmon; on-street parking | [Google Maps](https://maps.google.com/?q=Peace+Park+Cobourg+Ontario) |
+| **Sinclair Park (Cobourg)** (mid-lower) | Between Peace Park and Conservation Area — mid-lower access | [Google Maps](https://maps.google.com/?q=Sinclair+Park+Cobourg+Ontario) |
+| **D'Arcy St Bridge** (mid — town section) | D'Arcy St crossing through Cobourg town; on-street parking; below sanctuary boundary | [Google Maps](https://maps.google.com/?q=D%27Arcy+Street+at+Cobourg+Creek+Ontario) |
+| **King St Bridge / lamprey barrier** (sanctuary boundary — DO NOT fish above) | Sanctuary closed year-round above lamprey barrier to King St — verify location before fishing | [Google Maps](https://maps.google.com/?q=King+Street+at+Cobourg+Creek+Ontario) |
+| **Cobourg Conservation Area** (upper, both forks, gauged 02HD019) | Covers both forks; best access for upper sections | [Google Maps](https://maps.google.com/?q=Cobourg+Conservation+Area+Ontario) |
+| **East Branch — Hamilton Twp** (upper-east, brook trout — 44.0167, -78.1333) | Resident brook trout per MNR 2003 atlas; small headwater | [Google Maps](https://maps.google.com/?q=44.0167,-78.1333) |
 
 ## MNR Brook Trout Data
 
@@ -45,7 +45,7 @@
 | Peterborough | Northumberland | Hamilton | 43°57' | 78°10' | 2HD-07 |
 
 - Sources: FISHNET, HABPROG, Northumberland Tourism (1999)
-- **Map pin:** [View on Google Maps](https://www.google.com/maps/search/?api=1&query=43.9500,-78.1667)
+- **Map pin:** [View on Google Maps](https://maps.google.com/?q=43.9500,-78.1667)
 
 ### East Branch
 
@@ -54,7 +54,7 @@
 | Peterborough | Northumberland | Hamilton | 44°01' | 78°08' | 2HD-07 |
 
 - Sources: HABPROG
-- **Map pin:** [View on Google Maps](https://www.google.com/maps/search/?api=1&query=44.0167,-78.1333)
+- **Map pin:** [View on Google Maps](https://maps.google.com/?q=44.0167,-78.1333)
 
 ## Links
 

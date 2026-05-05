@@ -57,16 +57,16 @@ No Chinook salmon — Lake Erie essentially has none. Steelhead strain is the Ga
 
 | Site | Cost | Walk to Water | Notes | Maps |
 |---|---|---|---|---|
-| **Big Creek NWA — Hwy 59 Causeway** (lower marsh) | Free | 1.5 km trail | Main access. Signed lot on right heading south toward Long Point. Trail closed during fall bird migration — call ahead | [Google Maps](https://www.google.com/maps/search/?api=1&query=Big+Creek+National+Wildlife+Area+Ontario) |
-| **Hahn Marsh Unit — County Rd 42 (Lakeshore Rd)** (lower-west) | Free | Short | Second NWA unit west of Hwy 59. Lane leads to public lot | [Google Maps](https://www.google.com/maps/search/?api=1&query=Hahn+Marsh+National+Wildlife+Area+Ontario) |
-| **Rowan Mills Conservation Area** (mid, kayak put-in) | Free | Short / direct | LPRCA site. Kayak put-in | [Google Maps](https://www.google.com/maps/search/?api=1&query=42.628083,-80.537913) |
-| **County Rd 42 at Port Royal ("4th Bridge")** (lower-mid) | Free | Very short | Easy shallow bank access | [Google Maps](https://www.google.com/maps/search/?api=1&query=42.596368,-80.484773) |
-| **Lower Big Creek Conservation Area** (lower-mid) | Free | 1.2 km walk | LPRCA canoe access point. Water control gate site | [Google Maps](https://www.google.com/maps/search/?api=1&query=Lower+Big+Creek+Conservation+Area+Ontario) |
-| **Port Rowan Boat Launch — George Lane** (mouth, paid) | $10/vehicle | By boat/canoe | 1002 George Ln, Port Rowan. Washrooms + snacks. Canoe/kayak reach mid-creek | [Google Maps](https://www.google.com/maps/search/?api=1&query=1002+George+Lane+Port+Rowan+Ontario) |
-| **Hwy 59 at Big Creek bridge** (lower) | Free (road allowance) | At road | Closest road access to marsh/lower creek | [Google Maps](https://www.google.com/maps/search/?api=1&query=Highway+59+Big+Creek+bridge+Long+Point+Ontario) |
-| **Quance Dam fishway** (mid — choke point) | Free | Short walk | Below-dam pool stacks fish ascending the fishway — classic holding spot | [Google Maps](https://www.google.com/maps/search/?api=1&query=Quance+Dam+Big+Creek+Ontario) |
-| **Dick's Hill Bridge** (mid, road-allowance) | Free | At road | Named steel bridge with loose oak timbers; road-allowance fishing | [Google Maps](https://www.google.com/maps/search/?api=1&query=Dick%27s+Hill+Big+Creek+Norfolk+County+Ontario) |
-| **Other bridge crossings (County Rd 60, Rd 1, Regional Rd 21)** | Free (road allowance) | At road | Fish from road allowance — do not cross onto adjacent private farmland | [Google Maps](https://www.google.com/maps/search/?api=1&query=Big+Creek+Norfolk+County+Ontario+bridges) |
+| **Big Creek NWA — Hwy 59 Causeway** (lower marsh) | Free | 1.5 km trail | Main access. Signed lot on right heading south toward Long Point. Trail closed during fall bird migration — call ahead | [Google Maps](https://maps.google.com/?q=Big+Creek+National+Wildlife+Area+Ontario) |
+| **Hahn Marsh Unit — County Rd 42 (Lakeshore Rd)** (lower-west) | Free | Short | Second NWA unit west of Hwy 59. Lane leads to public lot | [Google Maps](https://maps.google.com/?q=Hahn+Marsh+National+Wildlife+Area+Ontario) |
+| **Rowan Mills Conservation Area** (mid, kayak put-in) | Free | Short / direct | LPRCA site. Kayak put-in | [Google Maps](https://maps.google.com/?q=42.628083,-80.537913) |
+| **County Rd 42 at Port Royal ("4th Bridge")** (lower-mid) | Free | Very short | Easy shallow bank access | [Google Maps](https://maps.google.com/?q=42.596368,-80.484773) |
+| **Lower Big Creek Conservation Area** (lower-mid) | Free | 1.2 km walk | LPRCA canoe access point. Water control gate site | [Google Maps](https://maps.google.com/?q=Lower+Big+Creek+Conservation+Area+Ontario) |
+| **Port Rowan Boat Launch — George Lane** (mouth, paid) | $10/vehicle | By boat/canoe | 1002 George Ln, Port Rowan. Washrooms + snacks. Canoe/kayak reach mid-creek | [Google Maps](https://maps.google.com/?q=1002+George+Lane+Port+Rowan+Ontario) |
+| **Hwy 59 at Big Creek bridge** (lower) | Free (road allowance) | At road | Closest road access to marsh/lower creek | [Google Maps](https://maps.google.com/?q=Highway+59+Big+Creek+bridge+Long+Point+Ontario) |
+| **Quance Dam fishway** (mid — choke point) | Free | Short walk | Below-dam pool stacks fish ascending the fishway — classic holding spot | [Google Maps](https://maps.google.com/?q=Quance+Dam+Big+Creek+Ontario) |
+| **Dick's Hill Bridge** (mid, road-allowance) | Free | At road | Named steel bridge with loose oak timbers; road-allowance fishing | [Google Maps](https://maps.google.com/?q=Dick%27s+Hill+Big+Creek+Norfolk+County+Ontario) |
+| **Other bridge crossings (County Rd 60, Rd 1, Regional Rd 21)** | Free (road allowance) | At road | Fish from road allowance — do not cross onto adjacent private farmland | [Google Maps](https://maps.google.com/?q=Big+Creek+Norfolk+County+Ontario+bridges) |
 
 ---
 

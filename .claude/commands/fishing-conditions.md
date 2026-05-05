@@ -30,7 +30,9 @@ Check live weather and river conditions, then recommend the best day and river f
    Ask both questions together in one message if dates/area weren't provided. Do
    not ask about `new` — it is opt-in only when the user types it.
 
-2. **Check Ollama is running** before launching any agents:
+2. **Check Ollama is running and pre-warm the fishing model** before launching any agents.
+   Per the 2026-05-03 fishing bench, all 4 agents run on **phi4-mini** (Ollama) — 77 tok/s
+   with 0.97 format-compliance score, in a 2.5GB footprint. Same backend as stocks.
    ```bash
    if ! curl -sf http://localhost:11434/api/tags >/dev/null 2>&1; then
        echo "Ollama not running — starting it..."
@@ -42,6 +44,11 @@ Check live weather and river conditions, then recommend the best day and river f
        fi
        echo "Ollama started."
    fi
+   # Pre-warm phi4-mini so the first agent call doesn't pay 30-60s cold-load.
+   # keep_alive=15m holds it in RAM through the whole zone loop.
+   curl -s http://localhost:11434/api/generate \
+     -d '{"model":"phi4-mini:latest","prompt":"ok","stream":false,"keep_alive":"15m"}' \
+     > /dev/null &
    ```
    If Ollama fails to start, tell the user and stop.
 

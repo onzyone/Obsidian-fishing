@@ -35,13 +35,14 @@
 
 | Location | Notes | Maps |
 |---|---|---|
-| **Wasaga Beach Provincial Park (river mouth)** (lower — primary year-round) | **Best public walk-up access.** Parking near beach/river mouth; wide flat water; fish hold here year-round in open-water sections in winter | [Google Maps](https://www.google.com/maps/search/?api=1&query=Wasaga+Beach+Provincial+Park+Ontario) |
-| **Schooner Town park / 45th St** (lower — Wasaga town) | In-town parking close to lower river; walk-in access to lower flats | [Google Maps](https://www.google.com/maps/search/?api=1&query=45th+Street+Wasaga+Beach+Ontario) |
-| **Edenvale Conservation Area** (mid — NVCA) | NVCA-managed; picnic area; good mid-river access; free CA parking | [Google Maps](https://www.google.com/maps/search/?api=1&query=Edenvale+Conservation+Area+Ontario+Nottawasaga) |
-| **Angus — Alma Street field** (mid — public) | Field access across from Alma St; can drive to within ~100m of river; public sections near town | [Google Maps](https://www.google.com/maps/search/?api=1&query=Alma+Street+Angus+Ontario+Nottawasaga+River) |
-| **Hwy 89 / Cookstown bridge — south of Alliston** (mid — town) | Hwy 89 crossing south of Alliston; road-allowance pulloff | [Google Maps](https://www.google.com/maps/search/?api=1&query=Highway+89+Alliston+Nottawasaga+River+Ontario) |
-| **McKinnon Road (Minesing Wetlands)** (mid — permit) | ⚠️ **NVCA permit required** — permit needed to fish this section of the Minesing Wetlands; contact NVCA before visiting | [Google Maps](https://www.google.com/maps/search/?api=1&query=McKinnon+Road+Minesing+Nottawasaga+River) |
-| **County Rd 10 / Glencairn area** (upper-mid — near Mad confluence) | Bridge crossing on County Rd 10 in Glencairn village; near Mad River confluence | [Google Maps](https://www.google.com/maps/search/?api=1&query=Glencairn+County+Road+10+Nottawasaga+River+Ontario) |
+| **Wasaga Beach Provincial Park — River Mouth** (lower — primary year-round) | **Best public walk-up access.** Parking near beach/river mouth; wide flat water; fish hold here year-round in open-water sections in winter | [Google Maps](https://maps.google.com/?q=Wasaga+Beach+Provincial+Park+River+Mouth+Ontario) |
+| **Schooner Town Park** (lower — Wasaga town, 45th St) | In-town parking close to lower river; walk-in access to lower flats | [Google Maps](https://maps.google.com/?q=Schooner+Town+Park+Wasaga+Beach+Ontario) |
+| **Edenvale Conservation Area** (mid — NVCA, gauged 02ED027) | NVCA-managed; picnic area; good mid-river access; free CA parking | [Google Maps](https://maps.google.com/?q=Edenvale+Conservation+Area+Ontario) |
+| **Angus — Alma Street field** (mid — public) | Field access across from Alma St; can drive to within ~100m of river; public sections near town | [Google Maps](https://maps.google.com/?q=Alma+Street+Angus+Ontario) |
+| **Hwy 89 Bridge — south of Alliston** (mid — town) | Hwy 89 crossing south of Alliston; road-allowance pulloff | [Google Maps](https://maps.google.com/?q=Highway+89+at+Alliston+Ontario) |
+| **Essa Centennial Park — Utopia** (mid — public, 5862 20 Sideroad) | Free riverside park; parking, picnic area, walkable banks; mid-Notty mainstem between Boyne and Pine confluences. **⚠️ Reg zone: C&R only (rainbow), CLOSED Oct 1 – Dec 31.** Lower pressure than Wasaga mouth or Edenvale | [Google Maps](https://maps.google.com/?q=Essa+Centennial+Park+Utopia+Ontario) |
+| **McKinnon Road (Minesing Wetlands)** (mid — permit) | ⚠️ **NVCA permit required** — permit needed to fish this section of the Minesing Wetlands; contact NVCA before visiting | [Google Maps](https://maps.google.com/?q=Minesing+Wetlands+Conservation+Area+Ontario) |
+| **Glencairn village bridge** (upper-mid — near Mad confluence, Cty Rd 10) | Bridge crossing on County Rd 10 in Glencairn village; near Mad River confluence | [Google Maps](https://maps.google.com/?q=Glencairn+Ontario+Mad+River) |
 
 ## Links
 
@@ -60,5 +61,5 @@
 - Headwater reach — small cold creek in upper Nottawasaga drainage
 - Upper sections near headwaters are almost entirely private property — No Trespassing enforced
 - Sources: MNR (2003)
-- **Map pin:** [View on Google Maps](https://www.google.com/maps/search/?api=1&query=44.2000,-80.2667)
-- **Closest parking:** Hockley Valley Provincial Nature Reserve (nearest public land) — [Google Maps](https://www.google.com/maps/search/?api=1&query=Hockley+Valley+Provincial+Nature+Reserve+Ontario); for lower river access use Angus area — [Google Maps](https://www.google.com/maps/search/?api=1&query=Angus+Ontario+Nottawasaga+River)
+- **Map pin:** [View on Google Maps](https://maps.google.com/?q=44.2000,-80.2667)
+- **Closest parking:** Hockley Valley Provincial Nature Reserve (nearest public land) — [Google Maps](https://maps.google.com/?q=Hockley+Valley+Provincial+Nature+Reserve+Ontario); for lower river access use Angus area — [Google Maps](https://maps.google.com/?q=Angus+Ontario)

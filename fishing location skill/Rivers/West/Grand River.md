@@ -40,29 +40,29 @@
 
 | Location | Notes | Maps |
 |---|---|---|
-| Anderson St North ("Snakies") | Dedicated parking lot; popular local access, great resident trout water | [Google Maps](https://www.google.com/maps/search/?api=1&query=Anderson+Street+North+Fergus+Ontario+Grand+River) |
-| Templin Gardens | Limestone stairs to water in downtown Fergus; easy access | [Google Maps](https://www.google.com/maps/search/?api=1&query=Templin+Gardens+Fergus+Ontario) |
-| Aboyne Trail (Trestle Bridge) | Below Trestle Bridge — explore river in both directions; good for fly fishing | [Google Maps](https://www.google.com/maps/search/?api=1&query=Aboyne+Trail+Fergus+Ontario) |
+| Anderson St North ("Snakies") | Dedicated parking lot; popular local access, great resident trout water | [Google Maps](https://maps.google.com/?q=Anderson+Street+North+Fergus+Ontario+Grand+River) |
+| Templin Gardens | Limestone stairs to water in downtown Fergus; easy access | [Google Maps](https://maps.google.com/?q=Templin+Gardens+Fergus+Ontario) |
+| Aboyne Trail (Trestle Bridge) | Below Trestle Bridge — explore river in both directions; good for fly fishing | [Google Maps](https://maps.google.com/?q=Aboyne+Trail+Fergus+Ontario) |
 
 ### Elora Area
 
 | Location | Notes | Maps |
 |---|---|---|
-| Elora Gorge Conservation Area | Iconic fly fishing gorge; 7400 Wellington County Road 21 — **paid day use: $9.50/adult, $4.00/child (2026, HST incl.)**; GRCA annual membership = free entry | [Google Maps](https://www.google.com/maps/search/?api=1&query=7400+Wellington+County+Road+21+Elora+Ontario) |
-| Bissell Park | Waterfall brings fast water — good for casting; in downtown Elora | [Google Maps](https://www.google.com/maps/search/?api=1&query=Bissell+Park+Elora+Ontario) |
-| Wilson Flats | Steady flat water below gorge — ideal dry fly / nymphing | [Google Maps](https://www.google.com/maps/search/?api=1&query=Wilson+Flats+Elora+Ontario+Grand+River) |
-| Trestle Bridge parking | ~2 km north of Elora on Wellington County Rd 18, past Quarry CA, right after Racquet Club sign | [Google Maps](https://www.google.com/maps/search/?api=1&query=Grand+River+Trestle+Bridge+Elora+Ontario) |
-| Iron Bridge (Weisenberg Rd) | Dirt road ~2 km to bridge; parking before bridge, barrier stops vehicles — remote & good | [Google Maps](https://www.google.com/maps/search/?api=1&query=Weisenberg+Road+Elora+Ontario+Grand+River) |
+| Elora Gorge Conservation Area | Iconic fly fishing gorge; 7400 Wellington County Road 21 — **paid day use: $9.50/adult, $4.00/child (2026, HST incl.)**; GRCA annual membership = free entry | [Google Maps](https://maps.google.com/?q=7400+Wellington+County+Road+21+Elora+Ontario) |
+| Bissell Park | Waterfall brings fast water — good for casting; in downtown Elora | [Google Maps](https://maps.google.com/?q=Bissell+Park+Elora+Ontario) |
+| Wilson Flats | Steady flat water below gorge — ideal dry fly / nymphing | [Google Maps](https://maps.google.com/?q=Wilson+Flats+Elora+Ontario+Grand+River) |
+| Trestle Bridge parking | ~2 km north of Elora on Wellington County Rd 18, past Quarry CA, right after Racquet Club sign | [Google Maps](https://maps.google.com/?q=Grand+River+Trestle+Bridge+Elora+Ontario) |
+| Iron Bridge (Weisenberg Rd) | Dirt road ~2 km to bridge; parking before bridge, barrier stops vehicles — remote & good | [Google Maps](https://maps.google.com/?q=Weisenberg+Road+Elora+Ontario+Grand+River) |
 
 ### Lower River — Steelhead
 
 | Location | Notes | Maps |
 |---|---|---|
-| Paris Dam / Lions Park | **Best fall stacking spot** — fish hold below dam; municipal park parking | [Google Maps](https://www.google.com/maps/search/?api=1&query=Lions+Park+Paris+Ontario+Grand+River) |
-| Brant Conservation Area | South of Brantford — good steelhead through fall and spring | [Google Maps](https://www.google.com/maps/search/?api=1&query=Brant+Conservation+Area+Brantford+Ontario) |
-| Caledonia Dam | Mid-river barrier — steelhead pool up below in fall | [Google Maps](https://www.google.com/maps/search/?api=1&query=Caledonia+Dam+Grand+River+Ontario) |
-| Cayuga area | Below Paris — wide river, good for fly swinging; less pressure | [Google Maps](https://www.google.com/maps/search/?api=1&query=Cayuga+Ontario+Grand+River) |
-| Cambridge — various municipal parks | Multiple entry points, productive in spring | [Google Maps](https://www.google.com/maps/search/?api=1&query=Cambridge+Ontario+Grand+River+fishing) |
+| Paris Dam / Lions Park | **Best fall stacking spot** — fish hold below dam; municipal park parking | [Google Maps](https://maps.google.com/?q=Lions+Park+Paris+Ontario+Grand+River) |
+| Brant Conservation Area | South of Brantford — good steelhead through fall and spring | [Google Maps](https://maps.google.com/?q=Brant+Conservation+Area+Brantford+Ontario) |
+| Caledonia Dam | Mid-river barrier — steelhead pool up below in fall | [Google Maps](https://maps.google.com/?q=Caledonia+Dam+Grand+River+Ontario) |
+| Cayuga area | Below Paris — wide river, good for fly swinging; less pressure | [Google Maps](https://maps.google.com/?q=Cayuga+Ontario+Grand+River) |
+| Cambridge — various municipal parks | Multiple entry points, productive in spring | [Google Maps](https://maps.google.com/?q=Cambridge+Ontario+Grand+River+fishing) |
 
 ## Steelhead Timing
 
@@ -81,4 +81,4 @@
 
 - [Grand River Conservation Authority](https://grandriver.ca)
 - [Grand River Fishing Guide — Ontario Trout & Steelhead](https://ontariotroutandsteelhead.com/fishing-the-grand-river-ontario/)
-- [Grand River Outfitters & Fly Shop — Fergus (backs onto river)](https://www.google.com/maps/search/?api=1&query=Grand+River+Outfitting+Fergus+Ontario)
+- [Grand River Outfitters & Fly Shop — Fergus (backs onto river)](https://maps.google.com/?q=Grand+River+Outfitting+Fergus+Ontario)

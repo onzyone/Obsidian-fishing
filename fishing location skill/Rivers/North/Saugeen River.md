@@ -32,12 +32,12 @@
 
 | Location | Parking | Walk | Notes | Maps |
 |---|---|---|---|---|
-| Southampton waterfront (mouth) | Free public lot | 2–5 min | Best fall and spring steelhead; wide open flats and pools; pier fishing at Port Elgin/Saugeen Shores nearby | [Google Maps](https://www.google.com/maps/search/?api=1&query=Southampton+Ontario+Saugeen+River+mouth) |
-| **Denny's Dam** (hamlet ~10 km south of Hanover on County Rd 3) | Road-side pull-off | 2–3 min | Primary steelhead staging area; 3-mile stretch to mouth open year-round; bank fish from cement abutments; Ontario Steelheaders campground on-site | [Google Maps](https://www.google.com/maps/search/?api=1&query=Dennys+Dam+Saugeen+River+Ontario) |
-| Walkerton — downstream of Denny's Dam | Street parking | 5 min | Additional pools and runs | [Google Maps](https://www.google.com/maps/search/?api=1&query=Walkerton+Ontario+Saugeen+River) |
-| Paisley | Good public parking; two access points with docks | Short | Popular entry point; easy launch; good holding water | [Google Maps](https://www.google.com/maps/search/?api=1&query=Paisley+Ontario+Saugeen+River) |
-| Saugeen Bluffs Conservation Area | Free | Varies | North of Paisley; scenic bluffs section | [Google Maps](https://www.google.com/maps/search/?api=1&query=Saugeen+Bluffs+Conservation+Area+Ontario) |
-| Durham (above Hanover dam) | Street parking | Short | **Brown trout and brook trout only** above dam — no steelhead penetration; best spring/summer | [Google Maps](https://www.google.com/maps/search/?api=1&query=Durham+Ontario+Saugeen+River) |
+| **Long Dock Park (Saugeen mouth, Southampton)** | Free public lot | 2–5 min | Best fall and spring steelhead; wide open flats and pools; pier fishing at Port Elgin/Saugeen Shores nearby | [Google Maps](https://maps.google.com/?q=Long+Dock+Park+Southampton+Ontario) |
+| **Denny's Dam Conservation Area** (hamlet ~10 km south of Hanover on County Rd 3) | Road-side pull-off | 2–3 min | Primary steelhead staging area; 3-mile stretch to mouth open year-round; bank fish from cement abutments; Ontario Steelheaders campground on-site | [Google Maps](https://maps.google.com/?q=Denny%27s+Dam+Conservation+Area+Ontario) |
+| **Lobies Park (Walkerton)** — downstream of Denny's Dam | Street parking + park lot | 5 min | Additional pools and runs; in-town access | [Google Maps](https://maps.google.com/?q=Lobies+Park+Walkerton+Ontario) |
+| **Paisley — Saugeen River Park** | Good public parking; two access points with docks | Short | Popular entry point; easy launch; good holding water | [Google Maps](https://maps.google.com/?q=Saugeen+River+Park+Paisley+Ontario) |
+| **Saugeen Bluffs Conservation Area** | Free | Varies | North of Paisley; scenic bluffs section | [Google Maps](https://maps.google.com/?q=Saugeen+Bluffs+Conservation+Area+Ontario) |
+| **Durham Conservation Area** (above Hanover dam) | Free CA lot | Short | **Brown trout and brook trout only** above dam — no steelhead penetration; best spring/summer | [Google Maps](https://maps.google.com/?q=Durham+Conservation+Area+Ontario) |
 
 ## Denny's Dam — Spot Notes
 

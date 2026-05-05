@@ -32,13 +32,13 @@
 
 | Location | Status (2026) | Notes | Maps |
 |---|---|---|---|
-| Ganaraska Millennium Conservation Area | ✅ Open | East side of river; watch property lines | [Google Maps](https://www.google.com/maps/search/?api=1&query=Ganaraska+Millennium+Conservation+Area+Port+Hope) |
-| Sylvan Glen Conservation Area | ✅ Open | GRCA managed; most accessible "upper" stretch above Port Hope; mixed forest, classic spring steelhead water with public parking | [Google Maps](https://www.google.com/maps/search/?api=1&query=Sylvan+Glen+Conservation+Area+Ontario) |
-| Garden Hill (mid stretch) | ✅ Open | Near village of Garden Hill — quieter, more forested middle stretch between Sylvan Glen and Forest Centre; road-allowance access | [Google Maps](https://www.google.com/maps/search/?api=1&query=Garden+Hill+Ontario+Ganaraska+River) |
-| Thurne Parks Conservation Area | ✅ Open | GRCA managed | [Google Maps](https://www.google.com/maps/search/?api=1&query=Thurne+Parks+Conservation+Area+Ontario) |
+| Ganaraska Millennium Conservation Area | ✅ Open | East side of river; watch property lines | [Google Maps](https://maps.google.com/?q=Ganaraska+Millennium+Conservation+Area+Port+Hope+Ontario) |
+| Sylvan Glen Conservation Area | ✅ Open | GRCA managed; most accessible "upper" stretch above Port Hope; mixed forest, classic spring steelhead water with public parking | [Google Maps](https://maps.google.com/?q=Sylvan+Glen+Conservation+Area+Ontario) |
+| Garden Hill village (mid stretch) | ✅ Open | Near village of Garden Hill — quieter, more forested middle stretch between Sylvan Glen and Forest Centre; road-allowance access | [Google Maps](https://maps.google.com/?q=Garden+Hill+Ontario+Port+Hope) |
+| Thurne Parks Conservation Area | ✅ Open | GRCA managed | [Google Maps](https://maps.google.com/?q=Thurne+Parks+Conservation+Area+Ontario) |
 | Port Hope Conservation Area | ❌ Closed 2026 | Closed — Hwy 401 expansion work | — |
-| Ganaraska Forest — upper sections | ✅ Open | Upper river access | [Google Maps](https://www.google.com/maps/search/?api=1&query=Ganaraska+Forest+Centre+Ontario) |
-| Corbett's Dam & Fishway (fish ladder) | ✅ Open | Fish ladder counts; lower river | [Google Maps](https://www.google.com/maps/search/?api=1&query=Corbett%27s+Dam+Port+Hope+Ontario) |
+| Ganaraska Forest Centre (upper sections) | ✅ Open | Upper river access | [Google Maps](https://maps.google.com/?q=Ganaraska+Forest+Centre+Ontario) |
+| Corbett's Dam & Fishway | ✅ Open | Fish ladder counts; lower river | [Google Maps](https://maps.google.com/?q=Corbett%27s+Dam+Port+Hope+Ontario) |
 
 **GRCA property rules (all CA sites):**
 - Pack out all garbage, recycling, and fish remains — no bins on site

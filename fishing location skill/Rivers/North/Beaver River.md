@@ -31,14 +31,14 @@
 
 | Location | Maps |
 |---|---|
-| **Thornbury waterfront / harbour** (mouth — primary lower access) — best spring and fall steelhead access; public parking | [Google Maps](https://www.google.com/maps/search/?api=1&query=Thornbury+Harbour+Beaver+River+Ontario) |
-| **Below Thornbury fish ladder** (lower — key staging) — large numbers of fish stack below ladder; classic choke point | [Google Maps](https://www.google.com/maps/search/?api=1&query=Thornbury+Fish+Ladder+Beaver+River+Ontario) |
-| **Above Thornbury fish ladder** (lower-mid — fish that have ascended) — for fish that have already passed the ladder | [Google Maps](https://www.google.com/maps/search/?api=1&query=Beaver+River+above+Thornbury+fish+ladder+Ontario) |
-| **Clarksburg — Marsh St bridge** (lower-mid, gauged 02FB009) | In-village bridge in Clarksburg just upstream of Thornbury; walk up- or downstream; on-street parking | [Google Maps](https://www.google.com/maps/search/?api=1&query=Marsh+Street+Beaver+River+Clarksburg+Ontario) |
-| **Heathcote — Grey Rd 13 bridge** (mid) | Village bridge crossing south of Clarksburg; classic boulder/gravel run; pulloff parking on shoulder | [Google Maps](https://www.google.com/maps/search/?api=1&query=Heathcote+Grey+Road+13+Beaver+River+Ontario) |
-| **Kimberley village bridge** (mid-upper) | Grey Rd 7 / 7th Line crossing in Kimberley; quieter mid-upper water; resident browns + spring steelhead push | [Google Maps](https://www.google.com/maps/search/?api=1&query=Kimberley+Beaver+River+Ontario) |
-| **Vandeleur — upper gauge** (upper, gauged 02FB013) | Smaller upper water; resident trout above Eugenia Falls barrier; road-allowance bridges | [Google Maps](https://www.google.com/maps/search/?api=1&query=Vandeleur+Grey+County+Ontario) |
-| **Eugenia Falls Conservation Area** (upper — barrier) | Falls/dam barrier above Eugenia Lake; resident trout fishery; scenic; free CA parking | [Google Maps](https://www.google.com/maps/search/?api=1&query=Eugenia+Falls+Conservation+Area+Ontario) |
+| **Thornbury Harbour / Marina** (mouth — primary lower access) — best spring and fall steelhead access; public parking | [Google Maps](https://maps.google.com/?q=Thornbury+Harbour+Ontario) |
+| **Mill Pond Park / Fishway** (lower — key staging) — fish stack below ladder; classic choke point | [Google Maps](https://maps.google.com/?q=Mill+Pond+Park+Thornbury+Ontario) |
+| **Bay Street East — above fishway** (lower-mid) — for fish that have already passed the ladder | [Google Maps](https://maps.google.com/?q=Bay+Street+East+Thornbury+Ontario) |
+| **Clarksburg — Marsh St Bridge** (lower-mid, gauged 02FB009) | In-village bridge in Clarksburg just upstream of Thornbury; walk up- or downstream; on-street parking | [Google Maps](https://maps.google.com/?q=Marsh+Street+Bridge+Clarksburg+Ontario) |
+| **Heathcote General Store / Grey Rd 13 Bridge** (mid) | Village bridge crossing south of Clarksburg; classic boulder/gravel run; pulloff parking on shoulder | [Google Maps](https://maps.google.com/?q=Heathcote+General+Store+Ontario) |
+| **Kimberley General Store** (mid-upper, Grey Rd 13 bridge) | In-village bridge crossing; quieter mid-upper water; resident browns + spring steelhead push | [Google Maps](https://maps.google.com/?q=Kimberley+General+Store+Ontario) |
+| **Vandeleur** (upper, gauged 02FB013) | Smaller upper water; resident trout above Eugenia Falls barrier; road-allowance bridges | [Google Maps](https://maps.google.com/?q=Vandeleur+Ontario) |
+| **Eugenia Falls Conservation Area** (upper — barrier) | Falls/dam barrier above Eugenia Lake; resident trout fishery; scenic; free CA parking | [Google Maps](https://maps.google.com/?q=Eugenia+Falls+Conservation+Area+Ontario) |
 
 ## Fish Counter
 

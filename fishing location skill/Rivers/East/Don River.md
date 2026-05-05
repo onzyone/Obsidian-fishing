@@ -27,7 +27,7 @@
 
 | Location | Notes | Maps |
 |---|---|---|
-| Corktown Common (river mouth) | Bayview Ave at Front St E — closest point to Lake Ontario; staging fish enter here first; street parking and park lots nearby | [Google Maps](https://www.google.com/maps/search/?api=1&query=Corktown+Common+Toronto+Ontario) |
-| Riverdale Park (Carlton St E) | Free parking at Riverdale Farm, Carlton St E; metal staircase (88 steps) descends to Don floodplain — mid-lower river access | [Google Maps](https://www.google.com/maps/search/?api=1&query=Riverdale+Park+Toronto+Don+River) |
-| Todmorden Mills / Pottery Road | Free parking at Todmorden Mills historic site, Pottery Rd; fast rocky water — best known salmon concentration zone; upper reach of practical salmon run | [Google Maps](https://www.google.com/maps/search/?api=1&query=Todmorden+Mills+Pottery+Road+Toronto+Ontario) |
-| Don Valley Park trail system | Connects all above points — extensive walking access along river | [Google Maps](https://www.google.com/maps/search/?api=1&query=Don+Valley+Park+Toronto+Ontario) |
+| Corktown Common (river mouth) | Bayview Ave at Front St E — closest point to Lake Ontario; staging fish enter here first; street parking and park lots nearby | [Google Maps](https://maps.google.com/?q=Corktown+Common+Toronto) |
+| Riverdale Park East / Riverdale Farm | Free parking at Riverdale Farm, Carlton St E; metal staircase (88 steps) descends to Don floodplain — mid-lower river access | [Google Maps](https://maps.google.com/?q=Riverdale+Farm+Toronto) |
+| Todmorden Mills Heritage Site (Pottery Rd) | Free parking at Todmorden Mills, Pottery Rd; fast rocky water — best known salmon concentration zone; upper reach of practical salmon run | [Google Maps](https://maps.google.com/?q=Todmorden+Mills+Heritage+Site+Toronto) |
+| E.T. Seton Park | Don Valley off Don Mills Rd — large parkland with extensive trail access along the lower-mid Don | [Google Maps](https://maps.google.com/?q=E.T.+Seton+Park+Toronto) |

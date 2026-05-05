@@ -32,16 +32,16 @@
 
 | Location | Parking | Walk | Water / Notes | Maps |
 |---|---|---|---|---|
-| Coronation Park | Free lot off Lakeshore Rd W | 2–5 min | Large Oakville waterfront park near Fourteen Mile Creek mouth; shoreline access; fall Chinook staging | [Map](https://www.google.com/maps/search/?api=1&query=Coronation+Park+Oakville) |
-| Bronte Harbour area (adjacent — west) | Pay/free lot | 2–5 min | Not Fourteen Mile per se, but close alternative if Coronation is crowded | [Map](https://www.google.com/maps/search/?api=1&query=Bronte+Harbour+Oakville) |
+| Coronation Park | Free lot off Lakeshore Rd W | 2–5 min | Large Oakville waterfront park near Fourteen Mile Creek mouth; shoreline access; fall Chinook staging | [Map](https://maps.google.com/?q=Coronation+Park+Oakville) |
+| Bronte Harbour area (adjacent — west) | Pay/free lot | 2–5 min | Not Fourteen Mile per se, but close alternative if Coronation is crowded | [Map](https://maps.google.com/?q=Bronte+Harbour+Oakville) |
 
 ### Upstream (Creek proper — respect provincial + town seasons)
 
 | Location | Parking | Walk | Water / Notes | Maps |
 |---|---|---|---|---|
-| Fourteen Mile Creek Valley — north of QEW (ESA) | Street / trailheads | 2–10 min | Forested valley; trails throughout; small pocket water; mostly warmwater + cyprinids | [Map](https://www.google.com/maps/search/?api=1&query=Fourteen+Mile+Creek+Valley+Oakville) |
-| Postridge Park (upper creek) | Free lot | 2 min | Upper creek residential park access | [Map](https://www.google.com/maps/search/?api=1&query=Postridge+Park+Oakville) |
-| West of Third Line — trail access | Street | 2–5 min | Multiple residential trail entries along creek valley | [Map](https://www.google.com/maps/search/?api=1&query=Third+Line+Oakville) |
+| Fourteen Mile Creek Valley — north of QEW (ESA) | Street / trailheads | 2–10 min | Forested valley; trails throughout; small pocket water; mostly warmwater + cyprinids | [Map](https://maps.google.com/?q=Fourteen+Mile+Creek+Valley+Oakville) |
+| Postridge Park (upper creek) | Free lot | 2 min | Upper creek residential park access | [Map](https://maps.google.com/?q=Postridge+Park+Oakville) |
+| West of Third Line — trail access | Street | 2–5 min | Multiple residential trail entries along creek valley | [Map](https://maps.google.com/?q=Third+Line+Oakville) |
 
 ## Links
 

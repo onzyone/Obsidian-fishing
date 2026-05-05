@@ -1,82 +1,91 @@
 # Go Fishing Here — West
 
-## 2026-04-29 — West (Fri May 1, Sat May 2, Sun May 3, 2026)
+**Last updated:** 2026-05-04
 
-## Fishing Conditions — Fri May 1, Sat May 2, Sun May 3, 2026
+## 2026-05-04 — West (Sat May 9 + Sun May 10, 2026)
+
+## Fishing Conditions — Sat May 9 + Sun May 10, 2026
 
 ### Fish Run Status
 
-Spring steelhead **drop-back phase** continues across all West tribs. No verified West counter reports recent passage: Credit CRAA camera operational but no quantitative counts; Grand Kitchener BRAVO Node 1 online (water 11.37°C, air 8.87°C) but no salmonid passage logged. Fish-output flags season status as "Peak" relative to typical May 10–20 peak weeks for Great Lakes tributaries — drop-backs still moving plus resident rainbow/brown trout active. FMZ 17 inland trout opened Apr 25.
+Spring steelhead drop-back tail end. Credit CRAA camera operational but no quantitative counts. Grand Kitchener BRAVO Node 1 online with no recent salmonid passage. Fish-output flags Ganaraska as the only confirmed strong run system this week (East zone). May 9–10 = late drop-back phase; resident rainbow / brown trout active across all FMZ 17 lower sections (open since Apr 25). Water warming into the active brown-trout window (12–15°C).
 
 | River | # Stocked | Run Status | Notes |
 |-------|-----------|-----------|-------|
 | Credit River | n/a 2026 | CRAA camera (no counts) | Drop-backs + residents; West Credit (Cataract) holds wild browns; Forks of the Credit limestone clears fast |
 | Etobicoke Creek | n/a 2026 | No counter | Lower urban; staging at Marie Curtis mouth |
 | Bronte Creek | n/a 2026 | No counter | Lakeshore-to-lake section year-round; Bronte Harbour mouth holds drop-backs |
-| 16 Mile Creek | n/a 2026 | No counter | Lakeshore-to-lake; mouth at Bronte Rd; tight casting |
-| Grand River | n/a 2026 | BRAVO Node 1 (Doon) — 0 passage Apr 1–28; Mannheim OFFLINE | Lower Grand (Brantford/Paris) carries water — large fish habitat |
+| 16 Mile Creek | n/a 2026 | No counter | Lakeshore-to-lake; tight casting |
+| Grand River | n/a 2026 | BRAVO Node 1 (Doon) — 0 passage; Mannheim OFFLINE | Lower Grand (Brantford/Paris) carries water — large fish habitat |
 
 ### Weather Forecast
 
-> ℹ️ wttr.in PNG omitted — its 3-day window does not cover the requested trip dates.
-> Date Comparison table below is authoritative (Open-Meteo 14-day).
+> ℹ️ wttr.in PNG omitted — May 9–10 is 5–6 days out, outside the 3-day PNG window. Date Comparison table below is authoritative.
 
-*[Open live forecast](https://wttr.in/Etobicoke) — note: shows next 3 days only*
+*[Open live forecast](https://wttr.in/Etobicoke)*
 
-> ⚠️ **Significant change from yesterday's run.** Forecast now shows Fri 3.5mm showers and Sat 0.8mm showers. **Sun May 3 is the dry bluebird day** (13.5°C, 0mm clear) — go Sunday.
+7-day window summary (Open-Meteo, fetched 2026-05-04):
+- **Mon May 4:** 16.8 / 7.5°C, 0mm clear (today)
+- **Tue May 5:** 11.6 / 4.7°C, **14mm rain event** — rivers will spike
+- **Wed May 6:** ~5.8°C, 1.10mm drizzle
+- **Thu May 7:** 7.1 / 4.7°C, 0.60mm drizzle
+- **Fri May 8:** ~5.8°C, drizzle
+- **Sat May 9:** 18.7 / 12.7°C, 0.60mm drizzle (agent flagged "rain event" — actual is light)
+- **Sun May 10:** 16.8 / 9.5°C, **0mm mostly clear** ★ best window
+
+Tue's 14mm rain event is the headline risk — clay-basin creeks (Etobicoke, lower Bronte) clear in 1–2 days; medium rivers (Credit, Humber) need 2–4. By **Sat = 4 days post-peak**, **Sun = 5 days** — both fishable, Sun gets the cleanest water.
 
 ### Best Arrival Time
 
-> **Sun May 3 — Arrive by 05:38** (30 min before sunrise 06:08) ★ **BEST DAY**
-> - Dawn patrol: 05:38–07:38 (peak feed)
-> - Evening backup: 18:56–20:26
-> - Moon: 🌕 Full (99%) — fish fed overnight on Sat full moon; soft first-light bite, push 8–10am for second wave. 13.5°C high = warmest of the window. Ice on guides at 1.5°C dawn.
+> **Sun May 10 — Arrive by 05:24** (30 min before sunrise ~05:54) ★ **BEST DAY**
+> - Dawn patrol: 05:24–07:24 (peak feed)
+> - Evening backup: 19:04–20:34
+> - Moon: 🌗 Last Quarter (~43%) — balanced activity, standard dawn-patrol bite. Mild dawn (9.5°C) — no frozen guides.
 
-> **Sat May 2 — Arrive by 05:39** (30 min before sunrise 06:09) — *light showers + cold*
-> - Dawn patrol: 05:39–07:39 (window before mid-day showers)
-> - Moon: 🌕 Full (100%) — actual full moon. Cold (1.1°C low). 0.8mm showers manageable but uncomfortable.
+> **Sat May 9 — Arrive by 05:25** (30 min before sunrise ~05:55)
+> - Dawn patrol: 05:25–07:25
+> - Evening backup: 19:03–20:33
+> - Moon: 🌗 Last Quarter (~54%) — balanced. Mild dawn (12.7°C) — warmest dawn of the week. Light 0.6mm drizzle adds slight stain.
 
-> **Fri May 1 — Arrive by 05:41** — *3.5mm showers, rivers will rise*
-> - Skip unless you need to fish today; Fri rain pushes already-elevated levels back up
+### River Comparison — West (Best Day: Sun May 10)
 
-### River Comparison — West (Best Day: Sun May 3)
-
-All West gauges falling and clearing. The whole zone is in great shape post-Apr 25 flood event — every gauge dropping into the weekend.
+All 5 West gauges falling or stable, all clearing. Tue's 14mm rain will spike then fall — by Sat–Sun all should be back to fishable. Credit holds the most fishable water; Etobicoke recovers fastest from rain due to small basin.
 
 | Rank | River | Drive | Level (datum-rel) | Clarity | Why | Map |
 |------|-------|-------|-------------------|---------|-----|-----|
-| 1 | **Credit River** (lower) | 30–40 min | **14.80m, falling** (-2.01m/24h, range 10.20–41.30, 02HB029) | Clearing | Massive drop (-23m from peak); Streetsville to Erindale gives walkable runs; Port Credit mouth = drop-back lake-staging | [Erindale Park](https://maps.google.com/?q=Erindale+Park+Mississauga) · [Streetsville Memorial Park](https://maps.google.com/?q=Streetsville+Memorial+Park+Mississauga) · [Port Credit Memorial Park West](https://maps.google.com/?q=Port+Credit+Memorial+Park+West) |
-| 2 | **Bronte Creek** (lower) | 40–45 min | **5.31m, falling** (-0.70m/24h, range 4.94–8.44, 02HB011) | Clearing | Lakeshore section year-round; clear escarpment-fed water; gauge near Zimmerman shows steady drop | [Bronte Harbour](https://maps.google.com/?q=Bronte+Harbour+Oakville) · [Bronte Heritage Waterfront](https://maps.google.com/?q=Bronte+Heritage+Waterfront+Park+Oakville) · [QEW bridge](https://www.google.com/maps/search/?api=1&query=QEW+Bronte+Creek+Oakville) |
-| 3 | **Etobicoke Creek** (lower) | 20–30 min | **2.40m, falling** (-0.53m/24h, range 1.44–54.10, 02HC030) | Clearing | Closest drive; Marie Curtis Park mouth holds drop-backs; small urban creek so quick recovery | [Marie Curtis Park](https://maps.google.com/?q=Marie+Curtis+Park+Toronto) · [Lakeshore Blvd W](https://www.google.com/maps/search/?api=1&query=Lakeshore+Boulevard+West+Etobicoke+Creek+Toronto) |
-| 4 | **16 Mile Creek** | 45 min | **2.24m, falling** (-0.12m/24h, range 1.98–6.73, 02HB005) | Clearing | Lakeshore-to-lake; Bronte Rd mouth; tight water but holds drop-backs | [16 Mile Creek mouth Oakville](https://maps.google.com/?q=16+Mile+Creek+mouth+Oakville) · [Bronte Rd / Lakeshore](https://www.google.com/maps/search/?api=1&query=Bronte+Road+Lakeshore+Oakville+Ontario) |
-| 5 | **Grand River** (lower) | 1h 10–20 min | **83.40m, falling** (-23.79m/24h, range 72.60–124.00, 02GB001) | Clearing — significant drop ongoing | Big water — bigger fish; Brantford/Paris stretch; gauge dropped 23m in 24h = recovery in progress | [Paris Ontario Grand River](https://maps.google.com/?q=Paris+Ontario+Grand+River) · [Brantford lower](https://www.google.com/maps/search/?api=1&query=Brantford+Grand+River+Ontario) |
+| 1 | **Credit River** (lower) | 30–40 min | **9.89m, stable** (+0.04m/24h, 02HB029 Streetsville) | Likely clear | Best gauge data; Streetsville-to-Erindale walkable runs; Port Credit mouth = drop-back lake-staging; falling stable into trip dates after Tue rain spike | [Erindale Park](https://maps.google.com/?q=Erindale+Park+Mississauga) · [Streetsville Memorial Park](https://maps.google.com/?q=Streetsville+Memorial+Park+Mississauga) · [Port Credit Memorial Park West](https://maps.google.com/?q=Port+Credit+Memorial+Park+West) |
+| 2 | **Etobicoke Creek** (lower) | 20–30 min | **1.20m, falling** (-0.08m/24h, 02HC030) | Clearing | Closest drive of any West pick; small basin = recovers fastest from Tue's rain; Marie Curtis mouth holds spring drop-backs | [Marie Curtis Park](https://maps.google.com/?q=Marie+Curtis+Park+Toronto) · [Lakeshore Blvd W](https://www.google.com/maps/search/?api=1&query=Lakeshore+Boulevard+West+Etobicoke+Creek+Toronto) |
+| 3 | **Bronte Creek** (lower) | 40–45 min | **3.45m, falling** (-0.23m/24h, 02HB011 Zimmerman) | Clearing | Lakeshore section year-round; escarpment-fed water clears fast; less weekend pressure than Credit | [Bronte Harbour](https://maps.google.com/?q=Bronte+Harbour+Oakville) · [Bronte Heritage Waterfront](https://maps.google.com/?q=Bronte+Heritage+Waterfront+Park+Oakville) · [QEW bridge](https://www.google.com/maps/search/?api=1&query=QEW+Bronte+Creek+Oakville) |
+| 4 | **16 Mile Creek** | 45 min | **1.68m, falling** (-0.22m/24h, 02HB005 Milton) | Clearing | Lakeshore-to-lake; Bronte Rd mouth; tight water but holds drop-backs | [16 Mile Creek mouth Oakville](https://maps.google.com/?q=16+Mile+Creek+mouth+Oakville) · [Bronte Rd / Lakeshore](https://www.google.com/maps/search/?api=1&query=Bronte+Road+Lakeshore+Oakville+Ontario) |
+| 5 | **Lower Humber** (cross-zone) | 10–20 min | 5.64m, falling -0.56m/24h (02HC003 Weston) | Clearing | Closest big-water option (note: Humber is North zone but falls in West-area drive radius); Lambton → Old Mill walkable | [Lambton Woods Park](https://maps.google.com/?q=Lambton+Woods+Park+Toronto) · [Old Mill Toronto Inn](https://maps.google.com/?q=Old+Mill+Toronto+Inn+Toronto) |
+| — | Grand River (lower) | 1h 10–20 min | gauge missing this run | n/a | Big water, big fish; Brantford/Paris stretch — verify 02GB001 directly before driving | [Paris Ontario Grand River](https://maps.google.com/?q=Paris+Ontario+Grand+River) |
 
 ### Date Comparison
 
 | Date | Temp | Rain | Rivers | Clarity | Season | Sunrise | Sunset | Moon | Verdict |
 |------|------|------|--------|---------|--------|---------|--------|------|---------|
-| Fri May 1 | 9.8/2.3°C | 3.5mm showers | Will rise from rain | Clearing → re-stained mid-day | ✅ open | 06:11 | 20:24 | 🌕 Full (99%) | **SKIP — rain pushes levels** |
-| Sat May 2 | 9.8/1.1°C | 0.8mm showers | Holding/slight rise | Clearing | ✅ open | 06:09 | 20:25 | 🌕 Full (100%) | **GO (Fair — cold + showers)** |
-| Sun May 3 | 13.5/1.5°C | 0mm Mostly Clear | Falling/clear — best | Clear | ✅ open | 06:08 | 20:26 | 🌕 Full (99%) | **GO ★ (Best)** |
+| Sat May 9 | 18.7 / 12.7°C | 0.60mm drizzle | Falling, ~4 days post-peak | Clear-to-stained | ✅ open | ~05:55 | ~20:33 | 🌗 Last Q (~54%) | **GO (Good — light drizzle, mild dawn)** |
+| Sun May 10 | 16.8 / 9.5°C | 0mm clear | Continued falling, cleanest water | Clear | ✅ open | ~05:54 | ~20:34 | 🌗 Last Q (~43%) | **GO ★ (Best — clean + clear)** |
 
 ### Weather & River Summary
 
-West zone is in excellent shape. Every gauge fell sharply over the past 24h after the Apr 25 flood event: Grand -23.79m, Humber proxy -3.16m (North zone but useful nearby), Credit -2.01m, Bronte -0.70m. Apr 29 was dry, giving rivers all day to drop. Fri May 1 brings 3.5mm showers — small enough to NOT blow out clearing rivers, but levels will tick up. Sat May 2 has 0.8mm light showers — manageable. Sun May 3 is bluebird (13.5°C, 0mm) and Apr 28's drizzle pulse + Fri showers will have run through; gauges should be falling into Sun morning. Cold overnight (1.5°C Sun) — ice on guides at first light.
+West zone takes a hit Tue May 5 (14mm rain event) plus light precip through Wed–Fri — combined ~16mm by end of week will spike all West gauges. By Sat (4 days post-peak) most lower sections are back to fishable; by Sun (5 days) clarity is dialed in and skies are clear. **Sun May 10 is the standout day**: 0mm precip, mild 9.5°C dawn, clearest water of the window. Sat is still a GO with light 0.6mm drizzle and unusually warm 12.7°C dawn — slight stain often improves the bite.
 
-**West gauge snapshot (last reading 2026-04-29, datum-relative metres):**
+**West gauge snapshot (last reading 2026-05-04):**
 
-| Station | River | Recent | Min (6d) | Max (6d) | Trend | Condition |
-|---------|-------|--------|----------|----------|-------|-----------|
-| 02HC030 | Etobicoke (Below QEW) | 2.40m | 1.44m | 54.10m | Falling | Fishable |
-| 02HB029 | Credit (Streetsville) | 14.80m | 10.20m | 41.30m | Falling -2.01m | Fishable |
-| 02HB011 | Bronte (Zimmerman) | 5.31m | 4.94m | 8.44m | Falling | Fishable |
-| 02HB005 | 16 Mile (Milton) | 2.24m | 1.98m | 6.73m | Falling | Fishable |
-| 02GB001 | Grand (Brantford) | 83.40m | 72.60m | 124.00m | Falling -23.79m | Fishable |
+| Station | River | Recent | Trend | Condition |
+|---------|-------|--------|-------|-----------|
+| 02HC030 | Etobicoke (Below QEW) | 1.20m | Falling -0.08m | Fishable |
+| 02HB029 | **Credit (Streetsville)** | 9.89m | Stable +0.04m | Fishable |
+| 02HC003 | Humber (Weston, cross-zone) | 5.64m | Falling -0.56m | Fishable |
+| 02HB011 | Bronte (Zimmerman) | 3.45m | Falling -0.23m | Fishable |
+| 02HB005 | 16 Mile (Milton) | 1.68m | Falling -0.22m | Fishable |
+| 02GB001 | Grand (Brantford) | — | gauge missing | check before driving |
 
-### Best Day: Sunday May 3, 2026
+### Best Day: Sunday May 10, 2026
 
 **Top pick river:** Credit River (lower)
-- Why: Massive drop in last 24h (-2.01m, peak was 41.30m, now 14.80m) — fully recovered into clear/fishable. Streetsville-to-Erindale stretch has the best walkable runs. Lake-staging drop-backs at Port Credit mouth on the full-moon trailing morning. Closest big-water option in the West.
+- Why: Best gauge data (02HB029 stable at 9.89m). Streetsville-to-Erindale stretch has the West's best walkable runs. By Sun = 5 days post-rain peak, clarity dialed in. Lake-staging drop-backs at Port Credit mouth. Closest big-water option in the West.
 - Access (multi-spot — work mouth → upstream as crowds dictate):
   - **Port Credit Memorial Park West** (mouth — drop-back staging) — [Map](https://maps.google.com/?q=Port+Credit+Memorial+Park+West)
   - **Erindale Park** (lower-mid, paved trail) — [Map](https://maps.google.com/?q=Erindale+Park+Mississauga)
@@ -84,30 +93,65 @@ West zone is in excellent shape. Every gauge fell sharply over the past 24h afte
 - Drive: ~30–40 min from 427 & Finch
 - **Reg note:** FMZ 17 — lower (below Hwy 403) open year-round. Sanctuary at Streetsville fish ladder. Standard limits.
 
-**Backup:** Bronte Creek (Bronte Harbour)
-- Why: Gauge 02HB011 falling (-0.70m/24h); short lakeshore-to-lake section is year-round, escarpment-fed = clears fast. Drop-backs stage at Bronte Harbour mouth; less pressure than Credit on weekends.
+**Backup:** Etobicoke Creek (Marie Curtis Park)
+- Why: 20–30 min — closest drive of any West pick. Small basin clears fastest from Tue's rain; lakeshore mouth holds spring drop-backs.
+- Access:
+  - **Marie Curtis Park** (mouth — primary) — [Map](https://maps.google.com/?q=Marie+Curtis+Park+Toronto)
+  - **Lakeshore Blvd W bridge** — [Map](https://www.google.com/maps/search/?api=1&query=Lakeshore+Boulevard+West+Etobicoke+Creek+Toronto)
+- Drive: ~20–30 min
+
+**Mid-distance trout alternative:** Bronte Creek (Bronte Harbour)
+- Why: 40–45 min. Escarpment-fed = clears fast; less weekend pressure than Credit. Drop-backs stage at Bronte Harbour mouth.
 - Access:
   - **Bronte Harbour** (mouth — primary) — [Map](https://maps.google.com/?q=Bronte+Harbour+Oakville)
   - **Bronte Heritage Waterfront Park** — [Map](https://maps.google.com/?q=Bronte+Heritage+Waterfront+Park+Oakville)
-  - **QEW bridge** — [Map](https://www.google.com/maps/search/?api=1&query=QEW+Bronte+Creek+Oakville)
 - Drive: ~40–45 min
-
-**Closer alternative:** Etobicoke Creek (Marie Curtis Park)
-- Why: 20–30 min — closest drive of any zone. Small urban creek = fast clearing; lakeshore mouth holds spring drop-backs.
-- Access:
-  - **Marie Curtis Park** (mouth — primary) — [Map](https://maps.google.com/?q=Marie+Curtis+Park+Toronto)
-- Drive: ~20–30 min
 
 ### What to Expect
 
-- **Species:** Drop-back steelhead at lake mouths; resident rainbow/brown trout in mid/upper Credit and Bronte. Grand River carries lake-run rainbow in the Brantford stretch plus resident species.
-- **Credit tactics:** Float fishing single-egg bags or roe through Streetsville→Erindale runs. Small spoons (Little Cleos #2, Krocodiles) and inline spinners (Mepps #2) in deeper holes. Hit Port Credit mouth for first-light staging.
+- **Species:** Late drop-back steelhead at lake mouths; resident rainbow / brown trout in mid/upper Credit and Bronte. Etobicoke holds smaller drop-backs near the mouth + waking smallmouth as water hits 14°C+.
+- **Credit tactics:** Float fishing single-egg bags or roe through Streetsville → Erindale runs. Small spoons (Little Cleos #2, Krocodiles) and inline spinners (Mepps #2) in deeper holes. Hit Port Credit mouth for first-light staging.
 - **Bronte tactics:** Float roe at Bronte Harbour mouth; cast spoons across the harbour for staging fish. Walk the Heritage Waterfront for sheltered casting if windy.
-- **Etobicoke tactics:** Marie Curtis is a small fishery — roe + spinners + small spoons. Quick stop, low expectation.
-- **Grand tactics:** Bigger water = bigger gear; centerpin float fishing through Brantford runs. Wading required; wear cleats — slick limestone bedrock.
-- **Gear:** 8'6"–10'6" ML steelhead rod, centerpin or spinning reel, 6lb mono mainline (or 8lb braid), 6lb fluoro leader. Bring de-icer for cold mornings.
+- **Etobicoke tactics:** Marie Curtis is small fishery — roe + spinners + small spoons. Quick stop, low expectation.
+- **Gear:** 8'6"–10'6" ML steelhead rod, centerpin or spinning reel, 6lb mono mainline (or 8lb braid), 6lb fluoro leader.
 - **Cautions:**
-  - **Cold morning** (1.5°C Sun) — ice on guides at first light; thermos with hot water, fingerless wool gloves.
-  - **Full moon overnight** — softer dawn bite likely; mid-morning push (8–10am) for second wave.
-  - **Fri/Sat showers** — rivers will tick up; check live gauge Sat night before driving.
+  - **Tue/Wed rain event (~16mm)** is the headline risk — verify Credit gauge (02HB029) Friday night before driving Saturday.
+  - **Sat unusually warm dawn (12.7°C)** — light gloves only; 0.6mm drizzle = rain shell.
+  - **Last Quarter moon** = balanced bite; standard dawn-patrol applies.
+  - **Sanctuaries** — Streetsville fish ladder; verify any other Credit closures before fishing.
 - **Regulations:** Always verify on [ontario.ca](https://www.ontario.ca/document/ontario-fishing-regulations-summary). FMZ 17 lower sections all open since Apr 25.
+
+### Clear Water Fallbacks
+
+If Credit / Bronte / 16 Mile / Etobicoke are still bumped Saturday morning from the Tue/Wed rain event:
+
+> [!tip] If Credit / Bronte / 16 Mile / Etobicoke are murky
+> | Stream | Drive | Clears in | Species | Access |
+> |--------|-------|-----------|---------|--------|
+> | West Credit River (Cataract/Belfountain) | ~1h | 1–2 days | Wild brown trout, brook trout | Forks of the Credit PP or roadside at Cataract — C&R only — [Map](https://maps.google.com/?q=Forks+of+the+Credit+Provincial+Park+Ontario) |
+> | Shaw's Creek (Alton) | ~55 min | 1–2 days | Wild brown trout | Road allowance at Alton/Mountainview Rd — C&R only — [Map](https://maps.google.com/?q=Shaw%27s+Creek+Alton+Ontario) |
+> | Eramosa River (Rockwood) | ~1h 10 min | 1–2 days | Brown trout, brook trout | Rockwood CA (paid) or road allowance — standard limits — [Map](https://maps.google.com/?q=Rockwood+Conservation+Area+Ontario) |
+
+### New Spots Explore
+
+#### New Spots — West (cluster: Oakville / Mississauga, ~30 min radius)
+
+The new-locations agent returned a template skeleton this run, so this section is rebuilt from the West roster's Access Points and the Full Gauge Index sub-stations. All four sit ~25–60 min from 427 & Finch and bypass primary year-round pressure.
+
+| Spot | Drive | Species | Why | Map |
+|------|-------|---------|-----|-----|
+| **Fourteen Mile Creek** (North of QEW / ESA Valley) | ~40 min | Resident brown / rainbow, fall Chinook staging | Town of Oakville bylaw restricts lower-section fishing Apr 15–Oct 14, depressing pressure on the upper ESA-protected stretch; gauge 02HB027 (At Oakville) for cross-check | [Map](https://maps.google.com/?q=Fourteen+Mile+Creek+Valley+North+of+QEW+Oakville+Ontario) |
+| **Cooksville Creek** (Upper Headwaters / Bristol Rd to Queensway S) | ~25 min | Resident brown trout, rainbow trout | Urban stormwater stigma keeps pressure near zero; upper limestone sections maintain clear baseflow for small spinners; gauge 02HB030 (Near Cooksville) | [Map](https://maps.google.com/?q=Cooksville+Creek+Upper+Headwaters+Bristol+Rd+Mississauga+Ontario) |
+| **Mary Fix Creek** (Old River Rd corridor / Mid-upstream) | ~35 min | Chinook salmon (fall push), resident brown trout | Overshadowed by main Credit mouth traffic; low-profile road allowances along Old River Rd; proxy gauge 02HB030 (Cooksville) | [Map](https://maps.google.com/?q=Mary+Fix+Creek+Upper+Section+Old+River+Rd+Mississauga+Ontario) |
+| **West Credit River** (Forks of the Credit / Cataract approach) | ~50 min | Resident brown trout, brook trout | Spring-fed limestone system ignores main Credit turbidity; rarely targeted outside the main valley corridor; cold upper-water brook trout near Cataract Falls; gauge 02HB001 (Near Cataract) | [Map](https://maps.google.com/?q=Forks+of+the+Credit+Provincial+Park+Cataract+Ontario) |
+
+## Notes
+
+- **FMZ 17 inland trout regs:** open since Apr 25; standard creel limits. MNR brook-trout headwaters are low-density populations — **consider barbless C&R**.
+- **Property lines:** road-allowance access only on most upper-section pins. Stay in the road allowance, don't cross fences. Many upper sections are private.
+- **Tackle swap:** small-stream brook/brown trout = 6'6"–7'6" UL/L spinning, 4lb mono, small spinners (Mepps #0/1, Panther Martin) or worm under split shot. Steelhead rod is overkill upstream.
+- **Sequencing for Sun May 10:**
+  1. **05:24 dawn** — Credit (Erindale or Port Credit mouth)
+  2. **Mid-morning bounce** — upstream to Streetsville → West Credit / Forks of the Credit for resident browns if main-stem bite slows
+  3. **Evening session** — back to Bronte Harbour or Marie Curtis for second wave
+- **Pre-trip check:** Friday evening, refresh Credit (02HB029) and Bronte (02HB011) gauges — verify both are falling and clearing post-Tue rain.

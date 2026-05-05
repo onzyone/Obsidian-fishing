@@ -70,7 +70,24 @@
       "Bash(chmod +x *)",
       "Bash(ollama pull *)",
       "Bash(sed -i '' 's/MODEL=\"qwen3.6:35b\"/MODEL=\"qwen3:4b\"/' ./__TRACKED_VAR__)",
-      "Bash(grep -rn \"qwen3.6:35b\" /Users/onzyone/projects/onzyone/claude/fishing/*.sh)"
+      "Bash(grep -rn \"qwen3.6:35b\" /Users/onzyone/projects/onzyone/claude/fishing/*.sh)",
+      "Bash(curl -sf http://localhost:11434/api/tags)",
+      "Bash(mount)",
+      "Read(//Volumes/**)",
+      "Read(//Volumes/external media \\(4tb wd_black\\)//**)",
+      "Bash(diskutil list *)",
+      "Bash(pkill -f \"ollama serve\")",
+      "Bash(nohup ollama *)",
+      "Bash(curl -sIL \"https://maps.app.goo.gl/VBGKW4T3kh8HstJX6\")",
+      "Read(//private/tmp/fishing-llm.lock/**)",
+      "Read(//private/tmp/**)",
+      "Bash(pkill -f \"run-new-locations-agent.sh\")",
+      "Bash(pkill -f \"ollama-call.sh\")",
+      "Bash(pkill -f \"python3.*phi4-mini\")",
+      "Bash(rmdir /tmp/fishing-llm.lock)",
+      "Bash(pkill -f \"python3.*phi4-mini\\\\|python3.*ollama\")",
+      "Bash(curl -s --max-time 2 http://localhost:11434/api/ps)",
+      "Bash(ollama stop *)"
     ]
   }
 }

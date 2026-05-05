@@ -31,12 +31,12 @@
 
 | Location | Notes | Maps |
 |---|---|---|
-| **Meaford harbour / river mouth** (lower — primary) | Primary steelhead access; rocky fast water near mouth; fish move through quickly into pools; free harbour parking | [Google Maps](https://www.google.com/maps/search/?api=1&query=Meaford+Harbour+Bighead+River+Ontario) |
-| **Memorial Park (Meaford)** (lower in-town) | Town park along Bighead just upstream of mouth; free parking; trail access | [Google Maps](https://www.google.com/maps/search/?api=1&query=Memorial+Park+Meaford+Ontario) |
-| **Bighead River Conservation Area** (mid — primary upstream) | Upstream from Meaford; additional public access; fantastic pocket water fishing | [Google Maps](https://www.google.com/maps/search/?api=1&query=Bighead+River+Conservation+Area+Meaford+Ontario) |
-| **Trout Hollow Trail (Grey Sauble CA)** (mid — walk-in) | 10.8 km trail through woodlands, meadows, and river valley — walk-in access to multiple stretches; trailhead parking off Sideroad 21 | [Google Maps](https://www.google.com/maps/search/?api=1&query=Trout+Hollow+Trail+Meaford+Ontario) |
-| **Grey Rd 12 bridge — Bognor area** (mid-upper) | Bridge crossing west of Bognor; road-allowance access; surrounding land mostly private | [Google Maps](https://www.google.com/maps/search/?api=1&query=Grey+Road+12+Bighead+River+Bognor+Ontario) |
-| **Walters Falls** (upper trib — Walters Creek) | Waterfall barrier on Walters Creek (Bighead trib system); historic mill village; resident trout above falls | [Google Maps](https://www.google.com/maps/search/?api=1&query=Walters+Falls+Ontario) |
+| **Meaford Harbour Marina** (lower — primary, river mouth) | Primary steelhead access; rocky fast water near mouth; fish move through quickly into pools; free harbour parking | [Google Maps](https://maps.google.com/?q=Meaford+Harbour+Marina+Ontario) |
+| **Memorial Park (Meaford)** (lower in-town) | Town park along Bighead just upstream of mouth; free parking; trail access | [Google Maps](https://maps.google.com/?q=Memorial+Park+Meaford+Ontario) |
+| **Sykes Street / Hwy 26 Bridge** (lower — gauged 02FB010) | In-Meaford bridge crossing the Bighead at Sykes St (Hwy 26); pull-off parking | [Google Maps](https://maps.google.com/?q=Sykes+Street+Bridge+Meaford+Ontario) |
+| **Trout Hollow Trail trailhead (Grey Sauble CA)** (mid — walk-in) | 10.8 km trail through woodlands, meadows, and river valley — walk-in access to multiple stretches; trailhead parking off Sideroad 21 | [Google Maps](https://maps.google.com/?q=Trout+Hollow+Trail+Meaford+Ontario) |
+| **Bognor — Grey Rd 12 Bridge** (mid-upper) | Bridge crossing west of Bognor; road-allowance access; surrounding land mostly private | [Google Maps](https://maps.google.com/?q=Bognor+Ontario) |
+| **Walters Falls** (upper trib — Walters Creek) | Waterfall barrier on Walters Creek (Bighead trib system); historic mill village; resident trout above falls | [Google Maps](https://maps.google.com/?q=Walters+Falls+Ontario) |
 
 ## Links
 

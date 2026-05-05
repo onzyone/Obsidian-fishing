@@ -26,8 +26,8 @@
 
 | Location | Notes | Maps |
 |---|---|---|
-| **Pine River Provincial Fishing Area** (Horning's Mills — primary) | Marked roadside angler-access; main parking; conifer ravine, boulder bed | [Google Maps](https://www.google.com/maps/search/?api=1&query=Pine+River+Provincial+Fishing+Area+Hornings+Mills+Ontario) |
-| **County Rd 21 bridge — Horning's Mills village** (mid) | In-town bridge crossing on River Rd / County Rd 21; walk up- or downstream from bridge; small parking on shoulder | [Google Maps](https://www.google.com/maps/search/?api=1&query=44.0925,-80.1719) |
-| **5th Line Mulmur bridge** (mid-upper) | Road-allowance bridge crossing in Mulmur Twp upstream of Hornings Mills; quieter water | [Google Maps](https://www.google.com/maps/search/?api=1&query=5th+Line+Mulmur+Pine+River+Ontario) |
-| **Hwy 89 bridge — Everett area** (lower, near gauge 02ED014) | Hwy 89 crossing just east of Everett; closest to Nottawasaga confluence; verify sanctuary boundary in fall | [Google Maps](https://www.google.com/maps/search/?api=1&query=Highway+89+Pine+River+bridge+Everett+Ontario) |
-| **County Rd 124 bridge — Shelburne headwaters** (upper) | Cold headwater section near Shelburne; small wild brookies; road-allowance bridge | [Google Maps](https://www.google.com/maps/search/?api=1&query=County+Road+124+Pine+River+Shelburne+Ontario) |
+| **Pine River Provincial Fishing Area** (Horning's Mills — primary) | Marked roadside angler-access; main parking; conifer ravine, boulder bed | [Google Maps](https://maps.google.com/?q=Pine+River+Provincial+Fishing+Area+Ontario) |
+| **Horning's Mills village bridge** (mid — Cty Rd 21) | In-town bridge crossing; walk up- or downstream; small parking on shoulder | [Google Maps](https://maps.google.com/?q=44.0925,-80.1719) |
+| **5th Line Mulmur Bridge** (mid-upper) | Road-allowance bridge crossing in Mulmur Twp upstream of Hornings Mills; quieter water. Pin approx 44.116,-80.140 | [Google Maps](https://maps.google.com/?q=44.1160,-80.1400) |
+| **Everett — Hwy 89 Bridge** (lower, near gauge 02ED014) | Hwy 89 crossing just east of Everett; closest to Nottawasaga confluence; verify sanctuary boundary in fall | [Google Maps](https://maps.google.com/?q=Everett+Ontario) |
+| **Shelburne headwaters — Cty Rd 124 Bridge** (upper) | Cold headwater section near Shelburne; small wild brookies; road-allowance bridge. Pin approx 44.214,-80.241 | [Google Maps](https://maps.google.com/?q=44.2140,-80.2410) |

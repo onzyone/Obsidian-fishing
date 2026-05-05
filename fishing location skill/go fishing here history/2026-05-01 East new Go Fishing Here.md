@@ -1,5 +1,3 @@
-# Go Fishing Here — East new spots
-
 ## 2026-05-01 — East new spots (Fri May 1, Sat May 2, Sun May 3, 2026)
 
 **Best day: Sat May 2** (full moon peak, 8.9°C/0.5°C, 0mm clear). All 9 East gauges falling and clearing — Bowmanville back to 1.21m baseline. FMZ 17 inland trout open. Drop-back steelhead phase. **Pair the new spots below with Bowmanville at dawn** — fish the mainstem first, swing to Graham Creek mid-morning if Bowmanville crowds up.

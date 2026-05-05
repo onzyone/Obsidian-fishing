@@ -25,13 +25,13 @@
 
 | Location | Maps |
 |---|---|
-| **Rouge Beach Park** (mouth — primary lower access) | Year-round lower section; staging fish; free parking at Lawrence Ave E | [Google Maps](https://www.google.com/maps/search/?api=1&query=Rouge+Beach+Park+Toronto) |
-| **Glen Rouge Campground (Twyn Rivers Dr)** (mid — Little Rouge confluence) | Trail-in access; Little Rouge meets main Rouge here; campground parking | [Google Maps](https://www.google.com/maps/search/?api=1&query=Glen+Rouge+Campground+Toronto) |
-| **Twyn Rivers Dr bridge** (mid — confluence pool) | Bridge crossing at Little Rouge confluence — classic holding pool below; pulloff parking | [Google Maps](https://www.google.com/maps/search/?api=1&query=Twyn+Rivers+Drive+Rouge+River+Toronto+Ontario) |
-| **Sewells Rd bridge** (mid-upper, below 407) | Road-allowance access at Sewells Rd crossing; check year-round vs Apr 25 boundary | [Google Maps](https://www.google.com/maps/search/?api=1&query=Sewells+Road+Rouge+River+Toronto) |
-| **Finch Ave E bridge** (mid — Rouge Valley) | Finch Ave crossing; Rouge Valley parking; trail connections | [Google Maps](https://www.google.com/maps/search/?api=1&query=Finch+Avenue+East+Rouge+River+Toronto+Ontario) |
-| **Bob Hunter Memorial Park** (upper — Rouge NUP) | Rouge National Urban Park trailhead; walk-in to upper river; free parking | [Google Maps](https://www.google.com/maps/search/?api=1&query=Bob+Hunter+Memorial+Park+Rouge+National+Urban+Park) |
-| **Whitevale Dam area** (upper — brook trout, above dam) | Resident brook trout above Whitevale dam; smaller water; village parking | [Google Maps](https://www.google.com/maps/search/?api=1&query=Whitevale+Pickering+Ontario+Rouge) |
+| **Rouge Beach Park** (mouth — primary lower access) | Year-round lower section; staging fish; free parking at Lawrence Ave E | [Google Maps](https://maps.google.com/?q=Rouge+Beach+Park+Toronto) |
+| **Glen Rouge Campground** (mid — Little Rouge confluence) | Trail-in access; Little Rouge meets main Rouge here; campground parking | [Google Maps](https://maps.google.com/?q=Glen+Rouge+Campground+Toronto) |
+| **Twyn Rivers Drive Bridge** (mid — confluence pool) | Bridge crossing at Little Rouge confluence — classic holding pool below; pulloff parking | [Google Maps](https://maps.google.com/?q=Twyn+Rivers+Drive+Bridge+Toronto) |
+| **Sewells Rd Bridge** (mid-upper, below 407) | Road-allowance access at Sewells Rd crossing; check year-round vs Apr 25 boundary | [Google Maps](https://maps.google.com/?q=Sewells+Road+at+Rouge+River+Toronto) |
+| **Finch Avenue East Bridge — Rouge Valley** (mid) | Finch Ave crossing; Rouge Valley parking; trail connections | [Google Maps](https://maps.google.com/?q=Rouge+Valley+Toronto+Finch+Avenue) |
+| **Bob Hunter Memorial Park** (upper — Rouge NUP) | Rouge National Urban Park trailhead; walk-in to upper river; free parking | [Google Maps](https://maps.google.com/?q=Bob+Hunter+Memorial+Park+Toronto) |
+| **Whitevale Dam** (upper — brook trout above dam) | Resident brook trout above Whitevale dam; smaller water; village parking | [Google Maps](https://maps.google.com/?q=Whitevale+Dam+Pickering+Ontario) |
 
 ## MNR Brook Trout Data
 
@@ -42,8 +42,8 @@
 | Aurora | Durham | Pickering | 43°48' | 79°07' | 2HC-09 |
 
 - Brook trout found in upper portion of river — above Whitevale dam
-- **Map pin:** [View on Google Maps](https://www.google.com/maps/search/?api=1&query=43.8000,-79.1167)
-- **Closest parking:** Brock Ridge Community Park off Brock St, Pickering — [Google Maps](https://www.google.com/maps/search/?api=1&query=Brock+Ridge+Community+Park+Pickering+Ontario); also Whitevale Road area for above-dam brook trout access — [Google Maps](https://www.google.com/maps/search/?api=1&query=Whitevale+Road+Pickering+Ontario)
+- **Map pin:** [View on Google Maps](https://maps.google.com/?q=43.8000,-79.1167)
+- **Closest parking:** Brock Ridge Community Park, Pickering — [Google Maps](https://maps.google.com/?q=Brock+Ridge+Community+Park+Pickering+Ontario); also Whitevale Dam for above-dam brook trout — [Google Maps](https://maps.google.com/?q=Whitevale+Dam+Pickering+Ontario)
 
 ## Links
 

@@ -33,12 +33,12 @@
 
 | Location | Parking | Walk | Water / Notes | Maps |
 |---|---|---|---|---|
-| **Airport Rd / Loretto bridge** (upper — primary cold-water access) | Gravel shoulder | 0–5 min | Airport Rd crossing at Loretto; Crown road-allowance access; upper creek, coldwater brook trout habitat | [Map](https://www.google.com/maps/search/?api=1&query=Airport+Road+Loretto+Ontario+Sheldon+Creek) |
-| **15 Sideroad Adjala bridge** (upper-mid) | Shoulder | 0 min | 15 Sideroad crossing in Adjala-Tosorontio; small creek, narrow casting | [Map](https://www.google.com/maps/search/?api=1&query=15+Sideroad+Adjala+Sheldon+Creek+Ontario) |
-| **5th Concession Adjala bridge** | Shoulder | 0 min | Side-concession bridge pullout; small wild brook trout water | [Map](https://www.google.com/maps/search/?api=1&query=5th+Concession+Adjala-Tosorontio+Ontario) |
-| **Hwy 9 / Mansfield Rd crossing** (mid) | Shoulder | 0 min | Mid-creek bridge crossing on Hwy 9 near Mansfield; transition to warmer water | [Map](https://www.google.com/maps/search/?api=1&query=Highway+9+Sheldon+Creek+Mansfield+Ontario) |
-| **Tottenham — downstream reaches** (lower) | Roadside | 0–5 min | Lower Sheldon approaching Nottawasaga; mixed coldwater/warmwater | [Map](https://www.google.com/maps/search/?api=1&query=Tottenham+Ontario+Sheldon+Creek) |
-| **Sheldon Creek / Nottawasaga confluence near Beeton** (lower — spring staging) | Roadside | 5–15 min | Spring spawning migrants stage at confluence; access via Nottawasaga road crossings near Beeton | [Map](https://www.google.com/maps/search/?api=1&query=Beeton+Ontario+Sheldon+Creek+Nottawasaga) |
+| **Airport Rd at Sheldon Creek (Loretto)** (upper — primary cold-water access) | Gravel shoulder | 0–5 min | Airport Rd crossing at Loretto; Crown road-allowance access; upper creek, coldwater brook trout habitat. Pin approx 44.053,-79.908 | [Map](https://maps.google.com/?q=44.0530,-79.9080) |
+| **15 Sideroad Adjala Bridge** (upper-mid) | Shoulder | 0 min | 15 Sideroad crossing in Adjala-Tosorontio; small creek, narrow casting. Pin approx 44.058,-79.943 | [Map](https://maps.google.com/?q=44.0580,-79.9430) |
+| **5th Concession Adjala Bridge** | Shoulder | 0 min | Side-concession bridge pullout; small wild brook trout water | [Map](https://maps.google.com/?q=5th+Line+Adjala-Tosorontio+Ontario) |
+| **Hwy 9 Bridge — Loretto area** (mid) | Shoulder | 0 min | Hwy 9 crossing south of Loretto; transition to warmer water | [Map](https://maps.google.com/?q=Highway+9+at+Loretto+Ontario) |
+| **Tottenham — downstream reaches** (lower) | Roadside | 0–5 min | Lower Sheldon approaching Nottawasaga; mixed coldwater/warmwater | [Map](https://maps.google.com/?q=Tottenham+Ontario) |
+| **Beeton area — Nottawasaga confluence** (lower — spring staging) | Roadside | 5–15 min | Spring spawning migrants stage at confluence; access via Notty road crossings near Beeton | [Map](https://maps.google.com/?q=Beeton+Ontario) |
 
 > Contact **NVCA (nvca.on.ca)** for an up-to-date public access map — the stewardship team can point you to public-accessible stretches and ongoing restoration work.
 

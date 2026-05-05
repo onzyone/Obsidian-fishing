@@ -33,10 +33,10 @@
 
 | Location | Notes | Maps |
 |---|---|---|
-| **Hwy 89 bridge — Cookstown** (mid — primary in-town) | Hwy 89 crossing in Cookstown village; on-street parking; walk up- or downstream | [Google Maps](https://www.google.com/maps/search/?api=1&query=Highway+89+Innisfil+Creek+Cookstown+Ontario) |
-| **20 Sideroad bridge — Innisfil Twp** (lower-mid) | Road-allowance bridge crossing west of Cookstown; quieter section | [Google Maps](https://www.google.com/maps/search/?api=1&query=20+Sideroad+Innisfil+Creek+Cookstown+Ontario) |
-| **Hwy 89 / Notty confluence — Alliston area** (lower — steelhead staging, gauge proxy 02ED029) | Lower Innisfil Creek near Nottawasaga confluence south of Alliston; spring/fall steelhead staging from Notty | [Google Maps](https://www.google.com/maps/search/?api=1&query=Innisfil+Creek+Nottawasaga+confluence+Alliston+Ontario) |
-| **6th Line Innisfil bridge** (upper — small resident-trout water) | Road-allowance bridge upstream of Cookstown; small wild brown trout water | [Google Maps](https://www.google.com/maps/search/?api=1&query=6th+Line+Innisfil+Township+Ontario) |
+| **Hwy 89 Bridge — Cookstown** (mid — primary in-town) | Hwy 89 crossing in Cookstown village; on-street parking; walk up- or downstream | [Google Maps](https://maps.google.com/?q=Highway+89+at+Cookstown+Ontario) |
+| **20 Sideroad Bridge** (lower-mid, west of Cookstown) | Road-allowance bridge; quieter section. Pin approximate: 44.213,-79.728 | [Google Maps](https://maps.google.com/?q=44.2130,-79.7280) |
+| **Innisfil Creek / Nottawasaga Confluence** (lower — steelhead staging, gauge proxy 02ED029) | Lower Innisfil Creek near Notty confluence south of Alliston; spring/fall steelhead staging | [Google Maps](https://maps.google.com/?q=44.1380,-79.8870) |
+| **6th Line Innisfil Bridge** (upper — small resident-trout water) | Road-allowance bridge upstream of Cookstown; small wild brown trout water. Pin approximate: 44.196,-79.713 | [Google Maps](https://maps.google.com/?q=44.1960,-79.7130) |
 
 ## Conservation Authority
 

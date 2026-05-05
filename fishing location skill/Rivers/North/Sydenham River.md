@@ -34,12 +34,12 @@
 
 | Location | Notes | Maps |
 |---|---|---|
-| **River mouth — Owen Sound harbour** (lower — primary) | Fresh-run fish first staging area; free harbour parking | [Google Maps](https://www.google.com/maps/search/?api=1&query=Owen+Sound+Harbour+Sydenham+River+Ontario) |
-| **Harrison Park** (lower in-town — primary) | Municipal park; **free parking**; trail access leads into park from river; between fish ladder and harbour | [Google Maps](https://www.google.com/maps/search/?api=1&query=Harrison+Park+Owen+Sound+Ontario) |
-| **Mill Dam & Fish Ladder** (lower — key staging) | **Free parking** at Visitor Info Centre, Mill Dam & Fish Ladder, and Grey-Sauble CA office; 1967-built fish ladder (first in Ontario); fish stack below dam before ladder — key holding area; lower river year-round open | [Google Maps](https://www.google.com/maps/search/?api=1&query=Sydenham+River+Mill+Dam+Owen+Sound+Ontario) |
-| **Inglis Falls Conservation Area** (upper barrier — landmark) | Waterfall barrier — migratory fish blocked here; scenic gorge; CA parking; resident trout above falls; opens June 1 above dam | [Google Maps](https://www.google.com/maps/search/?api=1&query=Inglis+Falls+Conservation+Area+Owen+Sound+Ontario) |
-| **Grey Rd 18 bridge — Rockford area** (upper) | Road-allowance bridge crossing south of Owen Sound; smaller upper water | [Google Maps](https://www.google.com/maps/search/?api=1&query=Rockford+Sydenham+River+Ontario) |
-| **Grey Rd 1 and Concession road allowances** (upper) | Upstream access; above dam opens June 1 | [Google Maps](https://www.google.com/maps/search/?api=1&query=Sydenham+River+Grey+Road+1+Ontario) |
+| **Owen Sound Harbour** (lower — primary, river mouth) | Fresh-run fish first staging area; free harbour parking | [Google Maps](https://maps.google.com/?q=Owen+Sound+Harbour+Ontario) |
+| **Harrison Park (Owen Sound)** (lower in-town — primary) | Municipal park; **free parking**; trail access leads into park from river; between fish ladder and harbour | [Google Maps](https://maps.google.com/?q=Harrison+Park+Owen+Sound+Ontario) |
+| **Mill Dam & Fish Ladder (Owen Sound)** (lower — key staging) | **Free parking** at Visitor Info Centre, Mill Dam & Fish Ladder, and Grey-Sauble CA office; 1967-built fish ladder (first in Ontario); fish stack below dam — key holding area | [Google Maps](https://maps.google.com/?q=Mill+Dam+and+Fish+Ladder+Owen+Sound+Ontario) |
+| **Inglis Falls Conservation Area** (upper barrier — landmark) | Waterfall barrier — migratory fish blocked here; scenic gorge; CA parking; resident trout above falls; opens June 1 above dam | [Google Maps](https://maps.google.com/?q=Inglis+Falls+Conservation+Area+Ontario) |
+| **Rockford — Grey Rd 18 Bridge** (upper) | Road-allowance bridge crossing south of Owen Sound; smaller upper water | [Google Maps](https://maps.google.com/?q=Rockford+Ontario+Grey+County) |
+| **Grey Rd 1 + Concession road allowances** (upper) | Upstream access; above dam opens June 1 | [Google Maps](https://maps.google.com/?q=Grey+Road+1+at+Sydenham+River+Ontario) |
 
 ## Links
 

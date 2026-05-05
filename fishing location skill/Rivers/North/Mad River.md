@@ -26,12 +26,12 @@
 
 | Location | Notes | Maps |
 |---|---|---|
-| **Creemore — Airport Rd park** (mid — primary access) | Wide, easy-to-fish section; good for fly rod; rocky with scattered pools and pockets | [Google Maps](https://www.google.com/maps/search/?api=1&query=Mad+River+Airport+Road+Creemore+Ontario) |
-| **Avening Conservation Area** (mid — gauged 02ED015 "Mad River at Avening") | In Avening village; best May–June access point; resident trout + spring steelhead | [Google Maps](https://www.google.com/maps/search/?api=1&query=Avening+Conservation+Area+Mad+River+Ontario) |
-| **County Rd 9 bridge — Glencairn (Notty confluence)** (lower) | Lowest section; steelhead migrate up from Nottawasaga in spring; bridge crossing in Glencairn village; road-allowance parking | [Google Maps](https://www.google.com/maps/search/?api=1&query=County+Road+9+Mad+River+Glencairn+Ontario) |
-| **County Rd 124 bridge — Singhampton/Duntroon** (mid-upper) | Hwy 24/124 crossing south of Singhampton; rural road-allowance access | [Google Maps](https://www.google.com/maps/search/?api=1&query=Highway+124+Mad+River+Singhampton+Ontario) |
-| **Sideroad 12-13 / Old Sunnidale Rd bridge** (mid) | Road-allowance bridge between Avening and Glencairn — quieter water, less pressure | [Google Maps](https://www.google.com/maps/search/?api=1&query=Old+Sunnidale+Road+Mad+River+Ontario) |
-| **Vespra Twp / Springwater area** (upper — wild brookies) | MNR 2003 atlas brook trout pin (44.4000, -79.9000); Springwater area near Barrie; resident brookies | [Google Maps](https://www.google.com/maps/search/?api=1&query=44.4000,-79.9000) |
+| **Creemore — Mill Street Bridge** (mid — primary access) | Wide, easy-to-fish section; good for fly rod; rocky with scattered pools and pockets | [Google Maps](https://maps.google.com/?q=Creemore+Mill+Street+Bridge+Ontario) |
+| **Avening — Cty Rd 9 Bridge / General Store** (mid — gauged 02ED015 "Mad River at Avening") | At Avening General Store; best May–June access; resident trout + spring steelhead | [Google Maps](https://maps.google.com/?q=Avening+General+Store+Ontario) |
+| **Glencairn village bridge** (lower — Notty confluence) | Lowest section; steelhead migrate up from Notty in spring; bridge crossing in Glencairn village; road-allowance parking | [Google Maps](https://maps.google.com/?q=Glencairn+Ontario) |
+| **Singhampton — Cty Rd 124 Bridge** (mid-upper) | Crossing south of Singhampton; rural road-allowance access | [Google Maps](https://maps.google.com/?q=Singhampton+Ontario) |
+| **Old Sunnidale Rd Bridge** (mid — between Avening + Glencairn) | Road-allowance bridge — quieter water, less pressure | [Google Maps](https://maps.google.com/?q=Old+Sunnidale+Road+Mad+River+Bridge+Ontario) |
+| **Vespra Twp / Springwater area** (upper — wild brookies) | MNR 2003 atlas brook trout pin (44.4000, -79.9000); Springwater area near Barrie; resident brookies | [Google Maps](https://maps.google.com/?q=44.4000,-79.9000) |
 
 ## MNR Brook Trout Data
 
@@ -43,8 +43,8 @@
 
 - Brook trout in upper portion
 - Sources: FSDD, AHIS, HABPROG, ROM, MNR (1986)
-- **Map pin:** [View on Google Maps](https://www.google.com/maps/search/?api=1&query=44.4000,-79.9000)
-- **Closest parking:** Roadside access via county/township roads in Vespra Township (Springwater area near Barrie) — [Google Maps](https://www.google.com/maps/search/?api=1&query=Mad+River+Vespra+Township+Ontario); also try Creemore area for lower access — [Google Maps](https://www.google.com/maps/search/?api=1&query=Mad+River+Creemore+Ontario)
+- **Map pin:** [View on Google Maps](https://maps.google.com/?q=44.4000,-79.9000)
+- **Closest parking:** Roadside access via county/township roads in Vespra Township (Springwater area near Barrie) — [Google Maps](https://maps.google.com/?q=Vespra+Springwater+Ontario); also try Creemore Mill St for lower access — [Google Maps](https://maps.google.com/?q=Creemore+Mill+Street+Bridge+Ontario)
 
 ## Links
 

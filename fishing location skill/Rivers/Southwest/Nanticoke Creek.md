@@ -31,10 +31,10 @@ No documented special C&R rules. Standard limit S-5, C-2; S-1, C-0 Oct–Dec out
 
 | Location | Notes | Maps |
 |---|---|---|
-| **Nanticoke Creek mouth — Lake Erie** (lower — primary) | Lake Erie outlet near Nanticoke village; road-allowance access at Lakeshore Rd | [Google Maps](https://www.google.com/maps/search/?api=1&query=Nanticoke+Creek+mouth+Lake+Erie+Ontario) |
-| **Lakeshore Rd / Haldimand Rd 3 bridge** (lower — closest to mouth) | Bridge crossing closest to mouth; road-allowance pulloff | [Google Maps](https://www.google.com/maps/search/?api=1&query=Lakeshore+Road+Nanticoke+Creek+Haldimand+Ontario) |
-| **Hwy 6 / Concession 1 bridge — Cheapside area** (mid) | Hwy 6 mid-section crossing; road-allowance access | [Google Maps](https://www.google.com/maps/search/?api=1&query=Highway+6+Cheapside+Nanticoke+Creek+Ontario) |
-| **Hagersville area — Hwy 6 crossings** (upper-mid) | Bridges in Hagersville town; on-street parking; LPRCA gauge 02GC022 nearby | [Google Maps](https://www.google.com/maps/search/?api=1&query=Hagersville+Highway+6+Nanticoke+Creek+Ontario) |
+| **Nanticoke Creek mouth — Lake Erie** (lower — primary) | Lake Erie outlet near Nanticoke village; road-allowance access at Lakeshore Rd | [Google Maps](https://maps.google.com/?q=Nanticoke+Creek+mouth+Lake+Erie+Ontario) |
+| **Lakeshore Rd / Haldimand Rd 3 bridge** (lower — closest to mouth) | Bridge crossing closest to mouth; road-allowance pulloff | [Google Maps](https://maps.google.com/?q=Lakeshore+Road+Nanticoke+Creek+Haldimand+Ontario) |
+| **Hwy 6 / Concession 1 bridge — Cheapside area** (mid) | Hwy 6 mid-section crossing; road-allowance access | [Google Maps](https://maps.google.com/?q=Highway+6+Cheapside+Nanticoke+Creek+Ontario) |
+| **Hagersville area — Hwy 6 crossings** (upper-mid) | Bridges in Hagersville town; on-street parking; LPRCA gauge 02GC022 nearby | [Google Maps](https://maps.google.com/?q=Hagersville+Highway+6+Nanticoke+Creek+Ontario) |
 
 ---
 

@@ -33,13 +33,13 @@
 
 | Location | Notes | Maps |
 |---|---|---|
-| **Marie Curtis Park** (mouth — primary lower access, gauged 02HC030 "Etobicoke Below QEW") | Best public access; parking at park; straddles Etobicoke/Mississauga boundary; fresh-run fish enter here | [Google Maps](https://www.google.com/maps/search/?api=1&query=Marie+Curtis+Park+Etobicoke+Ontario) |
-| **Centennial Park (Mississauga)** (mid — urban) | Park area with creek access; mid-creek urban water; free parking | [Google Maps](https://www.google.com/maps/search/?api=1&query=Centennial+Park+Mississauga+Etobicoke+Creek) |
-| **Eringate Park** (lower-mid — urban) | Etobicoke valley park access; trail connections | [Google Maps](https://www.google.com/maps/search/?api=1&query=Eringate+Park+Etobicoke+Toronto) |
-| **Etobicoke Valley Park (Sherway/Dundas area)** (lower-mid) | Lower-mid creek park; gauge 02HC030 nearby; trail and bridge access | [Google Maps](https://www.google.com/maps/search/?api=1&query=Etobicoke+Valley+Park+Toronto) |
-| **Brampton — Chinguacousy Park area** (upper-mid, gauged 02HC017) | Brampton city park with creek access; upper creek has better water character (resembles upper Credit) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Chinguacousy+Park+Brampton+Ontario) |
-| **Heart Lake Conservation Area (Brampton)** (upper — TRCA paid park) | TRCA park with creek access; resident trout water | [Google Maps](https://www.google.com/maps/search/?api=1&query=Heart+Lake+Conservation+Area+Brampton+Ontario) |
-| **Caledon / Mayfield Rd crossings** (upper — Caledon road allowances) | Upper creek road allowances; better trout water | [Google Maps](https://www.google.com/maps/search/?api=1&query=Etobicoke+Creek+Caledon+Ontario) |
+| **Marie Curtis Park** (mouth — primary lower access, gauged 02HC030 "Etobicoke Below QEW") | Best public access; parking at park; straddles Etobicoke/Mississauga boundary; fresh-run fish enter here | [Google Maps](https://maps.google.com/?q=Marie+Curtis+Park+Etobicoke+Ontario) |
+| **Centennial Park (Mississauga)** (mid — urban) | Park area with creek access; mid-creek urban water; free parking | [Google Maps](https://maps.google.com/?q=Centennial+Park+Mississauga+Etobicoke+Creek) |
+| **Eringate Park** (lower-mid — urban) | Etobicoke valley park access; trail connections | [Google Maps](https://maps.google.com/?q=Eringate+Park+Etobicoke+Toronto) |
+| **Etobicoke Valley Park (Sherway/Dundas area)** (lower-mid) | Lower-mid creek park; gauge 02HC030 nearby; trail and bridge access | [Google Maps](https://maps.google.com/?q=Etobicoke+Valley+Park+Toronto) |
+| **Brampton — Chinguacousy Park area** (upper-mid, gauged 02HC017) | Brampton city park with creek access; upper creek has better water character (resembles upper Credit) | [Google Maps](https://maps.google.com/?q=Chinguacousy+Park+Brampton+Ontario) |
+| **Heart Lake Conservation Area (Brampton)** (upper — TRCA paid park) | TRCA park with creek access; resident trout water | [Google Maps](https://maps.google.com/?q=Heart+Lake+Conservation+Area+Brampton+Ontario) |
+| **Caledon / Mayfield Rd crossings** (upper — Caledon road allowances) | Upper creek road allowances; better trout water | [Google Maps](https://maps.google.com/?q=Etobicoke+Creek+Caledon+Ontario) |
 
 ## Links
 

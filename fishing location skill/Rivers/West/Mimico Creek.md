@@ -31,17 +31,17 @@
 
 | Location | Parking | Walk | Water / Notes | Maps |
 |---|---|---|---|---|
-| Humber Bay Park West | Pay parking May–Oct (free rest of year) | 2–5 min | Boat basin + marina access at creek mouth; double concrete boat launch; staging chinook/brown trout in fall | [Map](https://www.google.com/maps/search/?api=1&query=Humber+Bay+Park+West+Toronto) |
-| Humber Bay Park East | Pay parking May–Oct | 2–5 min | East peninsula; wheelchair-accessible fishing pier; fly-casting pond | [Map](https://www.google.com/maps/search/?api=1&query=Humber+Bay+Park+East+Toronto) |
-| Humber Bay Shores / boardwalk by marina | Street/metered | 2 min | Boardwalk covers creek mouth + marina; good casting for bass/pike in summer, salmon in fall | [Map](https://www.google.com/maps/search/?api=1&query=Humber+Bay+Shores+Park+Toronto) |
+| Humber Bay Park West | Pay parking May–Oct (free rest of year) | 2–5 min | Boat basin + marina access at creek mouth; double concrete boat launch; staging chinook/brown trout in fall | [Map](https://maps.google.com/?q=Humber+Bay+Park+West+Toronto) |
+| Humber Bay Park East | Pay parking May–Oct | 2–5 min | East peninsula; wheelchair-accessible fishing pier; fly-casting pond | [Map](https://maps.google.com/?q=Humber+Bay+Park+East+Toronto) |
+| Humber Bay Shores / boardwalk by marina | Street/metered | 2 min | Boardwalk covers creek mouth + marina; good casting for bass/pike in summer, salmon in fall | [Map](https://maps.google.com/?q=Humber+Bay+Shores+Park+Toronto) |
 
 ### Upstream (Creek proper — in-season only)
 
 | Location | Parking | Walk | Water / Notes | Maps |
 |---|---|---|---|---|
-| Mimico Creek Park (Bloor St W area) | Street | 2 min | Small urban park access; flows behind neighbourhoods | [Map](https://www.google.com/maps/search/?api=1&query=Mimico+Creek+Park+Toronto) |
-| Bonar Park (Islington / Queensway) | Street/lot | 2 min | Mid-creek access; small pockets; mostly warmwater panfish | [Map](https://www.google.com/maps/search/?api=1&query=Bonar+Park+Toronto+Mimico+Creek) |
-| Mimico Creek Trail — Kipling/Eglinton area | Street | 2–5 min | Trail follows creek; scattered holding water after rain | [Map](https://www.google.com/maps/search/?api=1&query=Mimico+Creek+Trail+Etobicoke) |
+| Mimico Creek Park (Bloor St W area) | Street | 2 min | Small urban park access; flows behind neighbourhoods | [Map](https://maps.google.com/?q=Mimico+Creek+Park+Toronto) |
+| Bonar Park (Islington / Queensway) | Street/lot | 2 min | Mid-creek access; small pockets; mostly warmwater panfish | [Map](https://maps.google.com/?q=Bonar+Park+Toronto+Mimico+Creek) |
+| Mimico Creek Trail — Kipling/Eglinton area | Street | 2–5 min | Trail follows creek; scattered holding water after rain | [Map](https://maps.google.com/?q=Mimico+Creek+Trail+Etobicoke) |
 
 ## Links
 

@@ -29,26 +29,26 @@
 
 | Location | Notes | Maps |
 |---|---|---|
-| Rotary Park (river mouth) | Lake Driveway West, west of Harwood Ave, Ajax; free boat launch; parking **$20/day non-residents on weekends/holidays**; washrooms; access to creek and Lake Ontario | [Google Maps](https://www.google.com/maps/search/?api=1&query=Rotary+Park+Ajax+Ontario) |
-| **Bayly Street bridge (Ajax)** | Lower-creek bridge crossing between Rotary Park (mouth) and the 401; classic bridge access matching photos of the watershed; road-allowance parking nearby | [Google Maps](https://www.google.com/maps/search/?api=1&query=Bayly+Street+Duffins+Creek+Ajax+Ontario) |
-| **Kingston Road / Hwy 2 bridge (Pickering)** | Mid/upper crossing in north Pickering; bridge access; pulloff parking on shoulder | [Google Maps](https://www.google.com/maps/search/?api=1&query=Kingston+Road+Duffins+Creek+Pickering+Ontario) |
-| Lynde Shores Conservation Area | Ajax waterfront; connects via trail and long metal bridge over Duffins Creek — walk-in lower creek access | [Google Maps](https://www.google.com/maps/search/?api=1&query=Lynde+Shores+Conservation+Area+Ajax+Ontario) |
-| East fork Trans-Canada Trail | Lower east fork — long walking access | [Google Maps](https://www.google.com/maps/search/?api=1&query=Duffins+Creek+Trail+Ajax+Ontario) |
+| Rotary Park (river mouth) | Lake Driveway West, west of Harwood Ave, Ajax; free boat launch; parking **$20/day non-residents on weekends/holidays**; washrooms | [Google Maps](https://maps.google.com/?q=Rotary+Park+Ajax+Ontario) |
+| **Bayly St Bridge (Ajax)** | Lower-creek bridge crossing between Rotary Park and the 401; road-allowance parking nearby | [Google Maps](https://maps.google.com/?q=Bayly+Street+at+Duffins+Creek+Ajax+Ontario) |
+| **Kingston Rd / Hwy 2 Bridge (Pickering)** | Mid/upper crossing in north Pickering; bridge access; pulloff parking on shoulder | [Google Maps](https://maps.google.com/?q=Kingston+Road+at+Duffins+Creek+Pickering+Ontario) |
+| Lynde Shores Conservation Area | Ajax waterfront; connects via trail and long metal bridge over Duffins Creek | [Google Maps](https://maps.google.com/?q=Lynde+Shores+Conservation+Area+Ajax+Ontario) |
+| Duffins Creek Trail (east fork) | Lower east fork — long walking access | [Google Maps](https://maps.google.com/?q=Duffins+Creek+Trail+Ajax+Ontario) |
 
 ### Mid Creek (below dam)
 
 | Location | Notes | Maps |
 |---|---|---|
-| Greenwood Conservation Area | Primary mid-creek access; fish stack below dam | [Google Maps](https://www.google.com/maps/search/?api=1&query=Greenwood+Conservation+Area+Ajax+Ontario) |
-| Devonside Park | East fork lower section; named access point | [Google Maps](https://www.google.com/maps/search/?api=1&query=Devonside+Park+Ajax+Ontario) |
+| Greenwood Conservation Area | Primary mid-creek access; fish stack below dam | [Google Maps](https://maps.google.com/?q=Greenwood+Conservation+Area+Ajax+Ontario) |
+| Devonside Park | East fork lower section; named access point | [Google Maps](https://maps.google.com/?q=Devonside+Park+Ajax+Ontario) |
 
 ### West Duffins Creek / Upper (above dam — brook trout)
 
 | Location | Notes | Maps |
 |---|---|---|
-| Whitevale Park (Whitevale Bridge) | Village of Whitevale, north Pickering; free parking; access to Seaton Trail (12.9 km along West Duffins Creek); best fishing just upstream from Whitevale — brook trout above dam | [Google Maps](https://www.google.com/maps/search/?api=1&query=Whitevale+Park+Pickering+Ontario) |
-| Brock Ridge Community Park | Off Brock St, Pickering; Seaton Trail access on West Duffins Creek | [Google Maps](https://www.google.com/maps/search/?api=1&query=Brock+Ridge+Community+Park+Pickering+Ontario) |
-| Concession Road 3 / Seaton Trail | Near Brock Rd, Pickering; trail access to West Duffins Creek | [Google Maps](https://www.google.com/maps/search/?api=1&query=Concession+Road+3+Pickering+Ontario+Duffins+Creek) |
+| Whitevale Park | Village of Whitevale, north Pickering; free parking; access to Seaton Trail (12.9 km along West Duffins Creek); best fishing just upstream from Whitevale — brook trout above dam | [Google Maps](https://maps.google.com/?q=Whitevale+Park+Pickering+Ontario) |
+| Brock Ridge Community Park | Off Brock St, Pickering; Seaton Trail access on West Duffins Creek | [Google Maps](https://maps.google.com/?q=Brock+Ridge+Community+Park+Pickering+Ontario) |
+| Seaton Trail — Concession Rd 3 entry | Near Brock Rd, Pickering; trail access to West Duffins Creek | [Google Maps](https://maps.google.com/?q=Seaton+Trail+Pickering+Ontario) |
 
 ## MNR Brook Trout Data
 
@@ -61,8 +61,8 @@
 - Brook trout found in both east and west branches
 - Sources: FISHNET, AHIS, HABPROG, CMN, Durham Region (1992)
 - Ganatsekiagon Creek (NL) is a tributary of Duffins Creek between Whitevale and Urfe Creek branch (also brook trout, same watershed 2HC-10)
-- **Map pin:** [View on Google Maps](https://www.google.com/maps/search/?api=1&query=43.8000,-79.0333)
-- **Closest parking:** Greenwood Conservation Area — already listed above; for upper branches try Whitevale area — [Google Maps](https://www.google.com/maps/search/?api=1&query=Whitevale+Ontario+Duffins+Creek)
+- **Map pin:** [View on Google Maps](https://maps.google.com/?q=43.8000,-79.0333)
+- **Closest parking:** Greenwood Conservation Area — already listed above; for upper branches try Whitevale Park — [Google Maps](https://maps.google.com/?q=Whitevale+Park+Pickering+Ontario)
 
 ## Links
 

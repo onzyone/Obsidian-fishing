@@ -33,11 +33,11 @@ Confirm specific sections in current regs before targeting trout.
 
 | Location | Notes | Maps |
 |---|---|---|
-| **Port Stanley harbour** (mouth — warmwater + occasional steelhead) | Road access at harbour mouth. Warmwater species + occasional spring steelhead | [Google Maps](https://www.google.com/maps/search/?api=1&query=Port+Stanley+Kettle+Creek+harbour+Ontario) |
-| **Dalewood Reservoir (KCCA)** (mid — warmwater) | Reservoir area — warmwater fishing. No trout | [Google Maps](https://www.google.com/maps/search/?api=1&query=Dalewood+Reservoir+St+Thomas+Ontario) |
-| **Little Creek tributary** (upper, cooler — small resident rainbow) | Cooler upper tributary; small resident rainbow trout per KCCA wildlife surveys; road-allowance bridge access | [Google Maps](https://www.google.com/maps/search/?api=1&query=Little+Creek+Kettle+Creek+watershed+Elgin+County+Ontario) |
-| **Mill Creek tributary** (upper, cooler — small resident rainbow) | Same — cooler upper trib with small resident rainbow trout; road-allowance access | [Google Maps](https://www.google.com/maps/search/?api=1&query=Mill+Creek+Kettle+Creek+watershed+Elgin+County+Ontario) |
-| **St. Thomas — gauge** (mid, gauged) | KCCA gauge 02GC002 at St. Thomas; main-stem warmwater | [Google Maps](https://www.google.com/maps/search/?api=1&query=Kettle+Creek+St+Thomas+Ontario) |
+| **Port Stanley harbour** (mouth — warmwater + occasional steelhead) | Road access at harbour mouth. Warmwater species + occasional spring steelhead | [Google Maps](https://maps.google.com/?q=Port+Stanley+Kettle+Creek+harbour+Ontario) |
+| **Dalewood Reservoir (KCCA)** (mid — warmwater) | Reservoir area — warmwater fishing. No trout | [Google Maps](https://maps.google.com/?q=Dalewood+Reservoir+St+Thomas+Ontario) |
+| **Little Creek tributary** (upper, cooler — small resident rainbow) | Cooler upper tributary; small resident rainbow trout per KCCA wildlife surveys; road-allowance bridge access | [Google Maps](https://maps.google.com/?q=Little+Creek+Kettle+Creek+watershed+Elgin+County+Ontario) |
+| **Mill Creek tributary** (upper, cooler — small resident rainbow) | Same — cooler upper trib with small resident rainbow trout; road-allowance access | [Google Maps](https://maps.google.com/?q=Mill+Creek+Kettle+Creek+watershed+Elgin+County+Ontario) |
+| **St. Thomas — gauge** (mid, gauged) | KCCA gauge 02GC002 at St. Thomas; main-stem warmwater | [Google Maps](https://maps.google.com/?q=Kettle+Creek+St+Thomas+Ontario) |
 
 ---
 

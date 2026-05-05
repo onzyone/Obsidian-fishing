@@ -31,16 +31,16 @@
 
 | Location | Parking | Walk | Water / Notes | Maps |
 |---|---|---|---|---|
-| Port Credit GO Station (north lot) | Paid lot (30 reinstated spots between creek and tracks) | 2–5 min | North lot sits between Mary Fix Creek and rail tracks; walk down to confluence with Credit | [Map](https://www.google.com/maps/search/?api=1&query=Port+Credit+GO+Station+Mississauga) |
-| JC Saddington Park (Credit mouth — adjacent to Mary Fix confluence) | Free lot | 2 min | Same parking as Credit mouth fishing; walk east along Credit to Mary Fix confluence | [Map](https://www.google.com/maps/search/?api=1&query=JC+Saddington+Park+Mississauga) |
-| Mineola West / Old River Rd area | Street | 2–5 min | Upstream side of Mary Fix near confluence; residential access via street parking | [Map](https://www.google.com/maps/search/?api=1&query=Old+River+Road+Mississauga) |
+| Port Credit GO Station (north lot) | Paid lot (30 reinstated spots between creek and tracks) | 2–5 min | North lot sits between Mary Fix Creek and rail tracks; walk down to confluence with Credit | [Map](https://maps.google.com/?q=Port+Credit+GO+Station+Mississauga) |
+| JC Saddington Park (Credit mouth — adjacent to Mary Fix confluence) | Free lot | 2 min | Same parking as Credit mouth fishing; walk east along Credit to Mary Fix confluence | [Map](https://maps.google.com/?q=JC+Saddington+Park+Mississauga) |
+| Mineola West / Old River Rd area | Street | 2–5 min | Upstream side of Mary Fix near confluence; residential access via street parking | [Map](https://maps.google.com/?q=Old+River+Road+Mississauga) |
 
 ### Upstream (above Hwy 403 — in-season only)
 
 | Location | Parking | Walk | Water / Notes | Maps |
 |---|---|---|---|---|
-| Gordon Woods / Mary Fix Park | Street | 2 min | Mid-creek residential park; mostly cyprinids / small fish | [Map](https://www.google.com/maps/search/?api=1&query=Mary+Fix+Park+Mississauga) |
-| Central Mississauga Trail corridor | Street | 2–5 min | Creek parallels Hazel McCallion LRT corridor — under construction/restoration | [Map](https://www.google.com/maps/search/?api=1&query=Mary+Fix+Creek+Mississauga) |
+| Gordon Woods / Mary Fix Park | Street | 2 min | Mid-creek residential park; mostly cyprinids / small fish | [Map](https://maps.google.com/?q=Mary+Fix+Park+Mississauga) |
+| Central Mississauga Trail corridor | Street | 2–5 min | Creek parallels Hazel McCallion LRT corridor — under construction/restoration | [Map](https://maps.google.com/?q=Mary+Fix+Creek+Mississauga) |
 
 ## Links
 

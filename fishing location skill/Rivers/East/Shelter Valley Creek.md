@@ -25,10 +25,10 @@
 
 | Location | Notes | Maps |
 |---|---|---|
-| **Shelter Valley Park & Campgrounds** (primary access — paid) | **Private campground** — day-use fishing fee not published; call ahead: **905-349-2037** or sheltervalleypark@gmail.com. Camping $55–$80/night if staying over. Must exit by 11pm | [Google Maps](https://www.google.com/maps/search/?api=1&query=Shelter+Valley+Park+Grafton+Ontario) |
-| **Mouth at Lake Ontario / Grafton waterfront** (lower) | Verify road-allowance access; lake-staging fish | [Google Maps](https://www.google.com/maps/search/?api=1&query=Shelter+Valley+Creek+mouth+Grafton+Ontario) |
-| **Hwy 401 / County Rd 23 crossings** (mid) | Road-allowance bridge access; gauge 02HD010 near Grafton | [Google Maps](https://www.google.com/maps/search/?api=1&query=Highway+401+Shelter+Valley+Creek+Grafton+Ontario) |
-| **Grafton area public road allowances** (research before trip) | Limited — research current access before making the trip | [Google Maps](https://www.google.com/maps/search/?api=1&query=Shelter+Valley+Creek+Grafton+Ontario) |
+| **Shelter Valley Park & Campgrounds** (primary access — paid) | **Private campground** — day-use fishing fee not published; call ahead: **905-349-2037** or sheltervalleypark@gmail.com. Camping $55–$80/night if staying over. Must exit by 11pm | [Google Maps](https://maps.google.com/?q=Shelter+Valley+Park+and+Campground+Grafton+Ontario) |
+| **Shelter Valley Creek mouth (Grafton waterfront)** (lower) | Verify road-allowance access; lake-staging fish | [Google Maps](https://maps.google.com/?q=43.9863,-78.0042) |
+| **Cty Rd 23 / Lyle St crossing** (mid, gauge 02HD010 near Grafton) | Road-allowance bridge access | [Google Maps](https://maps.google.com/?q=Lyle+Street+Grafton+Ontario) |
+| **Grafton village** | Limited road-allowance access — research before trip | [Google Maps](https://maps.google.com/?q=Grafton+Ontario+Northumberland) |
 
 ## MNR Brook Trout Data
 
@@ -39,7 +39,7 @@
 | Peterborough | Northumberland | Haldimand | 43°58' | 78°00' | 2HD-02 |
 
 - Sources: HABPROG, FSDD, ROM
-- **Map pin:** [View on Google Maps](https://www.google.com/maps/search/?api=1&query=43.9667,-78.0000)
+- **Map pin:** [View on Google Maps](https://maps.google.com/?q=43.9667,-78.0000)
 
 ## Links
 

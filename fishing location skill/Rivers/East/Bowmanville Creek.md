@@ -28,13 +28,13 @@
 
 | Location | Notes | Maps |
 |---|---|---|
-| Baseline Road West — south parking lot | **Main access.** North side of Baseline Rd, 140m east of Spry Ave. Connects to trail both directions. | [Google Maps](https://www.google.com/maps/search/?api=1&query=Bowmanville+Creek+Baseline+Road+West+Clarington+Ontario) |
-| King Street / Hwy 2 bridge (downtown Bowmanville) | Downtown bridge crossing between Baseline lot (south) and Roenigk lot (north); popular spot, dimensionally classic creek bridge; on-street parking nearby | [Google Maps](https://www.google.com/maps/search/?api=1&query=Bowmanville+Creek+King+Street+Bowmanville+Ontario) |
-| Accessible fishing trail (Spry Ave → Goodyear Dam) | **Prime fishing zone.** Wheelchair-accessible gravel path along creek between Spry Ave and south of Goodyear Dam — fish congregate here. Reach from Baseline Rd lot. | [Google Maps](https://www.google.com/maps/search/?api=1&query=Spry+Avenue+Bowmanville+Ontario) |
-| Nelson Parkette — Nelson Street | Trail entrance from residential area; mid-section access | [Google Maps](https://www.google.com/maps/search/?api=1&query=Nelson+Street+Bowmanville+Ontario) |
-| Roenigk Drive — north parking lot | Paved parking, paved trail; closest lot to fish ladder — **do not fish at or near the ladder (sanctuary)** | [Google Maps](https://www.google.com/maps/search/?api=1&query=Roenigk+Drive+Bowmanville+Ontario) |
-| Jackman Road — upper access | Bowmanville Valley Conservation Area; upper creek brook trout & resident fish | [Google Maps](https://www.google.com/maps/search/?api=1&query=Jackman+Road+Bowmanville+Valley+Conservation+Area+Ontario) |
-| Fish Ladder (Goodyear Dam) | **No fishing** — sanctuary zone around fish ladder. Worth watching during fall run only. ~1 km north of Baseline Rd lot. | [Google Maps](https://www.google.com/maps/search/?api=1&query=Bowmanville+Creek+Fish+Ladder+Ontario) |
+| Baseline Rd West parking lot | **Main access.** North side of Baseline Rd, 140m east of Spry Ave. Connects to trail both directions. | [Google Maps](https://maps.google.com/?q=Bowmanville+Valley+Trail+Baseline+Road+Clarington+Ontario) |
+| King Street / Hwy 2 Bridge (downtown Bowmanville) | Downtown bridge crossing between Baseline lot (south) and Roenigk lot (north); popular spot; on-street parking nearby | [Google Maps](https://maps.google.com/?q=King+Street+at+Bowmanville+Creek+Ontario) |
+| Spry Ave → Goodyear Dam accessible trail | **Prime fishing zone.** Wheelchair-accessible gravel path along creek; fish congregate here. Reach from Baseline Rd lot | [Google Maps](https://maps.google.com/?q=Spry+Avenue+Bowmanville+Ontario) |
+| Nelson Parkette — Nelson Street | Trail entrance from residential area; mid-section access | [Google Maps](https://maps.google.com/?q=Nelson+Parkette+Bowmanville+Ontario) |
+| Roenigk Drive parking lot (north) | Paved parking, paved trail; closest lot to fish ladder — **do not fish at or near the ladder (sanctuary)** | [Google Maps](https://maps.google.com/?q=Roenigk+Drive+Bowmanville+Ontario) |
+| Jackman Rd — Bowmanville Valley CA (upper) | Upper creek brook trout & resident fish | [Google Maps](https://maps.google.com/?q=Bowmanville+Valley+Conservation+Area+Ontario) |
+| Goodyear Dam Fish Ladder | **No fishing** — sanctuary zone around fish ladder. Worth watching during fall run only. ~1 km north of Baseline Rd lot | [Google Maps](https://maps.google.com/?q=Goodyear+Dam+Bowmanville+Ontario) |
 
 ## MNR Brook Trout Data
 
@@ -47,7 +47,7 @@
 | Aurora | Durham | Darlington | 43°53' | 78°40' | 2HD-04 |
 
 - Sources: FSDD, HABPROG
-- **Map pin:** [View on Google Maps](https://www.google.com/maps/search/?api=1&query=43.8833,-78.6667)
+- **Map pin:** [View on Google Maps](https://maps.google.com/?q=43.8833,-78.6667)
 
 ### Nearby brook trout tributaries (same watershed 2HD-04)
 

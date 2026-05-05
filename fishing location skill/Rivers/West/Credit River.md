@@ -33,13 +33,13 @@
 
 | Location | Parking | Walk | Water / Notes | Maps |
 |---|---|---|---|---|
-| JJ Plaus Park (river mouth) | Free lot off Lakeshore Rd W | 2 min | Pier + flat slow water at mouth — staging steelhead/salmon; spoons work well | [Map](https://www.google.com/maps/search/?api=1&query=JJ+Plaus+Park+Mississauga+Ontario) |
-| JC Saddington Park | Free lot | 2 min | Other side of mouth; extends into Lake Ontario; same staging fish | [Map](https://www.google.com/maps/search/?api=1&query=JC+Saddington+Park+Mississauga+Ontario) |
-| Riverwood Park | Free lot off Burnhamthorpe Rd W | 5 min | East bank mid-lower section; picturesque; good pools and riffles | [Map](https://www.google.com/maps/search/?api=1&query=Riverwood+Park+Mississauga+Credit+River) |
-| St. Peter's Anglican Church (3041 Mississauga Rd) | Church lot (off-hours) | 5–8 min walk down the hill to river bend | Corner of Mississauga Rd & Dundas St W; park in lot, walk south/east down the hill to the Credit River bend — sheltered inside bend, good post-rain holding water | [Map](https://www.google.com/maps/search/?api=1&query=3041+Mississauga+Road+Mississauga+Ontario) |
-| Erindale Park (Dundas St) | Free lot — large | 2 min | Best all-around lower access; walk long distances up or down river; post-rain pools | [Map](https://www.google.com/maps/search/?api=1&query=Erindale+Park+Mississauga+Ontario) |
-| Upper Erindale Park (Burnhamthorpe Rd) | Free lot | 3 min | Additional access to same productive Erindale stretch; less crowded entry | [Map](https://www.google.com/maps/search/?api=1&query=Burnhamthorpe+Rd+Credit+River+Mississauga) |
-| Streetsville Memorial Park | Free lot — Streetsville downtown | 3 min | Below Streetsville Dam — fish jump visible; spring steelhead stack below dam | [Map](https://www.google.com/maps/search/?api=1&query=Streetsville+Memorial+Park+Mississauga) |
+| JJ Plaus Park (river mouth) | Free lot off Lakeshore Rd W | 2 min | Pier + flat slow water at mouth — staging steelhead/salmon; spoons work well | [Map](https://maps.google.com/?q=JJ+Plaus+Park+Mississauga+Ontario) |
+| JC Saddington Park | Free lot | 2 min | Other side of mouth; extends into Lake Ontario; same staging fish | [Map](https://maps.google.com/?q=JC+Saddington+Park+Mississauga+Ontario) |
+| Riverwood Park | Free lot off Burnhamthorpe Rd W | 5 min | East bank mid-lower section; picturesque; good pools and riffles | [Map](https://maps.google.com/?q=Riverwood+Park+Mississauga+Credit+River) |
+| St. Peter's Anglican Church (3041 Mississauga Rd) | Church lot (off-hours) | 5–8 min walk down the hill to river bend | Corner of Mississauga Rd & Dundas St W; park in lot, walk south/east down the hill to the Credit River bend — sheltered inside bend, good post-rain holding water | [Map](https://maps.google.com/?q=3041+Mississauga+Road+Mississauga+Ontario) |
+| Erindale Park (Dundas St) | Free lot — large | 2 min | Best all-around lower access; walk long distances up or down river; post-rain pools | [Map](https://maps.google.com/?q=Erindale+Park+Mississauga+Ontario) |
+| Upper Erindale Park (Burnhamthorpe Rd) | Free lot | 3 min | Additional access to same productive Erindale stretch; less crowded entry | [Map](https://maps.google.com/?q=Burnhamthorpe+Rd+Credit+River+Mississauga) |
+| Streetsville Memorial Park | Free lot — Streetsville downtown | 3 min | Below Streetsville Dam — fish jump visible; spring steelhead stack below dam | [Map](https://maps.google.com/?q=Streetsville+Memorial+Park+Mississauga) |
 
 ### Mid River (Above Hwy 403 — Seasonal Restrictions Apply)
 
@@ -47,12 +47,12 @@
 
 | Location | Parking | Walk | Water / Notes | Maps |
 |---|---|---|---|---|
-| River Run Park (Streetsville area) | Street/lot parking | 5 min | Good spring steelhead water; sanctuary restrictions in effect off-season | [Map](https://www.google.com/maps/search/?api=1&query=River+Run+Park+Mississauga+Credit+River) |
-| Credit Meadows Park | Street parking | 5 min | Wide open section with lots of wade-able water; good for spring steelhead and bass | [Map](https://www.google.com/maps/search/?api=1&query=Credit+Meadows+Park+Mississauga) |
-| Meadowvale Conservation Area | Free lot (CVC) | 2 min | Big pools; nature trail along river; open through Dec 31 for salmon/steelhead under current regs | [Map](https://www.google.com/maps/search/?api=1&query=Meadowvale+Conservation+Area+Mississauga) |
-| Churchville Park (Brampton) | Free lot | 2 min | Long stretch of accessible water; steelhead, salmon, and brown trout; multiple entry points | [Map](https://www.google.com/maps/search/?api=1&query=Churchville+Park+Brampton+Credit+River) |
-| Eldorado Park (Brampton) | Free lot | 2 min | Big pools, fast runs, pocket water — excellent variety; steelhead into mid-May | [Map](https://www.google.com/maps/search/?api=1&query=Eldorado+Park+Brampton+Credit+River) |
-| McNab Park (near Norval Dam) | Street parking | 5 min | Upstream limit for steelhead/salmon migration (blocked by Norval Dam); shallow fast pocket water; fly/float | [Map](https://www.google.com/maps/search/?api=1&query=McNab+Park+Norval+Ontario+Credit+River) |
+| River Run Park (Streetsville area) | Street/lot parking | 5 min | Good spring steelhead water; sanctuary restrictions in effect off-season | [Map](https://maps.google.com/?q=River+Run+Park+Mississauga+Credit+River) |
+| Credit Meadows Park | Street parking | 5 min | Wide open section with lots of wade-able water; good for spring steelhead and bass | [Map](https://maps.google.com/?q=Credit+Meadows+Park+Mississauga) |
+| Meadowvale Conservation Area | Free lot (CVC) | 2 min | Big pools; nature trail along river; open through Dec 31 for salmon/steelhead under current regs | [Map](https://maps.google.com/?q=Meadowvale+Conservation+Area+Mississauga) |
+| Churchville Park (Brampton) | Free lot | 2 min | Long stretch of accessible water; steelhead, salmon, and brown trout; multiple entry points | [Map](https://maps.google.com/?q=Churchville+Park+Brampton+Credit+River) |
+| Eldorado Park (Brampton) | Free lot | 2 min | Big pools, fast runs, pocket water — excellent variety; steelhead into mid-May | [Map](https://maps.google.com/?q=Eldorado+Park+Brampton+Credit+River) |
+| McNab Park (near Norval Dam) | Street parking | 5 min | Upstream limit for steelhead/salmon migration (blocked by Norval Dam); shallow fast pocket water; fly/float | [Map](https://maps.google.com/?q=McNab+Park+Norval+Ontario+Credit+River) |
 
 ### Upper River — Forks of the Credit / Cataract / Inglewood → Alton — C&R Only, Artificial Lures Only
 
@@ -60,14 +60,14 @@
 
 | Location | Parking | Walk | Water / Notes | Maps |
 |---|---|---|---|---|
-| Cataract village bridge (Station Rd / Charleston Sideroad W) | Roadside shoulder near bridge | 0 min | Best free access to the Forks area; walk up or downstream on Crown road allowance; prime pool below the old mill site. **Cataract Falls is the dividing line — brook trout dominate above the falls (colder water), brown trout below** | [Map](https://www.google.com/maps/search/?api=1&query=Cataract+Ontario+Credit+River+bridge) |
-| Forks of the Credit Rd — roadside pulloffs | Shoulder pulloffs along Forks of the Credit Rd **before** park fee gate | 2–5 min | Free access; walk down to river from road shoulder; avoid the paid day-use lot | [Map](https://www.google.com/maps/search/?api=1&query=Forks+of+the+Credit+Road+Caledon+Ontario) |
-| McLaughlin Rd bridge | Gravel shoulder | 0 min | Road allowance access; productive riffle-pool run; good brown trout water | [Map](https://www.google.com/maps/search/?api=1&query=McLaughlin+Road+Credit+River+Caledon+Ontario) |
-| Mississauga Rd N bridge (near Belfountain) | Shoulder pulloff at bridge | 0 min | Road allowance at bridge; upstream of Belfountain CA (paid); walk downstream; mixed riffles | [Map](https://www.google.com/maps/search/?api=1&query=Mississauga+Road+Credit+River+Belfountain+Ontario) |
-| Boston Mills Rd bridge | Shoulder pulloff | 0 min | Road allowance; downstream of Forks; transition water between upper and mid river; brown trout and early steelhead | [Map](https://www.google.com/maps/search/?api=1&query=Boston+Mills+Road+Credit+River+Caledon+Ontario) |
-| Old Baseline Rd bridge (regulatory boundary) | Roadside | 0 min | The regulatory dividing line — above here is C&R/artificial only year-round; below has seasonal closures; pools at the bridge hold fish | [Map](https://www.google.com/maps/search/?api=1&query=Old+Base+Line+Road+Credit+River+Caledon+Ontario) |
-| Inglewood village area | Roadside | 2–5 min | Walk down from village; classic small-town pool/riffle access; less pressure than Forks area | [Map](https://www.google.com/maps/search/?api=1&query=Inglewood+Ontario+Credit+River) |
-| Alton / Airport Rd area | Roadside/informal | 5 min | Upper limit of productive brown trout water; cold, tight cover; smaller fish but more isolated | [Map](https://www.google.com/maps/search/?api=1&query=Alton+Ontario+Credit+River) |
+| Cataract village bridge (Station Rd / Charleston Sideroad W) | Roadside shoulder near bridge | 0 min | Best free access to the Forks area; walk up or downstream on Crown road allowance; prime pool below the old mill site. **Cataract Falls is the dividing line — brook trout dominate above the falls (colder water), brown trout below** | [Map](https://maps.google.com/?q=Cataract+Ontario+Credit+River+bridge) |
+| Forks of the Credit Rd — roadside pulloffs | Shoulder pulloffs along Forks of the Credit Rd **before** park fee gate | 2–5 min | Free access; walk down to river from road shoulder; avoid the paid day-use lot | [Map](https://maps.google.com/?q=Forks+of+the+Credit+Road+Caledon+Ontario) |
+| McLaughlin Rd bridge | Gravel shoulder | 0 min | Road allowance access; productive riffle-pool run; good brown trout water | [Map](https://maps.google.com/?q=McLaughlin+Road+Credit+River+Caledon+Ontario) |
+| Mississauga Rd N bridge (near Belfountain) | Shoulder pulloff at bridge | 0 min | Road allowance at bridge; upstream of Belfountain CA (paid); walk downstream; mixed riffles | [Map](https://maps.google.com/?q=Mississauga+Road+Credit+River+Belfountain+Ontario) |
+| Boston Mills Rd bridge | Shoulder pulloff | 0 min | Road allowance; downstream of Forks; transition water between upper and mid river; brown trout and early steelhead | [Map](https://maps.google.com/?q=Boston+Mills+Road+Credit+River+Caledon+Ontario) |
+| Old Baseline Rd bridge (regulatory boundary) | Roadside | 0 min | The regulatory dividing line — above here is C&R/artificial only year-round; below has seasonal closures; pools at the bridge hold fish | [Map](https://maps.google.com/?q=Old+Base+Line+Road+Credit+River+Caledon+Ontario) |
+| Inglewood village area | Roadside | 2–5 min | Walk down from village; classic small-town pool/riffle access; less pressure than Forks area | [Map](https://maps.google.com/?q=Inglewood+Ontario+Credit+River) |
+| Alton / Airport Rd area | Roadside/informal | 5 min | Upper limit of productive brown trout water; cold, tight cover; smaller fish but more isolated | [Map](https://maps.google.com/?q=Alton+Ontario+Credit+River) |
 
 **Paid areas to skip:** Forks of the Credit Provincial Park day-use lot (~$12–18/vehicle), Belfountain Conservation Area. The road allowance access points above give the same water for free.
 

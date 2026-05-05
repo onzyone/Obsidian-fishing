@@ -31,11 +31,11 @@ Catch limit: S-5, C-2 (standard FMZ 16); drops to S-1, C-0 Oct–Dec outside exp
 
 | Location | Notes | Maps |
 |---|---|---|
-| **Port Dover harbour / lighthouse** (mouth — primary lower) | Harbour parking on Harbour St; lighthouse pier; year-round; staging fish enter from Lake Erie | [Google Maps](https://www.google.com/maps/search/?api=1&query=Port+Dover+Lighthouse+Harbour+Ontario) |
-| **Silver Lake Park (Port Dover)** (lower in-town) | Town park along Lynn River below dam; free parking; trail access | [Google Maps](https://www.google.com/maps/search/?api=1&query=Silver+Lake+Park+Port+Dover+Ontario) |
-| **Hwy 6 bridge — between Port Dover and Simcoe** (lower-mid) | Hwy 6 crossing south of Simcoe; road-allowance pulloff | [Google Maps](https://www.google.com/maps/search/?api=1&query=Highway+6+Lynn+River+Norfolk+County+Ontario) |
-| **Norfolk County Fairgrounds — Simcoe** (mid — town section) | Park along Lynn River in Simcoe; free parking; gauge 02GC008 nearby | [Google Maps](https://www.google.com/maps/search/?api=1&query=Norfolk+County+Fairgrounds+Simcoe+Ontario) |
-| **Lynn Valley Trail trailhead — Simcoe** (mid — walk-in) | Rail-trail access; multiple river crossings between Simcoe and Port Dover | [Google Maps](https://www.google.com/maps/search/?api=1&query=Lynn+Valley+Trail+Simcoe+Ontario) |
+| **Port Dover harbour / lighthouse** (mouth — primary lower) | Harbour parking on Harbour St; lighthouse pier; year-round; staging fish enter from Lake Erie | [Google Maps](https://maps.google.com/?q=Port+Dover+Lighthouse+Harbour+Ontario) |
+| **Silver Lake Park (Port Dover)** (lower in-town) | Town park along Lynn River below dam; free parking; trail access | [Google Maps](https://maps.google.com/?q=Silver+Lake+Park+Port+Dover+Ontario) |
+| **Hwy 6 bridge — between Port Dover and Simcoe** (lower-mid) | Hwy 6 crossing south of Simcoe; road-allowance pulloff | [Google Maps](https://maps.google.com/?q=Highway+6+Lynn+River+Norfolk+County+Ontario) |
+| **Norfolk County Fairgrounds — Simcoe** (mid — town section) | Park along Lynn River in Simcoe; free parking; gauge 02GC008 nearby | [Google Maps](https://maps.google.com/?q=Norfolk+County+Fairgrounds+Simcoe+Ontario) |
+| **Lynn Valley Trail trailhead — Simcoe** (mid — walk-in) | Rail-trail access; multiple river crossings between Simcoe and Port Dover | [Google Maps](https://maps.google.com/?q=Lynn+Valley+Trail+Simcoe+Ontario) |
 
 ---
 

@@ -1,5 +1,3 @@
-# Go Fishing Here — Southwest new spots
-
 ## 2026-04-29 — Southwest new spots (Fri May 1, Sat May 2, Sun May 3, 2026)
 
 **Best day: Sun May 3** (13.5°C, 0mm clear). All 4 Southwest gauges falling and clearing — Twenty Mile -3.31m/24h. Drop-back steelhead phase; Twenty Mile lower has no close season. FMZ 16/17 inland trout open since Apr 25.

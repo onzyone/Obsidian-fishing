@@ -25,12 +25,12 @@
 
 | Location | Notes | Maps |
 |---|---|---|
-| **Dunedin Community Park — 8983 County Rd 9** (mid — primary access) | Small lot, picnic area right on river; easiest access to the Noisy River | [Google Maps](https://www.google.com/maps/search/?api=1&query=8983+County+Road+9+Dunedin+Ontario) |
-| **Above Lavender Falls** (upper — brook trout) | Brook trout water above falls barrier; rainbow trout downstream of falls | [Google Maps](https://www.google.com/maps/search/?api=1&query=Lavender+Falls+Noisy+River+Ontario) |
-| **Below Lavender Falls** (mid — rainbow trout) | Rainbow trout fishery below falls; barrier marks brook/rainbow boundary | [Google Maps](https://www.google.com/maps/search/?api=1&query=Lavender+Falls+Noisy+River+Ontario) |
-| **Noisy River Provincial Nature Reserve** (upper — walk-in) | Off Simcoe County Rd 9; hike required to reach creek — low pressure, good brook trout water | [Google Maps](https://www.google.com/maps/search/?api=1&query=Noisy+River+Provincial+Nature+Reserve+Ontario) |
-| **MNR brook trout pin** (Nottawasaga Twp — 44.3167, -80.1500) | MNR 2003 atlas confirmed | [Google Maps](https://www.google.com/maps/search/?api=1&query=44.3167,-80.1500) |
-| **Creemore area (near Mad River confluence)** (lower — confluence) | Road access near town; Noisy merges with Mad just upstream of Creemore | [Google Maps](https://www.google.com/maps/search/?api=1&query=Noisy+River+Creemore+Ontario) |
+| **Dunedin Community Park** (mid — primary access, 8983 Cty Rd 9) | Small lot, picnic area right on river; easiest access to the Noisy River | [Google Maps](https://maps.google.com/?q=Dunedin+Community+Park+Ontario) |
+| **Lavender Falls — above (brook trout)** (upper) | Brook trout water above falls barrier | [Google Maps](https://maps.google.com/?q=Lavender+Falls+Ontario+Mulmur) |
+| **Lavender Falls — below (rainbow trout)** (mid) | Rainbow trout fishery below falls; barrier marks brook/rainbow boundary | [Google Maps](https://maps.google.com/?q=Lavender+Falls+Ontario+Mulmur) |
+| **Noisy River Provincial Park** (upper — walk-in) | Off Simcoe County Rd 9; hike required to reach creek — low pressure, good brook trout water | [Google Maps](https://maps.google.com/?q=Noisy+River+Provincial+Park+Ontario) |
+| **MNR brook trout pin** (Nottawasaga Twp — 44.3167, -80.1500) | MNR 2003 atlas confirmed | [Google Maps](https://maps.google.com/?q=44.3167,-80.1500) |
+| **Creemore confluence area** (lower — Mad River confluence) | Road access near town; Noisy merges with Mad just upstream of Creemore | [Google Maps](https://maps.google.com/?q=Creemore+Mill+Street+Bridge+Ontario) |
 
 ## MNR Brook Trout Data
 
@@ -42,8 +42,8 @@
 
 - Sources: NRVIS
 - Brook trout upstream of Lavender Falls; rainbow trout downstream
-- **Map pin:** [View on Google Maps](https://www.google.com/maps/search/?api=1&query=44.3167,-80.1500)
-- **Closest parking:** Dunedin community park at 8983 County Rd 9, Dunedin — small lot, picnic area right on river — [Google Maps](https://www.google.com/maps/search/?api=1&query=8983+County+Road+9+Dunedin+Ontario); also Noisy River Provincial Nature Reserve accessed via Simcoe County Road 9 — [Google Maps](https://www.google.com/maps/search/?api=1&query=Noisy+River+Provincial+Park+Ontario)
+- **Map pin:** [View on Google Maps](https://maps.google.com/?q=44.3167,-80.1500)
+- **Closest parking:** Dunedin Community Park (8983 Cty Rd 9) — [Google Maps](https://maps.google.com/?q=Dunedin+Community+Park+Ontario); also Noisy River Provincial Park via Simcoe Cty Rd 9 — [Google Maps](https://maps.google.com/?q=Noisy+River+Provincial+Park+Ontario)
 
 ## Links
 

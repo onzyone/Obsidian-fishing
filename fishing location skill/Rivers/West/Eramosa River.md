@@ -49,10 +49,10 @@ The Eramosa is **groundwater-fed through limestone and glacial moraine geology**
 
 | Location | Parking | Walk | Water / Notes | Maps |
 |---|---|---|---|---|
-| Guelph Lake Conservation Area (GRCA) | Paid lot (GRCA day use) | 5–15 min to river | Eramosa flows near Guelph Lake CA — park and walk down to river; good pool/riffle structure | [Google Maps](https://www.google.com/maps/search/?api=1&query=Guelph+Lake+Conservation+Area+Ontario) |
-| Stone Road / Eastview Road (Guelph) | Street parking | 5 min | Road allowance access in east Guelph; slower water through town — brown trout hold in deep bends | [Google Maps](https://www.google.com/maps/search/?api=1&query=Eramosa+River+Guelph+Ontario) |
-| Rural road allowances (east of Guelph) | Roadside pulloff | Walk from crossing | Multiple crossings on regional roads east of Guelph toward Rockwood; fish upstream from each crossing | [Google Maps](https://www.google.com/maps/search/?api=1&query=Eramosa+River+Rockwood+Ontario) |
-| Rockwood Conservation Area (GRCA) | Paid lot (GRCA day use) | 2–10 min | Gorge section through Rockwood — dramatic limestone walls, deep green pools; brown trout; can be crowded on weekends | [Google Maps](https://www.google.com/maps/search/?api=1&query=Rockwood+Conservation+Area+Ontario) |
+| Guelph Lake Conservation Area (GRCA) | Paid lot (GRCA day use) | 5–15 min to river | Eramosa flows near Guelph Lake CA — park and walk down to river; good pool/riffle structure | [Google Maps](https://maps.google.com/?q=Guelph+Lake+Conservation+Area+Ontario) |
+| Stone Road / Eastview Road (Guelph) | Street parking | 5 min | Road allowance access in east Guelph; slower water through town — brown trout hold in deep bends | [Google Maps](https://maps.google.com/?q=Eramosa+River+Guelph+Ontario) |
+| Rural road allowances (east of Guelph) | Roadside pulloff | Walk from crossing | Multiple crossings on regional roads east of Guelph toward Rockwood; fish upstream from each crossing | [Google Maps](https://maps.google.com/?q=Eramosa+River+Rockwood+Ontario) |
+| Rockwood Conservation Area (GRCA) | Paid lot (GRCA day use) | 2–10 min | Gorge section through Rockwood — dramatic limestone walls, deep green pools; brown trout; can be crowded on weekends | [Google Maps](https://maps.google.com/?q=Rockwood+Conservation+Area+Ontario) |
 
 ## Wading & Conditions
 

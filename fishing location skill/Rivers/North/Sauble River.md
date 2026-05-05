@@ -30,12 +30,12 @@
 
 | Location | Notes | Maps |
 |---|---|---|
-| **Sauble Beach (mouth area)** (lower — mouth, year-round) | Public beach parking; most accessible steelhead access; popular tourist area — can be busy in spring | [Google Maps](https://www.google.com/maps/search/?api=1&query=Sauble+Beach+Sauble+River+Ontario) |
-| **Sauble Falls Provincial Park — below falls** (lower — gauged 02FA001 "Sauble at Sauble Falls") | Just downriver from falls — excellent wade fishing; fish from both banks; easily accessible within short walk; key steelhead/salmon holding area below falls barrier | [Google Maps](https://www.google.com/maps/search/?api=1&query=Sauble+Falls+Provincial+Park+Ontario) |
-| **Sauble Falls — above falls** (upper — resident trout above barrier) | Above falls = barrier to migrating fish; resident trout fishery; less pressure | [Google Maps](https://www.google.com/maps/search/?api=1&query=Sauble+Falls+upper+Bruce+County+Ontario) |
-| **Allenford — Hwy 21 bridge** (mid) | Hwy 21 bridge crossing in Allenford village; on-street parking; mid-river resident trout water | [Google Maps](https://www.google.com/maps/search/?api=1&query=Allenford+Highway+21+Sauble+River+Ontario) |
-| **Sauble River Rd / Bruce Rd 8 bridge** (mid — between Allenford and Sauble Falls) | Bridge crossing on Bruce Rd 8; pulloff parking; quiet mid-river water | [Google Maps](https://www.google.com/maps/search/?api=1&query=Bruce+Road+8+Sauble+River+Ontario) |
-| **Hepworth — Bruce Rd 10 bridge** (upper — cold headwater brook trout) | Bridge crossing near Hepworth; cold headwater brook trout water; rural road crossing | [Google Maps](https://www.google.com/maps/search/?api=1&query=Hepworth+Bruce+Road+10+Sauble+River+Ontario) |
+| **Sauble Beach river mouth** (lower — year-round) | Public beach parking; most accessible steelhead access; popular tourist area — can be busy in spring | [Google Maps](https://maps.google.com/?q=Sauble+River+Mouth+Sauble+Beach+Ontario) |
+| **Sauble Falls Provincial Park** (lower — gauged 02FA001 "Sauble at Sauble Falls") | Just downriver from falls — excellent wade fishing; fish from both banks; easily accessible within short walk; key steelhead/salmon holding area below falls barrier | [Google Maps](https://maps.google.com/?q=Sauble+Falls+Provincial+Park+Ontario) |
+| **Above Sauble Falls** (upper — resident trout above barrier) | Above falls = barrier to migrating fish; resident trout fishery; less pressure | [Google Maps](https://maps.google.com/?q=Sauble+Falls+upper+Sauble+River+Ontario) |
+| **Allenford — Hwy 21 Bridge** (mid) | Hwy 21 bridge crossing in Allenford village; on-street parking; mid-river resident trout water | [Google Maps](https://maps.google.com/?q=Allenford+Ontario) |
+| **Bruce Rd 8 Bridge** (mid — between Allenford and Sauble Falls) | Bridge crossing on Bruce Rd 8; pulloff parking; quiet mid-river water | [Google Maps](https://maps.google.com/?q=Bruce+Road+8+at+Sauble+River+Ontario) |
+| **Hepworth — Bruce Rd 10 Bridge** (upper — cold headwater brook trout) | Bridge crossing near Hepworth; cold headwater brook trout water; rural road crossing | [Google Maps](https://maps.google.com/?q=Hepworth+Ontario) |
 
 ## Links
 

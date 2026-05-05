@@ -1,5 +1,3 @@
-# Go Fishing Here — North new spots
-
 ## 2026-04-29 — North new spots (Fri May 1, Sat May 2, Sun May 3, 2026)
 
 **Best day: Sun May 3** (13.5°C, 0mm clear). All 5 North gauges falling and clearing — Humber -3.16m/24h, Saugeen -8.68m, Nottawasaga -1.48m. Drop-back rainbow/brown trout phase; Beaver BRAVO Node 10 logged run start Mar 25. FMZ 16/17 inland trout open since Apr 25.

@@ -33,10 +33,10 @@
 
 | Location | Notes | Maps |
 |---|---|---|
-| **Petro Canada Park (Petro Park)** — mouth area, Bronte Harbour | Main parking at the creek mouth. Very popular and crowded, especially on weekends. Fish push past here early in runs. Road: Bronte Rd / Lakeshore Rd, Oakville. | [Google Maps](https://www.google.com/maps/search/?api=1&query=Petro+Canada+Park+Bronte+Oakville+Ontario) |
-| **Rebecca Street bridge** | Northern boundary of the no-shore-fishing zone. Fishing permitted north of this bridge. | [Google Maps](https://www.google.com/maps/search/?api=1&query=Rebecca+Street+Bronte+Creek+Oakville+Ontario) |
-| **QEW underpass / bridge** | Mentioned by forum anglers as an access point. Walk in from road allowance near QEW crossing. Less pressure than Petro Park. | [Google Maps](https://www.google.com/maps/search/?api=1&query=QEW+Bronte+Creek+Oakville+Ontario) |
-| **Below Lowville Park waterfall — key holding area** | Natural barrier; all migratory fish stack below falls. Primary steelhead holding spot. Parking at Lowville Park. | [Google Maps](https://www.google.com/maps/search/?api=1&query=Lowville+Park+Burlington+Ontario) |
+| **Petro Canada Park (Petro Park)** — mouth area, Bronte Harbour | Main parking at the creek mouth. Very popular and crowded, especially on weekends. Fish push past here early in runs. Road: Bronte Rd / Lakeshore Rd, Oakville. | [Google Maps](https://maps.google.com/?q=Petro+Canada+Park+Bronte+Oakville+Ontario) |
+| **Rebecca Street bridge** | Northern boundary of the no-shore-fishing zone. Fishing permitted north of this bridge. | [Google Maps](https://maps.google.com/?q=Rebecca+Street+Bronte+Creek+Oakville+Ontario) |
+| **QEW underpass / bridge** | Mentioned by forum anglers as an access point. Walk in from road allowance near QEW crossing. Less pressure than Petro Park. | [Google Maps](https://maps.google.com/?q=QEW+Bronte+Creek+Oakville+Ontario) |
+| **Below Lowville Park waterfall — key holding area** | Natural barrier; all migratory fish stack below falls. Primary steelhead holding spot. Parking at Lowville Park. | [Google Maps](https://maps.google.com/?q=Lowville+Park+Burlington+Ontario) |
 
 ### Bronte Creek Provincial Park (between Hwy 403 and QEW)
 
@@ -67,8 +67,8 @@ Park address: **1219 Burloak Drive, Oakville** (QEW Exit 109, go north 1 km). Da
 
 - Brook trout found above dam in Flamborough
 - Sources: NRVIS
-- **Map pin:** [View on Google Maps](https://www.google.com/maps/search/?api=1&query=43.3833,-79.7000)
-- **Closest parking:** Lowville Park — already listed above; for Flamborough upper section try Bronte Creek Provincial Park — [Google Maps](https://www.google.com/maps/search/?api=1&query=Bronte+Creek+Provincial+Park+Ontario)
+- **Map pin:** [View on Google Maps](https://maps.google.com/?q=43.3833,-79.7000)
+- **Closest parking:** Lowville Park — already listed above; for Flamborough upper section try Bronte Creek Provincial Park — [Google Maps](https://maps.google.com/?q=Bronte+Creek+Provincial+Park+Ontario)
 
 ## Links
 

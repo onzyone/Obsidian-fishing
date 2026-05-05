@@ -30,11 +30,11 @@
 
 | Location | Parking | Walk | Water / Notes | Maps |
 |---|---|---|---|---|
-| **Niagara Falls area — Fishbrain pin** | — | — | Fishbrain reports place this creek in the Niagara Falls region; confirm watershed/mouth before trip | [Fishbrain pin](https://fishbrain.com/fishing-waters/p94iX6Wr/indian-creek) · [Google Maps](https://www.google.com/maps/search/?api=1&query=Indian+Creek+Niagara+Falls+Ontario) |
-| **NPCA holdings** (verify with CA) | — | — | Contact NPCA for a public-access map of Niagara Peninsula creeks | [Google Maps](https://www.google.com/maps/search/?api=1&query=Niagara+Peninsula+Conservation+Areas+Ontario) |
-| **Niagara River confluence** (if Indian Creek is a Niagara River trib) | — | — | Verify watershed; if Niagara River trib, mouth confluence is target for staging fish | [Google Maps](https://www.google.com/maps/search/?api=1&query=Niagara+River+Niagara+Falls+Ontario) |
-| **Niagara Parkway road-allowance crossings** | Roadside | Walk-in | Look for small-creek bridges along Niagara Parkway / River Rd; road-allowance fishing | [Google Maps](https://www.google.com/maps/search/?api=1&query=Niagara+Parkway+Niagara+Falls+Ontario) |
-| **Twelve Mile Creek alternative** (if Indian is too small/data-poor) | — | — | If Indian Creek doesn't pan out, Twelve Mile Creek (St. Catharines) is a much better-documented Niagara Peninsula trib | [Google Maps](https://www.google.com/maps/search/?api=1&query=Twelve+Mile+Creek+St+Catharines+Ontario) |
+| **Niagara Falls area — Fishbrain pin** | — | — | Fishbrain reports place this creek in the Niagara Falls region; confirm watershed/mouth before trip | [Fishbrain pin](https://fishbrain.com/fishing-waters/p94iX6Wr/indian-creek) · [Google Maps](https://maps.google.com/?q=Indian+Creek+Niagara+Falls+Ontario) |
+| **NPCA holdings** (verify with CA) | — | — | Contact NPCA for a public-access map of Niagara Peninsula creeks | [Google Maps](https://maps.google.com/?q=Niagara+Peninsula+Conservation+Areas+Ontario) |
+| **Niagara River confluence** (if Indian Creek is a Niagara River trib) | — | — | Verify watershed; if Niagara River trib, mouth confluence is target for staging fish | [Google Maps](https://maps.google.com/?q=Niagara+River+Niagara+Falls+Ontario) |
+| **Niagara Parkway road-allowance crossings** | Roadside | Walk-in | Look for small-creek bridges along Niagara Parkway / River Rd; road-allowance fishing | [Google Maps](https://maps.google.com/?q=Niagara+Parkway+Niagara+Falls+Ontario) |
+| **Twelve Mile Creek alternative** (if Indian is too small/data-poor) | — | — | If Indian Creek doesn't pan out, Twelve Mile Creek (St. Catharines) is a much better-documented Niagara Peninsula trib | [Google Maps](https://maps.google.com/?q=Twelve+Mile+Creek+St+Catharines+Ontario) |
 
 ## Links
 

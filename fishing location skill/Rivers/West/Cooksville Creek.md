@@ -31,16 +31,16 @@
 
 | Location | Parking | Walk | Water / Notes | Maps |
 |---|---|---|---|---|
-| R.K. McMillan Park | Free lot off Cawthra Rd | 2 min | Creek mouth; shoreline + short pier access; staging fall Chinook | [Map](https://www.google.com/maps/search/?api=1&query=RK+McMillan+Park+Mississauga) |
-| Lakefront Promenade Park | Ample free parking off Lakeshore Rd E | 2–5 min | Large lakefront park adjacent to creek mouth; transit-accessible; bass, pike, perch year-round; fall chinook/brown/rainbow staging | [Map](https://www.google.com/maps/search/?api=1&query=Lakefront+Promenade+Park+Mississauga) |
+| R.K. McMillan Park | Free lot off Cawthra Rd | 2 min | Creek mouth; shoreline + short pier access; staging fall Chinook | [Map](https://maps.google.com/?q=RK+McMillan+Park+Mississauga) |
+| Lakefront Promenade Park | Ample free parking off Lakeshore Rd E | 2–5 min | Large lakefront park adjacent to creek mouth; transit-accessible; bass, pike, perch year-round; fall chinook/brown/rainbow staging | [Map](https://maps.google.com/?q=Lakefront+Promenade+Park+Mississauga) |
 
 ### Upstream (Creek proper — in-season only)
 
 | Location | Parking | Walk | Water / Notes | Maps |
 |---|---|---|---|---|
-| Camilla Park | Free lot | 2 min | Mid-creek urban park; flows behind residential | [Map](https://www.google.com/maps/search/?api=1&query=Camilla+Park+Mississauga) |
-| Cooksville Creek Trail (various entries) | Street | 2–5 min | Linear trail follows creek north from Lakeshore; scattered pocket water | [Map](https://www.google.com/maps/search/?api=1&query=Cooksville+Creek+Trail+Mississauga) |
-| Kingsbridge Garden Circle pond | Street | 2 min | Stormwater management pond on upper creek — warmwater only | [Map](https://www.google.com/maps/search/?api=1&query=Kingsbridge+Garden+Circle+Mississauga) |
+| Camilla Park | Free lot | 2 min | Mid-creek urban park; flows behind residential | [Map](https://maps.google.com/?q=Camilla+Park+Mississauga) |
+| Cooksville Creek Trail (various entries) | Street | 2–5 min | Linear trail follows creek north from Lakeshore; scattered pocket water | [Map](https://maps.google.com/?q=Cooksville+Creek+Trail+Mississauga) |
+| Kingsbridge Garden Circle pond | Street | 2 min | Stormwater management pond on upper creek — warmwater only | [Map](https://maps.google.com/?q=Kingsbridge+Garden+Circle+Mississauga) |
 
 ## Links
 

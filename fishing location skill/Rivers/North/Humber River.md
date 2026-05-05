@@ -27,13 +27,16 @@
 
 | Location | Maps |
 |---|---|
-| Étienne Brûlé Park — popular lower Humber spot for fresh-run fish | [Google Maps](https://www.google.com/maps/search/?api=1&query=%C3%89tienne+Br%C3%BBl%C3%A9+Park+Toronto+Ontario) |
-| Lambton Park — further upstream, good holding water | [Google Maps](https://www.google.com/maps/search/?api=1&query=Lambton+Park+Toronto+Ontario) |
-| Scarlett Mills Park — good stretches up and downstream | [Google Maps](https://www.google.com/maps/search/?api=1&query=Scarlett+Mills+Park+Toronto+Ontario) |
-| Raymore Park — lower park, solid access | [Google Maps](https://www.google.com/maps/search/?api=1&query=Raymore+Park+Toronto+Ontario) |
-| Summerlea Park — where the **West Humber River** enters the main Humber; good holding water for fish staging at the confluence; also warm-water species (bass, carp) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Summerlea+Park+Toronto+Ontario) |
-| Boyd Conservation Area — East Humber branch access | [Google Maps](https://www.google.com/maps/search/?api=1&query=Boyd+Conservation+Area+Vaughan+Ontario) |
-| Bindertwine Park (King City) — East Humber, upstream of Boyd; less pressure | [Google Maps](https://www.google.com/maps/search/?api=1&query=Bindertwine+Park+King+City+Ontario) |
+| Étienne Brûlé Park — popular lower Humber spot for fresh-run fish | [Google Maps](https://maps.google.com/?q=Etienne+Brule+Park+Toronto) |
+| Lambton Woods Park — further upstream, good holding water | [Google Maps](https://maps.google.com/?q=Lambton+Woods+Park+Toronto) |
+| Scarlett Mills Park — good stretches up and downstream | [Google Maps](https://maps.google.com/?q=Scarlett+Mills+Park+Toronto) |
+| Old Mill Toronto Inn — classic river pool right below the mill | [Google Maps](https://maps.google.com/?q=Old+Mill+Toronto+Inn+Toronto) |
+| Raymore Park — lower park, solid access | [Google Maps](https://maps.google.com/?q=Raymore+Park+Toronto) |
+| Baby Point Park — mid-river overlook + walk-down access | [Google Maps](https://maps.google.com/?q=Baby+Point+Park+Toronto) |
+| Summerlea Park — West Humber confluence; holding water for staging fish; also bass/carp | [Google Maps](https://maps.google.com/?q=Summerlea+Park+Toronto) |
+| Boyd Conservation Park (Vaughan) — East Humber branch access | [Google Maps](https://maps.google.com/?q=Boyd+Conservation+Park+Vaughan+Ontario) |
+| Pine Grove Park (Vaughan) — East Humber, near gauge 02HC009; quieter than Boyd | [Google Maps](https://maps.google.com/?q=Pine+Grove+Park+Vaughan+Ontario) |
+| Bindertwine Park (King City) — East Humber, upstream of Boyd; less pressure | [Google Maps](https://maps.google.com/?q=Bindertwine+Park+King+City+Ontario) |
 
 > **Humber Recreational Trail** runs along a large stretch of the lower river — provides continuous fishing access between most of the lower access points listed above without needing to move the car.
 
@@ -41,9 +44,11 @@
 
 | Location | Maps |
 |---|---|
-| Bolton Resource Management Tract — brown trout, brook trout; walk-in required | [Google Maps](https://www.google.com/maps/search/?api=1&query=Bolton+Resource+Management+Tract+Ontario) |
-| Albion Hills Conservation Area — upper Humber access; trails to river | [Google Maps](https://www.google.com/maps/search/?api=1&query=Albion+Hills+Conservation+Area+Ontario) |
-| Palgrave Forest and Wildlife Area — headwaters; brook trout; walk-in | [Google Maps](https://www.google.com/maps/search/?api=1&query=Palgrave+Forest+Wildlife+Area+Ontario) |
+| Bolton Resource Management Tract — brown trout, brook trout; walk-in required | [Google Maps](https://maps.google.com/?q=Bolton+Resource+Management+Tract+Caledon+Ontario) |
+| Albion Hills Conservation Park — upper Humber access; trails to river | [Google Maps](https://maps.google.com/?q=Albion+Hills+Conservation+Park+Caledon+Ontario) |
+| Palgrave Mill Pond — main Humber, in-village access | [Google Maps](https://maps.google.com/?q=Palgrave+Mill+Pond+Caledon+Ontario) |
+| Palgrave Forest and Wildlife Area — headwaters; brook trout; walk-in | [Google Maps](https://maps.google.com/?q=Palgrave+Forest+and+Wildlife+Area+Ontario) |
+| Glen Haffy Conservation Area — headwater brookies (FMZ 17 inland) | [Google Maps](https://maps.google.com/?q=Glen+Haffy+Conservation+Area+Caledon+Ontario) |
 
 > Upper Humber (Bolton–Palgrave) holds resident brown trout and brook trout — no stocking program currently active; wild fish only. Cold Creek (tributary near Bolton) is confirmed brook trout water. C&R strongly encouraged on this stretch. Season: Apr 25 – Sept 30 (FMZ 16).
 >
@@ -58,7 +63,7 @@
 | Aurora | York | Etobicoke | 43°37' | 79°28' | 2HC-04 |
 
 - Brook trout found in upper portion (note: entry was cut off in source screenshot)
-- **Map pin:** [View on Google Maps](https://www.google.com/maps/search/?api=1&query=43.6167,-79.4667)
+- **Map pin:** [View on Google Maps](https://maps.google.com/?q=43.6167,-79.4667)
 - **Closest parking:** Étienne Brûlé Park — already listed above
 
 ### East Humber River (tributary)
@@ -69,8 +74,8 @@
 
 - Brook trout found in upper portion of river
 - Sources: NRVIS, HABPROG, Barton et al. (1985)
-- **Map pin:** [View on Google Maps](https://www.google.com/maps/search/?api=1&query=43.7833,-79.5833)
-- **Closest parking:** Boyd Conservation Area — already listed above — [Google Maps](https://www.google.com/maps/search/?api=1&query=Boyd+Conservation+Area+Vaughan+Ontario)
+- **Map pin:** [View on Google Maps](https://maps.google.com/?q=43.7833,-79.5833)
+- **Closest parking:** Boyd Conservation Park — already listed above — [Google Maps](https://maps.google.com/?q=Boyd+Conservation+Park+Vaughan+Ontario)
 
 ## Links
 
