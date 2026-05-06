@@ -1,0 +1,639 @@
+Today is 2026-05-06.
+
+Fishing request:
+# Fishing Conditions Request
+
+Fill in before running the team. The Conditions Lead reads this file.
+
+## Dates to Compare
+
+e.g. "Monday March 30 and Thursday April 3" or "this weekend"
+
+**Dates:** Saturday 2026-05-09
+
+## Area
+
+One of: West · East · North · Southwest · All
+
+**Area:** East
+
+## Mode
+
+Optional. If `new` is set, the Lead adds a "New Spots Explore" chart with 3–4
+unfished/under-fished locations per area, clustered within ~30min drive of each other.
+
+**Mode:** new
+
+## Preferences
+
+**Max drive time from 427 & Finch:** 1 hour
+**Target species:** Steelhead / brown trout / whatever is running
+**Keep fish or C&R only:** Either
+**Notes:** Saturday May 9 — East zone with new-spots explore.
+
+You are the New Locations researcher for the East zone. Identify 3–4 UNDER-FISHED
+or UNFISHED candidate spots clustered within a ~30 minute driving radius of an
+anchor town. They must NOT be on the year-round roster.
+
+East year-round roster (EXCLUDE these): Don, Rouge, Duffins, Oshawa, Wilmot, Bowmanville, Ganaraska
+
+Sources to draw from:
+1. Sub-tribs / upper sections / named access points listed in the river-note
+   "Access Points" tables below — pick spots that are NOT the river's primary
+   year-round access (e.g. upper-section tribs, brook-trout zones above dams).
+2. **MNR Brook Trout Data** subsections — list resident brook trout streams by
+   lat/long. Use lat/long-pinned Map links for these.
+3. Sub-gauges that don't match the year-round roster (e.g. Wilmot upper / Leskard
+   02HD021, Ganaraska Osaca 02HD003, Cobourg upper / Precious Corners 02HD022).
+
+REQUIREMENTS:
+- NOT on the year-round roster above.
+- Realistically fishable on the request dates (FMZ 17 inland trout opens 4th Sat
+  April; flag if requested dates are before).
+- Map link: https://maps.google.com/?q=NAME or
+  https://www.google.com/maps/search/?api=1&query=LAT,LONG
+- Drive time from 427 & Finch.
+- One-line reason ("why" — pressure, gauge, sub-trib, MNR atlas, etc.).
+
+Output ONLY this format (no extra commentary, no preamble, no ``` fences):
+
+## New Spots — East (cluster: [Anchor Town], ~30 min radius)
+
+[2-3 sentence intro: drive from 427/Finch, what the cluster pairs with, season notes.]
+
+| Spot | Drive | Species | Why | Map |
+|------|-------|---------|-----|-----|
+| **[Spot 1]** | [time] | [species] | [hook] | [Map](URL) |
+| **[Spot 2]** | [time] | [species] | [hook] | [Map](URL) |
+| **[Spot 3]** | [time] | [species] | [hook] | [Map](URL) |
+| **[Spot 4 — optional]** | [time] | [species] | [hook] | [Map](URL) |
+
+--- River notes for East ---
+
+
+============================================================
+=== East / Bowmanville Creek
+============================================================
+# Bowmanville Creek
+
+**Drive from 427 & Finch:** ~55–65 min
+**Species:** Steelhead (rainbow trout), Chinook salmon, brown trout, some Atlantic salmon
+**Seasons:** Spring (mid-Mar – Apr steelhead); Fall (Sept – Oct salmon, Oct – Nov steelhead)
+
+## Regulations
+
+> ⚠️ Always verify current regs at [ontario.ca](https://www.ontario.ca/document/ontario-fishing-regulations-summary) before fishing.
+
+| Section | C&R? | Season |
+|---|---|---|
+| General | No | Apr 25 – Dec 31 (FMZ 17) |
+
+- No specific C&R zones — standard FMZ 17 rules apply
+- Verify sanctuary rules near fish ladder annually
+
+## Notes
+
+- Bowmanville / Clarington area — east of Toronto off Hwy 401
+- **Fish ladder** at Goodyear Dam allows salmon & large steelhead to pass upstream (~1 km north of Baseline Rd)
+- Before ladder was built, only ~1% of large Chinook salmon made it past the dam
+- Good public access via paved Bowmanville Valley Trail along the creek
+- Spring: rainbow trout (steelhead) arrive mid-March to early April
+- Fall: Chinook salmon peak September/October; steelhead follow after
+
+## Access Points
+
+| Location | Notes | Maps |
+|---|---|---|
+| Baseline Rd West parking lot | **Main access.** North side of Baseline Rd, 140m east of Spry Ave. Connects to trail both directions. | [Google Maps](https://maps.google.com/?q=Bowmanville+Valley+Trail+Baseline+Road+Clarington+Ontario) |
+| King Street / Hwy 2 Bridge (downtown Bowmanville) | Downtown bridge crossing between Baseline lot (south) and Roenigk lot (north); popular spot; on-street parking nearby | [Google Maps](https://maps.google.com/?q=King+Street+at+Bowmanville+Creek+Ontario) |
+| Spry Ave → Goodyear Dam accessible trail | **Prime fishing zone.** Wheelchair-accessible gravel path along creek; fish congregate here. Reach from Baseline Rd lot | [Google Maps](https://maps.google.com/?q=Spry+Avenue+Bowmanville+Ontario) |
+| Nelson Parkette — Nelson Street | Trail entrance from residential area; mid-section access | [Google Maps](https://maps.google.com/?q=Nelson+Parkette+Bowmanville+Ontario) |
+| Roenigk Drive parking lot (north) | Paved parking, paved trail; closest lot to fish ladder — **do not fish at or near the ladder (sanctuary)** | [Google Maps](https://maps.google.com/?q=Roenigk+Drive+Bowmanville+Ontario) |
+| Jackman Rd — Bowmanville Valley CA (upper) | Upper creek brook trout & resident fish | [Google Maps](https://maps.google.com/?q=Bowmanville+Valley+Conservation+Area+Ontario) |
+| Goodyear Dam Fish Ladder | **No fishing** — sanctuary zone around fish ladder. Worth watching during fall run only. ~1 km north of Baseline Rd lot | [Google Maps](https://maps.google.com/?q=Goodyear+Dam+Bowmanville+Ontario) |
+
+## MNR Brook Trout Data
+
+*Source: Atlas of Brook Trout Streams and Rivers in Ontario, Ontario MNR (2003)*
+
+> Note: Bowmanville Creek is listed in the atlas as **Soper Creek** — the same waterbody, different name.
+
+| MNR District | County | Township | Lat | Long | Watershed |
+|---|---|---|---|---|--
+
+
+============================================================
+=== East / Cobourg Creek
+============================================================
+# Cobourg Creek
+
+**Drive from 427 & Finch:** ~75–85 min
+**Species:** Steelhead, Chinook salmon, brown trout
+**Seasons:** Spring & Fall
+
+## Regulations
+
+> ⚠️ Always verify current regs at [ontario.ca](https://www.ontario.ca/document/ontario-fishing-regulations-summary) before fishing.
+
+| Section | C&R? | Season / Sanctuary |
+|---|---|---|
+| **Lamprey barrier → King St Bridge** | — | **CLOSED year-round** (sanctuary) |
+| CNR right-of-way → Lake Ontario | No | Year-round (open all year) |
+| Above CNR right-of-way | No | Standard FMZ 17 |
+
+- No C&R zones — standard limits apply outside sanctuary
+- Known in regulations as "**Cobourg Brook**"
+
+## Notes
+
+- Located near the town of Cobourg, ~100 km east of Toronto
+- Cold, clean water — good quality fishery
+- Upper sections mostly private property; lower river has decent public access
+- Two forks both covered by Cobourg Conservation Area
+
+## Access Points
+
+| Location | Notes | Maps |
+|---|---|---|
+| **Cobourg Harbour / mouth** (lower — fresh-run staging) | Year-round open below CNR; free harbour parking; fresh-run fish stage in harbour and lower creek | [Google Maps](https://maps.google.com/?q=Cobourg+Harbour+Ontario) |
+| **Peace Park (Cobourg)** (lower) | Lower river — targets aggressive fresh-run steelhead and salmon; on-street parking | [Google Maps](https://maps.google.com/?q=Peace+Park+Cobourg+Ontario) |
+| **Sinclair Park (Cobourg)** (mid-lower) | Between Peace Park and Conservation Area — mid-lower access | [Google Maps](https://maps.google.com/?q=Sinclair+Park+Cobourg+Ontario) |
+| **D'Arcy St Bridge** (mid — town section) | D'Arcy St crossing through Cobourg town; on-street parking; below sanctuary boundary | [Google Maps](https://maps.google.com/?q=D%27Arcy+Street+at+Cobourg+Creek+Ontario) |
+| **King St Bridge / lamprey barrier** (sanctuary boundary — DO NOT fish above) | Sanctuary closed year-round above lamprey barrier to King St — verify location before fishing | [Google Maps](https://maps.google.com/?q=King+Street+at+Cobourg+Creek+Ontario) |
+| **Cobourg Conservation Area** (upper, both forks, gauged 02HD019) | Covers both forks; best access for upper sections | [Google Maps](https://maps.google.com/?q=Cobourg+Conservation+Area+Ontario) |
+| **East Branch — Hamilton Twp** (upper-east, brook trout — 44.0167, -78.1333) | Resident brook trout per MNR 2003 atlas; small headwater | [Google Maps](https://maps.google.com/?q=44.0167,-78.1333) |
+
+## MNR Brook Trout Data
+
+*Source: Atlas of Brook Trout Streams and Rivers in Ontario, Ontario MNR (2003)*
+
+| MNR District | County | Township | Lat | Long | Watershed |
+|---|---|---|---|---|---|
+| Peterborough | Northumberland | Hamilton | 43°57' | 78°10' | 2HD-07 |
+
+- Sources: FISHNET, HABPROG, Northumberland Tourism (1999)
+- **Map pin:** [View on Google Maps](https://maps.google.com/?q=43.9500,-78.1667)
+
+### East Branch
+
+| MNR District | County | Township | Lat | Long | Watershed |
+|---|---|---|---|---|---|
+| Peterborough | No
+
+
+============================================================
+=== East / Don River
+============================================================
+# Don River
+
+**Drive from 427 & Finch:** ~20–25 min
+**Species:** Steelhead, salmon, bass, pike, carp
+**Seasons:** Spring run (Mar – Apr); Fall run (Sept – Oct)
+
+## Regulations
+
+> ⚠️ Always verify current regs at [ontario.ca](https://www.ontario.ca/document/ontario-fishing-regulations-summary) before fishing.
+
+| Section | C&R? | Season |
+|---|---|---|
+| Below Eglinton Ave → Lake Ontario | No | Year-round |
+| Above Eglinton Ave | No | Apr 25 – Sept 30 (FMZ 16) |
+
+- No specific C&R zones — standard FMZ 16 rules apply
+
+## Notes
+
+- Flows through eastern Toronto — very accessible urban fishery
+- Not the most pristine water but produces fish
+- Good for beginners due to proximity
+
+## Access Points
+
+> ⚠️ The Lower Don Trail (Pottery Rd → Corktown Common) was under construction through winter 2025/2026; confirm current status before visiting. Alternative: Bayview Multi-Use Trail on west side of river.
+
+| Location | Notes | Maps |
+|---|---|---|
+| Corktown Common (river mouth) | Bayview Ave at Front St E — closest point to Lake Ontario; staging fish enter here first; street parking and park lots nearby | [Google Maps](https://maps.google.com/?q=Corktown+Common+Toronto) |
+| Riverdale Park East / Riverdale Farm | Free parking at Riverdale Farm, Carlton St E; metal staircase (88 steps) descends to Don floodplain — mid-lower river access | [Google Maps](https://maps.google.com/?q=Riverdale+Farm+Toronto) |
+| Todmorden Mills Heritage Site (Pottery Rd) | Free parking at Todmorden Mills, Pottery Rd; fast rocky water — best known salmon concentration zone; upper reach of practical salmon run | [Google Maps](https://maps.google.com/?q=Todmorden+Mills+Heritage+Site+Toronto) |
+| E.T. Seton Park | Don Valley off Don Mills Rd — large parkland with extensive trail access along the lower-mid Don | [Google Maps](https://maps.google.com/?q=E.T.+Seton+Park+Toronto) |
+
+
+============================================================
+=== East / Duffins Creek
+============================================================
+# Duffins Creek
+
+**Drive from 427 & Finch:** ~45–50 min
+**Species:** Steelhead, Chinook salmon, brook trout (above dam), brown trout
+**Seasons:** Spring & Fall runs; brook trout above dam in summer
+
+## Regulations
+
+> ⚠️ Always verify current regs at [ontario.ca](https://www.ontario.ca/document/ontario-fishing-regulations-summary) before fishing.
+
+| Section | C&R? | Season / Sanctuary |
+|---|---|---|
+| Lower section | No | Apr 25 – Aug 31; **CLOSED** Sept 1 – Oct 14; Oct 15 – Dec 31 |
+| Upper (above dam) | No | Standard FMZ 17 |
+
+- No C&R zones
+- **Gap in season**: lower river closed Sept 1 – Oct 14 — do not fish during this window
+
+## Notes
+
+- Ajax / Pickering area — east of Toronto
+- Dam on West Duffins Creek acts as barrier — steelhead and salmon stack below
+- Above dam: good brook trout fishing in summer
+- East fork: Trans-Canada Trail for long walking access
+
+## Access Points
+
+### Lower Creek / River Mouth
+
+| Location | Notes | Maps |
+|---|---|---|
+| Rotary Park (river mouth) | Lake Driveway West, west of Harwood Ave, Ajax; free boat launch; parking **$20/day non-residents on weekends/holidays**; washrooms | [Google Maps](https://maps.google.com/?q=Rotary+Park+Ajax+Ontario) |
+| **Bayly St Bridge (Ajax)** | Lower-creek bridge crossing between Rotary Park and the 401; road-allowance parking nearby | [Google Maps](https://maps.google.com/?q=Bayly+Street+at+Duffins+Creek+Ajax+Ontario) |
+| **Kingston Rd / Hwy 2 Bridge (Pickering)** | Mid/upper crossing in north Pickering; bridge access; pulloff parking on shoulder | [Google Maps](https://maps.google.com/?q=Kingston+Road+at+Duffins+Creek+Pickering+Ontario) |
+| Lynde Shores Conservation Area | Ajax waterfront; connects via trail and long metal bridge over Duffins Creek | [Google Maps](https://maps.google.com/?q=Lynde+Shores+Conservation+Area+Ajax+Ontario) |
+| Duffins Creek Trail (east fork) | Lower east fork — long walking access | [Google Maps](https://maps.google.com/?q=Duffins+Creek+Trail+Ajax+Ontario) |
+
+### Mid Creek (below dam)
+
+| Location | Notes | Maps |
+|---|---|---|
+| Greenwood Conservation Area | Primary mid-creek access; fish stack below dam | [Google Maps](https://maps.google.com/?q=Greenwood+Conservation+Area+Ajax+Ontario) |
+| Devonside Park | East fork lower section; named access point | [Google Maps](https://maps.google.com/?q=Devonside+Park+Ajax+Ontario) |
+
+### West Duffins Creek / Upper (above dam — brook trout)
+
+| Location | Notes | Maps |
+|---|---|---|
+| Whitevale Park | Village of Whitevale, north Pickering; free parking; access to Seaton Trail (12.9 km along West Duffins Creek); best fishing just upstream from Whitevale — brook trout above dam | [Google Maps](https://maps.google.com/?q=Whitevale+Park+Pickering+Ontario) |
+| Brock Ridge Community Park | Off Brock St, Pickering; Seaton Trail access on West Duffins Creek | [Google Maps](https://maps.google.com/?q=Brock+Ridge+Community+Park+Pickering+Ontario) |
+| Seaton Trail — Concession Rd 3 entry | Nea
+
+
+============================================================
+=== East / Ganaraska River
+============================================================
+# Ganaraska River ("The Ganny")
+
+**Drive from 427 & Finch:** ~1h 10–20 min
+**Species:** Steelhead (rainbow trout), Chinook salmon
+**Seasons:** Spring steelhead run (Mar – May) — arguably the **largest spring steelhead run in Ontario**
+
+## Regulations
+
+> ⚠️ Always verify current regs at [ontario.ca](https://www.ontario.ca/document/ontario-fishing-regulations-summary) before fishing.
+
+| Section | C&R? | Season / Sanctuary |
+|---|---|---|
+| **Hwy 401 → Jocelyn St Bridge** | — | **CLOSED year-round** (sanctuary) |
+| **Jocelyn St Bridge → CNR right-of-way** | No | Apr 25 – Aug 31; Oct 15 – Dec 31 · **CLOSED** Sept 1 – Oct 14 |
+| CNR right-of-way → Lake Ontario | No | Year-round |
+| Above Hwy 2 (upper river) | No | Apr 25 – Dec 31 |
+
+- No C&R zones — standard limits apply
+- **No night fishing** Aug 15 – Dec 31 (8 PM – 6 AM) in regulated sections
+- No snagging
+
+## Notes
+
+- Flows through **Ganaraska Forest** and empties into Lake Ontario at **Port Hope**
+- Spring run is legendary — very high fish numbers
+- Lots of public water but also lots of angler pressure during peak weeks
+- Upper Ganaraska (above dam) has a separate steelhead population accessible by fish ladder
+
+## Access Points
+
+> **2026 season note:** Port Hope Conservation Area is **closed** due to Hwy 401 expansion work. Be mindful of property lines when accessing the east side of the river within CA boundaries.
+
+| Location | Status (2026) | Notes | Maps |
+|---|---|---|---|
+| Ganaraska Millennium Conservation Area | ✅ Open | East side of river; watch property lines | [Google Maps](https://maps.google.com/?q=Ganaraska+Millennium+Conservation+Area+Port+Hope+Ontario) |
+| Sylvan Glen Conservation Area | ✅ Open | GRCA managed; most accessible "upper" stretch above Port Hope; mixed forest, classic spring steelhead water with public parking | [Google Maps](https://maps.google.com/?q=Sylvan+Glen+Conservation+Area+Ontario) |
+| Garden Hill village (mid stretch) | ✅ Open | Near village of Garden Hill — quieter, more forested middle stretch between Sylvan Glen and Forest Centre; road-allowance access | [Google Maps](https://maps.google.com/?q=Garden+Hill+Ontario+Port+Hope) |
+| Thurne Parks Conservation Area | ✅ Open | GRCA managed | [Google Maps](https://maps.google.com/?q=Thurne+Parks+Conservation+Area+Ontario) |
+| Port Hope Conservation Area | ❌ Closed 2026 | Closed — Hwy 401 expansion work | — |
+| Ganaraska Forest Centre (upper sections) | ✅ Open | Upper river access | [Google Maps](https://maps.google.com/?q=Ganaraska+Forest+Centre+Ontario) |
+| Corbett's Dam & Fishway | ✅ Open | Fish ladder counts; lower river | [Google Maps](https://maps.google.com/?q=Corbett%27s+Dam+Port+Hope+Ontario) |
+
+**GRCA property rules (all CA sites):**
+- Pack out all garbage, recycling, and fish remains — no bins on site
+- No camping, RVs, trailers, or overnight stays
+- No alcohol or cannabis
+- No open fires, BBQs, fireworks, or any flame sources
+- Conservation Officers
+
+
+============================================================
+=== East / Graham Creek
+============================================================
+# Graham Creek
+
+**Drive from 427 & Finch:** ~80–90 min
+**Species:** Steelhead (rainbow trout), brown trout, some Chinook salmon
+**Seasons:** Spring (Mar–May), Fall (Oct–Nov)
+
+## Regulations
+
+> ⚠️ Always verify current regs at [ontario.ca](https://www.ontario.ca/document/ontario-fishing-regulations-summary) before fishing.
+
+| Section | C&R? | Gear Rules | Season / Sanctuary |
+|---|---|---|---|
+| All sections | No | Standard | Apr 25 – Dec 31 (FMZ 17) |
+
+- Standard limits apply on all open sections
+- Small creek — verify any specific section rules in current Ontario regulations before fishing
+
+## Notes
+
+- Small creek in the eastern Lake Ontario watershed (mouth in Newcastle, Clarington / Durham Region; upper reaches extend into Northumberland border)
+- Watershed area 78 km²; largest tributary Mulligan Creek (also Crooked Creek, Lytle Creek)
+- OSM-logged course: mouth 43.9003, -78.5833 → mid 43.9254, -78.5722 (north of 401) → upper 43.9322, -78.5681
+- Low fishing pressure; lightly documented compared to larger eastern tribs
+- Gets steelhead in spring; some brown trout present
+- Limited public access information available — research road allowances and local conservation area access before the trip
+- Check current Ontario regulations for any special sections or sanctuary designations
+
+## Access Points
+
+> Upper sections predominantly private farmland — landowner permission required. Lower creek (Port of Newcastle subdivision + creek mouth) is the only confirmed public access.
+
+| Location | Notes | Maps |
+|---|---|---|
+| Drop structure / weir — Port of Newcastle subdivision (43.9038, -78.5829) | ~390 m upstream of lake outlet; engineered drop in residential subdivision (Port of Newcastle Drive area) — likely a constructed weir / culvert step (could also be beaver dam). Drop-back steelhead and resident trout hold below the drop. Verify property lines / road allowance before fishing — subdivision is residential | [Google Maps](https://maps.google.com/?q=43.903793,-78.582933) |
+| Creek mouth — Newcastle (Bond Head / Graham Creek Jetties) | Slow water near lake with structure (wood, jetties); steelhead and salmon push in from lake; Clarington has active jetty restoration study; road-allowance access at mouth | [Google Maps](https://maps.google.com/?q=43.9003,-78.5833) |
+| Farrow Ave / tributary confluence — Newcastle (43.9199, -78.5726) | Lower-mid section ~2.2 km north of mouth; OSM-confirmed Graham Creek + unnamed tributary confluence within 150 m. Confluence = food drift, holding water for migrating fish. Farrow Ave is residential — verify road-allowance crossing or hike up from public access; do not enter private yards | [Google Maps](https://maps.google.com/?q=43.919923,-78.572613) |
+| Road allowances at bridge crossings (upper) | Primary upstream access; research specific crossings before visiting; Clarington Fishing Map PDF shows named road crossings; OSM mid node 43.9254, -78.5722 + upper node 43.9322, -78.5681 | 
+
+
+============================================================
+=== East / Oshawa Creek
+============================================================
+# Oshawa Creek
+
+**Drive from 427 & Finch:** ~40–50 min
+**Species:** Steelhead, Chinook salmon, brown trout, brook trout
+**Seasons:** Spring (Mar – May steelhead); Fall (Sept – Nov salmon & steelhead)
+
+## Regulations
+
+> ⚠️ Always verify current regs at [ontario.ca](https://www.ontario.ca/document/ontario-fishing-regulations-summary) before fishing.
+
+| Section | C&R? | Season |
+|---|---|---|
+| General | No | Apr 25 – Dec 31 (FMZ 17) |
+
+- No specific C&R zones — standard FMZ 17 rules apply
+
+## Notes
+
+- Flows through the town of Oshawa — urban lower sections, nicer water as you go upstream
+- Large runs of steelhead and salmon make it one of the better east-GTA creeks
+- Brook and brown trout present in upper sections year-round
+- Good access through town parks and conservation areas
+
+## Access Points
+
+| Location | Notes | Maps |
+|---|---|---|
+| **Lakeview Park** (mouth — primary lower access) | Lower Oshawa Creek near Lake Ontario — fresh-run fish; parking + washrooms | [Google Maps](https://maps.google.com/?q=Lakeview+Park+Oshawa+Ontario) |
+| **Healing Lodge Park** (lower town) | Lower town access — steelhead and salmon in season | [Google Maps](https://maps.google.com/?q=Healing+Lodge+Park+Oshawa+Ontario) |
+| **King St W / Hwy 2 Bridge** (mid — downtown, gauge 02HD008 nearby) | Hwy 2 crossing in downtown Oshawa; on-street parking | [Google Maps](https://maps.google.com/?q=King+Street+West+at+Oshawa+Creek+Ontario) |
+| **Stone Street Bridge** (mid — town) | Bridge crossing through town; multiple downtown crossings | [Google Maps](https://maps.google.com/?q=Stone+Street+at+Oshawa+Creek+Ontario) |
+| **Bond St E Bridge** (mid — town) | Bond St crossing north of King St; downtown bridge access | [Google Maps](https://maps.google.com/?q=Bond+Street+East+at+Oshawa+Creek+Ontario) |
+| **Cedar Valley Conservation Area** (upper — resident trout) | CLOCA-managed; good access, upper creek — resident brown and brook trout; free parking | [Google Maps](https://maps.google.com/?q=Cedar+Valley+Conservation+Area+Oshawa+Ontario) |
+| **Goodman / East Oshawa Creek tributary** (upper — brook trout, 43.9333, -78.9000) | Resident brook trout per MNR 2003 atlas | [Google Maps](https://maps.google.com/?q=43.9333,-78.9000) |
+| **Farewell Creek tributary** (lower-mid — brook trout) | Resident brook trout in cooler tributary | [Google Maps](https://maps.google.com/?q=Farewell+Creek+Oshawa+Ontario) |
+
+## MNR Brook Trout Data
+
+*Source: Atlas of Brook Trout Streams and Rivers in Ontario, Ontario MNR (2003)*
+
+| MNR District | County | Township | Lat | Long | Watershed |
+|---|---|---|---|---|---|
+| Aurora | Ontario | East Whitby | 43°52' | 78°50' | 2HD-03 |
+
+- Sources: FSDD, HABPROG, ROM
+- **Map pin:** [View on Google Maps](https://maps.google.com/?q=43.8667,-78.8333)
+
+### Nearby brook trout streams (same watershed 2HD-03)
+
+| Stream | County | Township | Lat | Long | Sources |
+|---|---|---|---|---|---|
+| Farewell Creek | Durham | East Whitby | 43
+
+
+============================================================
+=== East / Rouge River
+============================================================
+# Rouge River
+
+**Drive from 427 & Finch:** ~35–40 min
+**Species:** Steelhead, salmon, rainbow trout, pike (up to 20 lbs)
+**Seasons:** Mar – Apr (steelhead); Sept – Oct (salmon)
+
+## Regulations
+
+> ⚠️ Always verify current regs at [ontario.ca](https://www.ontario.ca/document/ontario-fishing-regulations-summary) before fishing.
+
+| Section | C&R? | Season |
+|---|---|---|
+| Below Hwy 407 → Lake Ontario | No | Year-round |
+| Above Hwy 407 | No | Apr 25 – Sept 30 (FMZ 16) |
+
+- No specific C&R zones — standard FMZ 16 rules apply
+
+## Notes
+
+- Rouge National Urban Park — protected land, great scenery
+- Mix of urban and semi-wild water
+- Pike fishing in lower sections can be exceptional
+
+## Access Points
+
+| Location | Maps |
+|---|---|
+| **Rouge Beach Park** (mouth — primary lower access) | Year-round lower section; staging fish; free parking at Lawrence Ave E | [Google Maps](https://maps.google.com/?q=Rouge+Beach+Park+Toronto) |
+| **Glen Rouge Campground** (mid — Little Rouge confluence) | Trail-in access; Little Rouge meets main Rouge here; campground parking | [Google Maps](https://maps.google.com/?q=Glen+Rouge+Campground+Toronto) |
+| **Twyn Rivers Drive Bridge** (mid — confluence pool) | Bridge crossing at Little Rouge confluence — classic holding pool below; pulloff parking | [Google Maps](https://maps.google.com/?q=Twyn+Rivers+Drive+Bridge+Toronto) |
+| **Sewells Rd Bridge** (mid-upper, below 407) | Road-allowance access at Sewells Rd crossing; check year-round vs Apr 25 boundary | [Google Maps](https://maps.google.com/?q=Sewells+Road+at+Rouge+River+Toronto) |
+| **Finch Avenue East Bridge — Rouge Valley** (mid) | Finch Ave crossing; Rouge Valley parking; trail connections | [Google Maps](https://maps.google.com/?q=Rouge+Valley+Toronto+Finch+Avenue) |
+| **Bob Hunter Memorial Park** (upper — Rouge NUP) | Rouge National Urban Park trailhead; walk-in to upper river; free parking | [Google Maps](https://maps.google.com/?q=Bob+Hunter+Memorial+Park+Toronto) |
+| **Whitevale Dam** (upper — brook trout above dam) | Resident brook trout above Whitevale dam; smaller water; village parking | [Google Maps](https://maps.google.com/?q=Whitevale+Dam+Pickering+Ontario) |
+
+## MNR Brook Trout Data
+
+*Source: Atlas of Brook Trout Streams and Rivers in Ontario, Ontario MNR (2003)*
+
+| MNR District | County | Township | Lat | Long | Watershed |
+|---|---|---|---|---|---|
+| Aurora | Durham | Pickering | 43°48' | 79°07' | 2HC-09 |
+
+- Brook trout found in upper portion of river — above Whitevale dam
+- **Map pin:** [View on Google Maps](https://maps.google.com/?q=43.8000,-79.1167)
+- **Closest parking:** Brock Ridge Community Park, Pickering — [Google Maps](https://maps.google.com/?q=Brock+Ridge+Community+Park+Pickering+Ontario); also Whitevale Dam for above-dam brook trout — [Google Maps](https://maps.google.com/?q=Whitevale+Dam+Pickering+Ontario)
+
+## Links
+
+- [Atlas of Brook Trout Streams and Rivers in Ontario (MNR 2003)](https://docs.ontario
+
+
+============================================================
+=== East / Shelter Valley Creek
+============================================================
+# Shelter Valley Creek
+
+**Drive from 427 & Finch:** ~80–90 min
+**Species:** Steelhead, Chinook salmon, brown trout
+**Seasons:** Spring & Fall
+
+## Regulations
+
+> ⚠️ Always verify current regs at [ontario.ca](https://www.ontario.ca/document/ontario-fishing-regulations-summary) before fishing.
+
+| Section | C&R? | Season |
+|---|---|---|
+| General | No | Apr 25 – Dec 31 (FMZ 17) |
+
+- No specific C&R zones — standard FMZ 17 rules apply
+
+## Notes
+
+- Small creek (~12 ft wide) near Grafton, Northumberland County
+- Healthy populations of steelhead, salmon, and trout for its size
+- **Access is the main challenge** — most of the creek runs through private property
+- Worth it if you can get access; low pressure fishery
+
+## Access Points
+
+| Location | Notes | Maps |
+|---|---|---|
+| **Shelter Valley Park & Campgrounds** (primary access — paid) | **Private campground** — day-use fishing fee not published; call ahead: **905-349-2037** or sheltervalleypark@gmail.com. Camping $55–$80/night if staying over. Must exit by 11pm | [Google Maps](https://maps.google.com/?q=Shelter+Valley+Park+and+Campground+Grafton+Ontario) |
+| **Shelter Valley Creek mouth (Grafton waterfront)** (lower) | Verify road-allowance access; lake-staging fish | [Google Maps](https://maps.google.com/?q=43.9863,-78.0042) |
+| **Cty Rd 23 / Lyle St crossing** (mid, gauge 02HD010 near Grafton) | Road-allowance bridge access | [Google Maps](https://maps.google.com/?q=Lyle+Street+Grafton+Ontario) |
+| **Grafton village** | Limited road-allowance access — research before trip | [Google Maps](https://maps.google.com/?q=Grafton+Ontario+Northumberland) |
+
+## MNR Brook Trout Data
+
+*Source: Atlas of Brook Trout Streams and Rivers in Ontario, Ontario MNR (2003)*
+
+| MNR District | County | Township | Lat | Long | Watershed |
+|---|---|---|---|---|---|
+| Peterborough | Northumberland | Haldimand | 43°58' | 78°00' | 2HD-02 |
+
+- Sources: HABPROG, FSDD, ROM
+- **Map pin:** [View on Google Maps](https://maps.google.com/?q=43.9667,-78.0000)
+
+## Links
+
+- [Ontario Trout & Steelhead — Rivers Near Toronto](https://ontariotroutandsteelhead.com/trout-fishing-near-toronto/)
+
+
+============================================================
+=== East / Soper Creek
+============================================================
+# Soper Creek
+
+**Drive from 427 & Finch:** ~60–70 min
+**Species:** Steelhead (rainbow trout), Chinook salmon, brown trout
+**Seasons:** Spring (Mar–May), Fall (Oct–Nov)
+
+## Regulations
+
+> ⚠️ Always verify current regs at [ontario.ca](https://www.ontario.ca/document/ontario-fishing-regulations-summary) before fishing.
+
+| Section | C&R? | Gear Rules | Season / Sanctuary |
+|---|---|---|---|
+| Lower section (near mouth) | No | Standard | Year-round (verify annually) |
+| Upper sections | No | Standard | Apr 25 – Dec 31 (FMZ 17) |
+| Near fish ladder (sanctuary) | — | — | Verify sanctuary boundaries annually |
+
+- Standard limits apply on all open sections
+- Verify sanctuary sections near the fish ladder annually before fishing
+
+## Notes
+
+- Flows through Bowmanville/Clarington area into Lake Ontario
+- Gets steelhead and salmon runs in spring and fall
+- Small to medium creek; manageable wading
+- Some public access near the mouth at Bowmanville (Clarington) waterfront
+- Often fished alongside or confused with Bowmanville Creek, one valley to the west
+- Lower fishing pressure than more well-known eastern Lake Ontario tributaries
+- Verify sanctuary sections near the fish ladder each season — boundaries can change
+
+## Access Points
+
+| Location | Notes | Maps |
+|---|---|---|
+| **Bowmanville Waterfront / Soper Creek Conservation Area** (mouth — primary lower access) | Near mouth — fresh-run fish; gauge proxy 02HD006 | [Google Maps](https://maps.google.com/?q=Soper+Creek+Conservation+Area+Bowmanville+Ontario) |
+| **Soper Creek fish ladder** (sanctuary boundary — verify annually) | Sanctuary boundaries near the fish ladder change — verify before fishing | [Google Maps](https://maps.google.com/?q=Soper+Creek+Fish+Ladder+Bowmanville+Ontario) |
+| **Soper Creek Trail Park** (mid — Simpson Ave) | Off Simpson Ave, Bowmanville; paved parking, washrooms; connects to Soper Creek Trail (21+ km) | [Google Maps](https://maps.google.com/?q=Soper+Creek+Trail+Park+Bowmanville+Ontario) |
+| **King St / Hwy 2 Bridge (Bowmanville)** (lower-mid) | Hwy 2 crossing in downtown Bowmanville; on-street parking; below town | [Google Maps](https://maps.google.com/?q=King+Street+at+Soper+Creek+Bowmanville+Ontario) |
+| **Liberty St N Bridge** (mid) | Liberty St crossing north of downtown; road-allowance access; trail connection | [Google Maps](https://maps.google.com/?q=Liberty+Street+North+at+Soper+Creek+Bowmanville+Ontario) |
+| **Concession Rd 3 Bridge** (upper-mid) | Concession 3 crossing north of Bowmanville; rural bridge with shoulder parking | [Google Maps](https://maps.google.com/?q=Concession+Road+3+at+Soper+Creek+Clarington+Ontario) |
+| **Tyrone village area** (upper, Cn Rd 7) | Upper Soper near Tyrone; resident brook trout water | [Google Maps](https://maps.google.com/?q=Tyrone+Ontario+Clarington) |
+
+## Links
+
+- [Ontario Fishing Regulations Summary](https://www.ontario.ca/document/ontario-fishing-regulations-summary)
+- [Central Lake Ontario Conservation Au
+
+
+============================================================
+=== East / Wilmot Creek
+============================================================
+# Wilmot Creek
+
+**Drive from 427 & Finch:** ~55–65 min
+**Species:** Steelhead, salmon
+**Seasons:** Spring & Fall
+
+> ⚠️ **Size note:** Wilmot Creek is a small, short creek. The year-round fishable section (south of CNR to Lake Ontario) is only a few hundred metres long. It receives run activity but is not a destination fishery — treat it as a quick stop if already driving east, not a primary target.
+
+## Regulations
+
+> ⚠️ Always verify current regs at [ontario.ca](https://www.ontario.ca/document/ontario-fishing-regulations-summary) before fishing.
+
+| Section | C&R? | Season |
+|---|---|---|
+| South of CNR tracks → Lake Ontario | No | Year-round |
+| Above CNR tracks | No | Apr 25 onward (FMZ 17) |
+
+- No C&R zones — standard FMZ 17 rules apply
+
+## Notes
+
+- Newcastle / Bowmanville area, east of Toronto
+- Short lower section only (south of CNR → lake) — limited fishable water
+- Gets some steelhead and salmon staging near the mouth in spring and fall
+- No live fish counter available
+- Run size estimates from third-party sites (e.g. "15,000+ steelhead") are unverified and likely exaggerated for this watershed
+- Good public access at Samuel Wilmot Nature Area near the mouth
+
+## Access Points
+
+> Public access runs from Lake Ontario north to approximately Hwy 115. Above Hwy 115 is mostly private — do not access.
+
+| Location | Notes | Maps |
+|---|---|---|
+| **Samuel Wilmot Nature Area** (mouth — primary lower access) | Cobbledick Rd south of Hwy 2, Newcastle; two parking lots; 2.1 km trails, viewing platform, steel footbridge over creek | [Google Maps](https://maps.google.com/?q=Samuel+Wilmot+Nature+Area+Newcastle+Ontario) |
+| **Wilmot Creek mouth at Lake Ontario** (south of CNR — year-round) | Year-round open below CNR tracks; few hundred metres of fishable water; gauge 02HD009 | [Google Maps](https://maps.google.com/?q=43.9015,-78.5860) |
+| **Hwy 2 Bridge** (mid) | Mid-section access between mouth and upper reaches; road-allowance parking | [Google Maps](https://maps.google.com/?q=Highway+2+at+Wilmot+Creek+Newcastle+Ontario) |
+| **Thurn Park Conservation Area** (upper — end of public water) | Upper end of public water; dedicated parking lot; fishing both sides of stream; rugged path along ~400m of creek | [Google Maps](https://maps.google.com/?q=Thurn+Park+Conservation+Area+Newcastle+Ontario) |
+| **Leskard** (upper, gauged 02HD021) | Upstream gauge "Wilmot Creek Near Leskard"; smaller upper water; access via road allowances | [Google Maps](https://maps.google.com/?q=Leskard+Ontario) |
+| **MNR brook trout pin** (Clarke Twp — 43.9000, -78.6000) | Resident brook trout per MNR 2003 atlas; small headwater feeder | [Google Maps](https://maps.google.com/?q=43.9000,-78.6000) |
+
+## MNR Brook Trout Data
+
+*Source: Atlas of Brook Trout Streams and Rivers in Ontario, Ontario MNR (2003)*
+
+| MNR District | County | Township | Lat | Long | Watershed |
+|---|---|---|---|---|---|
+| Aurora | Durham | Clarke | 43°54' | 78°36' | 2HD-05 |
+
+- Source
+

@@ -1,174 +1,95 @@
 # Go Fishing Here — Southwest
 
-**Last updated:** 2026-05-04
+**Last updated:** 2026-05-06
 
-## 2026-05-04 — Southwest (Sat May 9 + Sun May 10, 2026)
+## 2026-05-06 — Southwest (Sat May 9, 2026)
 
-## Fishing Conditions — Sat May 9 + Sun May 10, 2026
+## Fishing Conditions — Sat May 9, 2026
+
+> ⚠️ **Most of Southwest is blown out for Sat May 9.** All Lake Erie tributaries (Lynn, Nanticoke, Big Creek, Big Otter, Catfish, Kettle) are RISING — Lynn and Big Creek are at 97–98% of their 6-day range, Nanticoke at literal 6-day max. Even Twenty Mile is rising. Only the **Grand watershed** (Brantford lower / Below Shand Dam / Speed below Guelph / Eramosa above Guelph) is fishable. If you can drive a different zone, **East or North have far better water this Saturday.**
 
 ### Fish Run Status
 
-Spring steelhead drop-back winding down. Ganaraska Riverwatcher 0 net (last reading) — drop-backs lake-bound. No verified Southwest counter; rank on conditions. Lake Erie tribs (Big Creek, Big Otter, Lynn) get a smaller and earlier run than Lake Ontario systems — by mid-May, mostly resident species + occasional late-staging steelhead. Twenty Mile Creek lower has NO close season (most permissive regs in the zone). FMZ 16 inland open since Apr 25.
+Spring drop-back tail across Grand watershed; Erie / Niagara tribs are bumped from a still-arriving rain front. Biotactic BRAVO Node 1 at Kitchener (Grand) is the only confirmed counter relevant to Southwest. FMZ inland open since Apr 25.
 
-| River | # Stocked | Run Status | Notes |
-|-------|-----------|-----------|-------|
-| Twenty Mile Creek | n/a 2026 | No counter | Niagara Escarpment limestone; lower no close time |
-| Big Creek | n/a 2026 | No counter | Long Point CA; agricultural watershed; Walsingham gauge |
-| Lynn River | n/a 2026 | No counter | Port Dover mouth; small drop-back potential |
-| Big Otter Creek | n/a 2026 | No counter | Bayham Twp lower year-round; turbid post-rain |
-| Niagara River | n/a 2026 | No counter | Year-round lower gorge; technical wading |
+| River | Counter | Status |
+|-------|---------|--------|
+| Grand (Kitchener) | Biotactic BRAVO Node 1 | Confirmed counter (online since 2005) |
+| Grand (Mannheim Weir) | Biotactic BRAVO Node 2 | OFFLINE — pending rebuild |
+| All Erie / Niagara tribs | — | No counter — and rising/blown out today |
 
 ### Weather Forecast
 
-> ℹ️ wttr.in PNG omitted — May 9–10 is 5–6 days out, outside the 3-day PNG window. Date Comparison table below is authoritative.
+> ℹ️ wttr.in covers next 3 days only — May 9 falls outside that window so PNG omitted.
 
 *[Open live forecast](https://wttr.in/Etobicoke)*
 
-7-day window summary (Open-Meteo, fetched 2026-05-04):
-- **Mon May 4:** 22.7 / 8.4°C, 0mm clear (today)
-- **Tue May 5:** 16.4 / 5.7°C, **14mm rain event** — rivers will spike
-- **Wed May 6:** 16.0 / 5.8°C, **4.77mm rain** — continuing bump
-- **Thu May 7:** 11.6 / 5.5°C, 1.10mm drizzle
-- **Fri May 8:** 14.1 / 4.7°C, 0.50mm mostly clear ← rivers dropping
-- **Sat May 9:** 16.3 / 5.8°C, 0.60mm light drizzle
-- **Sun May 10:** 14.3 / 7.1°C, **0mm mostly clear** ★ best window
-
-Tue's 14mm rain event + Wed's 4.77mm = ~19mm in 36 hours. Southwest is heavy on agricultural / clay-basin watersheds (Big Creek, Big Otter, Catfish, Kettle, Nanticoke) — these turn dirty fast and need 2–4 days to clear. **Twenty Mile (limestone Escarpment) clears fastest** — 1–2 days. **Sat = 4 days post-peak** (Twenty Mile clean, clay creeks recovering); **Sun = 5 days** (everything dialed in).
-
 ### Best Arrival Time
 
-> **Sun May 10 — Arrive by 05:24** (30 min before sunrise ~05:54) ★ **BEST DAY**
-> - Dawn patrol: 05:24–07:24 (peak feed)
-> - Evening backup: 19:04–20:34
-> - Moon: 🌗 Last Quarter (~43%) — balanced activity, standard dawn-patrol bite. Mild dawn (7.1°C).
+**Sat May 9 — Arrive by 05:29** (30 min before sunrise 05:59 EDT, Toronto reference)
+- Dawn patrol: 05:29–07:29
+- Evening backup: 18:59–20:29
+- Moon: 🌗 Last Quarter (~47%) — balanced, standard dawn-patrol
 
-> **Sat May 9 — Arrive by 05:25** (30 min before sunrise ~05:55)
-> - Dawn patrol: 05:25–07:25
-> - Evening backup: 19:03–20:33
-> - Moon: 🌗 Last Quarter (~54%) — balanced. Cool dawn (5.8°C). Light drizzle adds slight stain.
+### River Comparison — Southwest (Best Day, Sat May 9)
 
-### River Comparison — Southwest (Best Day: Sun May 10)
+Grand watershed = the only fishable Southwest water on Saturday. Lake Erie clay-basin tribs are all rising and high — they need 2–3 days to drop after a rise like this, and Sun + Mon's 28mm storm will compound the problem. **If the user wants Southwest specifically, go Grand watershed only. Otherwise pick East or North.**
 
-All 11 Southwest gauges falling. Water agent flagged "Skip - poor clarity" but the labels are inconsistent (Recent ≈ Min on most = baseline, not blown out). By Sun (5 days post-peak) all should be fishable; Twenty Mile clears first.
-
-| Rank | River | Drive | Level (datum-rel) | Clarity | Why | Map |
-|------|-------|-------|-------------------|---------|-----|-----|
-| 1 | **Twenty Mile Creek** (lower — Jordan Harbour) | 55–65 min | **1.00m, falling** (-0.20m/24h, range 1.00–7.65, 02HA006 Balls Falls) | Clearing | Niagara Escarpment limestone = clears fastest in zone; **lower NO close season** (most permissive regs); Jordan Harbour mouth holds lake-staging fish | [Jordan Harbour CA](https://maps.google.com/?q=Jordan+Harbour+Conservation+Area+Ontario) · [Balls Falls CA](https://maps.google.com/?q=Balls+Falls+Conservation+Area+Ontario) · [QEW bridge](https://www.google.com/maps/search/?api=1&query=QEW+Twenty+Mile+Creek+Ontario) |
-| 2 | **Lynn River** (Port Dover) | 1h 30 min | **1.83m, falling** (-0.15m/24h, range 1.83–2.74, 02GC008 Simcoe) | Clearing | Lower no close time; Port Dover harbour mouth; smaller pressure than Niagara/Twenty Mile | [Port Dover Harbour](https://maps.google.com/?q=Port+Dover+Harbour+Ontario) · [Lynn River mouth](https://maps.google.com/?q=Lynn+River+Port+Dover+Ontario) |
-| 3 | **Niagara River** (lower gorge) | 1h 35–45 min | n/a (Falls regulation) | Clear | Year-round lower gorge; technical wading; bigger fish; Whirlpool walk-in | [Niagara Glen](https://maps.google.com/?q=Niagara+Glen+Nature+Reserve+Ontario) · [Queenston Heights](https://maps.google.com/?q=Queenston+Heights+Park+Ontario) · [Whirlpool Aero Car](https://maps.google.com/?q=Whirlpool+Aero+Car+Niagara+Falls+Ontario) |
-| 4 | **Big Creek** (lower — Walsingham) | 1h 45 min | **5.87m, falling** (-0.22m/24h, range 5.86–7.94, 02GC007) | Clearing — agricultural | Long Point CA; lower section reliable; clay basin = 2–4 days to clear; better Sun than Sat | [Big Creek NWA](https://maps.google.com/?q=Big+Creek+National+Wildlife+Area+Ontario) · [Hwy 59 bridge](https://www.google.com/maps/search/?api=1&query=Highway+59+Big+Creek+Ontario) · [Backus Heritage CA](https://maps.google.com/?q=Backus+Heritage+Conservation+Area+Ontario) |
-| 5 | Big Otter Creek (Bayham/Port Burwell) | 2h 15 min | **2.30m, falling** (-0.17m/24h, range 2.26–3.37, 02GC010 Tillsonburg) | Clearing — agricultural | Bayham Twp section year-round; turbid post-rain; longer drive | [Port Burwell](https://maps.google.com/?q=Big+Otter+Creek+Port+Burwell+Ontario) · [Tillsonburg dam](https://www.google.com/maps/search/?api=1&query=Big+Otter+Creek+Tillsonburg+Ontario) |
-| — | Catfish Creek (Sparta) | 2h 15 min | 1.24m, falling -0.16m/24h (02GC018) | Clearing | Limited steelhead — Springwater CA pond stocking is the better May target | [Springwater CA](https://maps.google.com/?q=Springwater+Conservation+Area+Ontario) |
-| — | Kettle Creek (St. Thomas) | 2h | 0.90m, falling -0.14m/24h (02GC002) | Clearing | ⚠️ Warm-water dominated; not a steelhead river — skip unless targeting bass/carp | [Port Stanley harbour](https://maps.google.com/?q=Port+Stanley+Harbour+Ontario) |
-| — | Nanticoke Creek | 1h 30–45 min | 1.08m, falling -0.17m/24h (02GC022) | Clearing | Lightly fished Lake Erie trib; secondary option | [Nanticoke harbour](https://maps.google.com/?q=Nanticoke+Ontario) |
+| Rank | River | Drive | Level | Clarity | Why | Map |
+|------|-------|-------|-------|---------|-----|-----|
+| 1 | **Grand River — Brantford lower** | 1h 10–20 min | Falling -1.04m / 24h, 50.20m (at 8% of 6d range) | Clearing | Biggest drop in zone; near baseline; lower section = drop-back staging | [Wilkes Dam](https://maps.google.com/?q=Wilkes+Dam+Brantford+Ontario) · [Paris (Penmans Dam)](https://maps.google.com/?q=Penmans+Dam+Paris+Ontario) · [Brant Park](https://maps.google.com/?q=Brant+Park+Brantford+Ontario) |
+| 2 | **Speed River** (below Guelph) | 1h 5–15 min | Falling -0.66m / 24h, 5.98m (at 7% of 6d range) | Clearing | Limestone Speed-system; falling fast; closer drive than Brantford | [Royal City Park (Guelph)](https://maps.google.com/?q=Royal+City+Park+Guelph+Ontario) · [Riverside Park (Guelph)](https://maps.google.com/?q=Riverside+Park+Guelph+Ontario) |
+| 3 | **Eramosa River** (Rockwood) | 1h 10 min | Stable, 3.32m (at 0% of 6d range) | Likely clear | Stable + at literal 6-d min; FMZ 17 inland open; brook + brown trout; paid CA parking | [Rockwood CA](https://maps.google.com/?q=Rockwood+Conservation+Area+Ontario) |
+| 4 | Grand below Shand Dam | 1h 30–45 min | Falling -1.09m / 24h, 4.94m (at 1% of 6d range) | Clearing | Tailwater section; massive drop = drop-back gold; long drive | [Belwood Lake CA tailrace](https://maps.google.com/?q=Belwood+Lake+Conservation+Area+Ontario) · [Forks of the Grand (West Montrose)](https://maps.google.com/?q=West+Montrose+Covered+Bridge+Ontario) |
+| 5 | ~~Twenty Mile Creek~~ | 55–65 min | RISING +0.09m / 24h, 1.59m (at 36%) | Possibly coloured | Rising — minor compared to other Erie tribs but still trending wrong way | [Jordan Harbour CA](https://maps.google.com/?q=Jordan+Harbour+Conservation+Area+Ontario) |
+| 6 | ~~Big Otter Creek~~ | 2h 15 min | RISING +0.21m / 24h, 2.58m (at 55%) | Possibly coloured | Rising; Erie clay-basin = slow to clear after rise | [Port Burwell (mouth)](https://maps.google.com/?q=Big+Otter+Creek+Port+Burwell+Ontario) |
+| 7 | ~~Catfish Creek~~ | 2h 10 min | RISING +0.12m / 24h, 1.76m (at 78%) | Possibly coloured | Rising; near 6-d max | [Catfish Creek mouth (Port Bruce)](https://maps.google.com/?q=Catfish+Creek+Port+Bruce+Ontario) |
+| 8 | ~~Kettle Creek~~ | 2h 10 min | RISING +0.09m / 24h, 0.98m (at 25%) | Possibly coloured | Rising mid-week before bigger storm hits | [Port Stanley harbour](https://maps.google.com/?q=Port+Stanley+Harbour+Ontario) |
+| 9 | ~~Big Creek~~ | 1h 45 min | RISING +0.53m / 24h, 7.39m (at 97%) | Possibly coloured | At 97% of 6-d range and rising — solidly blown out | [Big Creek NWA](https://maps.google.com/?q=Big+Creek+National+Wildlife+Area+Ontario) |
+| 10 | ~~Lynn River~~ | 1h 30 min | RISING +0.76m / 24h, 3.19m (at 98%) | Possibly coloured | At 98% of 6-d range; +0.76m / 24h rise = peak storm flow — solidly blown out | [Port Dover harbour](https://maps.google.com/?q=Lynn+River+Port+Dover+Ontario) |
+| 11 | ~~Nanticoke Creek~~ | 1h 50 min | RISING +0.34m / 24h, 2.53m (at 100%) | Possibly coloured | At literal 6-d max — solidly blown out | [Nanticoke Creek mouth](https://maps.google.com/?q=Nanticoke+Creek+Ontario) |
 
 ### Date Comparison
 
 | Date | Temp | Rain | Rivers | Clarity | Season | Sunrise | Sunset | Moon | Verdict |
 |------|------|------|--------|---------|--------|---------|--------|------|---------|
-| Sat May 9 | 16.3 / 5.8°C | 0.60mm light drizzle | Falling, ~4 days post-peak | Twenty Mile clear; clay creeks recovering | ✅ year-round + inland open | ~05:55 | ~20:33 | 🌗 Last Q (~54%) | **GO (Good — Twenty Mile only; clay creeks marginal)** |
-| Sun May 10 | 14.3 / 7.1°C | 0mm clear | Continued falling, all dialed in | Clear | ✅ open | ~05:54 | ~20:34 | 🌗 Last Q (~43%) | **GO ★ (Best — all rivers clear)** |
+| Sat May 9 | 13.7 / 6.9°C | 0mm Cloudy | Grand watershed only — 7 of 11 SW gauges blown out / high | Mixed | ✅ FMZ open | 05:59 | 20:29 | 🌗 Last Quarter (47%) | **GO (Grand only)** |
+| Sun May 10 | 13.9 / 4.8°C | **15.60mm Rain** | Compounding blowout | Murky | ✅ | — | — | — | **SKIP** |
+| Mon May 11 | 10.2 / 4.0°C | **12.90mm Rain** | Murkier still | Murky | ✅ | — | — | — | **SKIP** |
 
 ### Weather & River Summary
 
-Southwest takes a hard hit Tue May 5 (14mm rain) + Wed May 6 (4.77mm) — agricultural / clay-basin creeks (Big Creek, Big Otter, Catfish, Kettle, Nanticoke) will spike and stay turbid 2–4 days. **Twenty Mile Creek (limestone Escarpment) is the standout** — clears in 1–2 days regardless. By Sun (5 days post-peak) all rivers are fishable. **Sun May 10 is the standout day**: 0mm precip, mild 7.1°C dawn, all watersheds clean. Sat is a GO if you stick to Twenty Mile or the Niagara River — clay-basin creeks may still be off-colour.
+Southwest is the worst zone for Sat May 9. **7 of 11 gauges are rising and high** — Lake Erie clay-basin tribs got hit harder than the GTA by a localised rain band Wed–Fri (or are receiving runoff from upstream watersheds). Lynn at 98% of range, Big Creek at 97%, Nanticoke at literal 6-d max — these are solidly blown out and won't drop until Tue or Wed at earliest. The only fishable Southwest water on Sat is the Grand watershed (Brantford lower, Below Shand Dam, Speed below Guelph, Eramosa). If the trip is flexible on zone, **East has 8 fishable creeks and North has 11** — better choice for Sat.
 
-**Southwest gauge snapshot (last reading 2026-05-04):**
+| Gauge | Recent | Trend (24h) | Min (6d) | Max (6d) | Condition |
+|---|---|---|---|---|---|
+| Grand below Shand Dam (02GA016) | 4.94m | Falling -1.09m | 4.88m | 11.20m | Fishable / improving |
+| Grand at Brantford (02GB001) | 50.20m | Falling -1.04m | 47.70m | 79.90m | Fishable / improving |
+| Speed below Guelph (02GA015) | 5.98m | Falling -0.66m | 5.67m | 9.93m | Fishable / improving |
+| Eramosa above Guelph (02GA029) | 3.32m | Stable -0.03m | 3.32m | 14.90m | Fishable |
+| Twenty Mile at Balls Falls (02HA006) | 1.59m | RISING +0.09m | 0.84m | 2.92m | High — wait for drop |
+| Big Otter at Tillsonburg (02GC010) | 2.58m | RISING +0.21m | 2.18m | 2.91m | High — wait for drop |
+| Catfish near Sparta (02GC018) | 1.76m | RISING +0.12m | 1.23m | 1.91m | High — wait for drop |
+| Kettle at St. Thomas (02GC002) | 0.98m | RISING +0.09m | 0.81m | 1.52m | High — wait for drop |
+| Big Creek near Walsingham (02GC007) | 7.39m | RISING +0.53m | 5.84m | 7.43m | Blown out — unfishable |
+| Lynn at Simcoe (02GC008) | 3.19m | RISING +0.76m | 1.83m | 3.22m | Blown out — unfishable |
+| Nanticoke (02GC022) | 2.53m | RISING +0.34m | 1.05m | 2.53m | Blown out — unfishable |
 
-| Station | River | Recent | Min (6d) | Max (6d) | Trend | Condition |
-|---------|-------|--------|----------|----------|-------|-----------|
-| 02HA006 | **Twenty Mile** (Balls Falls) | 1.00m | 1.00m | 7.65m | Falling -0.20m | Fishable |
-| 02GC008 | Lynn River (Simcoe) | 1.83m | 1.83m | 2.74m | Falling -0.15m | Fishable |
-| 02GC007 | Big Creek (Walsingham) | 5.87m | 5.86m | 7.94m | Falling -0.22m | Recovering |
-| 02GC010 | Big Otter (Tillsonburg) | 2.30m | 2.26m | 3.37m | Falling -0.17m | Recovering |
-| 02GC018 | Catfish Creek (Sparta) | 1.24m | 1.23m | 1.91m | Falling -0.16m | Fishable |
-| 02GC002 | Kettle Creek (St. Thomas) | 0.90m | 0.90m | 1.99m | Falling -0.14m | Fishable (warm-water) |
-| 02GC022 | Nanticoke Creek | 1.08m | 1.08m | 2.00m | Falling -0.17m | Fishable |
-| 02GA016 | Grand (Below Shand Dam) | 4.92m | 4.88m | 13.60m | Falling | Fishable |
-| 02GB001 | Grand (Brantford) | 52.10m | 51.50m | 117.00m | Falling -3.65m | Recovering |
-| 02GA015 | Speed (Below Guelph) | 7.90m | 7.90m | 14.40m | Falling -0.27m | Fishable |
-| 02GA029 | Eramosa (Above Guelph) | 3.56m | 3.56m | 5.84m | Falling -0.17m | Fishable |
+### Best Day: Sat May 9
 
-### Best Day: Sunday May 10, 2026
-
-**Top pick river:** Twenty Mile Creek (Jordan Harbour, lower)
-- Why: Niagara Escarpment limestone drainage = clearest water in Southwest; **lower NO close season** (most permissive regs); confirmed steelhead system with significantly lower pressure than GTA tribs. By Sun = 5 days post-rain, fully recovered. Wine-country scenery is a bonus.
-- Access (multi-spot — work mouth → upstream as crowds dictate):
-  - **Jordan Harbour CA** (mouth — primary, lake-staging fish) — [Map](https://maps.google.com/?q=Jordan+Harbour+Conservation+Area+Ontario)
-  - **Balls Falls CA** (mid — gauged section, falls barrier above) — [Map](https://maps.google.com/?q=Balls+Falls+Conservation+Area+Ontario)
-  - **QEW bridge** (lower) — [Map](https://www.google.com/maps/search/?api=1&query=QEW+Twenty+Mile+Creek+Ontario)
-- Drive: ~55–65 min from 427 & Finch
-- **Reg note:** FMZ 16 — Twenty Mile lower = year-round (no close season). Sanctuary boundaries posted. Standard limits.
-
-**Backup:** Lynn River (Port Dover Harbour)
-- Why: Lower no close time. Smaller pressure than Niagara/Twenty Mile. Falling at 1.83m baseline.
+**Top pick (if locked into Southwest): Grand River — Brantford lower**
+- Why: Lake Erie clay creeks all blown out / rising; Grand watershed = only fishable SW water. Brantford lower section is at 8% of 6-day range, falling -1.04m. Drop-back tail still in lower with some smallmouth / pike on the warm-up.
 - Access:
-  - **Port Dover Harbour** (mouth — primary) — [Map](https://maps.google.com/?q=Port+Dover+Harbour+Ontario)
-  - **Lynn River mouth** — [Map](https://maps.google.com/?q=Lynn+River+Port+Dover+Ontario)
-- Drive: ~1h 30 min
+  - **Wilkes Dam** — pool below dam; drop-back staging — [Map](https://maps.google.com/?q=Wilkes+Dam+Brantford+Ontario)
+  - **Paris (Penmans Dam)** — head of Grand river-level walk-in — [Map](https://maps.google.com/?q=Penmans+Dam+Paris+Ontario)
+  - **Brant Park** — town water, easy access — [Map](https://maps.google.com/?q=Brant+Park+Brantford+Ontario)
+- Drive: 1h 10–20 min from 427 & Finch
 
-**Big-water alternative:** Niagara River (lower gorge)
-- Why: 1h 35–45 min. Year-round; bigger fish in the gorge. Technical wading required — wear cleats.
-- Access:
-  - **Niagara Glen** (gorge walk-in — primary) — [Map](https://maps.google.com/?q=Niagara+Glen+Nature+Reserve+Ontario)
-  - **Queenston Heights** — [Map](https://maps.google.com/?q=Queenston+Heights+Park+Ontario)
-  - **Whirlpool Aero Car** — [Map](https://maps.google.com/?q=Whirlpool+Aero+Car+Niagara+Falls+Ontario)
-- Drive: ~1h 35–45 min
-
-**Long-drive option (Sun only):** Big Creek (Walsingham)
-- Why: 1h 45 min. Clay-basin creek — only fishable Sun once 5 days post-rain. Lower section reliable.
-- Access:
-  - **Big Creek NWA / Hwy 59 parking** — [Map](https://maps.google.com/?q=Big+Creek+National+Wildlife+Area+Ontario)
-  - **Backus Heritage CA** — [Map](https://maps.google.com/?q=Backus+Heritage+Conservation+Area+Ontario)
-- Drive: ~1h 45 min
+**Better recommendation: drive a different zone**
+- **East:** Wilmot mouth or Bowmanville Goodyear Dam (55–65 min) — 8 fishable creeks
+- **North:** Boyd CA or Beaver Thornbury (25 min – 1h 50) — every gauge at 6-day min and falling
+- **West:** 16 Mile or Bronte (40–45 min) — small creeks at baseline
 
 ### What to Expect
 
-- **Species:** Late drop-back steelhead at lake mouths (Twenty Mile, Lynn); resident rainbow / brown trout in Twenty Mile mid-section; Niagara River = mixed lake-run species + smallmouth; Big Creek / Big Otter = secondary tribs with occasional steelhead.
-- **Twenty Mile tactics:** Float fishing single-egg bags (chartreuse, pink) or roe through Jordan Harbour mouth for staging fish. Small spoons (Cleos #2, Krocodiles silver/blue) and inline spinners (Mepps #2) for upstream pools below Balls Falls.
-- **Lynn / Big Creek tactics:** Float roe at mouth/harbour; cast spoons for staging fish.
-- **Niagara River tactics:** Heavy gear required — 10'6" steelhead rod, 12lb mainline, 15lb leader. Work seams along the gorge. Cleats mandatory on slick limestone.
-- **Gear (steelhead rivers):** 8'6"–10'6" ML steelhead rod, centerpin or spinning reel, 6lb mono mainline (or 8lb braid), 6lb fluoro leader.
-- **Cautions:**
-  - **Tue/Wed rain event (~19mm)** is the headline risk for clay-basin creeks — Big Creek, Big Otter need 2–4 days to clear; Twenty Mile clears 1–2.
-  - **Sat avoid clay creeks** — stick to Twenty Mile / Niagara if going Saturday.
-  - **Sat light drizzle (0.6mm)** — fishable but bring rain shell.
-  - **Last Quarter moon** = balanced bite; standard dawn-patrol applies.
-  - **Sanctuaries** — Twenty Mile Balls Falls / lower-section closures — verify on the ground.
-- **Regulations:** Always verify on [ontario.ca](https://www.ontario.ca/document/ontario-fishing-regulations-summary). FMZ 16 — Twenty Mile lower has no close time; most other lower sections open year-round under named-section exceptions.
-
-### Clear Water Fallbacks
-
-Tue/Wed rain bumped clay-basin creeks; Sat fishing should default to Niagara Escarpment / limestone-fed water:
-
-> [!tip] If Twenty Mile / Lynn River / Big Creek are murky
-> | Stream | Drive | Clears in | Species | Access |
-> |--------|-------|-----------|---------|--------|
-> | Eramosa River (Rockwood) | ~1h 10 min | 1–2 days | Brown trout, brook trout | Rockwood CA — limestone drainage clears ahead of clay-basin creeks — [Map](https://maps.google.com/?q=Rockwood+Conservation+Area+Ontario) |
-> | West Credit River (Cataract) | ~1h | 1–2 days | Wild brown trout, brook trout | Forks of the Credit PP — C&R only — [Map](https://maps.google.com/?q=Forks+of+the+Credit+Provincial+Park+Ontario) |
-
-### New Spots Explore
-
-#### New Spots — Southwest (cluster: Niagara Peninsula / St Catharines, ~30 min radius)
-
-(New-locations Ollama agent timed out twice on Southwest — section rebuilt from `Rivers/Southwest/*.md` notes + Full Gauge Index sub-stations.)
-
-Niagara Peninsula cluster — ~1h 20–45 min from 427 & Finch. Four sub-tribs of the Lake Ontario / Niagara River drainage that aren't on the year-round roster. All sit within ~30 min of each other so you can rotate quickly. FMZ 16/17 inland trout open since Apr 25; lower sections within named Lake Ontario trib exceptions may be open year-round.
-
-| Spot | Drive | Species | Why | Map |
-|------|-------|---------|-----|-----|
-| **Twelve Mile Creek — Power Glen** (St Catharines) | ~1h 20 min | Steelhead, brown trout | Wild steelhead system w/ self-sustaining brown trout; Niagara Escarpment tributary; gauge 02HA031 (Near Power Glen) | [Map](https://maps.google.com/?q=Power+Glen+St+Catharines+Ontario) |
-| **Welland River — below Caistor Corners** | ~1h 30 min | Smallmouth bass, walleye, occasional steelhead | Lower-pressure than Niagara River proper; gauge 02HA007 (Below Caistor Corners); pairs with Twelve Mile cluster | [Map](https://maps.google.com/?q=Welland+River+Caistor+Corners+Ontario) |
-| **Four Mile Creek — Virgil** (NOTL) | ~1h 35 min | Steelhead, brown trout (Niagara Lake O trib) | Small Niagara Lake Ontario trib; gauge 02HA030 (Near Virgil); rarely targeted vs Niagara River; quick stop on Niagara loop | [Map](https://maps.google.com/?q=Four+Mile+Creek+Virgil+Ontario) |
-| **Indian Creek — Niagara Falls area** | ~1h 35–45 min | Chinook (fall), occasional steelhead | Very limited public docs = near-zero pressure; bridge crossings on NPCA holdings; verify regs on the ground before fishing | [Map](https://maps.google.com/?q=Indian+Creek+Niagara+Falls+Ontario) |
-
-## Notes
-
-- **FMZ 16 inland trout regs:** open since 4th Sat April; standard creel limits. MNR brook-trout headwaters are low-density populations — **consider barbless C&R**.
-- **Property lines:** road-allowance access only on most upper-section pins. Stay in the road allowance, don't cross fences. Many upper sections are private.
-- **Tackle swap:** small-stream brook/brown trout = 6'6"–7'6" UL/L spinning, 4lb mono, small spinners (Mepps #0/1, Panther Martin) or worm under split shot. Steelhead rod is overkill upstream.
-- **Sequencing for Sun May 10:**
-  1. **05:24 dawn** — Twenty Mile (Jordan Harbour mouth)
-  2. **Mid-morning bounce** — work upstream to Balls Falls or hit Twelve Mile Creek (Power Glen) on the new-spots list
-  3. **Evening session** — Niagara Glen for the gorge fish, or back to Lynn River mouth at Port Dover
-- **Pre-trip check:** Friday evening, refresh Twenty Mile (02HA006) and Big Creek (02GC007) gauges — verify both are falling and clearing post-Tue rain.
+If you have to fish Southwest Saturday: limestone Grand watershed only — small spinners / drift-rigged eggs / nymphs / 4–6wt fly rod for resident rainbow + brown. Eramosa is the cleanest at literal 6-d min; Speed near Guelph is closer drive. Skip every Erie / Niagara trib unless you're targeting carp/bass on the bumpy water (which doesn't match user pref). 🌗 Last Quarter (~47%) — standard dawn patrol. **Sat is the only fishable day before a 28mm Sun+Mon storm — and even then, Grand-only.** If your trip can go to a different zone, this is the run to do that.

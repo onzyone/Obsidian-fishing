@@ -7,10 +7,14 @@ Check live weather and river conditions, then recommend the best day and river f
 `$ARGUMENTS` can be:
 - Empty — ask user which dates and area to compare
 - Dates and/or area — e.g. `this Saturday West` or `Monday Thursday East`
-- `new` — anywhere in args. Triggers "New Spots Explore" mode: the Lead adds a
-  bonus chart showing 3–4 unfished/under-fished locations per area, clustered
-  within ~30min drive of each other. Combine with dates/area, e.g.
-  `Saturday East new` or `new May 1 2 3 All`.
+- `new` — anywhere in args. Triggers "New Spots Explore" mode: Lead spawns a
+  Claude sub-agent (Agent tool, general-purpose) to generate 3–4 unfished /
+  under-fished locations per area, clustered within ~30min drive of each other.
+  Combine with dates/area, e.g. `Saturday East new` or `new May 1 2 3 All`.
+- `wait` — anywhere in args. Disables autopilot. Lead pauses after launching
+  agents and waits for the user to type "done" before synthesising. Default
+  behaviour is **autopilot on**: Lead polls the tmp dir until all 3 outputs
+  settle, then auto-advances to step 5 with no user prompt.
 
 ## Steps
 
@@ -30,36 +34,21 @@ Check live weather and river conditions, then recommend the best day and river f
    Ask both questions together in one message if dates/area weren't provided. Do
    not ask about `new` — it is opt-in only when the user types it.
 
-2. **Check Ollama is running and pre-warm the fishing model** before launching any agents.
-   Per the 2026-05-03 fishing bench, all 4 agents run on **phi4-mini** (Ollama) — 77 tok/s
-   with 0.97 format-compliance score, in a 2.5GB footprint. Same backend as stocks.
-   ```bash
-   if ! curl -sf http://localhost:11434/api/tags >/dev/null 2>&1; then
-       echo "Ollama not running — starting it..."
-       ollama serve >>/tmp/ollama.log 2>&1 &
-       sleep 4
-       if ! curl -sf http://localhost:11434/api/tags >/dev/null 2>&1; then
-           echo "ERROR: Ollama failed to start. Check /tmp/ollama.log"
-           exit 1
-       fi
-       echo "Ollama started."
-   fi
-   # Pre-warm phi4-mini so the first agent call doesn't pay 30-60s cold-load.
-   # keep_alive=15m holds it in RAM through the whole zone loop.
-   curl -s http://localhost:11434/api/generate \
-     -d '{"model":"phi4-mini:latest","prompt":"ok","stream":false,"keep_alive":"15m"}' \
-     > /dev/null &
-   ```
-   If Ollama fails to start, tell the user and stop.
+2. (Step removed — agents are now deterministic bash, no LLM dependency.
+   `preflight-ollama.sh` is still allowlisted in case future steps need it.)
 
 3. **Per-zone loop for Area=All.** If the request's Area is `All`, do not run a single
-   combined cycle — instead loop the entire run-and-synthesize flow once per zone
+   combined cycle — instead loop the run-and-synthesise flow once per zone
    (East → West → North → Southwest). For each iteration:
    a. Set `fishing-request.md` `**Area:**` field to the current zone (Title-Case single word).
-   b. Run the 4 agents in parallel splits as described below; wait for all 4 `AGENT DONE` lines.
-   c. Have the Lead synthesise that zone's output files (`Go Fishing Here/<Zone>/<Zone>.md`
-      and, when Mode=new, `Go Fishing Here/<Zone>/new.md`).
-   d. Move to the next zone.
+   b. Run the 3 agents in parallel splits as described below.
+   c. Run the **autopilot wait** poll from step 4 (or, if `wait` token is set,
+      pause for the user to type "done").
+   d. If `Mode: new` is set, Lead spawns a Claude sub-agent (Agent tool,
+      general-purpose) to generate the new-spots cluster — see step 5b.
+   e. Have the Lead synthesise that zone's output files (`Go Fishing Here/<Zone>/<Zone>.md`
+      and, when Mode=new, `Go Fishing Here/<Zone>/<Zone>_New.md`).
+   f. Move to the next zone.
 
    After all 4 zones complete, also write `Go Fishing Here/Overall.md` — a summary
    comparing the 4 zones (best day per zone, top river per zone, conditions snapshot)
@@ -70,54 +59,75 @@ Check live weather and river conditions, then recommend the best day and river f
    and just run the cycle once for that zone.
 
 3a. Run a single agent cycle (used both for single-zone runs and inside the per-zone
-   loop) — launch all 4 agents in parallel splits via cmux:
+   loop) — clear stale outputs, then launch the 3 deterministic agents in parallel
+   splits via cmux:
    ```bash
-   SKILL_DIR="$HOME/projects/onzyone/claude/fishing"
-   WEATHER=$(cmux new-split right | cut -d' ' -f2)
-   WATER=$(cmux new-split down --surface "$WEATHER" | cut -d' ' -f2)
-   FISH=$(cmux new-split down --surface "$WATER" | cut -d' ' -f2)
-   NEW=$(cmux new-split down --surface "$FISH" | cut -d' ' -f2)
-   cmux rename-tab --surface "$WEATHER" "Weather Agent"
-   cmux rename-tab --surface "$WATER" "Water Agent"
-   cmux rename-tab --surface "$FISH" "Fish Agent"
-   cmux rename-tab --surface "$NEW" "New Locations Agent"
-   cmux send --surface "$WEATHER" "bash '$SKILL_DIR/run-weather-agent.sh'"
-   cmux send-key --surface "$WEATHER" Enter
-   cmux send --surface "$WATER" "bash '$SKILL_DIR/run-water-agent.sh'"
-   cmux send-key --surface "$WATER" Enter
-   cmux send --surface "$FISH" "bash '$SKILL_DIR/run-fish-agent.sh'"
-   cmux send-key --surface "$FISH" Enter
-   cmux send --surface "$NEW" "bash '$SKILL_DIR/run-new-locations-agent.sh'"
-   cmux send-key --surface "$NEW" Enter
-   echo "WEATHER=$WEATHER WATER=$WATER FISH=$FISH NEW=$NEW"
+   bash /Users/onzyone/projects/onzyone/claude/fishing/launch-fishing-agents.sh
    ```
-   The New Locations agent only does real work when **Mode: new** is set in
-   `fishing-request.md` — otherwise it writes a stub output file and exits fast.
+   The launcher wipes the tmp dir, opens 3 cmux splits (Weather / Water / Fish),
+   starts each agent, and writes the surface IDs to `/tmp/fishing-surfaces.env`
+   for the cleanup step. Each agent finishes in seconds — no Ollama, no model
+   pre-warm, no per-station latency stacking.
 
-4. Tell the user: "All 4 agents are running. Wait for **WEATHER AGENT DONE**, **WATER AGENT DONE**,
-   **FISH AGENT DONE**, and **NEW LOCATIONS AGENT DONE** to appear, then say **done** and I'll give your recommendation."
+4. **Autopilot wait** (default — skipped only if `wait` token in args).
+   Tell the user: "3 agents launched. Autopilot polling tmp dir; should settle
+   in ~10–30s."
 
-5. When the user says "done", read:
+   Then poll until every output file exists, is non-empty, and has not been
+   modified for ≥3 seconds. Cap at 90s.
+   ```bash
+   bash /Users/onzyone/projects/onzyone/claude/fishing/autopilot-poll.sh
+   ```
+
+   If `wait` token is present in args, skip the poll entirely and instead say:
+   "3 agents are running. Wait for **WEATHER AGENT DONE**, **WATER AGENT DONE**,
+   **FISH AGENT DONE** to appear, then say **done** and I'll give your
+   recommendation."
+
+5. Once autopilot poll returns (or user says "done" in `wait` mode), read:
    - `/Users/onzyone/Library/Mobile Documents/iCloud~md~obsidian/Documents/fishing/fishing location skill/fishing-conditions-tmp/weather-output.md`
    - `/Users/onzyone/Library/Mobile Documents/iCloud~md~obsidian/Documents/fishing/fishing location skill/fishing-conditions-tmp/water-output.md`
    - `/Users/onzyone/Library/Mobile Documents/iCloud~md~obsidian/Documents/fishing/fishing location skill/fishing-conditions-tmp/fish-output.md`
-   - `/Users/onzyone/Library/Mobile Documents/iCloud~md~obsidian/Documents/fishing/fishing location skill/fishing-conditions-tmp/new-locations-output.md`
 
    Then follow the instructions in:
    `$HOME/projects/onzyone/claude/fishing/conditions-lead.md`
 
    The Lead will archive the previous run to `go fishing here history/` and write
-   the new recommendation to `Go Fishing Here.md` automatically.
+   the new recommendation to `Go Fishing Here/<Zone>/<Zone>.md` automatically.
 
-6. After delivering the recommendation, close the splits:
+5b. **New Spots sub-agent (only when `Mode: new` is set).**
+   Spawn a Claude sub-agent (Agent tool) to generate the per-zone new-spots
+   cluster. This replaces the old phi4-mini new-locations script — Claude has
+   the vault + memory + MNR atlas access and never times out.
+
+   Use `subagent_type: "general-purpose"` with a self-contained prompt:
+   - The Area + Dates from `fishing-request.md`.
+   - Pointer to `Rivers/<Direction>/*.md` access-points + MNR brook trout
+     subsections to draw from.
+   - Pointer to `fishing location skill/Gauge Index.md` for sub-gauges that
+     don't match the year-round roster.
+   - Constraints: not on the year-round roster; clustered within ~30min;
+     realistically fishable for the requested dates; FMZ-season aware.
+   - Output: 3–4 rows in the table format from `conditions-lead.md` (Spot |
+     Drive | Species | Why | Map). Plus the standard Notes block (FMZ regs,
+     property lines, tackle swap).
+
+   Run this sub-agent in parallel with the main synthesis if possible (foreground
+   if you need its output before writing the file). Paste its tables into the
+   "New Spots Explore" section of `<Zone>.md` and into `<Zone>_New.md`.
+
+6. After delivering the recommendation, close the splits and wipe the tmp dir:
    ```bash
-   cmux close-surface --surface $WEATHER
-   cmux close-surface --surface $WATER
-   cmux close-surface --surface $FISH
-   cmux close-surface --surface $NEW
+   bash /Users/onzyone/projects/onzyone/claude/fishing/cleanup-fishing-run.sh
    ```
+   The cleanup script reads `/tmp/fishing-surfaces.env` (written by the launcher),
+   closes the 3 splits, and removes the tmp output files.
 
 ## Fallback (no cmux)
 
-If `CMUX_WORKSPACE_ID` is not set, skip the cmux steps and instead run both agents
-in parallel using the Agent tool, then synthesize using the Conditions Lead instructions.
+If `CMUX_WORKSPACE_ID` is not set, skip the cmux steps and instead run all 3
+agent scripts in parallel via background `&` then `wait`, e.g.:
+```bash
+bash run-weather-agent.sh & bash run-water-agent.sh & bash run-fish-agent.sh & wait
+```
+Then synthesise using the Conditions Lead instructions.

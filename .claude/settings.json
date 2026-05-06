@@ -1,4 +1,29 @@
 {
+  "permissions": {
+    "defaultMode": "acceptEdits",
+    "allow": [
+      "Read(//Users/onzyone/Library/Mobile Documents/iCloud~md~obsidian/Documents/fishing/**)",
+      "Edit(//Users/onzyone/Library/Mobile Documents/iCloud~md~obsidian/Documents/fishing/**)",
+      "Write(//Users/onzyone/Library/Mobile Documents/iCloud~md~obsidian/Documents/fishing/**)",
+      "Read(//Users/onzyone/projects/onzyone/claude/fishing/**)",
+      "Edit(//Users/onzyone/projects/onzyone/claude/fishing/**)",
+      "Write(//Users/onzyone/projects/onzyone/claude/fishing/**)",
+      "Bash(cmux *)",
+      "Bash(curl -s http://localhost:11434/*)",
+      "Bash(curl -sf http://localhost:11434/*)",
+      "Bash(ollama list*)",
+      "Bash(ollama ps*)",
+      "Bash(bash /Users/onzyone/projects/onzyone/claude/fishing/run-weather-agent.sh)",
+      "Bash(bash /Users/onzyone/projects/onzyone/claude/fishing/run-water-agent.sh)",
+      "Bash(bash /Users/onzyone/projects/onzyone/claude/fishing/run-fish-agent.sh)",
+      "Bash(bash /Users/onzyone/projects/onzyone/claude/fishing/launch-fishing-agents.sh)",
+      "Bash(bash /Users/onzyone/projects/onzyone/claude/fishing/autopilot-poll.sh)",
+      "Bash(bash /Users/onzyone/projects/onzyone/claude/fishing/cleanup-fishing-run.sh)",
+      "WebFetch(domain:wttr.in)",
+      "WebFetch(domain:api.weather.gc.ca)",
+      "WebFetch(domain:api.open-meteo.com)"
+    ]
+  },
   "hooks": {
     "SessionStart": [
       {
