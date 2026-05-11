@@ -51,3 +51,18 @@
 
 - [Ontario Fishing Regulations Summary](https://www.ontario.ca/document/ontario-fishing-regulations-summary)
 - [Grey Sauble Conservation Authority](https://greysauble.on.ca)
+
+## Community Pins
+
+> Sourced 2026-05-07 from web research (Blue Mountains, Drift Outfitters, AllTrails, Escarpment Magazine, Visit Grey, A Perfect Drift). Three named fishways + 3 numbered Visit Grey access points + upper limits (Hogg's, Eugenia).
+
+| Pin Name | Lat, Lon | Source | Confidence | Notes |
+|---|---|---|---|---|
+| Thornbury Fishway / Mill Pond (downtown dam) | ~44.5641, -80.4520 | https://www.thebluemountains.ca/recreation-culture/harbour-fishing/thornbury-fishway-fishing ; https://driftoutfitters.com/blogs/river-resources/beaver-river | Multi-source | Extended fall season Apr–Dec 31 below dam; between Mill St and Bruce St; primary lower-river steelhead spot |
+| Clendenan Dam (Clarksburg fishway) | ~44.5408, -80.4583 | https://www.alltrails.com/trail/canada/ontario/clendenan-dam-and-beaver-river-trail ; https://www.escarpmentmagazine.ca/environment/changing-currents/ | Multi-source | Built-in fish ladder; quieter Clendenan ladder features cedar benches and picnic tables |
+| Slabtown Dam fishway (Clarksburg hamlet) | ~44.5304, -80.4640 (approx) | https://www.escarpmentmagazine.ca/environment/changing-currents/ | Single-source / Approximate | Third fishway upstream of Clendenan; near Clarksburg |
+| Beaver River Access #3 — Heathcote Park | ~44.4900, -80.4583 (236720 Grey Rd 13) | https://www.visitgrey.ca/business/beaver-river-access-3 ; https://www.thebluemountains.ca/recreation-culture/recreation-facilities/heathcote-park | Multi-source | Paid parking, paddler put-in, fishing along river |
+| Beaver River Access #2 — Epping Side Rd put-in | ~44.4250, -80.5167 (686561 Side Rd 19, Kimberley) | https://www.visitgrey.ca/business/beaver-river-access-2 | Named place | Mid-river canoe launch; angler access |
+| Beaver River Access #1 — Grey Rd 13 north of Kimberley | ~44.4083, -80.5300 (approx) | https://www.visitgrey.ca/trip-ideas/paddling-beaver-river | Approximate | Upper river; described in trip guide |
+| Hogg's Falls (upper limit for steelhead) | ~44.3911, -80.5269 | https://aperfectdrift.com/fishing-the-beaver-river/ ; https://www.seaandskirealty.ca/local-attractions/beaver-river/ | Multi-source | Reported upper limit for migratory fish; brook trout above |
+| Eugenia Falls / dam tailwater (upper Beaver) | ~44.3225, -80.5375 | https://www.seaandskirealty.ca/local-attractions/beaver-river/ | Single-source | First hydro generating station; brook trout water above |

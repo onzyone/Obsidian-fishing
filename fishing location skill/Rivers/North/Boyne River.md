@@ -46,3 +46,13 @@
 
 - [Ontario Fishing Regulations Summary](https://www.ontario.ca/document/ontario-fishing-regulations-summary)
 - [Nottawasaga Valley Conservation Authority (NVCA)](https://nvca.on.ca)
+
+## Community Pins
+
+> Sourced 2026-05-07 from web research (Ontario Parks, A Perfect Drift, ultimatefishingsite). **Special fish sanctuary restrictions apply — verify Zone 16 regs before fishing.**
+
+| Pin Name | Lat, Lon | Source | Confidence | Notes |
+|---|---|---|---|---|
+| Earl Rowe PP — dam / Learn-to-Fish area | ~44.1408, -79.9094 | https://www.ontarioparks.ca/park/earlrowe/activities | Multi-source | Fishing below dam; fish ladder viewing; map at Gatehouse/Resource Centre |
+| Boyne River PP (upper) | ~44.1992, -80.1700 (approx) | https://aperfectdrift.com/fishing-the-boyne-river/ | Approximate | Good access up river in Boyne PP; brook trout water |
+| In-town Alliston access (near Notty confluence) | ~44.1539, -79.8650 | https://aperfectdrift.com/fishing-the-boyne-river/ ; https://ultimatefishingsite.net/fishing-georgian-bay-ontario/rivers-streams/boyne-river/ | Multi-source | People fish right in town for steelhead, brown trout and salmon — good access |

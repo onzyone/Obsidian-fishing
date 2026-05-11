@@ -1,96 +1,127 @@
 # Go Fishing Here — North
 
-**Last updated:** 2026-05-06
+**Last updated:** 2026-05-08
 
-## 2026-05-06 — North (Sat May 9, 2026)
+## 2026-05-08 — North (Tomorrow Sat May 9, 2026)
 
 ## Fishing Conditions — Sat May 9, 2026
 
 ### Fish Run Status
 
-Spring drop-back window — every North river surveyed today is at literal 6-day minimum and falling. Beaver Thornbury BRAVO Node 10 + Saugeen/Denny's BRAVO Node 11 are confirmed counters but Node 11 is ARCHIVE-only (historical, no live this season). FMZ 16 inland open since Apr 25 → resident browns + brookies active on tribs. North = Boyd CA / Palgrave / Bolton on the upper Humber (NOT Old Mill — that's lower Humber, south of 427/Finch).
+**Beaver Thornbury BRAVO Node 10 ONLINE** (water temp 11.43°C); **Rainbow Trout run since March 25**. May 1 row 0/0 — peak push is past, drop-back hens still trickling. Resident browns + brookies on FMZ 16 tribs since Apr 25 inland opener. Saugeen / Denny's Node 11 = ARCHIVE only. All other North rivers ranked on level/clarity.
 
 | River | Counter | Status |
 |-------|---------|--------|
-| Beaver (Thornbury) | Biotactic BRAVO Node 10 | Confirmed counter |
+| Beaver (Thornbury) | Biotactic BRAVO Node 10 | ONLINE — Rainbow run since Mar 25; 11.43°C water temp |
 | Saugeen (Denny's Dam) | Biotactic BRAVO Node 11 | ARCHIVE only — historical |
-| Humber / Nottawasaga / Boyne / Mad / Bighead / Sydenham / Sauble / Maitland | — | No counter — rank on level/clarity |
+| All other North rivers | — | No counter — rank on level/clarity |
 
 ### Weather Forecast
 
-> ℹ️ wttr.in covers next 3 days only — May 9 falls outside that window so PNG omitted. Date Comparison table below is authoritative.
+![Etobicoke 3-day](https://wttr.in/Etobicoke.png)
 
-*[Open live forecast](https://wttr.in/Etobicoke)*
+*[Open live forecast](https://wttr.in/Etobicoke)* · Toronto-centric — Beaver Valley / Bruce often gets less precip than this readout in southern systems.
 
 ### Best Arrival Time
 
-**Sat May 9 — Arrive by 05:29** (30 min before sunrise 05:59 EDT, Toronto reference; add ~5 min westward for Saugeen/Maitland)
-- Dawn patrol: 05:29–07:29 (peak feed)
-- Evening backup: 18:59–20:29 (second feed window)
-- Moon: 🌗 Last Quarter (~47%) — balanced phase, standard dawn-patrol bite expected
+**Sat May 9 — Arrive by 05:29** (30 min before sunrise 05:59 EDT, Toronto reference; add ~5 min westward for Saugeen / Maitland)
+- Dawn patrol: 05:29–07:29 (peak feed — push hard, before Sat rain peaks)
+- Evening backup: 18:59–20:29 (likely compromised by midday rain)
+- Moon: 🌗 Last Quarter (49%) — balanced phase, standard dawn-patrol bite
 
 ### River Comparison — North (Best Day, Sat May 9)
 
-Every North gauge except Sydenham is **at 6-day minimum and falling** — this is post-storm drop-back gold. Sydenham is stable at near-baseline. Storm timing: light drizzle Wed–Fri (~3.1mm total), Sat dry, then 28mm hits Sun+Mon — Sat is the only fishable day in the window. Pick by drive-time: Humber upper (closest), Beaver Thornbury (limestone fast clear + fishway), Boyne (small Nottawasaga trib).
+**North zone is in excellent shape — best of the weekend.** 11/11 North gauges are falling/stable and clearing, with **every gauge except Bighead at literal 0% of 6-d range** (i.e. 6-day minimum). Humber has fully recovered from yesterday's blowout (4.95m falling -0.58m, fishable). Saturday brings 7.90mm rain (Toronto), but escarpment limestone basins (Beaver / Bighead / Sydenham) clear 1–2 days ahead of clay creeks, and Bruce/Beaver Valley typically gets less precip than Toronto. **Beaver Thornbury BRAVO Node 10 ONLINE with active rainbow run since Mar 25** — strongest run signal in any zone. User pref applied: small/escarpment creeks (Beaver, Mad, Boyne, Bighead) above Notty mainstem.
 
 | Rank | River | Drive | Level | Clarity | Why | Map |
 |------|-------|-------|-------|---------|-----|-----|
-| 1 | **Humber River — East Humber / Boyd CA** | 25–45 min | Falling -0.19m / 24h, 5.57m (at 9% of 6d range) | Clearing | Closest North pick; FMZ 16 open since Apr 25; trail walk-in = low pressure; near-baseline | [Boyd CA (East Humber)](https://maps.google.com/?q=Boyd+Conservation+Park+Vaughan+Ontario) · [Palgrave Mill Pond (main upper)](https://www.google.com/maps/search/?api=1&query=Palgrave+Mill+Pond+Ontario) · [Bolton (Humber main, mid-upper)](https://maps.google.com/?q=Bolton+Ontario+Humber+River) |
-| 2 | **Beaver River** (Thornbury) | 1h 40–50 min | Falling -0.32m / 24h, 11.20m (at 0% of 6d range) | Clearing | Niagara Escarpment limestone = fastest 1–2d clear; at literal 6-d min; fish ladder = drop-back staging; only confirmed counter (BRAVO Node 10) | [Mill Pond](https://maps.google.com/?q=Thornbury+Mill+Pond+Ontario) · [Fishway / Bay St E](https://www.google.com/maps/search/?api=1&query=Thornbury+Fishway+Bay+Street+East+Ontario) · [Beaver Valley CS lot](https://www.google.com/maps/search/?api=1&query=44.54772,-80.45883) |
-| 3 | **Boyne River** (Earl Rowe PP) | 1h 10–20 min | Falling -0.14m / 24h, 2.37m (at 0% of 6d range) | Clearing | Small Nottawasaga trib at 6-d min; FMZ 16 open; resident rainbow + brown; less pressure than Notty mainstem | [Earl Rowe PP](https://maps.google.com/?q=Earl+Rowe+Provincial+Park+Ontario) · [Boyne at Alliston (downtown bridges)](https://www.google.com/maps/search/?api=1&query=Boyne+River+Alliston+Ontario) · [Boyne at Cty Rd 1](https://www.google.com/maps/search/?api=1&query=Boyne+River+County+Road+1+Ontario) |
-| 4 | **Mad River** (Avening) | 1h 20–30 min | Falling -0.41m / 24h, 5.07m (at 0% of 6d range) | Clearing | Tight Nottawasaga trib; resident brookies / browns; private property heavy — stay in road allowance | [Mad River at Avening](https://www.google.com/maps/search/?api=1&query=Mad+River+Avening+Ontario) · [Mad River at Glen Huron](https://www.google.com/maps/search/?api=1&query=Mad+River+Glen+Huron+Ontario) |
-| 5 | **Innisfil Creek** (Alliston) | 1h 5–15 min | Falling -0.38m / 24h, 3.47m (at 0% of 6d range) | Clearing | Small Nottawasaga trib; near-Toronto North pick; suckers + resident trout | [Innisfil Creek at Alliston](https://www.google.com/maps/search/?api=1&query=Innisfil+Creek+Alliston+Ontario) |
-| 6 | Nottawasaga River (Edenvale) | 1h 10–20 min | Falling -5.78m / 24h, 51.00m (at 0% of 6d range) | Clearing | Big basin; massive 5.78m drop = solid drop-back staging at the mouth; at literal 6-d min | [Wasaga Beach PP River Mouth](https://maps.google.com/?q=Wasaga+Beach+Provincial+Park+River+Mouth+Ontario) · [Essa Centennial Park (Utopia, mid)](https://www.google.com/maps/search/?api=1&query=Essa+Centennial+Park+Utopia+Ontario) |
-| 7 | Bighead River (Meaford) | 1h 50–2h | Falling -0.20m / 24h, 6.46m (at 0% of 6d range) | Clearing | Falling at 6-d min; less pressure than Beaver; long drive | [Bighead at Meaford harbour](https://maps.google.com/?q=Bighead+River+Meaford+Ontario) |
-| 8 | Sydenham River (Owen Sound) | 2h 5–15 min | Stable +0.02m, 4.08m (at 2%) | Likely clear | Stable + clear; Inglis Falls park access; long drive | [Sydenham at Owen Sound harbour](https://maps.google.com/?q=Sydenham+River+Owen+Sound+Ontario) · [Inglis Falls CA](https://maps.google.com/?q=Inglis+Falls+Conservation+Area+Ontario) |
-| 9 | Sauble River (Sauble Falls) | 2h 30 min | Falling -0.76m / 24h, 25.70m (at 0% of 6d range) | Clearing | Falling at 6-d min; long drive penalty | [Sauble Falls PP](https://maps.google.com/?q=Sauble+Falls+Provincial+Park+Ontario) |
-| 10 | Saugeen River (Port Elgin) | 2h 15–30 min | Falling -2.26m / 24h, 65.70m (at 0% of 6d range) | Clearing | Massive drop = drop-back gold; Denny's Dam staging (counter ARCHIVE); long drive | [Long Dock Park](https://maps.google.com/?q=Long+Dock+Park+Southampton+Ontario) · [Denny's Dam CA](https://maps.google.com/?q=Denny%27s+Dam+Conservation+Area+Ontario) |
-| 11 | Maitland River (Benmiller) | 2h 30–45 min | Falling -0.78m / 24h, 24.10m (at 1% of 6d range) | Clearing | Falling near 6-d min; very long drive — only worth if combining with other Bruce-area trips | [Maitland at Benmiller](https://maps.google.com/?q=Benmiller+Inn+Ontario) · [Maitland mouth (Goderich)](https://maps.google.com/?q=Goderich+Harbour+Ontario) |
+| 1 | **Beaver River** (Thornbury) | 1h 40–50 min | 10.30m, FALLING -0.46m / 24h (0% of 6d range) | Clearing | **Node 10 ONLINE w/ rainbow run** since Mar 25; biggest 24h drop of any escarpment river; fish ladder = drop-back choke; limestone clears fast | [Mill Pond](https://maps.google.com/?q=Thornbury+Mill+Pond+Ontario) · [Fishway / Bay St E](https://www.google.com/maps/search/?api=1&query=Thornbury+Fishway+Bay+Street+East+Ontario) · [Beaver Valley CS lot](https://www.google.com/maps/search/?api=1&query=44.54772,-80.45883) |
+| 2 | **Mad River** (Avening) | 1h 20–30 min | 4.52m, FALLING -0.31m / 24h (0% of 6d range) | Clearing | Tight Notty trib at 6-d min; resident brookies/browns; small water | [Avening](https://www.google.com/maps/search/?api=1&query=Avening+General+Store+Ontario) · [Creemore Mill St](https://maps.google.com/?q=Creemore+Mill+Street+Bridge+Ontario) · [Glencairn](https://maps.google.com/?q=Glencairn+Ontario) |
+| 3 | **Boyne River** (Earl Rowe PP) | 1h 10–20 min | 2.27m, Stable -0.05m / 24h (0% of 6d range) | Likely clear | Small Notty trib at 6-d min; FMZ 16 open; resident rainbow + brown | [Earl Rowe PP](https://maps.google.com/?q=Earl+Rowe+Provincial+Park+Ontario) · [Alliston bridges](https://www.google.com/maps/search/?api=1&query=Boyne+River+Alliston+Ontario) |
+| 4 | **Innisfil Creek** (Alliston) | 1h 5–15 min | 3.37m, Stable -0.01m (0% of 6d range) | Likely clear | Closest North small creek; near-Toronto pick | [Innisfil at Alliston](https://www.google.com/maps/search/?api=1&query=Innisfil+Creek+Alliston+Ontario) |
+| 5 | **Bighead River** (Meaford) | 1h 50–2h | 5.70m, FALLING -0.37m (2% of 6d range) | Clearing | "Legion Hole" below Edwin St bridge = community flagship pin; less pressure than Beaver | [Beautiful Joe Park](https://maps.google.com/?q=Beautiful+Joe+Park+Meaford+Ontario) · [Trowbridge Bridge](https://maps.google.com/?q=Trowbridge+Street+Meaford+Ontario) |
+| 6 | Sydenham (Owen Sound) | 2h 5–15 min | 3.59m, Falling -0.26m (0%) | Clearing | Mill Dam fish ladder area; long drive | [Mill Dam](https://maps.google.com/?q=Owen+Sound+Mill+Dam+Ontario) · [Inglis Falls CA](https://maps.google.com/?q=Inglis+Falls+Conservation+Area+Ontario) |
+| 7 | Humber Weston (now recovered) | 10–20 min | 4.95m, FALLING -0.58m (0%) | Clearing | **Recovered from yesterday's blowout** — biggest absolute drop in zone; closest drive | [Old Mill](https://maps.google.com/?q=Old+Mill+Toronto+Inn+Toronto) · [Etienne Brulé](https://maps.google.com/?q=Etienne+Brule+Park+Toronto) |
+| 8 | Notty (Edenvale) | 1h 10–20 min | 42.30m, Falling -4.76m (0%) | Clearing | Big basin; mouth drop-back staging | [Wasaga Beach PP](https://maps.google.com/?q=Wasaga+Beach+Provincial+Park+River+Mouth+Ontario) |
+| 9 | Sauble (Sauble Falls) | 2h 30 min | 23.20m, Falling -1.47m (0%) | Clearing | Long drive penalty | [Sauble Falls PP](https://maps.google.com/?q=Sauble+Falls+Provincial+Park+Ontario) |
+| 10 | Saugeen (Port Elgin) | 2h 15–30 min | 59.60m, Falling -3.59m (0%) | Clearing | Big drop = drop-back gold; long drive | [Long Dock Park](https://maps.google.com/?q=Long+Dock+Park+Southampton+Ontario) |
+| 11 | Maitland (Benmiller) | 2h 30–45 min | 21.10m, Falling -1.62m (0%) | Clearing | Very long drive | [Benmiller](https://maps.google.com/?q=Benmiller+Inn+Ontario) |
 
 ### Date Comparison
 
 | Date | Temp | Rain | Rivers | Clarity | Season | Sunrise | Sunset | Moon | Verdict |
 |------|------|------|--------|---------|--------|---------|--------|------|---------|
-| Sat May 9 | 13.7 / 6.9°C | 0mm Cloudy | Falling — every gauge at 6-d min | Clear/clearing across the board | ✅ FMZ 16 open since Apr 25 | 05:59 | 20:29 | 🌗 Last Quarter (47%) | **GO** |
-| Sun May 10 | 13.9 / 4.8°C | **15.60mm Rain** | Blow out incoming | Will turn murky | ✅ | — | — | — | **SKIP** |
-| Mon May 11 | 10.2 / 4.0°C | **12.90mm Rain** | Compounding blowout | Murky | ✅ | — | — | — | **SKIP** |
+| Sat May 9 (tomorrow) | 14.7 / 5.9°C | **7.90mm Rain** (Toronto; Bruce often less) | All falling/stable; every escarpment gauge at 6-d min; Beaver Node 10 ONLINE w/ rainbow run | Clearing across the board | ✅ FMZ 16 open since Apr 25 + FMZ 17 lower year-round | 05:59 | 20:29 | 🌗 Last Quarter (49%) | **GO — best zone for tomorrow despite the rain** |
 
 ### Weather & River Summary
 
-North zone is in peak spring drop-back configuration today. **Every gauge except Sydenham reads "0% of 6-day range" — meaning each is at its literal 6-day minimum** and most are falling fast (Saugeen -2.26m, Notty -5.78m, Sauble -0.76m). This is the cleanest single-day water across all 4 zones for Sat May 9. Sat is dry + cloudy; Sun + Mon then bring 28mm of rain that will reverse all this — get out Saturday or wait until the dry+mild Thu–Sun window May 14–17.
+North is set up. Every gauge except Bighead at literal 6-day minimum, and Bighead is at 2% (just barely off baseline). Saugeen -3.59m, Notty -4.76m, Maitland -1.62m, Sauble -1.47m, Bighead -0.37m, Mad -0.31m, **Beaver -0.46m** (biggest 24h drop of any escarpment river), Humber recovered from yesterday's rising-blown-out reading to falling -0.58m today. Saturday's 7.90mm Toronto forecast is meaningful but Bruce/Beaver Valley typically gets less precip in southern systems, and limestone basins clear in 1–2d. **Today (Fri May 8) is the cleanest absolute day this week** (0mm cloudy, 15.4°C) — if you can shift one day earlier, do it. Otherwise hit dawn patrol Saturday before the rain peaks, or shift to Sun May 10 / Mon May 11 / Tue May 12 (all 0mm dry).
 
 | Gauge | Recent | Trend (24h) | Min (6d) | Max (6d) | Condition |
 |---|---|---|---|---|---|
-| Humber at Weston (02HC003) | 5.57m | Falling -0.19m | 5.13m | 9.97m | Fishable / improving |
-| Innisfil at Alliston (02ED029) | 3.47m | Falling -0.38m | 3.46m | 7.62m | Fishable / improving |
-| Boyne at Earl Rowe (02ED102) | 2.37m | Falling -0.14m | 2.37m | 3.69m | Fishable / improving |
-| Notty at Edenvale (02ED027) | 51.00m | Falling -5.78m | 51.00m | 89.60m | Fishable / improving |
-| Mad at Avening (02ED015) | 5.07m | Falling -0.41m | 5.07m | 7.65m | Fishable / improving |
-| Beaver at Clarksburg (02FB009) | 11.20m | Falling -0.32m | 11.20m | 17.30m | Fishable / improving |
-| Bighead at Meaford (02FB010) | 6.46m | Falling -0.20m | 6.46m | 9.33m | Fishable / improving |
-| Sydenham at Owen Sound (02FB007) | 4.08m | Stable +0.02m | 4.04m | 5.71m | Fishable |
-| Sauble at Sauble Falls (02FA001) | 25.70m | Falling -0.76m | 25.70m | 37.70m | Fishable / improving |
-| Saugeen at Port Elgin (02FC001) | 65.70m | Falling -2.26m | 65.70m | 97.60m | Fishable / improving |
-| Maitland at Benmiller (02FE015) | 24.10m | Falling -0.78m | 24.00m | 34.80m | Fishable / improving |
+| Humber at Weston (02HC003) | 4.95m | FALLING -0.58m | 4.95m | 7.37m | Fishable / improving |
+| Innisfil at Alliston (02ED029) | 3.37m | Stable -0.01m | 3.37m | 5.01m | Fishable |
+| Boyne at Earl Rowe (02ED102) | 2.27m | Stable -0.05m | 2.27m | 2.97m | Fishable |
+| Notty at Edenvale (02ED027) | 42.30m | Falling -4.76m | 42.30m | 78.20m | Fishable / improving |
+| Mad at Avening (02ED015) | 4.52m | Falling -0.31m | 4.52m | 6.42m | Fishable / improving |
+| Beaver at Clarksburg (02FB009) | 10.30m | Falling -0.46m | 10.30m | 13.30m | Fishable / improving |
+| Bighead at Meaford (02FB010) | 5.70m | Falling -0.37m | 5.65m | 7.70m | Fishable / improving |
+| Sydenham at Owen Sound (02FB007) | 3.59m | Falling -0.26m | 3.59m | 4.90m | Fishable / improving |
+| Sauble at Sauble Falls (02FA001) | 23.20m | Falling -1.47m | 23.20m | 32.50m | Fishable / improving |
+| Saugeen at Port Elgin (02FC001) | 59.60m | Falling -3.59m | 59.60m | 82.30m | Fishable / improving |
+| Maitland at Benmiller (02FE015) | 21.10m | Falling -1.62m | 21.10m | 28.60m | Fishable / improving |
 
-### Best Day: Sat May 9
+### Best Day: Sat May 9 (Tomorrow)
 
-**Top pick river: Humber River — East Humber / Boyd CA**
-- Why: closest North pick (25–45 min); FMZ 16 inland open since Apr 25; falling -0.19m to near-baseline; trail walk-in = low pressure. Pairs with Palgrave Mill Pond on the main Humber for a 2-spot trip.
-- Access:
-  - **Boyd CA (East Humber)** — paid CA parking; trail walk-in to FMZ 16 inland water — [Map](https://maps.google.com/?q=Boyd+Conservation+Park+Vaughan+Ontario)
-  - **Palgrave Mill Pond** (main upper) — free roadside parking; flat-water staging — [Map](https://www.google.com/maps/search/?api=1&query=Palgrave+Mill+Pond+Ontario)
-  - **Bolton** (Humber main, mid-upper) — town bridges; resident browns — [Map](https://maps.google.com/?q=Bolton+Ontario+Humber+River)
-- Drive: 25–45 min from 427 & Finch
+**Top pick: Beaver River — Thornbury Mill Pond / Fishway**
+- Why: BRAVO Node 10 ONLINE with confirmed rainbow run since Mar 25 — strongest run signal of any zone; biggest 24h drop of any escarpment river (-0.46m); Niagara Escarpment limestone clears 1–2d ahead of clay (so 7.9mm Sat rain has minimal impact); fish ladder at Thornbury concentrates drop-back hens. Bruce typically gets less rain than Toronto in southern systems.
+- All access points (canonical roster + community pins from `Rivers/North/Beaver River.md` — pick what suits the bite, ordered mouth → upper):
+  - **Thornbury Harbour / Marina** (mouth — primary lower) — best spring & fall steelhead access; public parking — [Map](https://maps.google.com/?q=Thornbury+Harbour+Ontario)
+  - **Thornbury Mill Pond / Fishway** (lower — key staging) — fish stack below ladder; classic choke point; BRAVO counter site here — [Map](https://maps.google.com/?q=Mill+Pond+Park+Thornbury+Ontario)
+  - **Bay Street East — above fishway** (lower-mid) — for fish that have passed the ladder — [Map](https://maps.google.com/?q=Bay+Street+East+Thornbury+Ontario)
+  - **Clarksburg — Marsh St Bridge** (lower-mid, gauged 02FB009) — in-village bridge just upstream of Thornbury; on-street parking — [Map](https://maps.google.com/?q=Marsh+Street+Bridge+Clarksburg+Ontario)
+  - **Clendenan Dam** (Clarksburg fishway) ⭐ community pin — built-in fish ladder; quieter than Thornbury; cedar benches and picnic tables — [Map](https://www.google.com/maps/search/?api=1&query=44.5408,-80.4583)
+  - **Slabtown Dam fishway** (Clarksburg hamlet) ⭐ community pin — third fishway upstream of Clendenan — [Map](https://www.google.com/maps/search/?api=1&query=44.5304,-80.4640)
+  - **Heathcote General Store / Grey Rd 13 Bridge** (mid) — classic boulder/gravel run; pulloff parking — [Map](https://maps.google.com/?q=Heathcote+General+Store+Ontario)
+  - **Beaver River Access #3 — Heathcote Park** ⭐ community pin (236720 Grey Rd 13) — paid parking, paddler put-in, fishing along river — [Map](https://www.google.com/maps/search/?api=1&query=Beaver+River+Access+3+Heathcote+Ontario)
+  - **Kimberley General Store** (mid-upper, Grey Rd 13) — in-village bridge; quieter water; resident browns + spring steelhead — [Map](https://maps.google.com/?q=Kimberley+General+Store+Ontario)
+  - **Beaver River Access #2 — Epping Side Rd put-in** ⭐ community pin (686561 Side Rd 19, Kimberley) — mid-river canoe launch / angler access — [Map](https://www.google.com/maps/search/?api=1&query=Beaver+River+Access+2+Kimberley+Ontario)
+  - **Beaver River Access #1 — Grey Rd 13 N of Kimberley** ⭐ community pin — upper river — [Map](https://www.google.com/maps/search/?api=1&query=44.4083,-80.5300)
+  - **Hogg's Falls** ⭐ community pin (upper steelhead limit) — barrier; brook trout above — [Map](https://www.google.com/maps/search/?api=1&query=44.3911,-80.5269)
+  - **Vandeleur** (upper, gauged 02FB013) — smaller upper water; resident trout above Eugenia Falls; road-allowance bridges — [Map](https://maps.google.com/?q=Vandeleur+Ontario)
+  - **Eugenia Falls CA** (upper — barrier) — falls/dam barrier; resident trout; free CA parking — [Map](https://maps.google.com/?q=Eugenia+Falls+Conservation+Area+Ontario)
+  - **Beaver Valley CS lot** (upstream coord pin) — [Map](https://www.google.com/maps/search/?api=1&query=44.54772,-80.45883)
+- Drive: 1h 40–50 min from 427 & Finch
+- ⭐ = Community Pin (sourced from web research, verified against canonical roster)
 
-**Backup: Beaver River — Thornbury Mill Pond / Fishway**
-- Why: Niagara Escarpment limestone = fastest 1–2d clear (already at 6-d min); fish ladder at Thornbury = drop-back choke; only confirmed live counter in zone (BRAVO Node 10). Worth the 1h 40–50 drive when Sat is the only fishable day before a 28mm storm.
-- Access:
-  - **Mill Pond** — public lot — [Map](https://maps.google.com/?q=Thornbury+Mill+Pond+Ontario)
-  - **Fishway / Bay St E** — fishway viewing platform; counter site — [Map](https://www.google.com/maps/search/?api=1&query=Thornbury+Fishway+Bay+Street+East+Ontario)
-  - **Beaver Valley CS lot** — coord-linked lot for upstream access — [Map](https://www.google.com/maps/search/?api=1&query=44.54772,-80.45883)
-- Drive: 1h 40–50 min
+**Backup: Mad River (Avening)**
+- Why: small Notty trib at 6-d min; closer drive (1h 20–30); resident browns + brookies; tight escarpment-influenced water clears fast. Pair with Boyne (10 min away at Earl Rowe) for a cluster trip if Mad doesn't pan out.
+- All access points (canonical + community from `Rivers/North/Mad River.md`, mouth → upper):
+  - **Glencairn village bridge** (lower — Notty confluence) — steelhead migrate up from Notty in spring; road-allowance parking — [Map](https://maps.google.com/?q=Glencairn+Ontario)
+  - **Glencairn CA** ⭐ community pin — fishing + paddling; trail follows river east to Concession Rd 3 — [Map](https://maps.google.com/?q=Glencairn+Conservation+Area+Ontario)
+  - **Stephens Mad River Nature Reserve** ⭐ community pin — 111-acre EBC reserve; brook trout habitat; trail from Glencairn CA parking — [Map](https://www.google.com/maps/search/?api=1&query=Stephens+Mad+River+Nature+Reserve+Ontario)
+  - **Old Sunnidale Rd Bridge** (mid — between Avening + Glencairn) — quieter water, less pressure — [Map](https://maps.google.com/?q=Old+Sunnidale+Road+Mad+River+Bridge+Ontario)
+  - **Avening — Cty Rd 9 Bridge / General Store** (mid, gauged 02ED015) — best May–June access; resident trout + spring steelhead — [Map](https://www.google.com/maps/search/?api=1&query=Avening+General+Store+Ontario)
+  - **Carruthers Memorial CA / Park** ⭐ community pin (Airport Rd south of Avening) — donated land; fishing + hiking + picnicking; recent habitat boulder placements — [Map](https://maps.google.com/?q=Carruthers+Memorial+Conservation+Area+Avening+Ontario)
+  - **Creemore — Mill Street Bridge** (mid — primary access) — wide, easy fly water; rocky with pools and pockets — [Map](https://maps.google.com/?q=Creemore+Mill+Street+Bridge+Ontario)
+  - **Creemore park near Airport Rd** ⭐ community pin — [Map](https://www.google.com/maps/search/?api=1&query=44.3267,-80.0950)
+  - **Singhampton — Cty Rd 124 Bridge** (mid-upper) — rural road-allowance access — [Map](https://maps.google.com/?q=Singhampton+Ontario)
+  - **Devil's Glen PP** ⭐ community pin (Mad River gorge, Singhampton) — foot access only; quality coldwater fishery per management plan — [Map](https://maps.google.com/?q=Devils+Glen+Provincial+Park+Ontario)
+  - **Vespra Twp / Springwater area** (upper — wild brookies, MNR 2003 atlas pin) — [Map](https://maps.google.com/?q=44.4000,-79.9000)
+- Drive: 1h 20–30 min
+
+**If you want closest:** Boyne River at Earl Rowe PP (1h 10) — 2.27m at 6-d min, stable, FMZ 16 open. Pair with Innisfil Creek at Alliston (10 min) for a near-Toronto small-creek cluster.
 
 ### What to Expect
 
-This is peak spring drop-back conditions in North — every river at near-baseline + falling = post-spawn fish moving back to lake on clean water. Tactics: medium spinners (Mepps #2–3) for the drop-back hens; nymph rigs (stoneflies, eggs) on a 7–9wt for Beaver fishway pool; small Mepps #1–2 for resident browns/brookies on Boyne/Mad/Innisfil. With the 🌗 Last Quarter (~47% illum) the bite curve is standard — hit dawn patrol hard. **Saturday is the only fishable day before a 28mm Sun+Mon storm — don't miss it.**
+North is set up for tomorrow despite the rain. Beaver Thornbury fishway pool: drop-back rainbow + post-spawn hens still moving; nymph rigs (stoneflies, eggs) on 7–9wt fly rod, or float-fish roe bags / single eggs on centerpin. Beaver lower below Mill Pond: medium spinners (Mepps #2–3) for drop-back hens. Mad / Boyne / Innisfil: small water = small Mepps #1–2, light fluorocarbon (6–8lb), tan/olive woolly buggers for resident browns and stocked rainbow. Saturday's 7.9mm rain hits Toronto more than Bruce; if it does land in Beaver Valley, the limestone basin will only colour up briefly before clearing. With the 🌗 Last Quarter (49%) the bite curve is standard — hit dawn patrol hard. Bring a rain shell — morning fish-window will be wet but workable.
+
+**Better play if dates flex: Friday TODAY (May 8) is 0mm cloudy 15.4°C — the cleanest day this week.** If you can fish today instead of tomorrow, do it. Or shift to Sun May 10 / Mon May 11 / Tue May 12 — all 0mm dry, water dropping further.
+
+### Clear Water Fallbacks
+
+> [!tip] If Notty mainstem turns murky after Sat rain
+> | Stream | Drive | Clears in | Species | Access |
+> |--------|-------|-----------|---------|--------|
+> | Boyne Valley PP (Shelburne) | ~1h 10 min | 1–2 days | Brook trout | Upper Boyne headwaters; trail walk-in, dense bush; small tight water — [Map](https://maps.google.com/?q=Boyne+Valley+Provincial+Park+Shelburne+Ontario) |
+> | Hockley Valley Nature Reserve (Mono) | ~1h | 1–2 days | Brook trout | Notty headwaters; trail walk-in — [Map](https://maps.google.com/?q=Hockley+Valley+Provincial+Nature+Reserve+Ontario) |

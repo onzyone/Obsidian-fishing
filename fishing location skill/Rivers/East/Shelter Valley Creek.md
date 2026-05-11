@@ -44,3 +44,12 @@
 ## Links
 
 - [Ontario Trout & Steelhead — Rivers Near Toronto](https://ontariotroutandsteelhead.com/trout-fishing-near-toronto/)
+
+## Community Pins
+
+> Sourced 2026-05-07 from web research (Fish-Hawk forum, OTS, sheltervalleypark). **Virtually entire creek above mouth past Hwy 401 is private.** Pins below are the only non-trespass options.
+
+| Pin Name | Lat, Lon | Source | Confidence | Notes |
+|---|---|---|---|---|
+| Shelter Valley Creek mouth (walk in from town beach) | 43.9760, -77.9670 (approx) | https://www.fish-hawk.net/viewtopic.php?t=5648 ; https://ontariotroutandsteelhead.com/ontario-rivers/ | Multi-source / Approximate | Only fishable from shore by mouth — must park in town and walk the beach to creek mouth |
+| Shelter Valley Park & Camp Grounds (paid access) | 43.9920, -77.9580 (approx) | https://www.sheltervalleypark.com/recreation/ | Single-source / Approximate | Pay to access this creek at Shelter Valley Park — only legitimate above-mouth access |

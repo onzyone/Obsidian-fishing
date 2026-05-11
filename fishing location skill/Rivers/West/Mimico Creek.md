@@ -48,3 +48,13 @@
 - [Humber Bay Park fishing guide — Toronto Fishing Spots](https://torontofishing.net/humber-bay-park/)
 - [Mimico Creek — Fishbrain](https://fishbrain.com/fishing-waters/d1QjaTuz/mimico-creek)
 - [TRCA](https://trca.ca)
+
+## Community Pins
+
+> Sourced 2026-05-07 from web research (Toronto Fishing Spots, Wikipedia, OFF, AllTrails). **Mimico closes to fishing after Sept 30** (FMZ 16). Salmon/trout signal concentrates at Humber Bay mouth; upstream pins are creek-chub class water.
+
+| Pin Name | Lat, Lon | Source | Confidence | Notes |
+|---|---|---|---|---|
+| Humber Bay Park East (mouth — east side) | ~43.6234, -79.4781 (approx) | https://torontofishing.net/humber-bay-park/ ; Wikipedia Humber Bay Park ; OFF | Multi-source / Approximate | Most-cited Mimico spot. Large schools of brown trout, chinook, rainbow patrol shorelines near mouth at Humber Bay Park — east side. Big pike feed during April sucker run. Wheelchair pier + fly-casting pond |
+| Tom Riley (Thomas Riley) Park — Bloor St crossing | ~43.6499, -79.5343 (approx) | OFF "Mimico Creek" thread snippet ; https://www.alltrails.com/trail/canada/ontario/mimico-creek-trail-via-tom-riley-park | Single-source / Approximate | 3216 Bloor St W. Forum: Bloor St stretch is "gorgeous" fishing |
+| West Deane Park (Martin Grove + Rathburn) | ~43.6582, -79.5713 (approx) | OFF "Mimico Creek" snippet | Single-source / Approximate | West Deane Park, just north of Martin Grove and Rathburn — creek chub. Small fish only — upstream prospecting |

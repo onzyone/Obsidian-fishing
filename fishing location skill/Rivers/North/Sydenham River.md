@@ -45,3 +45,14 @@
 
 - [Ontario Fishing Regulations Summary](https://www.ontario.ca/document/ontario-fishing-regulations-summary)
 - [Grey Sauble Conservation Authority](https://greysauble.on.ca)
+
+## Community Pins
+
+> Sourced 2026-05-07 from web research (Owen Sound Tourism, Visit Grey, Owen Sound Hub, Hook Line and Sinker, Grey Sauble CA). **Fall sanctuary** Sept/Oct N of Mill Dam to Inglis Falls; above-dam closed until **June 1**.
+
+| Pin Name | Lat, Lon | Source | Confidence | Notes |
+|---|---|---|---|---|
+| Mill Dam & Fish Ladder (downtown Owen Sound) | ~44.5717, -80.9433 | https://www.owensoundtourism.ca/en/plan-your-visit/top-attractions/salmon-tour ; https://www.visitgrey.ca/business/owen-sound-mill-dam ; https://owensoundhub.org/life/522-come-watch-the-salmon-leap.html | Multi-source | First fish ladder in Ontario (1967); yellow posts mark sanctuary boundary |
+| Sydenham River Access #1 (401 5th Ave E, Owen Sound) | ~44.5611, -80.9389 | https://www.visitgrey.ca/business/sydenham-river-access-1 | Named GMaps place | Parking + trail access between Harrison Park and Mill Dam |
+| Harrison Park (Weaver's Creek confluence) | ~44.5556, -80.9389 | https://www.owensoundtourism.ca/en/plan-your-visit/top-attractions/salmon-tour ; https://hooklineandsinker.ca/migratory-the-sydenham-river-owen-sound-ontario/ | Multi-source | Lower limit of fish sanctuary; year-round fishable below |
+| Inglis Falls CA (upper barrier) | ~44.5275, -80.9442 | https://www.greysauble.on.ca/portfolio/inglis-falls-conservation-area/ ; https://www.visitgrey.ca/business/inglis-falls-conservation-area | Multi-source | 18m falls, blocks migratory fish; spawning bridge view; pay parking |

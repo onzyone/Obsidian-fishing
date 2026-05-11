@@ -54,7 +54,12 @@
       "Bash(rmdir /tmp/fishing-llm.lock)",
       "Bash(mount)",
       "Bash(diskutil list *)",
-      "Bash(bash -n /Users/onzyone/projects/onzyone/claude/fishing/__TRACKED_VAR__.sh)"
+      "Bash(bash -n /Users/onzyone/projects/onzyone/claude/fishing/__TRACKED_VAR__.sh)",
+      "Bash(grep -nA2 \"Area\" /Users/onzyone/projects/onzyone/claude/fishing/run-water-agent.sh)",
+      "Bash(awk '/^## Access/,/^## /' \"/Users/onzyone/Library/Mobile Documents/iCloud~md~obsidian/Documents/fishing/fishing location skill/Rivers/East/Wilmot Creek.md\")",
+      "Bash(cat)",
+      "Bash(awk '/^## Access Points/,/^## [A-Z]/' \"/Users/onzyone/Library/Mobile Documents/iCloud~md~obsidian/Documents/fishing/fishing location skill/Rivers/West/Etobicoke Creek.md\")",
+      "Bash(awk '/^## Access Points/,/^## [A-Z]/' \"/Users/onzyone/Library/Mobile Documents/iCloud~md~obsidian/Documents/fishing/fishing location skill/Rivers/West/16 Mile Creek.md\")"
     ]
   }
 }

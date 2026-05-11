@@ -67,3 +67,17 @@
 ## Links
 
 - [Atlas of Brook Trout Streams and Rivers in Ontario (MNR 2003)](https://docs.ontario.ca/documents/2646/264336.pdf)
+
+## Community Pins
+
+> Sourced 2026-05-07 from web research (torontofishing.net, OTS, whitevale.ca, ORTA). Multi-fork system; Greenwood CA + Whitevale Park are the community hubs.
+
+| Pin Name | Lat, Lon | Source | Confidence | Notes |
+|---|---|---|---|---|
+| Greenwood CA (off Westney Rd N) | 43.9145, -79.0270 (approx) | https://torontofishing.net/duffins-creek-greenwood-conservation-area/ ; https://ontariotroutandsteelhead.com/fishing-near-toronto/ | Multi-source / Approximate | Located on upper reaches off Westney Rd north of Taunton — primary upper anchor |
+| Whitevale Park / Seaton Trail trailhead | 43.9230, -79.1080 (approx) | https://whitevale.ca/fishing.html | Multi-source / Approximate | West Duffins runs through heart of Whitevale; Seaton Hiking Trail alongside |
+| Brock Rd / Hwy 2 No Frills parking | 43.8503, -79.0853 (approx) | https://www.oakridgestrail.org/trails/duffins-creek-brock-rd/ | Single-source / Approximate | Parking at No Frills near southeast corner of Brock and Hwy 2 |
+| Concession Rd 3 / Seaton Trail (West Duffins) | 43.9040, -79.0750 (approx) | https://ontariotroutandsteelhead.com/fishing-near-toronto/ | Single-source / Approximate | Pickering Dog Park + Seaton trail access off Concession 3 |
+| Devonside Park (East Duffins) | 43.9020, -79.0050 (approx) | https://ontariotroutandsteelhead.com/fishing-near-toronto/ | Single-source / Approximate | Try at Devonside Park on East Duffins |
+| Duffins Creek Marsh (mouth, Squires Beach side) | 43.8350, -79.0235 (approx) | https://fishingtoronto.ca/fishing-location/duffins-creek-marsh/ | Single-source / Approximate | Named Toronto fishing location for marsh/mouth complex |
+| Bayly St / CN tracks zone (extended-season reach) | 43.8430, -79.0250 (approx) | https://www.durhamradionews.com/archives/105428 | Single-source / Approximate | Hwy 2 down to most southerly CN tracks (~Bayly St in Ajax) — special extended fall trout season |

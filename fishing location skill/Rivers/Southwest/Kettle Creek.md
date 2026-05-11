@@ -55,3 +55,15 @@ Confirm specific sections in current regs before targeting trout.
 - [FMZ 16 regulations](https://www.ontario.ca/document/ontario-fishing-regulations-summary)
 
 *Last researched: March 2026*
+
+## Community Pins
+
+> Sourced 2026-05-07 from web research (Kettle Creek Inn, Clio, Big Time Travels, Discover Southern Ontario, Kettle Creek CA). **Port Stanley harbour densest fishing-named landmark cluster in Southwest.**
+
+| Pin Name | Lat, Lon | Source | Confidence | Notes |
+|---|---|---|---|---|
+| King George VI Lift Bridge / Glover Park (Port Stanley) | 42.6650, -81.2160 | https://kettlecreekinn.com/explore-port-stanley/ ; https://theclio.com/entry/125070 ; https://bigtimetravels.com/things-to-do-in-port-stanley-ontario/ | Multi-source | Lift bridge spans creek mouth; Glover Park beside — iconic in-town shore-fishing spot |
+| Port Stanley west pier (lighthouse end) | 42.6612, -81.2173 | https://www.discover-southern-ontario.com/port-stanley.html ; https://bigtimetravels.com/things-to-do-in-port-stanley-ontario/ | Multi-source | Walk to end of pier or fish; perch + walleye dominant |
+| Port Stanley east pier (Main Beach side) | 42.6617, -81.2148 | https://bigtimetravels.com/things-to-do-in-port-stanley-ontario/ | Single-source / Approximate | East side of Main Beach has its own pier |
+| Little Beach berms (between mouth & main beach) | 42.6635, -81.2105 | https://kettlecreekinn.com/explore-port-stanley/ | Single-source / Approximate | From the berms near Little Beach you can check out some of the Southern Ontario fishing |
+| Dalewood CA / Reservoir (St. Thomas) | 42.7960, -81.2410 | https://www.kettlecreekconservation.on.ca/event/learn-to-fish-at-dalewood-conservation-area/ ; https://ontarioconservationareas.ca/conservation-areas/dalewood/ | Multi-source / Approximate | Fishing platforms, watercraft rentals, "Learn to Fish" program. **Reservoir not creek mainstem** |

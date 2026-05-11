@@ -49,3 +49,16 @@
 ## Links
 
 - [Atlas of Brook Trout Streams and Rivers in Ontario (MNR 2003)](https://docs.ontario.ca/documents/2646/264336.pdf)
+
+## Community Pins
+
+> Sourced 2026-05-07 from web research (Discover Clearview, NVCA, A Perfect Drift, Escarpment Biosphere, Ontario Parks).
+
+| Pin Name | Lat, Lon | Source | Confidence | Notes |
+|---|---|---|---|---|
+| Carruthers Memorial CA / Park (Avening) | ~44.3208, -80.0214 (Airport Rd south of Avening) | https://www.discoverclearview.ca/parks-trails-facilities/parks ; https://torontoareaoutings.com/carruthers/ ; https://creemore.com/2024/08/16/bank-stabilization-work-continues-at-carruthers-memorial-park/ | Multi-source | Donated land; fishing the Mad River, hiking, picnicking; recent habitat boulder placements |
+| Creemore park at Mill St & George St | ~44.3258, -80.1083 | https://www.discoverclearview.ca/parks-trails-facilities/parks | Named GMaps place | Tiny Mad River park built 2022; in-town walk-in access |
+| Creemore park near Airport Rd | ~44.3267, -80.0950 (approx) | https://aperfectdrift.com/fishing-the-mad-river/ | Single-source / Approximate | Park in Creemore near Airport Rd for access |
+| Glencairn CA | ~44.2858, -80.0214 | https://www.nvca.on.ca/conservation-areas/glencairn/ ; https://ontarioconservationareas.ca/conservation-areas/glencairn/ | Multi-source | Fishing + paddling; trail follows river east to Concession Rd 3 |
+| Stephens Mad River Nature Reserve | ~44.2858, -80.0150 (approx) | https://escarpment.ca/see-our-preserves/nottawasaga-valley/stephens-mad-river | Single-source / Approximate | 111-acre EBC reserve, brook trout habitat; trail from Glencairn CA parking |
+| Devil's Glen PP (Mad River gorge, Singhampton) | ~44.3756, -80.1228 | https://www.ontarioparks.ca/park/devilsglen ; https://www.ontario.ca/page/devils-glen-provincial-park-management-plan | Multi-source | Foot access only; Mad River incised gorge; quality coldwater fishery per management plan |

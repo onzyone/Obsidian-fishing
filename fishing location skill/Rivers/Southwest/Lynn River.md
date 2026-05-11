@@ -54,3 +54,13 @@ Catch limit: S-5, C-2 (standard FMZ 16); drops to S-1, C-0 Oct–Dec outside exp
 - [FMZ 16 regulations](https://www.ontario.ca/document/ontario-fishing-regulations-summary)
 
 *Last researched: March 2026*
+
+## Community Pins
+
+> Sourced 2026-05-07 from web research (Port Dover Waterfront, change.org, Port Dover Lions, Wikipedia). **Misner Dam confirmed by anti-fishing petition** about illegal fishing within 75ft — heavy community pressure.
+
+| Pin Name | Lat, Lon | Source | Confidence | Notes |
+|---|---|---|---|---|
+| Misner Dam / pony truss bridge (Port Dover) | 42.7872, -80.2055 | https://portdoverwaterfront.ca/initiatives/misner-dam-pony-truss-bridge/ ; https://www.change.org/p/ontario-ministry-of-natural-resources-stop-the-illegal-fishing-within-75-feet-at-the-base-of-the-misner-dam-in-port-dover | Multi-source | Generations took kids to fish from pony truss bridge; dam blocks migratory rainbow run. **Illegal within 22.9m (75ft) of dam — fish below that line.** Petition itself proves heavy pressure |
+| Silver Lake (impoundment above Misner Dam) | 42.7900, -80.2085 | https://portdoverlions.ca/silver-lake/ | Single-source / Approximate | Sunfish, largemouth, silver/white bass, carp. Warmwater pond — not steelhead |
+| Port Dover harbour / Lynn River mouth (Riverfront Park, pier) | 42.7820, -80.2010 | https://portdoverwaterfront.ca/initiatives/lighthouse-trail/ ; Wikipedia Lynn River | Multi-source / Approximate | Riverfront Park + Port Dover pier — mouth into Lake Erie |

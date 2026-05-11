@@ -127,3 +127,13 @@ Canoe/kayak from Rowan Mills CA or Port Rowan boat launch is the best way to rea
 - [LPRCA Conservation Areas](https://www.lprca.on.ca/outdoor-recreation/conservation-areas/)
 
 *Last researched: March 2026*
+
+## Community Pins
+
+> Sourced 2026-05-07 from web research (Wikipedia, Ontario FMZ 16, Kayak Ontario, Canada.ca NWA). Most named features are sanctuary boundaries or marsh access. **Sanctuary Teeterville → Quance closed Jan 1–4th Sat April + Oct 1–Dec 31.**
+
+| Pin Name | Lat, Lon | Source | Confidence | Notes |
+|---|---|---|---|---|
+| Quance Dam (Delhi) | 42.8521, -80.5012 | Wikipedia Big Creek (Lake Erie); Ontario FMZ 16 regs | Single-source / Approximate | Sanctuary boundary — Teeterville → Quance closed Jan 1–4th Sat April + Oct 1–Dec 31. Below Quance opens earlier |
+| Teeterville Dam (Walsingham Twp upper boundary) | 42.9460, -80.5345 | Wikipedia Big Creek (Lake Erie); Ontario FMZ 16 | Approximate | Upper sanctuary boundary; brown / rainbow per fishbrain |
+| Big Creek mouth / Big Creek NWA marsh (Long Point causeway, Port Rowan) | 42.6075, -80.4595 | https://kayak-ontario.com/big-creek-national-wildlife-area-port-rowan/ ; https://www.canada.ca/en/environment-climate-change/services/national-wildlife-areas/locations/big-creek.html | Multi-source / Approximate | Pike, walleye, pickerel; warmwater marsh. Most NWA restricted; causeway/Hwy 59 shoulder is angler access |

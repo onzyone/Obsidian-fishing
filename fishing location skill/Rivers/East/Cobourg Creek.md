@@ -59,3 +59,14 @@
 ## Links
 
 - [Cobourg Tourism / Fishing Info](https://www.cobourg.ca)
+
+## Community Pins
+
+> Sourced 2026-05-07 from web research (Great Lakes Guide, fishbrain, ExperienceCobourg, todaysnorthumberland). Aka Cobourg Brook.
+
+| Pin Name | Lat, Lon | Source | Confidence | Notes |
+|---|---|---|---|---|
+| Cobourg Harbour / mouth | 43.9558, -78.1680 (approx) | https://fishbrain.com/fishing-waters/pX8rnuGH/cobourg-harbour ; https://todaysnorthumberland.ca/2018/02/24/fishing-along-cobourg-creek/ | Multi-source / Approximate | Mouth/harbour entrance; fishbrain water page well-checked-in |
+| Cobourg CA — Elgin St parking by bridge | 43.9740, -78.1750 (approx) | https://greatlakes.guide/parks/cobourg ; https://www.experiencecobourg.ca/explore-and-play/outdoor-attractions/fishing/ | Multi-source / Approximate | Park split into two by Cobourg Creek; parking on Elgin St near bridge |
+| William St access | 43.9695, -78.1690 (approx) | https://greatlakes.guide/parks/cobourg | Single-source / Approximate | Accessible on William St — brown trout, rainbow, salmon |
+| Peace Park access | 43.9690, -78.1710 (approx) | https://greatlakes.guide/parks/cobourg | Single-source / Approximate | Listed alongside William St as conservation area access |

@@ -77,3 +77,14 @@ Park address: **1219 Burloak Drive, Oakville** (QEW Exit 109, go north 1 km). Da
 - [Bronte Creek Provincial Park — Fishing Info](https://www.brontecreek.org/BCPP_Friends/the-park/facilities/fishing)
 - [Ontario Fishing Forums — Bronte Creek thread](https://www.ontariofishingforums.com/threads/bronte-creek-oakville.12673/)
 - [Steelhead Fishing in Bronte Creek (Kapatan, Jan 2024)](https://fishing.kapatan.com/steelhead-fishing-in-bronte-creek/)
+
+## Community Pins
+
+> Sourced 2026-05-07 from web research (BCPP Friends, wanderlog, fishbrain, Visit Oakville). **Petro Canada Park has its own Fishbrain entry as a named place** — closest community-pinned analog in the West zone.
+
+| Pin Name | Lat, Lon | Source | Confidence | Notes |
+|---|---|---|---|---|
+| Petro Canada Park (388 Bronte Rd) | 43.395, -79.7367 | https://www.brontecreek.org/BCPP_Friends/the-park/facilities/fishing ; https://wanderlog.com/place/details/11433249/petro-canada-park ; https://fishbrain.com/fishing-waters/sM5WFniU/petro-canada-park | Named GMaps place (multi-source) | Fishbrain has dedicated entry — pinned community fishing place. Walkable creek-side path with salmon viewing in fall |
+| BCPP Parking Lot A → Tyrrell B fisherman's path | ~43.408, -79.737 (approx) | https://www.brontecreek.org/BCPP_Friends/the-park/facilities/fishing | Single-source / Approximate | Park-published: walk toward Tyrrell B picnic shelter, look in tall grass behind shelter for fisherman's path that switchbacks to creek (~1.5km). Entry: 1219 Burloak Drive |
+| BCPP Parking Lot F → Half Moon Valley Trail | ~43.420, -79.730 (approx) | https://www.brontecreek.org/BCPP_Friends/the-park/facilities/fishing | Single-source / Approximate | Half Moon Valley Trail. Walk keeping right; in lower valley keep left — creek 100m in front (~2km). **Lot F closes in winter** |
+| Bronte Heritage Waterfront Park / west pier (mouth) | 43.395990, -79.704578 | https://www.oakville.ca/parks-recreation-culture/parks-gardens-trails/harbours/ ; https://visitoakville.com/locations/bronte-heritage-waterfront-park-2/ | Multi-source | Both sides of west pier accessible. Fishing permitted Oct 15 – May 15. 2340 Ontario St, Oakville |

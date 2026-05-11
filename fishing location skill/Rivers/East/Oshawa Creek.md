@@ -55,3 +55,17 @@
 ## Links
 
 - [Clarington / Durham Fishing Info](https://www.clarington.net/en/recreation-and-tourism/Fishing.aspx)
+
+## Community Pins
+
+> Sourced 2026-05-07 from web research (waterfronttrail, BlackOutdoors, todocanada, ontariotrails). **Richest community signal of the East zone** — Joseph Kolodzie Trail strings together 5+ named parks along the creek.
+
+| Pin Name | Lat, Lon | Source | Confidence | Notes |
+|---|---|---|---|---|
+| Lakeview Park (mouth, Joseph Kolodzie Trail jct) | 43.8688, -78.8530 (approx) | https://waterfronttrail.org/places/communities/oshawa/ | Multi-source / Approximate | Joseph Kolodzie Oshawa Creek Trail intersects Waterfront Trail — primary mouth access |
+| Stone Street Park (lower creek) | 43.8702, -78.8580 (approx) | https://www.oshawa.ca/explore-play/parks-and-trails/ | Single-source / Approximate | Along Waterfront Trail near creek mouth, accessible standards trail |
+| Children's Arena trailhead (155 Arena St) | 43.8910, -78.8625 | https://www.todocanada.ca/see-salmon-run-greater-toronto-area/ | Single-source | Good starting point for following the creek for salmon run viewing |
+| City Hall bridge (downtown Oshawa) | 43.8975, -78.8628 (approx) | https://blackoutdoors.wordpress.com/2019/09/20/the-salmon-run-in-oshawa-creek/ | Single-source / Approximate | Bridge at the back of City Hall downtown — named viewing/spawning spot |
+| Oshawa Valley Botanical Gardens (downtown vantage) | 43.9030, -78.8645 (approx) | https://www.todocanada.ca/see-salmon-run-greater-toronto-area/ ; https://blackoutdoors.wordpress.com/2019/09/20/the-salmon-run-in-oshawa-creek/ | Multi-source / Approximate | Vantage point along Oshawa Creek for viewing the salmon migration |
+| Storie Park | 43.9080, -78.8700 (approx) | https://www.ontariotrails.on.ca/trail/oshawa-creek-trail | Single-source / Approximate | Mid-creek park on the Joseph Kolodzie Trail string |
+| Rotary Park (Oshawa) | 43.9120, -78.8730 (approx) | https://discoverhistoricoshawa.com/listings/rotary-park/ | Single-source / Approximate | Mid-creek park with creek access |

@@ -50,3 +50,9 @@
 - [Ontario Fish ON-Line — Innisfil Creek](https://www.lioapplications.lrc.gov.on.ca/fishonline/)
 - [Ontario Fishing Regulations Summary (FMZ 16)](https://www.ontario.ca/document/ontario-fishing-regulations-summary)
 - [NVCA Watershed Info](https://nvca.on.ca)
+
+## Community Pins
+
+> Sourced 2026-05-07 — **No community pins found.** Only 1 logged catch on Fishbrain (Chinook); no named bridge/park spots in any community signal. Warmwater-leaning. Only canonical Access Points apply.
+
+Sources checked: https://fishbrain.com/fishing-waters/0jLq1VOX/innisfil-creek ; https://www.anglersatlas.com/place/842421/innisfil-creek

@@ -55,3 +55,15 @@ Limit: S-5, C-2 standard; S-1, C-0 Oct–Dec on non-extended sections.
 - [FMZ 16 regulations](https://www.ontario.ca/document/ontario-fishing-regulations-summary)
 
 *Last researched: March 2026*
+
+## Community Pins
+
+> Sourced 2026-05-07 from web research (Heart FM, swontariobridges, myccr, Ontario Parks). **Sanctuary Black's Dam → Oxford St** — closed seasonally for Lake Erie rainbow spawning.
+
+| Pin Name | Lat, Lon | Source | Confidence | Notes |
+|---|---|---|---|---|
+| Black's Dam (Tillsonburg — sanctuary upper boundary) | 42.8682, -80.7263 | https://www.heartfm.ca/news/local-news/fish-sanctuary-in-tillsonburg/ ; Ontario FMZ 16 | Multi-source / Approximate | Sanctuary Black's Dam → Oxford St — closed seasonally for Lake Erie rainbow spawning. Below sanctuary = legal steelhead stretch |
+| Oxford Street bridge (Tillsonburg — sanctuary lower boundary) | 42.8625, -80.7298 | https://www.heartfm.ca/news/local-news/fish-sanctuary-in-tillsonburg/ | Approximate | Boundary — fish at/below the bridge |
+| Hwy 3 Big Otter Creek Bridge (Tillsonburg) | 42.8540, -80.7340 | https://swontariobridges.ca/big-otter-creek-bridge | Approximate | Major Hwy 3 crossing — generic bridge access |
+| Vienna take-out under bridge | 42.6692, -80.7945 | https://www.myccr.com/canoeroutes/big-otter-creek | Single-source / Approximate | Paddler take-out — natural angler access |
+| Port Burwell harbour / mouth | 42.6491, -80.8125 | https://www.ontarioparks.ca/park/portburwell/activities ; Wikipedia Big Otter Creek | Multi-source / Approximate | Boat launch + dock near park. Limited fishing along Big Otter as it enters lake — Lake Erie boat fishing better |

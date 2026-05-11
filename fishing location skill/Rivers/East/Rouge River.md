@@ -48,3 +48,16 @@
 ## Links
 
 - [Atlas of Brook Trout Streams and Rivers in Ontario (MNR 2003)](https://docs.ontario.ca/documents/2646/264336.pdf)
+
+## Community Pins
+
+> Sourced 2026-05-07 from web research (BlogTO, Parks Canada, OFF, torontofishing.net, hikingthegta). Mouth-to-Milne corridor well documented.
+
+| Pin Name | Lat, Lon | Source | Confidence | Notes |
+|---|---|---|---|---|
+| Rouge Beach pedestrian bridge (mouth) | 43.7960, -79.1380 (approx) | https://www.blogto.com/city/2021/05/rouge-beach-toronto/ ; https://parks.canada.ca/pn-np/on/rouge/visit/directions/beach | Multi-source / Approximate | Popular casting spot underneath the pedestrian bridge — narrower channel where Lake Ontario feeds the Rouge |
+| Rouge River @ end of Lawrence Ave / Rouge Hills Dr | 43.7975, -79.1430 (approx) | https://www.ontariofishingforums.com/forum/topic/13152-rouge-river/ ; https://torontofishing.net/rouge-river-mouth/ | Multi-source / Approximate | Most direct access via Rouge Park, eastern end of Lawrence Ave at Rouge Hills Dr — great for learners |
+| Glen Rouge Campground (north of Kingston Rd) | 43.8060, -79.1535 (approx) | https://torontofishing.net/rouge-river-upstream/ | Single-source / Approximate | Toronto's only camping spot north side of Kingston Rd — adjacent river access |
+| Twyn Rivers Day Use Area (Little Rouge confluence) | 43.8190, -79.1700 (approx) | https://parks.canada.ca/pn-np/on/rouge/visit/directions/twyn | Multi-source / Approximate | Nestled along Little Rouge Creek — fish, take photos |
+| Milne Dam Conservation Park (off Hwy 7 at Milne Lane) | 43.8745, -79.2810 (approx) | https://www.ontariofishingforums.com/forum/topic/10427-milne-dam-markham/ ; https://hikingthegta.com/2015/07/15/milne-dam-conservation-area/ | Multi-source / Approximate | Open until New Year's Day, from Lake Ontario to Hwy 407; below dam = trout, bass, carp pools |
+| Milne fishway | 43.8740, -79.2800 (approx) | https://hikingthegta.com/2015/07/15/milne-dam-conservation-area/ | Single-source / Approximate | Constructed 2001, opened 2005; opened another 45km of Rouge to migration — drop-back staging below |

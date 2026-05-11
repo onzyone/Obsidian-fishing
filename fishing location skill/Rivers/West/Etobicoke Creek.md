@@ -45,3 +45,12 @@
 
 - [Ontario Fishing Regulations Summary](https://www.ontario.ca/document/ontario-fishing-regulations-summary)
 - [TRCA — Etobicoke Creek Watershed](https://trca.ca)
+
+## Community Pins
+
+> Sourced 2026-05-07 from web research (Fishing Toronto, Toronto Fishing Spots, OFC). Forum consensus: extremely shallow away from mouth — only mouth-area is fishable.
+
+| Pin Name | Lat, Lon | Source | Confidence | Notes |
+|---|---|---|---|---|
+| Marie Curtis Park East Beach (mouth + piers) | 43.587838, -79.542629 | https://fishingtoronto.ca/fishing-location/marie-curtis-park/ ; https://torontofishing.net/marie-curtis-park/ | Multi-source | Casting spoons or spinners into Lake Ontario from piers at the mouth — productive for rainbow, brown, occasional lake trout, March – mid-May. Salmon viewing fall, trout spring |
+| Etobicoke Creek mouth — first bridge area | ~43.5895, -79.5430 (approx) | https://ontariofishingcommunity.com/topic/70729-etobicoke-creek/ | Single-source / Approximate | Forum: sunfish from mouth to first bridge. Pin = Lakeshore Blvd bridge over creek, just upstream of Marie Curtis |

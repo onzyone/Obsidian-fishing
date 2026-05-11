@@ -53,3 +53,12 @@
 ## Links
 
 - [Atlas of Brook Trout Streams and Rivers in Ontario (MNR 2003)](https://docs.ontario.ca/documents/2646/264336.pdf)
+
+## Community Pins
+
+> Sourced 2026-05-07 from web research (thefishinguide, OFF, ontarionaturetrails). Most of Wilmot above CN tracks is private (Wilmot Club). Effectively only the lower mouth is public.
+
+| Pin Name | Lat, Lon | Source | Confidence | Notes |
+|---|---|---|---|---|
+| Steel pedestrian bridge over Wilmot (Waterfront Trail) | 43.9060, -78.5955 (approx) | https://2oldguyswalking.wordpress.com/2016/11/09/samuel-wilmot-nature-area-review/ | Single-source / Approximate | Steel bridge where plenty of fish can be seen in season |
+| Wilmot Creek mouth — south of CN tracks (only legal public access) | 43.9050, -78.5960 (approx) | https://www.thefishinguide.com/wilmot-creek-fishing.php ; https://www.ontariofishingforums.com/forum/topic/16511-wilmot-creek/ | Multi-source / Approximate | Year-round south of Railroad tracks. Small parking lot; both sides fishable |

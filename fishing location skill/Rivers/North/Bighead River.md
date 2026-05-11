@@ -42,3 +42,16 @@
 
 - [Ontario Fishing Regulations Summary](https://www.ontario.ca/document/ontario-fishing-regulations-summary)
 - [Grey Sauble Conservation Authority](https://greysauble.on.ca)
+
+## Community Pins
+
+> Sourced 2026-05-07 from web research (A Perfect Drift, Hook Line and Sinker, Visit Grey, Beautiful Joe Heritage Society, Trout Hollow). **Richest community signal of the North zone.** "Legion Hole" below Edwin St bridge is the flagship pin — the closest equivalent to Bowmanville's "313 fishing spot" anywhere in this research run.
+
+| Pin Name | Lat, Lon | Source | Confidence | Notes |
+|---|---|---|---|---|
+| **Legion Hole** — below Edwin St bridge | ~44.6133, -80.5919 | https://aperfectdrift.com/fishing-the-bighead-river/ ; https://hooklineandsinker.ca/migratory-the-bighead-river-meaford/ | Multi-source | Always occupied by anglers when fish are in — flagship community pin |
+| Beautiful Joe Park (162 Edwin St W, Meaford) | ~44.6122, -80.5908 | https://www.visitgrey.ca/business/beautiful-joe-park ; https://beautifuljoe.org/beautiful-joe-park/ | Named GMaps place | 8.5 acres on Bighead; salmon/trout/smallmouth; trail access; parking |
+| Bakeshop Bridge / Trowbridge St Bridge area (mouth/harbour) | ~44.6164, -80.5869 | https://www.meaford.ca/en/business-development/trowbridge-street-bridge.aspx ; https://trouthollow.ca/ | Multi-source | Trout Hollow Trail from Bakeshop Bridge to Riverside CC; Trowbridge bridge = lower harbour crossing |
+| Trout Hollow Trail — Green Trail east-side (end of Muir St) | ~44.6042, -80.5839 (approx) | https://trouthollow.ca/ ; https://www.greysauble.on.ca/portfolio/trout-hollow-bighead-river/ | Multi-source / Approximate | Green Trail east-side access from end of Muir St |
+| Trout Hollow — Yellow Trail west-side (end of 13th Sideroad) | ~44.5961, -80.6056 (approx) | https://www.visitgrey.ca/business/trout-hollow-trail | Single-source / Approximate | West side access; passes ruins of Trout Sawmill |
+| Riverside Community Centre (7th Line, upper Trout Hollow) | ~44.5856, -80.5992 (approx) | https://trouthollow.ca/ | Approximate | Upper terminus of 14km Trout Hollow Trail |

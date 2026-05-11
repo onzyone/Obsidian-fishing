@@ -48,3 +48,11 @@
 - [Lakefront Promenade — Toronto Fishing Spots](https://torontofishing.net/lakefront-promenade-park/)
 - [Cooksville Creek — Wikipedia](https://en.wikipedia.org/wiki/Cooksville_Creek)
 - [Credit Valley Conservation](https://creditvalleyca.ca)
+
+## Community Pins
+
+> Sourced 2026-05-07 from web research (Mississauga, Wikipedia, fishbrain). Heavily channelized urban stormwater creek — **mouth is the only meaningful fishing pin**.
+
+| Pin Name | Lat, Lon | Source | Confidence | Notes |
+|---|---|---|---|---|
+| R.K. McMillan Park (mouth — Lakefront Promenade) | 43.5642, -79.5634 | https://www.mississauga.ca/events-and-attractions/parks/r-k-mcmillan-park/ ; Wikipedia Cooksville Creek ; https://fishbrain.com/fishing-waters/IYkkz_AR/cooksville-creek | Multi-source | 830 Aviation Rd. Cooksville flows south to Lake Ontario at R.K. McMillan Park near Lakeshore Rd and Cawthra Rd. Carp, smallmouth, chinook |

@@ -56,3 +56,13 @@ Note: Bradleys Creek, a tributary of Catfish Creek, has a documented fish sanctu
 - [FMZ 16 regulations](https://www.ontario.ca/document/ontario-fishing-regulations-summary)
 
 *Last researched: March 2026*
+
+## Community Pins
+
+> Sourced 2026-05-07 from web research (Catfish Creek CA, Aylmer Express, Settlement Stories, Elgin Tourist).
+
+| Pin Name | Lat, Lon | Source | Confidence | Notes |
+|---|---|---|---|---|
+| Springwater CA / Springwater Pond (stocked trout) | 42.7235, -80.9970 | https://www.catfishcreek.ca/conservation-areas/springwater-forest/ ; https://www.catfishcreek.ca/events/trout-fishing/ ; http://aylmerexpress.com/2016/04/stocking-trout-at-springwater-pond/ | Multi-source | Annually stocked rainbow + tagged brown; novice-friendly; annual derby. **Pond, not creek mainstem** — but the community fishing pin |
+| Yarmouth Natural Heritage Area / Herb Kebbel Wetland (Sparta Line) | 42.7350, -81.0370 | https://www.catfishcreek.ca/conservation-areas/yarmouth-natural-heritage-area/ ; https://everywhereontario.com/catfish-creek-conservation-authority-yarmouth-natural-heritage-area/ | Multi-source | Great fishing and kayaking — willing to make ½km portage from parking to pond; trails along Catfish Creek |
+| Port Bruce pier (mouth into Lake Erie) | 42.6512, -81.0107 | https://settlementstoriesquilttrail.org/crossedcanoes ; https://www.elgintourist.com/portbruce ; https://www.hookandbullet.com/fishing-catfish-creek-newbury-on/ | Multi-source | Pier constantly populated by fishermen; perch, walleye, smelt, bass, occasional steelhead |

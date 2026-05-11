@@ -48,3 +48,12 @@
 ## Links
 
 - [Atlas of Brook Trout Streams and Rivers in Ontario (MNR 2003)](https://docs.ontario.ca/documents/2646/264336.pdf)
+
+## Community Pins
+
+> Sourced 2026-05-07 from web research (Ontario Parks, Wandering Canadians, A Perfect Drift). Tight, hike-in only; **C&R strongly encouraged** by EBC/locals.
+
+| Pin Name | Lat, Lon | Source | Confidence | Notes |
+|---|---|---|---|---|
+| Noisy River PP / Nature Reserve (Bruce Trail access) | ~44.3725, -80.1500 (approx — off Cty Rd 124 east of Singhampton) | https://www.ontario.ca/page/noisy-river-provincial-park-management-statement ; https://www.ontarioparks.ca/park/noisyriver ; https://wanderingcanadians.com/2020/03/16/hike-10-noisy-river-provincial-park/ | Multi-source / Approximate | Foot access via Bruce Trail; bit of a hike to get in; brook trout above Lavender Falls, migratory below |
+| Lavender Falls (natural barrier) | ~44.3056, -80.1361 (approx) | https://aperfectdrift.com/fishing-the-mad-river/ ; https://www.ontario.ca/page/noisy-river-provincial-park-management-statement | Multi-source / Approximate | Splits resident brook trout (above) from migratory rainbow (below) |
